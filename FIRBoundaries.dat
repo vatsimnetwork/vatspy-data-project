@@ -1,5 +1,3 @@
-;ICAO|IsOceanic|IsExtension|PointCount|MinLat|MinLon|MaxLat|MaxLon|CenterLat|CenterLon
-;Lat|Lon - One per line. As many as PointCount indicates.
 AGGG|0|0|12|-14.000000|155.000000|-4.833333|166.875000|-9.416667|160.937500
 -4.833333|159.000000
 -4.833333|160.000000

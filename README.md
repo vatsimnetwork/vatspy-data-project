@@ -16,6 +16,13 @@ Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership 
 
 <br>
 
+# FIRBoundaries.dat
+
+```ICAO|IsOceanic|IsExtension|PointCount|MinLat|MinLon|MaxLat|MaxLon|CenterLat|CenterLon```
+``Lat|Lon`` - One per line. As many as PointCount indicates.
+
+<br>
+
 # Data Installation
 
 1) Start Menu

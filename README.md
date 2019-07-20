@@ -16,6 +16,15 @@ Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership 
 
 <br>
 
+# FIRBoundaries.dat
+
+New Airspace: ```ICAO|IsOceanic|IsExtension|PointCount|MinLat|MinLon|MaxLat|MaxLon|CenterLat|CenterLon```
+
+Airspace Points (One per line; as many as ``PointCount`` indicates):
+```Lat|Lon```
+
+<br>
+
 # Data Installation
 
 1) Start Menu

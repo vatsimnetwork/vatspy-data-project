@@ -12,7 +12,7 @@ We have chosen GitHub to be the core of this project so far, as it allows for co
 
 # How Do I Verify My Account To Submit Updates?
 
-Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership send an email from your/their staff Region, Division, or FIR/ARTCC linked e-mail account with your GitHub username.
+Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership send an email from your/their staff Region, Division, or FIR/ARTCC linked e-mail account with your GitHub username to a.long (at) vatsim.net. Only authorized users from eacg Region, Division, or FIR/ARTCC will be permitted to submit updates.
 
 <br>
 
@@ -38,5 +38,11 @@ Airspace Points (One per line; as many as ``PointCount`` indicates):
 
 # Who's on the VAT-Spy Client Data Update Project Team?
 
-Ross Carlson - Developer, VAT-Spy<br />
 Alex Long - Data Management Team & Developer of VAT-Spy Client Data Update Project<br />
+
+
+<br>
+
+# Credits
+
+Ross Carlson - Developer, VAT-Spy<br />

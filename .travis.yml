@@ -1,0 +1,16 @@
+os: windows
+language: bash
+
+script:
+  - wget -q https://github.com/wixtoolset/wix3/releases/download/wix3112rtm/wix311-binaries.zip
+  - unzip wix311-binaries.zip
+  - ./candle.exe ./win-installer.wxs
+  - ./light.exe -sval ./win-installer.wixobj
+
+deploy:
+  provider: releases
+  api_key: "$GH_TOKEN"
+  file: "win-installer.msi"
+  skip_cleanup: true
+  on:
+    tags: true

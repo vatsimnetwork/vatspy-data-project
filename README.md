@@ -39,6 +39,7 @@ Airspace Points (One per line; as many as ``PointCount`` indicates):
 # Who's on the VAT-Spy Client Data Update Project Team?
 
 Alex Long - Data Management Team & Developer of VAT-Spy Client Data Update Project<br />
+Néstor Pérez - Data Management Team & Developer of VAT-Spy Client Data Update Project<br />
 
 
 <br>

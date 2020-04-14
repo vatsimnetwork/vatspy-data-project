@@ -5168,7 +5168,12 @@ GUOK|Boke|10.933060|-14.316390||GLRB|0
 GUSI|Siguiri|11.433060|-9.166390||GLRB|0
 GUXD|Kankan|10.450000|-9.233333||GLRB|0
 GVAC|Sal|16.741389|-22.949444||GVSC|0
+GVBA|Boa Vista|16.1375|-22.8894||GVSC|0
+GVMA|Maio|15.156111|-23.213611||GVSC|0
 GVNP|Praia|14.9242|-23.4939||GVSC|0
+GVSF|Fogo|14.885278|-24.480278||GVSC|0
+GVSN|Sao Nicolau|16.588333|-24.284167||GVSC|0
+GVSV|Sao Vicente|16.8331|-25.0569||GVSC|0
 HAAB|Addis Ababa|8.978625|38.798342||HAAA|0
 HAAG|Agordat|15.550000|37.883060||HHAA|0
 HAAM|Arba Minch|6.066670|37.666390||HAAA|0
@@ -10672,8 +10677,7 @@ ADR-E|Adria Radar (East)|ADR_E|ADR-E
 AGGG|Honiara||AGGG
 ANAU|Nauru||ANAU
 AYPM|Port Moresby||AYPM
-BGGL|Sondrestrom|SFJ|BGGL
-BGG1|Sondre Stromfjord|GREN|BGGL
+BGGL|Nuuk||BGGL
 BIRD|Reykjavik||BIRD
 BIRD-E|Reykjavik ACC (East) - Reykjavik|BIRD_E|BIRD-E
 BIRD-N|Reykjavik ACC (North) - Reykjavik|BIRD_N|BIRD-N
@@ -10759,12 +10763,17 @@ EGG4|Shanwick Oceanic Clearance Delivery|SR-D|EGGX
 EGG4|Shanwick Oceanic Clearance Delivery|SHW-D|EGGX
 EGG4|Shanwick Oceanic Clearance Delivery|SHAN-D|EGGX
 EGPX|Scottish|SCO|EGPX
+EGPX-D|Scottish ACC (Dean Cross) - Scottish|SCO_D|EGPX-D
+EGPX-D|Scottish ACC (Dean Cross) - Scottish|STC|EGPX-D
+EGPX-D|Scottish ACC (Dean Cross) - Scottish|STC_W|EGPX-D
+EGPX-D|Scottish ACC (Dean Cross) - Scottish|STC_E|EGPX-D
 EGPX-E|Scottish ACC (East) - Scottish|SCO_E|EGPX-E
+EGPX-E|Scottish ACC (East) - Scottish|SCO_N|EGPX-E
+EGPX-E|Scottish ACC (East) - Scottish|SCO_S|EGPX-E
 EGPX-WD|Scottish ACC (West Coast) - Scottish|SCO_WD|EGPX-WD
 EGPX-WD|Scottish ACC (West Coast) - Scottish|SCO_W|EGPX-WD
 EGPX-WD|Scottish ACC (West Coast) - Scottish|SCO_D|EGPX-WD
 EGPX-WD|Scottish ACC (West Coast) - Scottish|SCO_R|EGPX-WD
-EGPX-WD|Scottish ACC (West Coast) - Scottish|STC|EGPX-WD
 EGPX-WD|Scottish ACC (West Coast) - Scottish|STC_A|EGPX-WD
 EGTT|London|LON|EGTT
 EGTT-C|London ACC (Central) - London|LON_C|EGTT-C

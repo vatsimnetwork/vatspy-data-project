@@ -27,12 +27,9 @@ Airspace Points (One per line; as many as ``PointCount`` indicates):
 
 # Data Installation
 
-1) Start Menu
-2) Type in search "Run" or Navigate to "Start" -> "Accessories" -> "Run"
-3) Execute "Run"
-4) Type In: %AppData%/VAT-Spy & Press Enter
-5) Copy the VAT-Spy Data files from the package & paste both files in the VAT-Spy folder
-6) When prompted to overwrite, select "Yes". If you'd like to maintain a backup of your old files, please create another folder and move the files to this folder prior to copying the new data files.
+1) Extract the downloaded zip file
+2) Find the file "install.bat" and execute, the required files will be copied to the target location
+3) You may now delete the extracted files and the zip file
 
 <br>
 

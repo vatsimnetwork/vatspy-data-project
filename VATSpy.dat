@@ -17612,6 +17612,7 @@ EGPX-WD|Scottish ACC (West Coast) - Scottish|SCO_W|EGPX-WD
 EGPX-WD|Scottish ACC (West Coast) - Scottish|SCO_D|EGPX-WD
 EGPX-WD|Scottish ACC (West Coast) - Scottish|SCO_R|EGPX-WD
 EGPX-WD|Scottish ACC (West Coast) - Scottish|STC_A|EGPX-WD
+EGTL|London TMA|LTC|EGTL
 EGTT|London|LON|EGTT
 EGTT-C|London ACC (Central) - London|LON_C|EGTT-C
 EGTT-C|London ACC (Central) - London|LON_E|EGTT-C
@@ -17626,7 +17627,7 @@ EGTT-S|London ACC (South) - London|LTC_S|EGTT-S
 EGTT-S|London ACC (South) - London|LTC_SE|EGTT-S
 EGTT-S|London ACC (South) - London|LTC_SW|EGTT-S
 EGTT-SC|London ACC (South-Central) - London|LON_SC|EGTT-SC
-EGTT-SC|London ACC (South-Central) - London|LTC|EGTT-SC
+EGTL|London Terminal Control|LTC|EGTL
 EGTT-W|London ACC (West) - London|LON_W|EGTT-W
 EGVV|Swanwick Military|LMLL|EGVV
 EGVV|Swanwick Military|SWML|EGVV

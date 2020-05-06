@@ -17600,18 +17600,17 @@ EGG4|Shanwick Oceanic Clearance Delivery|SHW-D|EGGX
 EGG4|Shanwick Oceanic Clearance Delivery|SHAN-D|EGGX
 EGPX|Scottish|SCO|EGPX
 EGPX-D|Scottish ACC (Dean Cross) - Scottish|SCO_D|EGPX-D
-EGPX-D|Scottish ACC (Dean Cross) - Scottish|STC|EGPX-D
-EGPX-D|Scottish ACC (Dean Cross) - Scottish|STC_W|EGPX-D
-EGPX-D|Scottish ACC (Dean Cross) - Scottish|STC_E|EGPX-D
+EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC|EGPX-D
+EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC_W|EGPX-D
+EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC_E|EGPX-D
 EGPX-E|Scottish ACC (East) - Scottish|SCO_E|EGPX-E
 EGPX-E|Scottish ACC (East) - Scottish|SCO_N|EGPX-E
 EGPX-E|Scottish ACC (East) - Scottish|SCO_S|EGPX-E
-EGPX-WD|Scottish ACC (West Coast) - Scottish|SCO_WD|EGPX-WD
-EGPX-WD|Scottish ACC (West Coast) - Scottish|SCO_W|EGPX-WD
-EGPX-WD|Scottish ACC (West Coast) - Scottish|SCO_D|EGPX-WD
-EGPX-WD|Scottish ACC (West Coast) - Scottish|SCO_R|EGPX-WD
-EGPX-WD|Scottish ACC (West Coast) - Scottish|STC_A|EGPX-WD
-EGTL|London TMA|LTC|EGTL
+EGPX-WD|Scottish ACC (West/Dean Cross) - Scottish|SCO_WD|EGPX-WD
+EGPX-W|Scottish ACC (West) - Scottish|SCO_W|EGPX-W
+EGPX-R|Scottish ACC (Rathlin) - Scottish|SCO_R|EGPX-R
+EGPX-R|Scottish TMA (Antrim) - Scottish|STC_A|EGPX-R
+EGTL|London TMA (Up to FL195)|LTC|EGTL
 EGTT|London|LON|EGTT
 EGTT-C|London ACC (Central) - London|LON_C|EGTT-C
 EGTT-C|London ACC (Central) - London|LON_E|EGTT-C

@@ -17839,7 +17839,9 @@ LLSC|Tel Aviv South Control||LLLL
 LLPL|Pluto|PLUTO|LLLL
 LLGV|Hagav|HAGAV|LLLL
 LMMM|Malta||LMMM
-LOVV|Wien|LOWW|LOVV
+LOVV|Wien Radar||LOVV
+LOVV|Wien Radar|LOVV|LOVV-N
+LOVV|Wien Radar|LOVV_S|LOVV-S
 LPPC|Lisboa||LPPC
 LPPO|Santa Maria|LPAZ|LPPO
 LPAM|Lisboa Military||LPPC

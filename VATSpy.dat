@@ -17850,6 +17850,7 @@ LPPC-N|Lisboa - NORTH Sector|LPPC_N|LPPC-N
 LPPC-C|Lisboa - CENTRE Sector|LPPC_C|LPPC-C
 LPPC-S|Lisboa - SOUTH Sector|LPPC_S|LPPC-S
 LPPO|Santa Maria|LPAZ|LPPO
+LPPO-TMA|Santa Maria Radar|LPPO|LPPO-TMA
 LPAM|Lisboa Military||LPPC
 LQSB|Sarajevo|LQSA|LQSB
 LRBB|Bucharest||LRBB

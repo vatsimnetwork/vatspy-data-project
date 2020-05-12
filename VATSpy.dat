@@ -17843,7 +17843,14 @@ LOVV|Wien Radar||LOVV
 LOVV|Wien Radar|LOVV|LOVV-N
 LOVV|Wien Radar|LOVV_S|LOVV-S
 LPPC|Lisboa||LPPC
+LPPC-D|Lisboa - DEMOS Sector|LPPC_D|LPPC-D
+LPPC-V|Lisboa - VERAM Sector|LPPC_V|LPPC-V
+LPPC-I|Lisboa - MADEIRA Sector|LPPC_I|LPPC-I
+LPPC-N|Lisboa - NORTH Sector|LPPC_N|LPPC-N
+LPPC-C|Lisboa - CENTRE Sector|LPPC_C|LPPC-C
+LPPC-S|Lisboa - SOUTH Sector|LPPC_S|LPPC-S
 LPPO|Santa Maria|LPAZ|LPPO
+LPPO-TMA|Santa Maria Radar|LPPO|LPPO-TMA
 LPAM|Lisboa Military||LPPC
 LQSB|Sarajevo|LQSA|LQSB
 LRBB|Bucharest||LRBB

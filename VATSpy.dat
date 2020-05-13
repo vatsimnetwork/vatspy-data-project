@@ -201,27 +201,27 @@ Portugal|LP|Control
 Puerto Rico, USA|TJ|
 Qatar|OT|
 Romania|LR|Control
-Russia|UE|
-Russia|UH|
-Russia|UI|
-Russia|UL|
-Russia|UN|
-Russia|UO|
-Russia|UR|
-Russia|US|
-Russia|UU|
-Russia|UW|
-Russia|XE|
-Russia|XH|
-Russia|XI|
-Russia|XL|
-Russia|XN|
-Russia|XO|
-Russia|XR|
-Russia|XS|
-Russia|XU|
-Russia|XW|
-Russia|Z2|
+Russia|UE|Control
+Russia|UH|Control
+Russia|UI|Control
+Russia|UL|Control
+Russia|UN|Control
+Russia|UO|Control
+Russia|UR|Control
+Russia|US|Control
+Russia|UU|Control
+Russia|UW|Control
+Russia|XE|Control
+Russia|XH|Control
+Russia|XI|Control
+Russia|XL|Control
+Russia|XN|Control
+Russia|XO|Control
+Russia|XR|Control
+Russia|XS|Control
+Russia|XU|Control
+Russia|XW|Control
+Russia|Z2|Control
 Rwanda|HR|
 Saint Kitts and Nevis|TK|
 Saint Vincent and the Grenadines|TV|
@@ -257,7 +257,7 @@ Trinidad and Tobago|TT|Radar
 Tunisia|DT|
 Turkey|LT|
 Uganda|HU|
-Ukraine|UK|
+Ukraine|UK|Radar
 United Arab Emirates|OM|Radar
 United Kingdom|EG|Control
 Uruguay|SU|
@@ -13156,6 +13156,15 @@ UOII|Igarka|67.441667|86.623333||UNKL|0
 UOOO|Norilsk (Alykel)|69.311086|87.328911||UNKL|0
 UOOW|Valek|69.383|88.333||UNKL|0 ; io
 UOTT|Turukhansk|65.8|87.933333||UNKL|0
+URFA|Kacha|44.783|33.583||URFV|0 ; io
+URFB|Sevastopol (Belbek)|44.691667|33.576666||URFV|0
+URFD|Kirovskoye|45.165|35.183||URFV|0 ; io
+URFE|Yevpatoriya|45.225|33.378||URFV|0 ; io
+URFF|Simferopol|45.038333|33.981667||URFV|0
+URFG|Gvardeyskoye|45.117|33.978||URFV|0 ; io
+URFI|Saki|45.093|33.607||URFV|0 ; io
+URFK|Kerch|45.373|36.405||URFV|0 ; io
+URFY|Dzhankoy|45.7|34.422||URFV|0 ; io
 URKA|Anapa (Vityazevo)|45.002|37.346||URRV|0
 URKE|Yeisk|46.678333|38.211666||URRV|0
 URKG|Gelendzhik|44.566666|38.033333||URRV|0
@@ -13192,35 +13201,35 @@ USDD|Salekhard|66.59|66.61||USDD|0
 USDK|Mys Kamenny|68.467|73.597||USDK|0 ; io
 USDP|Krasnoselkup|65.7|82.45||USDS|0 ; io
 USDR|Yar-Sale|66.867|70.833||USDD|0 ; io
-USFF|Krasnoufimsk|56.692|57.805||USSS|0 ; io
-USHA|Saranpaul|64.25|60.9||USTR|0 ; io
-USHB|Beryozovo|63.55|65.01||USTR|0
-USHG|Khulimsunt|62.877|61.633||USTR|0 ; io
-USHH|Khanty-Mansiysk|61.028275|69.086706||USTR|0
-USHI|Igrim|63.2|64.433||USTR|0
-USHK|Kondinskoye|59.65|67.433||USTR|0 ; io
-USHN|Nyagan|62.11|65.615||USTR|0
+USFF|Krasnoufimsk|56.692|57.805||USSV|0 ; io
+USHA|Saranpaul|64.25|60.9||USTV|0 ; io
+USHB|Beryozovo|63.55|65.01||USTV|0
+USHG|Khulimsunt|62.877|61.633||USTV|0 ; io
+USHH|Khanty-Mansiysk|61.028275|69.086706||USTV|0
+USHI|Igrim|63.2|64.433||USTV|0
+USHK|Kondinskoye|59.65|67.433||USTV|0 ; io
+USHN|Nyagan|62.11|65.615||USTV|0
 USHQ|Beloyarskiy|63.688056|66.699722||USTV|0
-USHS|Sovetsky|61.333334|63.583333||USTR|0
-USHU|Uray|60.116667|64.833333||USTR|0
+USHS|Sovetsky|61.333334|63.583333||USTV|0
+USHU|Uray|60.116667|64.833333||USTV|0
 USII|Izhevsk|56.833334|53.456667||USPP|0
 USKK|Kirov (Pobedilovo)|58.503|49.348||USKK|0
 USMA|Yamburg|67.987|75.1||USDK|0 ; io
 USMM|Nadym|65.481819|72.698867||USDD|0
 USMQ|Yamburg|67.988333|75.096944||USTV|0
 USMU|Novy Urengoy|66.07|76.521666||USDS|0
-USNN|Nizhnevartovsk|60.948333|76.481667||USTR|0
-USNR|Raduzhny|62.158|77.33||USTR|0 ; io
+USNN|Nizhnevartovsk|60.948333|76.481667||USTV|0
+USNR|Raduzhny|62.158|77.33||USTV|0 ; io
 USPP|Perm (Bolshoye Savino)|57.913|56.023||USPP|0
 USPT|Berezniki|59.567|56.863||USPP|0 ; io
-USRK|Kogalym|62.19|74.535||USTR|0
-USRN|Nefteyugansk|61.142|72.65||USTR|0 ; io
-USRO|Noyabrsk|63.183334|75.27||USTR|0
-USRR|Surgut|61.343333|73.403333||USTR|0
-USSS|Yekaterinburg (Koltsovo)|56.743333|60.805||USSS|0
-USTO|Tobolsk|58.133334|68.233333||USTR|0
-USTR|Tyumen (Roschino)|57.16662|65.316482||USTR|0
-USUU|Kurgan|55.475|65.417||USTR|0 ; corr
+USRK|Kogalym|62.19|74.535||USTV|0
+USRN|Nefteyugansk|61.142|72.65||USTV|0 ; io
+USRO|Noyabrsk|63.183334|75.27||USTV|0
+USRR|Surgut|61.343333|73.403333||USTV|0
+USSS|Yekaterinburg (Koltsovo)|56.743333|60.805||USSV|0
+USTO|Tobolsk|58.133334|68.233333||USTV|0
+USTR|Tyumen (Roschino)|57.16662|65.316482||USTV|0
+USUU|Kurgan|55.475|65.417||USTV|0 ; corr
 UT0H|Zhaslyk|44.054|57.548||UTTR|0 ; io
 UT0J|Kokand (South East)|40.378|71.093||UTTR|0 ; io (real FIR UTKR)
 UT0N|Kagan|39.689|64.55||UTSD|0 ; io
@@ -13274,6 +13283,7 @@ UUBR|Ryazan (Turlanovo)|54.567|39.9||UUWV|0 ; io
 UUBS|Smolensk (Yuzhny)|54.743|32.068||UUWV|0 ; io
 UUBT|Tula (Klokovo)|54.237|37.607||UUWV|0 ; io
 UUBW|Zhukovsky (Ramenskoye)|55.553333|38.15||UUWV|0
+UUBX|Yaroslavl (Levtsovo)|57.728302|40.051954||UUWV|0
 UUDD|Moscow (Domodedovo)|55.408333|37.908333||UUWV|0
 UUDL|Yaroslavl (Tunoshna)|57.56|40.16||UUWV|0
 UUEE|Moscow (Sheremetyevo)|55.971667|37.415||UUWV|0
@@ -18013,15 +18023,16 @@ UMKK|Kaliningrad||UMKK
 UMMV|Minsk|UMMM|UMMV
 UNKL|Krasnoyarsk||UNKL
 UNNT|Novosibirsk||UNNT
+URFV|Simferopol|URFF|
 URRV|Rostov||URRV
-USCC|Chelyabinsk ACC - Yekaterinburg||USCC
+USCC|Chelyabinsk ACC - Ural||USCC
 USDD|Salekhard ACC - Tyumen||USDD
 USDK|Kamenny Mys ACC - Tyumen||USDK
 USDS|Tarko-Sale ACC - Tyumen||USDS
-USKK|Kirov ACC - Yekaterinburg||USKK
-USPP|Perm ACC - Yekaterinburg||USPP
-USSS|Yekaterinburg ACC - Yekaterinburg||USSS
-USTR|Tyumen ACC - Tyumen||USTR
+USKK|Kirov ACC - Ural||USKK
+USPP|Perm ACC - Ural||USPP
+USSV|Yekaterinburg ACC - Ural||USSV
+USTV|Tyumen ACC - Tyumen||USTV
 UTAA|Ashkhabad||UTAA
 UTAK|Turkmenbashy||UTAK
 UTAT|Dashkhovuz||UTAT
@@ -18181,9 +18192,9 @@ LIUP|Italy Radar|LIMM,LIBB,LIRR,LIPP
 LRUB|Black Sea West Control|LBSR,LRBB,LUUU
 LTUP|Turkey Control|LTAA
 RU-ERC|Eastern Russia Control|UEEE,UHHH,UHMM,UHPP
-RU-WRC|Western Russia Control|UMMV,UUWV,URRV,UWWW
+RU-WRC|Western Russia Control|UMMV,UUWV,UWWW
 RU-ESC|Eastern Siberia Control|UNKL,UIII
-RU-WSC|Western Siberia Control|USDK,USDD,USDS,USTR,USSS,USKK,USPP,USCC,UNNT
+RU-WSC|Western Siberia Control|USDK,USDD,USDS,USTV,USSV,USKK,USPP,USCC,UNNT
 RU-CEN|Central Asia Control|UATT,UACN,UAAA,UTAK,UTAA,UTAT,UTAV,UTSD,UTTR,UAII,UCFO,UTDD,UCFM
 RU-NWC|North West Control|ULLL,ULWW,ULMM,ULAA,ULAM,ULKK,UMKK,UUYY
 RU-SC|Caucasus Radar|URRV,UGGG,UDDD,UBBA

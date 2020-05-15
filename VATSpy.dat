@@ -13301,7 +13301,7 @@ UUOR|Oryol|52.935|36.002||UUWV|0 ; io
 UUOS|Stary Oskol|51.328|37.767||UUWV|0 ; io
 UUOT|Tambov (Donskoye)|52.805|41.483333||UUWV|0
 UUWE|Yermolino|55.228|36.61||UUWV|0 ; io
-UUWV|Moscow|55.408333|37.908333|MSK|UUWV|1 ; fake airport for MSK_APP display
+UUWV|Moscow|55.768333|37.621389|MSK|UUWV|1 ; fake airport for MSK_APP display
 UUWW|Moscow (Vnukovo)|55.598333|37.275||UUWV|0
 UUYH|Ukhta|63.567|53.803||UUYY|0 ; corr
 UUYI|Inta|66.055|60.112||UUYY|0 ; io

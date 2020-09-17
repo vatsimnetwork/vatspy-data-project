@@ -17561,7 +17561,6 @@ ZYYJ|Yanji|42.8828|129.451258||ZYSH|0
 [FIRs]
 ;ICAO|NAME|PREFIX POSITION|
 ;dummy codes for Adria CTR
-ADR_U|Adria Radar Upper|LJLA,LDZO,LQSB,LYBA,LWSS,LAAA
 ADR|Adria Radar||ADR
 ADR-W|Adria Radar (West)|ADR_W|ADR-W
 ADR-E|Adria Radar (East)|ADR_E|ADR-E

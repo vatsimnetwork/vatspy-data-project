@@ -86,7 +86,7 @@ Costa Rica|MR|
 Cote D'Ivoire|DI|
 Croatia|LD|Control
 Cuba|MU|
-Cyprus|LC|Control
+Cyprus|LC|Radar
 Czech Republic|LK|Radar
 Denmark|EK|Control
 Djibouti|HD|
@@ -114,7 +114,7 @@ Germany|ED|Radar
 Germany|ET|Radar
 Ghana|DG|
 Gibraltar|LX|
-Greece|LG|Control
+Greece|LG|Radar
 Greenland|BG|
 Grenada|TG|
 Guadeloupe-Martinique|TF|
@@ -17787,9 +17787,9 @@ LAAA|Tirana||LAAA
 LBSR|Sofia||LBSR
 LBWR|Varna||LBWR
 LCCC|Nicosia||LCCC
-LCCCE|Nicosia|LCCCE|LCCCE
-LCCCS|Nicosia|LCCCS|LCCCS
-LCCCW|Nicosia|LCCCW|LCCCW
+LCCCE|Nicosia|LCCC-E|LCCCE
+LCCCS|Nicosia|LCCC-S|LCCCS
+LCCCW|Nicosia|LCCC-W|LCCCW
 LDZO|Zagreb||LDZO
 LECB|Barcelona|LEBL|LECB
 LECM|Madrid|LEMD|LECM
@@ -17809,16 +17809,16 @@ LFUM|Marseille Upper||LFMM
 LFUP|Paris Upper||LFFF
 LFUR|Brest Upper||LFRR
 LGGG|Athina||LGGG
-LGGGE|Athina-(RDS sector)|LGGGE|LGGGE
-LGGGW|Athina-(KRK sector)|LGGGW|LGGGW
-LGGGS|Athina-(MIL sector|LGGGS|LGGGS
-LGGGK|Athina-(KFN sector|LGGGK|LGGGK
-LGGGP|Athina-(PLH sector|LGGGP|LGGGP
-LGGGH|Athina-(KAV sector)|LGGGH|LGGGH
+LGGGE|Athina-(RDS sector)|LGGG-E|LGGGE
+LGGGW|Athina-(KRK sector)|LGGG-W|LGGGW
+LGGGS|Athina-(MIL sector)|LGGG-S|LGGGS
+LGGGK|Athina-(KFN sector)|LGGG-K|LGGGK
+LGGGP|Athina-(PLH sector|LGGG-P|LGGGP
+LGGGH|Athina-(KAV sector)|LGGG-H|LGGGH
 LGMD|Makedonia-(SKP sector)||LGMD
-LGMDE|Makedonia-(LMO sector)|LGMDE|LGMDE
-LGMDK|Makedonia-(KVL sector)|LGMDK|LGMDK
-LGMDT|Makedonia-(TSL sector)|LGMDT|LGMDT
+LGMDE|Makedonia-(LMO sector)|LGMD-E|LGMDE
+LGMDK|Makedonia-(KVL sector)|LGMD-K|LGMDK
+LGMDT|Makedonia-(TSL sector)|LGMD-T|LGMDT
 LHCC|Budapest||LHCC
 LIBB|Brindisi||LIBB
 LIMM|Milano||LIMM

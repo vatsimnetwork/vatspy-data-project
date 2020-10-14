@@ -310,7 +310,7 @@ Zambia|FL|
 Zimbabwe|FV|
 
 [Airports]
-;ICAO|Airport Name|Latitude Decimal|Longitude Decimal|IATA/LID|FIR|
+;ICAO|Airport Name|Latitude Decimal|Longitude Decimal|IATA/LID|FIR|IsPseudo
 AGAF|Afutara|-9.191365|160.948836||AGGG|0
 AGAR|Ulawa|-9.864444|161.98306||AGGG|0
 AGAT|Atoifi|-8.873167|161.013||AGGG|0
@@ -7000,6 +7000,7 @@ KVKX|Potomac Airfield|38.748642|-76.955922|VKX|KZDC|0
 KVLA|Vandalia Muni|38.991466|-89.166189|VLA|KZKC|0
 KVLD|Valdosta Reg. GA|30.7825|-83.276722|VLD|KZJX|0
 KVLL|Oakland/Troy|42.542944|-83.177889||KZOB|0
+KVLY|Harlingen Rio Grande Valley Intl TX|26.228506|-97.654394|VLY|KZHU|1
 KVMR|Harold Davidson Field|42.765278|-96.93425|VMR|KZMP|0
 KVNC|Venice Muni|27.071611|-82.440333|VNC|KZMA|0
 KVNW|Van Wert County|40.863829|-84.606358|VNW|KZID|0

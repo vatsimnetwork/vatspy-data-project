@@ -17596,39 +17596,40 @@ DTTC|Tunis||DTTC
 EBBU|Brussels||EBBU
 EBUR|Brussels Upper||EBBU
 EDGG|Langen||EDGG
-EDGG-E|Langen ACC (East) - Langen|EDGG_E|EDGG-E
-EDGG-E|Langen ACC (East) - Langen|EDGG_B|EDGG-E
-EDGG-E|Langen ACC (East) - Langen|EDGG_F|EDGG-E
-EDGG-E|Langen ACC (East) - Langen|EDGG_G|EDGG-E
-EDGG-E|Langen ACC (East) - Langen|EDGG_K|EDGG-E
-EDGG-E|Langen ACC (East) - Langen|EDGG_O|EDGG-E
-EDGG-E|Langen ACC (East) - Langen|EDGG_R|EDGG-E
-EDGG-E|Langen ACC (East) - Langen|EDGG_Z|EDGG-E
-EDGG-N|Langen ACC (North) - Langen|EDGG_N|EDGG-N
-EDGG-N|Langen ACC (North) - Langen|EDGG_H|EDGG-N
-EDGG-N|Langen ACC (North) - Langen|EDGG_P|EDGG-N
-EDGG-S|Langen ACC (South) - Langen|EDGG_S|EDGG-S
-EDGG-W|Langen ACC (West) - Langen|EDGG_W|EDGG-W
-EDGG-SE|Langen ACC (South-East) - Langen|EDGG_SE|EDGG-SE
-EDGG-NW|Langen ACC (North-West) - Langen|EDGG_NW|EDGG-NW
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_E|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_B|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_F|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_G|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_K|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_O|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_R|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_Z|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_S|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_SE|EDGG-E
+EDGG-P|Langen Radar (Pad High) - Langen|EDGG_N|EDGG-P
+EDGG-P|Langen Radar (Pad High) - Langen|EDGG_H|EDGG-P
+EDGG-P|Langen Radar (Pad High) - Langen|EDGG_P|EDGG-P
+EDGG-P|Langen Radar (Pad High) - Langen|EDGG_W|EDGG-P
+EDGG-P|Langen Radar (Pad High) - Langen|EDGG_NW|EDGG-P
 EDMM|Muenchen|EDMM_C|EDMM
 EDMM|Muenchen|EDMM_E|EDMM
 EDMM|Muenchen|EDMM_F|EDMM
 EDMM|Muenchen|EDMM_K|EDMM
 EDMM|Muenchen|EDMM_R|EDMM
-EDMM-N|Muenchen ACC (North) - Muenchen|EDMM_N|EDMM-N
-EDMM-N|Muenchen ACC (North) - Muenchen|EDMM_A|EDMM-N
-EDMM-N|Muenchen ACC (North) - Muenchen|EDMM_T|EDMM-N
-EDMM-S|Muenchen ACC (South) - Muenchen|EDMM_S|EDMM-S
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_A|EDMM-G
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_T|EDMM-G
+EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_S|EDMM-R
+EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_R|EDMM-R
 EDWW|Bremen||EDWW
-EDWW-E|Bremen ACC (East) - Bremen|EDWW_E|EDWW-E
-EDWW-E|Bremen ACC (East) - Bremen|EDWW_B|EDWW-E
-EDWW-E|Bremen ACC (East) - Bremen|EDWW_I|EDWW-E
-EDWW-E|Bremen ACC (East) - Bremen|EDWW_M|EDWW-E
-EDWW-W|Bremen ACC (West) - Bremen|EDWW_W|EDWW-W
-EDWW-W|Bremen ACC (West) - Bremen|EDWW_A|EDWW-W
-EDWW-W|Bremen ACC (West) - Bremen|EDWW_N|EDWW-W
-EDWW-W|Bremen ACC (West) - Bremen|EDWW_S|EDWW-W
+EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_E|EDWW-B
+EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_B|EDWW-B
+EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_I|EDWW-B
+EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_M|EDWW-B
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_W|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_A|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_N|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_S|EDWW-A
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
 EGGX|Shanwick Oceanic|EGX|EGGX
@@ -18161,8 +18162,8 @@ ASIA|West Asia Control|VABF,VIDF,VECF,VOMF,VEGF,OPKR,OPLR,OAKX,VCCF,VRMF,VGFR,VN
 BALT|Baltic Control|EYVL,EVRR,EETT
 BICC|Iceland Radio|BIRD-E,BIRD-N,BIRD-S,BIRD-W
 CR-RDO|Caribbean Radio|MYNN,MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP,KZMO
-EDUU|Rhein Radar|EDGG-E,EDGG-S,EDGG-W,EDMM-N,EDMM-S,EDWW-E
-EDYY|Maastricht Radar|EBBU,EHAA,EDGG-N,EDWW-W
+EDUU|Rhein Radar|EDGG-E,EDMM-G,EDMM-R
+EDYY|Maastricht Radar|EBBU,EHAA,EDGG-P,EDWW-A,EDWW-B
 EURN|Eurocontrol North|EKDK,EETT,EFIN,EVRR,EYVL,ENBD,ENOS,ENSV,ESOS
 EURM|Maastricht Eurocontrol|LOVV,EBBU,EDGG,EDMM,EDWW,LSAS,EHAA
 EURW|Eurocontrol West|LFBB,LFEE,LFMM,LFRR,LFFF,LPPC,LECM,LECB,LECS

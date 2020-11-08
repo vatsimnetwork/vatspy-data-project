@@ -38,7 +38,7 @@ Australia|YZ|Centre
 Austria|LO|Radar
 Azerbaijan|UB|
 Bahamas|MY|
-Bahrain|OB|
+Bahrain|OB|Radar
 Bangladesh|VG|
 Barbados|TB|
 Belarus|UM|
@@ -99,7 +99,7 @@ Egypt|HE|Control
 El Salvador|MS|
 Eritrea|HH|
 Estonia|EE|
-Ethiopia|HA|
+Ethiopia|HA|Radar
 Islas Malvinas|SF|
 Fiji-Tonga|NF|
 Finland|EF|Control
@@ -135,9 +135,9 @@ India|VO|Control
 Indonesia|WA|
 Indonesia|WI|
 Indonesia|WR|
-Iran|TE|
-Iran|OI|
-Iraq|OR|
+Iran|TE|Radar
+Iran|OI|Radar
+Iraq|OR|Radar
 Ireland|EI|Control
 Israel|LL|
 Italy|LI|Radar
@@ -152,7 +152,7 @@ Kiribati-Tuvalu|NG|
 Kuwait|OK|
 Laos|VL|
 Latvia|EV|Control
-Lebanon|OL|
+Lebanon|OL|Radar
 Lesotho|FX|
 Liberia|GL|
 Libya|HL|Control
@@ -173,7 +173,7 @@ Mexico|MM|
 Moldova|LU|Control
 Mongolia|ZM|
 Montserrat|TR|
-Morocco|GM|
+Morocco|GM|Radar
 Mozambique|FQ|
 Myanmar|VB|
 Myanmar|VY|
@@ -189,7 +189,7 @@ Nigeria|DN|
 Netherlands Antilles and Aruba|TN|Control
 North Korea|ZK|
 Norway|EN|Control
-Oman|OO|
+Oman|OO|Control
 Pakistan|OP|
 Panama|MP|
 Papua New Guinea|AY|
@@ -227,7 +227,7 @@ Saint Kitts and Nevis|TK|
 Saint Vincent and the Grenadines|TV|
 Samoa|NS|
 Santa Lucia|TL|
-Saudi Arabia|OE|
+Saudi Arabia|OE|Control
 Senegal|GO|
 Seychelles|FS|
 Sierra Leone|GF|
@@ -235,7 +235,7 @@ Singapore|WS|
 Slovakia|LZ|Radar
 Slovenia|LJ|Control
 Solomon Islands|AG|
-Somalia|HC|
+Somalia|HC|Radio
 South Africa|FA|
 South Korea|RK|Control
 Spain|GC|Radar
@@ -247,7 +247,7 @@ Surinam|SM|
 Swaziland|FD|
 Sweden|ES|Control
 Switzerland|LS|Radar
-Syria|OS|
+Syria|OS|Radar
 Taiwan|RC|Control
 Tajikistan-Turkmenistan-Uzbekistan|UT|
 Tanzania|HT|
@@ -304,7 +304,7 @@ Venezuela|SV|
 Vietnam|VV|
 Virgin Islands (British)|TU|
 Virgin Islands (US)|TI|
-Yemen|OY|
+Yemen|OY|Radio
 Serbia and Montenegro|LY|Radar
 Zambia|FL|
 Zimbabwe|FV|
@@ -17704,10 +17704,10 @@ FZZA|Kinshasa||FZZA
 GCCC|Canarias||GCCC
 GLRB|Roberts||GLRB
 GMMM|Casablanca||GMMM
-GMMO|Casablanca||GMMO
+GMMO|Agadir||GMMO
+GMMM_N|Casablanca||GMMM_N
 GMMM_E|Casablanca||GMMM_E
 GMMM_S|Casablanca||GMMM_S
-GMMM_W|Casablanca||GMMM_W
 GOOO|Dakar||GOOO
 GVSC|Sal Oceanic||GVSC
 HAAA|Addis Ababa||HAAA

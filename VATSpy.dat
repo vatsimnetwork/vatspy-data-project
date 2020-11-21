@@ -12815,7 +12815,7 @@ TVSC|Canouan|12.699167|-61.3425||TTZP|0
 TVSM|Mustique|12.88519|-61.1871||TTZP|0
 TVSU|Union Is./Union. - Intl|12.598611|-61.414722|UNI|TTZP|0
 TVSV|Arnos Vale|13.144444|-61.213889||TTZP|0
-TXKF|L F Wade Intl|32.364042|-64.678703|BDA|TXKF|0
+TXKF|L F Wade Intl|32.364042|-64.678703|BDA|BDA-TMA|0
 UA0D|Chirchik|41.518|69.576||UTTR|0 ; io
 UAAA|Almaty|43.351667|77.04||UAAA|0
 UAAH|Balkhash|46.893|75.005||UTTT|0 ; io
@@ -17889,7 +17889,7 @@ KZMO|Miami Oceanic|ZMO|KZMO
 KZME|Memphis|MEM|KZME
 KZMP|Minneapolis|MSP|KZMP
 KZNY|New York|NY|KZNY
-KZWY|New York Oceanic|ZWY|KZWY
+BDA-TMA|New York - Bermuda TMA|BDA|BDA-TMA
 KZOA|Oakland|OAK|KZOA
 KZAK|Oakland Oceanic|ZAK|KZAK
 KZAK|Oakland Oceanic|OO|KZAK
@@ -18102,8 +18102,6 @@ SYGC|Georgetown||SYGC
 TJZS|San Juan|SJU|TJZS
 TNCF|Curacao||TNCF
 TTZP|Piarco||TTZP
-;dummy code for Bermuda CTR
-TXKF|Bermuda|BDA|TXKF
 UAAA|Almaty||UAAA
 UACN|Nur-Sultan||UACN
 UAII|Shymkent||UAII

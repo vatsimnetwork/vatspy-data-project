@@ -17889,7 +17889,7 @@ KZMO|Miami Oceanic|ZMO|KZMO
 KZME|Memphis|MEM|KZME
 KZMP|Minneapolis|MSP|KZMP
 KZNY|New York|NY|KZNY
-KZWY|New York Oceanic|ZWY|KZWY
+BDA-TMA|New York - Bermuda TMA|BDA|BDA-TMA
 KZOA|Oakland|OAK|KZOA
 KZAK|Oakland Oceanic|ZAK|KZAK
 KZAK|Oakland Oceanic|OO|KZAK
@@ -18102,8 +18102,6 @@ SYGC|Georgetown||SYGC
 TJZS|San Juan|SJU|TJZS
 TNCF|Curacao||TNCF
 TTZP|Piarco||TTZP
-;dummy code for Bermuda CTR
-TXKF|Bermuda|BDA|TXKF
 UAAA|Almaty||UAAA
 UACN|Nur-Sultan||UACN
 UAII|Shymkent||UAII

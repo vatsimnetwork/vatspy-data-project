@@ -1888,7 +1888,6 @@ EGJJ|Jersey|49.207947|-2.195508||EGTT|0
 EGKA|Shoreham|50.835556|-0.297222||EGTT|0
 EGKB|Biggin Hill|51.330833|0.0325||EGTT|0
 EGKB|Thames|51.330833|0.0325|THAMES|EGTT|1
-EGKB|Thames|51.330833|0.0325|THA|EGTT|1
 EGKD|Albourne|50.933333|-0.2||EGTT|0
 EGKE|Challock|51.2|0.833333||EGTT|0
 EGKG|Goodwood Racecourse|50.9|-0.733333||EGTT|0
@@ -2406,7 +2405,6 @@ ENTR|Trondheim/St. Olavs University Hospital (Helipad)|63.4199|10.385778||ENOR|0
 ENTS|Trysil/Saeteraasen|61.23|12.266667||ENOR|0
 ENTU|Tromsø University Hospital (Helipad)|69.68392|18.98471||ENOR|0
 ENTY|Tynset (Airstrip)|62.257112|10.668886||ENOR|0
-ENTX|Talarud (Helipad)|59.803883333333|10.840680555556||ENOS|0
 ENUA|Aasgard A (Offshore Helideck)|65.064144|6.725689||ENOR|0
 ENUB|Aasgard B (Offshore Helideck)|65.110102|6.78943||ENOR|0
 ENUC|Aasgard C (Offshore Helideck)|65.131101|6.864031||ENOR|0
@@ -2441,6 +2439,7 @@ ENXJ|Valhall Flank South (Offshore Helideck)|56.226944|3.435833||ENSV|0
 ENXK|Ekofisk K (Offshore Helideck)|56.565278|3.204722||ENSV|0
 ENXL|Eldfisk A (Offshore Helideck)|56.376111|3.264444||ENSV|0
 ENXM|Embla (Offshore Helideck)|56.3325|3.246944||ENSV|0
+ENXN|Jotun A (Offshore Helideck)|59.455333|2.384167||ENOR|0
 ENXO|Ringhorne (Offshore Helideck)|59.266667|2.45||ENOR|0
 ENXR|Tambar (Offshore Helideck)|56.983333|2.958333||ENSV|0
 ENXT|Tor (Offshore Helideck)|56.641389|3.325556||ENSV|0
@@ -12816,7 +12815,7 @@ TVSC|Canouan|12.699167|-61.3425||TTZP|0
 TVSM|Mustique|12.88519|-61.1871||TTZP|0
 TVSU|Union Is./Union. - Intl|12.598611|-61.414722|UNI|TTZP|0
 TVSV|Arnos Vale|13.144444|-61.213889||TTZP|0
-TXKF|L F Wade Intl|32.364042|-64.678703|BDA|TXKF|0
+TXKF|L F Wade Intl|32.364042|-64.678703|BDA|BDA-TMA|0
 UA0D|Chirchik|41.518|69.576||UTTR|0 ; io
 UAAA|Almaty|43.351667|77.04||UAAA|0
 UAAH|Balkhash|46.893|75.005||UTTT|0 ; io
@@ -17889,7 +17888,8 @@ KZMO|Miami Oceanic|ZMA|KZMO
 KZMO|Miami Oceanic|ZMO|KZMO
 KZME|Memphis|MEM|KZME
 KZMP|Minneapolis|MSP|KZMP
-KZNY|New York|NY|
+KZNY|New York|NY|KZNY
+BDA-TMA|New York - Bermuda TMA|BDA|BDA-TMA
 KZOA|Oakland|OAK|KZOA
 KZAK|Oakland Oceanic|ZAK|KZAK
 KZAK|Oakland Oceanic|OO|KZAK
@@ -18102,8 +18102,6 @@ SYGC|Georgetown||SYGC
 TJZS|San Juan|SJU|TJZS
 TNCF|Curacao||TNCF
 TTZP|Piarco||TTZP
-;dummy code for Bermuda CTR
-TXKF|Bermuda|BDA|TXKF
 UAAA|Almaty||UAAA
 UACN|Nur-Sultan||UACN
 UAII|Shymkent||UAII

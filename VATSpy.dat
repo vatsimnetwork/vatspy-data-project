@@ -17822,6 +17822,11 @@ ENOR|Bodø RTC - Polaris|ENRC|ENOR
 ENOS|Oslo ACC - Polaris||ENOS
 ENSV|Stavanger ACC - Polaris||ENSV
 EPWW|Warszawa|EPWA|EPWW
+EPWW-N|Warszawa|EPWW-N|EPWW
+EPWW-S|Warszawa|EPWW-S|EPWW
+EPWW-W|Warszawa|EPWW-W|EPWW
+EPWW-SW|Warszawa (if West offline)|EPWW-SW|EPWW
+EPWW-NW|Warszawa (if West offline)|EPWW-NW|EPWW
 ESMM|Malmo ACC - Sweden||ESMM
 ESOS|Stockholm ACC - Sweden||ESOS
 ESSR|Stockholm RTC - Sweden||ESOS

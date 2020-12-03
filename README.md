@@ -6,7 +6,7 @@ VAT-Spy is an Air Traffic and ATC Display client that was designed by Ross Carls
 
 # How Do I Submit Updates?
 
-We have chosen GitHub to be the core of this project so far, as it allows for collaboration on the project and near real-time updates to VAT-Spy data once a pull request has been pushed to the live data. Updates to data should be made directly by submitting a PR through GitHub. Updates on GitHub that will be pushed will be those that either come from verified GitHub accounts belonging to Regions, Divisions, or FIRs/ARTCCs or that have been explicitly authorized by staff via email.
+We have chosen GitHub to be the core of this project so far, as it allows for collaboration on the project and near real-time updates to VAT-Spy data once a pull request has been pushed to the live data. Updates to data should be made directly by submitting a PR to the corresponding AIRAC branch through GitHub. Updates on GitHub that will be merged will be those that either come from verified GitHub accounts belonging to Regions, Divisions, or FIRs/ARTCCs or that have been explicitly authorized by a staff account. Changes will stop being merged to each AIRAC branch 2 days prior to the AIRAC cycle coming in force, in order to allow some time for final reviews before merging to master.
 
 <br>
 
@@ -25,7 +25,8 @@ Airspace Points (One per line; as many as ``PointCount`` indicates):
 
 <br>
 
-# Data Installation
+# Manual Data Installation
+*Note: VATSPY Beta now does this automatically*
 
 1) Extract the downloaded zip file
 2) Find the file "install.bat" and execute, the required files will be copied to the target location

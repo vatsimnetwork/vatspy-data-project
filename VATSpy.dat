@@ -17929,9 +17929,6 @@ GCCC|Canarias||GCCC
 GLRB|Roberts||GLRB
 GMMM|Casablanca||GMMM
 GMMO|Agadir||GMMO
-GMMM_N|Casablanca||GMMM_N
-GMMM_E|Casablanca||GMMM_E
-GMMM_S|Casablanca||GMMM_S
 GOOO|Dakar||GOOO
 GVSC|Sal Oceanic||GVSC
 HAAA|Addis Ababa||HAAA
@@ -18129,14 +18126,6 @@ RCAA|Taipei|TPE|RCAA
 RJCG|Sapporo ACC - Fukuoka|SPO|RJCG
 RJCG|Sapporo ACC - Fukuoka|RJCO|RJCG
 RJDG|Fukuoka ACC - Fukuoka|FKO|RJDG
-RJJJ|Fukuoka|TOKYO|RJJJ
-RJJJ|Fukuoka|TOKYOE|RJJJ
-RJJJ|Fukuoka|TOKYOS|RJJJ
-RJJJ|Fukuoka|TOKYOW|RJJJ
-RJJJ|Fukuoka|TYO|RJJJ
-RJJJ|Fukuoka|TYOE|RJJJ
-RJJJ|Fukuoka|TYOS|RJJJ
-RJJJ|Fukuoka|TYOW|RJJJ
 RJTG|Tokyo ACC - Fukuoka||RJTG
 RKRR|Incheon ACC - Incheon||RKRR
 RKRR-N|Incheon ACC (North) - Incheon||RKRR-N
@@ -18216,14 +18205,8 @@ UMKK|Kaliningrad||UMKK
 UMMV|Minsk|UMMM|UMMV
 UNKL|Krasnoyarsk||UNKL
 UNNT|Novosibirsk||UNNT
-URFV|Simferopol|URFF|
 URRV|Rostov||URRV
 USCC|Chelyabinsk ACC - Ural||USCC
-USDD|Salekhard ACC - Tyumen||USDD
-USDK|Kamenny Mys ACC - Tyumen||USDK
-USDS|Tarko-Sale ACC - Tyumen||USDS
-USKK|Kirov ACC - Ural||USKK
-USPP|Perm ACC - Ural||USPP
 USSV|Yekaterinburg ACC - Ural||USSV
 USTV|Tyumen ACC - Tyumen||USTV
 UTAA|Ashkhabad||UTAA
@@ -18270,9 +18253,6 @@ VVVV|Hanoi||VVVV
 VVTS|Ho-Chi-Minh||VVTS
 VYYF|Rangoon|VYYY|VYYF
 WAAF|Ujung Pandang||WAAF
-WAAF-B|Ujung Pandang (Bali)|WAAF_B|WAAF_B
-WAAF-W|Ujung Pandang (West)|WAAF_W|WAAF_W
-WAAF-E|Ujung Pandang (East)|WAAF_E|WAAF_E
 WBFC|Kota Kinabalu||WBFC
 WIIF|Jakarta||WIIF
 WIIF-N|Jakarta (North)|WIIF_N|WIIF-N

@@ -67,16 +67,16 @@ Cayman Islands|MW|
 Central African Republic|FE|
 Chad|FT|
 Chile|SC|Radar
-China|ZB|
-China|ZG|
-China|ZH|
-China|ZJ|
-China|ZL|
-China|ZP|
-China|ZS|
-China|ZU|
-China|ZW|
-China|ZY|
+China|ZB|Control
+China|ZG|Control
+China|ZH|Control
+China|ZJ|Control
+China|ZL|Control
+China|ZP|Control
+China|ZS|Control
+China|ZU|Control
+China|ZW|Control
+China|ZY|Control
 Colombia|SK|
 Congo (Republic)|FC|
 Congo (Democratic Republic)|FZ|
@@ -171,7 +171,7 @@ Mauritania|GQ|
 Mauritius|FI|
 Mexico|MM|
 Moldova|LU|Control
-Mongolia|ZM|
+Mongolia|ZM|Control
 Montserrat|TR|
 Morocco|GM|Radar
 Mozambique|FQ|

@@ -12969,7 +12969,7 @@ UKCM|Mariupol|47.076667|37.451667||UKDV|0
 UKCS|Severodonetsk|48.897|38.542||UKDV|0 ; io
 UKCW|Luhansk|48.418333|39.375||UKDV|0
 UKDB|Berdyansk|46.815|36.758||UKDV|0 ; io
-UKDD|Dnipropetrovsk|48.356667|35.101667||UKDV|0
+UKDD|Dnipro|48.356667|35.101667||UKDV|0
 UKDE|Zaporizhzhia|47.866667|35.316667||UKDV|0
 UKDM|Melitopol|46.88|35.303||UKFV|0 ; io
 UKDR|Kryvyi Rig|48.043|33.21||UKDV|0 ; io
@@ -18204,7 +18204,7 @@ UHPP|Petropavlovsk-Kamchatsky||UHPP
 UIII|Irkutsk||UIII
 UKBV|Kyiv|UKBB|UKBV
 UKFV|Simferopol|UKFF|UKFV
-UKDV|Dnipropetrovsk||UKDV
+UKDV|Dnipro||UKDV
 UKLV|Lviv|UKLL|UKLV
 UKOV|Odesa|UKOO|UKOV
 ULAA|Arkhangelsk ACC - Arkhangelsk||ULAA

@@ -12954,6 +12954,7 @@ UIUN|Nizhneangarsk|55.8|109.6||UIII|0
 UIUU|Ulan-Ude (Mukhino)|51.808333|107.441667||UIII|0
 UKAM|Mala Vyska|48.6325|31.614444||UKBV|0
 UKBB|Kyiv (Boryspil)|50.345|30.895|UKBV|UKBV|0
+UKBE|Kaniv (Pekari)|49.697|31.563||UKBV|0
 UKBC|Belaya Tserkov|49.797|30.027||UKBV|0 ; io
 UKBD|Kyiv/Pivdenyi|50.005|30.197222||UKBV|0
 UKBF|Konotop|51.243|33.152||UKBV|0 ; io
@@ -12966,10 +12967,10 @@ UKCM|Mariupol|47.076667|37.451667||UKDV|0
 UKCS|Severodonetsk|48.897|38.542||UKDV|0 ; io
 UKCW|Luhansk|48.418333|39.375||UKDV|0
 UKDB|Berdyansk|46.815|36.758||UKDV|0 ; io
-UKDD|Dnipropetrovsk|48.356667|35.101667||UKDV|0
-UKDE|Zaporizhzhya (Mokraya)|47.866667|35.316667||UKDV|0
+UKDD|Dnipro|48.356667|35.101667||UKDV|0
+UKDE|Zaporizhzhia|47.866667|35.316667||UKDV|0
 UKDM|Melitopol|46.88|35.303||UKFV|0 ; io
-UKDR|Krivoy Rog (Lozovyatka)|48.043|33.21||UKDV|0 ; io
+UKDR|Kryvyi Rih|48.043|33.21||UKDV|0 ; io
 UKEG|Hrytsenkove|50.966944|34.699444||UKDV|0
 UKEM|Mayske|48.492222|35.625556||UKDV|0
 UKFA|Kacha|44.783|33.583|URFA|UKFV|0 ; io
@@ -12982,40 +12983,40 @@ UKFH|Khersones|44.575|33.395|URFH|UKFV|0 ; io
 UKFI|Saki|45.093|33.607|URFI|UKFV|0 ; io
 UKFK|Kerch|45.373|36.405|URFK|UKFV|0 ; io
 UKFR|Bagerovo|45.388|36.245|URFR|UKFV|0 ; io
-UKFW|Zavods'Ke|44.917319|34.062931|URFW|UKFV|0
+UKFW|Zavods'ke|44.917319|34.062931|URFW|UKFV|0
 UKFY|Dzhankoy|45.7|34.422|URFY|UKFV|0 ; io
 UKHD|Kharkiv/Sokolnyky|50.025|36.267222||UKDV|0
 UKHH|Kharkiv (Osnova)|49.925|36.291667||UKDV|0
-UKHK|Kremenchuk/Velyka Kokhnivka|49.133889|33.476389|KHU|UKBV|0
+UKHK|Kremenchuk (Velyka Kokhnivka)|49.133889|33.476389|KHU|UKBV|0
 UKHL|Poltava|49.627|34.49||UKDV|0 ; io
-UKHP|Poltava (Suprunovka)|49.57|34.395||UKDV|0 ; io
+UKHP|Poltava (Suprunivka)|49.57|34.395||UKDV|0 ; io
 UKHS|Sumy|50.853|34.76||UKDV|0 ; io
 UKHU|Kupyansk|49.687|37.722||UKDV|0 ; io
 UKHW|Chuguev|49.838|36.643||UKDV|0 ; io
 UKKB|Borodianka|50.665833|29.933611||UKBV|0
-UKKE|Cherkassy|49.417|31.997||UKBV|0 ; io
-UKKG|Kirovograd|48.533|32.283||UKBV|0 ; io
+UKKE|Cherkasy|49.417|31.997||UKBV|0 ; io
+UKKG|Kirovohrad|48.533|32.283||UKBV|0 ; io
 UKKK|Kyiv (Zhuliany)|50.401667|30.451667||UKBV|0
-UKKM|Kiev (Antonov)|50.598|30.197||UKBV|0 ; io
-UKKO|Zhitomir (Ozyornoye)|50.158334|28.74||UKBV|0
+UKKM|Kyiv (Antonov-2)|50.598|30.197||UKBV|0 ; io
+UKKO|Ozerne|50.158334|28.74||UKBV|0
 UKKP|Chernigov (Pevtsy)|51.548|31.315||UKBV|0 ; io
-UKKT|Kyev (Svyatoshin)|50.478|30.393||UKBV|0 ; io
-UKKV|Vasilkov|50.233|30.298||UKBV|0 ; io
+UKKT|Kyiv (Antonov-1)|50.478|30.393||UKBV|0 ; io
+UKKV|S.P.Korolyov (Zhytomir)|50.233|30.298||UKBV|0 ; io
 UKKX|Uman|48.795|30.21||UKBV|0 ; io
 UKLA|Kalinov|49.55|23.337||UKFV|0 ; io
 UKLB|Brody|50.13|25.1717||UKLV|0 ; io
 UKLC|Lutsk|50.79|25.35||UKLV|0 ; io
 UKLE|Chertkov|48.98|25.742||UKLV|0 ; io
-UKLH|Khmelnitskiy|49.362|26.935||UKLV|0 ; io
+UKLH|Khmelnytskyi|49.362|26.935||UKLV|0 ; io
 UKLI|Ivano-Frankivsk|48.884167|24.686111||UKLV|0
 UKLL|Lviv|49.813333|23.956667||UKLV|0
-UKLN|Chernovtsy|48.26|25.982||UKLV|0 ; io
+UKLN|Chernivtsi|48.26|25.982||UKLV|0 ; io
 UKLO|Kolomyya|48.53|25.117||UKLV|0 ; io
 UKLP|Stryi|49.245|23.792||UKLV|0 ; io
-UKLR|Rovno|50.608|26.143||UKLV|0 ; io
+UKLR|Rivne|50.608|26.143||UKLV|0 ; io
 UKLS|Starokonstantinov|49.748|27.275||UKLV|0 ; io
 UKLT|Ternopil|49.525|25.698889|TNL|UKLV|0
-UKLU|Uzhgorod|48.635|22.265||UKLV|0 ; io
+UKLU|Uzhhorod|48.635|22.265||UKLV|0 ; io
 UKLY|Dubno|50.445|25.84||UKLV|0 ; io
 UKMG|Pidgiria|48.788889|24.479167||UKLV|0
 UKMH|Khmelnytskyi|49.358333|26.932778||UKLV|0
@@ -13029,12 +13030,12 @@ UKOH|Kherson|46.677|32.508||UKOV|0 ; io
 UKOM|Limanskoye|46.67|30.012||UKOV|0 ; io
 UKON|Mykolaiv|47.058333|31.921667||UKOV|0
 UKOO|Odesa|46.426667|30.678333||UKOV|0
-UKOR|Nikolaev (Kulbakino)|46.942|32.102||UKOV|0 ; io
+UKOR|Mykolaiv (Kulbakino)|46.942|32.102||UKOV|0 ; io
 UKOU|Ochakov|46.65|31.553||UKOV|0 ; io
 UKOV|Voznesensk|47.512|31.26||UKOV|0 ; io
 UKRN|Nezhin|51.088|31.87||UKFV|0 ; io
 UKSX|V. Shyroke|46.947222|34.915278||UKFV|0
-UKWW|Vinnytsia/Gavryshivka|49.2425|28.613889|VIN|UKBV|0
+UKWW|Vinnytsia (Gavryshivka)|49.2425|28.613889|VIN|UKBV|0
 UKYS|Shyroke|47.911944|34.955||UKDV|0
 ULAA|Arkhangelsk (Talagi)|64.6|40.718333||ULAA|0
 ULAB|Bereznik|62.8|42.817||ULAA|0 ; io
@@ -18178,7 +18179,7 @@ UHPP|Petropavlovsk-Kamchatsky||UHPP
 UIII|Irkutsk||UIII
 UKBV|Kyiv|UKBB|UKBV
 UKFV|Simferopol|UKFF|UKFV
-UKDV|Dnipropetrovsk||UKDV
+UKDV|Dnipro||UKDV
 UKLV|Lviv|UKLL|UKLV
 UKOV|Odesa|UKOO|UKOV
 ULAA|Arkhangelsk ACC - Arkhangelsk||ULAA
@@ -18394,7 +18395,7 @@ SAM-N|South America Control|MHCC,MPZL,SKEC,SVZM,SYGC,SMPM,SOOO,SKED,SEFG
 SAM-E|South America Control|SBAZ,SBRE,SBBS,SBCW
 SAM-S|South America Control|SLLF,SPIM,SGFA,SARR,SACF,SCFZ
 SAM-W|South America Control|SUEO,SCEZ,SAMF,SAEF,SCTZ,SAVF,SCCZ
-UKR|Ukraine Control|UKDV,UKFV,UKOV,UKBV,UKLV
+UKR|Ukraine Radar|UKDV,UKFV,UKOV,UKBV,UKLV
 VZUP|India Radar|VABF,VEGF,VECF,VIDF,VOMF
 YBBB|Brisbane Centre Upper|YARA,YDOS,YISA,YMDE,YTBP,YTRT
 YMMM|Melbourne Centre Upper|YASP,YWOL,YBKE,YESP,YORE,YSNO,YTAS,YTBD

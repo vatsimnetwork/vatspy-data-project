@@ -18153,7 +18153,7 @@ SKED|Bogota||SKED
 SLLF|La Paz||SLLF
 SMPM|Paramaribo||SMPM
 SOOO|Rochambeau|SOCC|SOOO
-SPIM|Lima||SPIM
+SPIM|Lima|LIM|SPIM
 ; dummy codes for VATSIM callsigns
 SPI1|Lima North|SP-N|SPIM
 SPI2|Lima South|SP-S|SPIM

@@ -139,7 +139,7 @@ Iran|TE|Radar
 Iran|OI|Radar
 Iraq|OR|Radar
 Ireland|EI|Control
-Israel|LL|
+Israel|LL|Control
 Italy|LI|Radar
 Jamaica|MK|Radar
 Japan|RJ|Control
@@ -18009,8 +18009,8 @@ LJLA|Ljubljana||LJLA
 LKAA|Praha||LKAA
 LLLL|Tel Aviv|LLTA|LLLL
 LLLL|Tel Aviv|SHOLET|LLLL
-LLSC|Tel Aviv South Control||LLSC
-LLPT|Tel Aviv North Control "Pluto"|PLUTO|LLPT
+LLSC|Tel Aviv South||LLSC
+LLPT|Tel Aviv North|PLUTO|LLPT
 ; dummy codes for Israel CVFR centers
 LLPL|Pluto|PLUTO|LLLL
 LLGV|Hagav|HAGAV|LLLL

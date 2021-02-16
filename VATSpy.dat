@@ -8675,10 +8675,10 @@ LZZI|Zilina|49.233326|18.613611||LZBB|0
 M666|Rowan Gorilla VII|56.18917|2.76967|M666|EGPX|0
 M820|Irish Sea Pioneer|53.647|-3.48033|M820|EGPX|0
 MBAC|Ambergris Cay International|21.300633|-71.64115||KZMA|0
-MBGT|JAGS McCartney. Turks and Caicos|21.444444|-71.142222|GDT|KZMO|0
+MBGT|JAGS McCartney. Turks and Caicos|21.444444|-71.142222|GDT|MYNN|0
 MBNC|North Caicos International|21.917486|-71.939658|NCA|KZMA|0
 MBPI|Pine Cay|21.9|-72.1|PIC|KZMA|0
-MBPV|Providenciales. Turks and Caicos|21.773611|-72.265833|PLS|KZMO|0
+MBPV|Providenciales. Turks and Caicos|21.773611|-72.265833|PLS|MYNN|0
 MBSC|South Caicos International|21.515839|-71.529075|XSC|KZMA|0
 MBSY|Salt Cay|21.334569|-71.199569|SLX|KZMA|0
 MDAB|Arroyo Barril|19.2|-69.433333||MDCS|0
@@ -17730,7 +17730,7 @@ ZYYJ|Yanji Chaoyangchuan|42.882800|129.451258||ZYSH|0
 ZYYK|Yingkou Lanqi|40.5425|122.358611||ZYSH|0
 
 [FIRs]
-;ICAO|NAME|PREFIX POSITION|
+;ICAO|NAME|CALLSIGN PREFIX|FIR BOUNDARY
 ;dummy codes for Adria CTR
 ADR|Adria Radar||ADR
 ADR-W|Adria Radar (West)|ADR_W|ADR-W
@@ -17938,14 +17938,15 @@ KZHU|Houston|HOU|KZHU
 KZHU|Houston Oceanic|ZHU|KZHU
 KZID|Indianapolis|IND|KZID
 KZJX|Jacksonville|JAX|KZJX
+KZJX (F11)|Orlando (SFC-160), Jacksonville||KZJX (F11)
 KZKC|Kansas City|MCI|KZKC
 KZKC|Kansas City|KC|KZKC
 KZLA|Los Angeles|LAX|KZLA
 KZLA|Los Angeles|LA|KZLA
 KZLC|Salt Lake City|SLC|KZLC
 KZMA|Miami|MIA|KZMA
-KZMO|Miami Oceanic|ZMA|KZMO
-KZMO|Miami Oceanic|ZMO|KZMO
+KZMA (TPA)|Tampa (SFC-120), Miami||KZMA (TPA)
+KZMO|Miami|ZMO|KZMO
 KZME|Memphis|MEM|KZME
 KZMP|Minneapolis|MSP|KZMP
 KZNY|New York|NY|KZNY
@@ -18046,6 +18047,8 @@ MPZL|Panama||MPZL
 MTEG|Port-Au-Prince||MTEG
 MUFH|Havana|HAV|MUFH
 MYNN|Nassau|MYNN|MYNN
+MYNN (MYGF)|Freeport (SFC-60), Nassau||MYNN
+MYNN (MYNN)|Nassau (SFC-120), Nassau||MYNN
 NFFF|Nadi Oceanic|NFFF|
 NFFN|Nadi|NFFN|
 NVVV|Port Vila|NVVV|

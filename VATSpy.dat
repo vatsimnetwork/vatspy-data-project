@@ -17938,14 +17938,12 @@ KZHU|Houston|HOU|KZHU
 KZHU|Houston Oceanic|ZHU|KZHU
 KZID|Indianapolis|IND|KZID
 KZJX|Jacksonville|JAX|KZJX
-KZJX (F11)|Orlando (SFC-160), Jacksonville||KZJX (F11)
 KZKC|Kansas City|MCI|KZKC
 KZKC|Kansas City|KC|KZKC
 KZLA|Los Angeles|LAX|KZLA
 KZLA|Los Angeles|LA|KZLA
 KZLC|Salt Lake City|SLC|KZLC
 KZMA|Miami|MIA|KZMA
-KZMA (TPA)|Tampa (SFC-120), Miami||KZMA (TPA)
 KZMO|Miami|ZMO|KZMO
 KZME|Memphis|MEM|KZME
 KZMP|Minneapolis|MSP|KZMP
@@ -18047,8 +18045,6 @@ MPZL|Panama||MPZL
 MTEG|Port-Au-Prince||MTEG
 MUFH|Havana|HAV|MUFH
 MYNN|Nassau|MYNN|MYNN
-MYNN (MYGF)|Freeport (SFC-60), Nassau||MYNN
-MYNN (MYNN)|Nassau (SFC-120), Nassau||MYNN
 NFFF|Nadi Oceanic|NFFF|
 NFFN|Nadi|NFFN|
 NVVV|Port Vila|NVVV|

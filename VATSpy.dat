@@ -41,7 +41,7 @@ Bahamas|MY|
 Bahrain|OB|Radar
 Bangladesh|VG|
 Barbados|TB|
-Belarus|UM|
+Belarus|UM|Control
 Belgium|EB|Control
 Belize|MZ|
 Benin|DB|
@@ -98,7 +98,7 @@ Ecuador|SE|
 Egypt|HE|Control
 El Salvador|MS|
 Eritrea|HH|
-Estonia|EE|
+Estonia|EE|Control
 Ethiopia|HA|Radar
 Islas Malvinas|SF|
 Fiji-Tonga|NF|
@@ -139,7 +139,7 @@ Iran|TE|Radar
 Iran|OI|Radar
 Iraq|OR|Radar
 Ireland|EI|Control
-Israel|LL|
+Israel|LL|Control
 Italy|LI|Radar
 Jamaica|MK|Radar
 Japan|RJ|Control
@@ -2247,7 +2247,7 @@ ENAR|Arendal Soerlandet Hospital(Helipad)|58.467481|8.754017||ENOR|0
 ENAS|Ny-Alesund/Hamnerabben|78.91667|11.93306||ENOB|0
 ENAT|Alta|69.976111|23.371667||ENBD|0
 ENAX|Aalesund Hospital (Helipad)|62.462948|6.31243||ENOR|0
-ENBA|Heerodden (Heliport)|78.101111|14.193056||ENOB|0
+ENBA|Barentsburg/Heerodden (Heliport)|78.101111|14.193056||ENOB|0
 ENBB|Boeverbru (Airstrip)|60.636945|10.677225||ENOR|0
 ENBE|Balder A (Offshore Helideck)|59.190217|2.3875||ENOR|0
 ENBG|Groenneviksoeren (Heliport)|60.379867|5.346088||ENOR|0
@@ -2278,7 +2278,7 @@ ENFA|Froya/Flatval|63.700263|8.758907||ENBD|0
 ENFB|Statfjord B (Offshore Helideck)|61.206389|1.828889||ENOR|0
 ENFD|Forde Central Hospital (Helipad)|61.456285|5.89043||ENOR|0
 ENFG|Fagernes/Leirin|61|9.283333||ENOS|0
-ENFJ|Hoegden (Heliport)|60.765729|4.733032||ENOR|0
+ENFJ|Fedje/Hoegden (Heliport)|60.765729|4.733032||ENOR|0
 ENFL|Floro|61.583611|5.024722||ENSV|0
 ENFY|Fyresdal|59.202781|8.08763||ENOR|0
 ENGA|Gullfaks A (Offshore Helideck)|61.175556|2.1875||ENOR|0
@@ -2296,7 +2296,7 @@ ENHH|Harstad University Hosptial (Helipad)|68.795751|16.525442||ENOR|0
 ENHK|Hasvik|70.486667|22.139722||ENBD|0
 ENHM|Heimdal (Offshore Helideck)|59.57359|2.227174||ENOR|0
 ENHO|Hopen|76.508056|25.014167||ENOB|0
-ENHR|Harstad Stangnes (Helipad)|68.7796|16.59549||ENOR|0
+ENHR|Harstad/Stangnes (Helipad)|68.7796|16.59549||ENOR|0
 ENHS|Hokksund|59.766667|9.916667||ENOS|0
 ENHT|Hattfjelldal|65.594692|13.986393||ENOR|0
 ENHV|Honningsvag/Valan|71.01667|25.98306||ENBD|0
@@ -2315,28 +2315,29 @@ ENKS|Kristiansund Helse Moere Og Romsdal Hospital (Helipad)|63.107626|7.723464||
 ENLA|Ula (Offshore Helideck)|57.110461|2.844626||ENSV|0
 ENLB|Bjorli|62.235021|8.245162||ENOR|0
 ENLE|Ekofisk L (Offshore Helideck)|56.544167|3.225278||ENSV|0
-ENLG|Stryn Langset (Helipad)|61.89909|6.61915||ENOR|0
+ENLG|Stryn/Langset (Helipad)|61.89909|6.61915||ENOR|0
 ENLH|Lillehammer Innlandet Hospital (Helipad)|61.11325|10.472139||ENOR|0
 ENLI|Farsund/Lista|58.100278|6.625||ENSV|0
 ENLK|Leknes|68.15|13.61639||ENBD|0
 ENLU|Lunde|59.29778|9.132962||ENOR|0
 ENLV|Elvenes|68.871086|17.983908||ENOR|0
-ENLX|Lorenskog Akershus University Hospital (Helipad)|59.93214|10.986885||ENOR|0
+ENLX|Lorenskog/Akershus University Hospital (Helipad)|59.93214|10.986885||ENOR|0
 ENMH|Mehamn|71.03306|27.83306||ENBD|0
-ENMK|Mo I Rana/Helgeland Hospital (Helipad)|65.83178|13.21172||ENOR|0
+ENMK|Mosjoen/Helgeland Hospital (Helipad)|65.83178|13.21172||ENOR|0
 ENML|Molde/Aro|62.744722|7.2625||ENBD|0
-ENMO|Oeyan (Airstrip)|63.37137|11.81261||ENOR|0
-ENMP|Helse Moere Og Romsdal Hospital (Helipad)|62.73711|7.1354||ENOR|0
+ENMO|Meraker/Oeyan (Airstrip)|63.37137|11.81261||ENOR|0
+ENMP|Molde/Helse Moere og Romsdal Hospital (Helipad)|62.73711|7.1354||ENOR|0
 ENMS|Mosjoen/Kjaerstad|65.783611|13.215278||ENBD|0
-ENMX|Helgeland Hospital (Helipad)|66.3265|14.184667||ENOR|0
+ENMX|Mo i Rana/Helgeland Hospital (Helipad)|66.3265|14.184667||ENOR|0
 ENNA|Lakselv/Banak|70.066667|24.973889||ENBD|0
 ENND|Narvik/Djupvik (Helipad)|68.45151|17.53226||ENOR|0
 ENNE|Norne A (Offshore Helideck)|66.027074|8.086594||ENOR|0
-ENNH|Namsos Helse Nord-Troendelag Hospital (Helipad)|64.47|11.504167||ENOR|0
+ENNH|Namsos/Helse Nord-Troendelag Hospital (Helipad)|64.47|11.504167||ENOR|0
 ENNM|Namsos|64.46667|11.58306||ENBD|0
-ENNO|Notodden/Tuven|59.565533|9.212289||ENOS|0
+ENNO|Notodden|59.565533|9.212289||ENOS|0
 ENOA|Oseberg A (Offshore Helideck)|60.491389|2.825556||ENOR|0
 ENOC|Oseberg C (Offshore Helideck)|60.607778|2.774444||ENOR|0
+ENOE|Troll Airfield Antartica|-71.9572222|2.46666||FAJO|0
 ENOL|Orland|63.699167|9.603889||ENBD|0
 ENOP|Oppdal/Fagerhaug|62.651667|9.855||ENOR|0
 ENOV|Orsta-Volda/Hovden|62.18306|6.06639||ENSV|0
@@ -2361,7 +2362,7 @@ ENQW|Valemon (Offshore Helideck)|61.04|2.336667||ENOR|0
 ENRA|Mo I Rana/Rossvoll|66.36667|14.3||ENBD|0
 ENRE|Landsorkje/Rena (Airfield)|61.186389|11.374167||ENOR|0
 ENRG|Rognan (Airstrip)|67.098333|15.411111||ENOR|0
-ENRH|Oslo University Hospital Rikshospitalet (Helipad)|59.94847|10.716151||ENOR|0
+ENRH|Oslo/University Hospital Rikshospitalet (Helipad)|59.94847|10.716151||ENOR|0
 ENRI|Ringebu/Frya|61.545298|10.064143||ENOR|0
 ENRK|Rakkestad/Aastorp|59.397534|11.346712||ENOR|0
 ENRM|Rorvik/Ryum|64.83306|11.15||ENBD|0
@@ -2371,41 +2372,41 @@ ENRT|Rosten (Heliport)|63.368131|10.374019||ENOR|0
 ENRV|Reinsvoll|60.672887|10.566512||ENOR|0
 ENRX|Honefoss Ringerike Hospital (Helipad)|60.149167|10.255278||ENOR|0
 ENRY|Rygge|59.366667|10.783333||ENOS|0
-ENSA|Sveagruva/Svea|77.895925|16.72166||ENOB|0
+ENSA|Svea|77.895925|16.72166||ENOB|0
 ENSB|Svalbard/Longyear|78.246111|15.465556||ENOB|0
-ENSC|Suldal Sand (Helipad)|59.48359|6.27233||ENOR|0
+ENSC|Suldal/Sand (Helipad)|59.48359|6.27233||ENOR|0
 ENSD|Sandane/Anda|61.83306|6.11639||ENSV|0
 ENSE|Snorre A (Offshore Helideck)|61.448889|2.1425||ENOR|0
 ENSF|Statfjord A (Offshore Helideck)|61.255278|1.852222||ENOR|0
 ENSG|Sogndal/Haukasen|61.156111|7.137778||ENSV|0
 ENSH|Svolvaer/Helle|68.25|14.66639||ENBD|0
 ENSI|Soendre Ski Gaard (Airstrip)|59.707089|10.881743||ENOR|0
-ENSJ|Sandnessjoen Helgeland Hospital (Helipad)|66.01785|12.616||ENOR|0
+ENSJ|Sandnessjoen/Helgeland Hospital (Helipad)|66.01785|12.616||ENOR|0
 ENSK|Storkmarknes/Skagen|68.58306|15.01639||ENBD|0
 ENSL|Sleipner A (Offshore Helideck)|58.366667|1.906944||ENSV|0
 ENSM|Elverum/Starmoen|60.866667|11.666667||ENOS|0
 ENSN|Skien/Geiteryggen|59.183333|9.566667||ENOS|0
 ENSO|Stord/Sorstokken|59.792778|5.339722||ENSV|0
-ENSP|Sarpsborg Oestfold Hospital Kalnes (Helipad)|59.318861|11.023661||ENOR|0
+ENSP|Sarpsborg/Oestfold Hospital Kalnes (Helipad)|59.318861|11.023661||ENOR|0
 ENSR|Sorkjosen|69.786667|20.959722||ENBD|0
 ENSS|Vardo/Svartnes|70.355392|31.044889||ENBD|0
 ENST|Sandnessjoen/Stokka|65.959714|12.472217||ENBD|0
 ENSU|Sunndalsora/Vinnu|62.656944|8.681389||ENOR|0
-ENSX|Stavanger University Hospital (Helipad)|58.952101|5.73092||ENOR|0
+ENSX|Stavanger/University Hospital (Helipad)|58.952101|5.73092||ENOR|0
 ENTC|Tromso/Langnes|69.681389|18.917778||ENBD|0
-ENTE|Skien Telemark Hospital (Helipad)|59.190741|9.593277||ENOR|0
-ENTH|Tonsberg Vestfold Hospital (Helipad)|59.273233|10.416294||ENOR|0
+ENTE|Skien/Telemark Hospital (Helipad)|59.190741|9.593277||ENOR|0
+ENTH|Tonsberg/Vestfold Hospital (Helipad)|59.273233|10.416294||ENOR|0
 ENTO|Sandefjord/Torp|59.186634|10.258624||ENOS|0
 ENTR|Trondheim/St. Olavs University Hospital (Helipad)|63.4199|10.385778||ENOR|0
 ENTS|Trysil/Saeteraasen|61.23|12.266667||ENOR|0
-ENTU|Tromsø University Hospital (Helipad)|69.68392|18.98471||ENOR|0
+ENTU|Tromso/University Hospital (Helipad)|69.68392|18.98471||ENOR|0
 ENTY|Tynset (Airstrip)|62.257112|10.668886||ENOR|0
 ENTX|Talarud (Helipad)|59.803883333333|10.840680555556||ENOS|0
 ENUA|Aasgard A (Offshore Helideck)|65.064144|6.725689||ENOR|0
 ENUB|Aasgard B (Offshore Helideck)|65.110102|6.78943||ENOR|0
 ENUC|Aasgard C (Offshore Helideck)|65.131101|6.864031||ENOR|0
 ENUG|Goliat FPSO (Offshore Helideck)|71.311111|22.250833||ENOB|0
-ENUH|Oslo Ullevaal University Hospital (Helipad)|59.936216|10.736542||ENOR|0
+ENUH|Oslo/Ullevaal University Hospital (Helipad)|59.936216|10.736542||ENOR|0
 ENUK|Kristin (Offshore Helideck)|64.99407|6.550522||ENOR|0
 ENUL|Ulven/Vaksinen|60.191389|5.420556||ENOR|0
 ENUN|Aasta Hansteen (Offshore Helideck)|67.068889|7.097222||ENOB|0
@@ -2415,7 +2416,7 @@ ENVA|Trondheim/Vaernes|63.4575|10.939872||ENBD|0
 ENVD|Vadso|70.06667|29.85||ENBD|0
 ENVE|Valle/Aaraksoeyene|59.030751|7.554714||ENOR|0
 ENVF|Veslefrikk B (Offshore Helideck)|60.782222|2.896111||ENOR|0
-ENVR|Vaeroey|67.654551|12.72704||ENBD|0
+ENVR|Vaeroey (Heliport)|67.654551|12.72704||ENBD|0
 ENVS|Verdal/Slottelid (Helipad)|63.80021|11.53358||ENOR|0
 ENWA|Alvheim (Offshore Helideck)|59.566667|1.991667||ENOR|0
 ENWE|Edvard Grieg (Offshore Helideck)|58.8425|2.247222||ENOR|0
@@ -2425,7 +2426,7 @@ ENWI|Ivar Aasen (Offshore Helideck)|58.922222|2.197778||ENOR|0
 ENWK|Gina Krog (Offshore Helideck)|58.571389|1.695278||ENSV|0
 ENWR|Randgrid (Offshore Helideck)|58.583333|1.732778||ENSV|0
 ENWS|Eldfisk S (Offshore Helideck)|56.373611|3.262778||ENSV|0
-ENWV|Valhall Ph (Offshore Helideck)|56.274722|3.393333||ENSV|0
+ENWV|Valhall PH (Offshore Helideck)|56.274722|3.393333||ENSV|0
 ENXA|Ekofisk A (Offshore Helideck)|56.520278|3.221389||ENSV|0
 ENXB|Eldfisk B (Offshore Helideck)|56.418611|3.216944||ENSV|0
 ENXG|Gyda (Offshore Helideck)|56.904271|3.083727||ENSV|0
@@ -2440,7 +2441,7 @@ ENXR|Tambar (Offshore Helideck)|56.983333|2.958333||ENSV|0
 ENXT|Tor (Offshore Helideck)|56.641389|3.325556||ENSV|0
 ENXW|Grane (Offshore Helideck)|59.165|2.486667||ENOR|0
 ENXZ|Sleipner B (Offshore Helideck)|58.416667|1.716667||ENSV|0
-ENYY|Levanger Helse Nord-Troendelag Hospital (Helipad)|63.741972|11.286746||ENOR|0
+ENYY|Levanger/Helse Nord-Troendelag Hospital (Helipad)|63.741972|11.286746||ENOR|0
 ENZV|Stavanger/Sola|58.876667|5.637778||ENSV|0
 EPAA|Argo Wolica|52.119294|20.869783||EPWW|0
 EPAH|Lapino Kartuskie - Art Metal 2|54.291389|18.429167||EPWW|0
@@ -5689,6 +5690,7 @@ KHQZ|Mesquite Metro|32.746963|-96.530417|HQZ|KZFW|0
 KHRI|Hermiston Muni|45.828222|-119.259167|HES|KZSE|0
 KHRJ|Harnett Rgnl Jetport|35.380156|-78.732236||KZDC|0
 KHRL|Harlingen Rio Grande Valley Intl TX|26.228506|-97.654394|HRL|KZHU|0
+KHRL|Rio Grande Valley TX|26.228506|-97.654394|VLY|KZHU|1
 KHRO|Harrison Boone County AR|36.261528|-93.154722|HRO|KZME|0
 KHRT|Hurlburt Field Fl. Af FL|30.428914|-86.689278|HRT|KZJX|0
 KHRU|Herington Rgnl|38.694722|-96.807972|HRU|KZKC|0
@@ -6992,7 +6994,6 @@ KVKX|Potomac Airfield|38.748642|-76.955922|VKX|KZDC|0
 KVLA|Vandalia Muni|38.991466|-89.166189|VLA|KZKC|0
 KVLD|Valdosta Reg. GA|30.7825|-83.276722|VLD|KZJX|0
 KVLL|Oakland/Troy|42.542944|-83.177889||KZOB|0
-KVLY|Harlingen Rio Grande Valley Intl TX|26.228506|-97.654394|VLY|KZHU|1
 KVMR|Harold Davidson Field|42.765278|-96.93425|VMR|KZMP|0
 KVNC|Venice Muni|27.071611|-82.440333|VNC|KZMA|0
 KVNW|Van Wert County|40.863829|-84.606358|VNW|KZID|0
@@ -8217,7 +8218,7 @@ LLHS|Hatzor AFB|31.7625|34.727222|BARHASH|LLLL|0
 LLHT|Havat-Ronit|32.225|34.849444||LLLL|0
 LLHU|Hulata|33.115833|35.581111||LLLL|0
 LLHV|Hatzeva|30.756667|35.275556||LLLL|0
-LLHZ|Herzlia|32.175|34.916667||LLLL|0
+LLHZ|Herzlia|32.180286|34.833983||LLLL|0
 LLIB|Rosh-Pina (Mahanaim)|32.981219|35.573167||LLLL|0
 LLIF|Jiftlik|32.146944|35.487778||LLLL|0
 LLJR|Jerusalem|31.864722|35.219167||LLLL|0
@@ -13432,7 +13433,7 @@ VGBR|Barishal|22.798942|90.301236|BZL|VGFR|0
 VGCB|Cox'S Bazar|21.449758|91.964808||VGFR|0
 VGCM|Cumilla Stolport|23.437697|91.189522|CLA|VGFR|0
 VGEG|Chittagong Patenga|22.257022|91.822208||VGFR|0
-VGHS|Dhaka|23.76667|90.38306||VGFR|0
+VGHS|Dhaka|23.84333|90.3977||VGFR|0
 VGIS|Ishurdi|24.152633|89.049431||VGFR|0
 VGJR|Jessore|23.18375|89.160892||VGFR|0
 VGLM|Lalmonirhat Stol Port|25.9|89.433333||VGFR|0
@@ -13442,7 +13443,6 @@ VGSG|Thakurgaon Stol Port|26|88.383333|TKR|VGFR|0
 VGSH|Shamshernagar (Stol Port)|24.398839|91.916858|ZHM|VGFR|0
 VGSY|Sylhet|24.961342|91.871636||VGFR|0
 VGTJ|Tejgaon Airport/Dhaka|23.778333|90.382778||VGFR|0
-VGZR|Kurmitola Dia|23.843347|90.397783||VGFR|0
 VHCH|Cheung Chau|22.19972|114.01639||VHHK|0
 VHHH|Hong Kong-Chek Lap Kok Intl|22.308889|113.914722|HKG|VHHK|0
 VHHX|Kai Tak|22.32861|114.194166||VHHK|0
@@ -17489,7 +17489,7 @@ ZGOW|Chaoshan Jieyang|23.553333|116.501667||ZGGG|0
 ZGSD|Zhuhai Jinwan|22.040000|113.378333||ZGGG|0
 ZGSY|Shaoyang Wugang|26.806111|110.641111||ZGZU|0
 ZG16|Shaoyang Shaodong|27.226386|111.670184||ZGZU|0
-ZGSZ|Shenzhen Baoan|22.638333|113.811667||ZGGG|0
+ZGSZ|Shenzhen Baoan|22.638333|113.811667|ZGJD|ZGGG|0
 ZGNT|Shenzhen Nantou|22.59349|113.95620||ZGGG|0
 ZGUH|Zhuhai Jiuzhou|22.251944|113.590278||ZGGG|0
 ZGWX|Wuzhou|23.456667|111.247778||ZGZU|0
@@ -17871,7 +17871,7 @@ ENBD|Bodo ACC - Polaris||ENBD
 ENBD-S|Bodo South ACC - Polaris|ENBD_S|ENBD-S
 ENOB|Bodo Oceanic||ENOB
 ENOR|Polaris||ENOR
-ENOR|Bodø RTC - Polaris|ENRC|ENOR
+ENRC|Bodø RTC - Polaris||ENOR
 ENOS|Oslo ACC - Polaris||ENOS
 ENSV|Stavanger ACC - Polaris||ENSV
 EPWW|Warszawa|EPWA|EPWW
@@ -17949,10 +17949,6 @@ KZME|Memphis|MEM|KZME
 KZMP|Minneapolis|MSP|KZMP
 KZNY|New York|NY|KZNY
 KZNY-BDA|New York - Bermuda TMA|BDA|KZNY-BDA
-KZNY-CFB|New York - Binghampton (SFC-170)||KZNY-CFB
-KZNY-IPT|New York - Williamsport (SFC-100)||KZNY-IPT
-KZNY-N90|New York TRACON (SFC-190)||KZNY-N90
-KZNY-PHL|Philadelphia TRACON (SFC-130)||KZNY-PHL
 KZOA|Oakland|OAK|KZOA
 KZAK|Oakland Oceanic|ZAK|KZAK
 KZAK|Oakland Oceanic|OO|KZAK
@@ -17981,7 +17977,7 @@ LECS|Sevilla||LECS
 LEZL|Sevilla ACC - Sevilla||LEZL
 LFBB|Bordeaux||LFBB
 LFEE|Reims (Covers North-East LFFF FL195+)||LFEE
-LFEE-N|Reims North (Covers North-East LFFF FL195+)||LFEE-N
+LFEE-N|Reims North (Covers North-East LFFF FL295+)||LFEE-N
 LFEE-S|Reims South||LFEE-S
 LFFF|Paris|LFPG|LFFF
 LFMM|Marseille||LFMM
@@ -18009,7 +18005,8 @@ LJLA|Ljubljana||LJLA
 LKAA|Praha||LKAA
 LLLL|Tel Aviv|LLTA|LLLL
 LLLL|Tel Aviv|SHOLET|LLLL
-LLSC|Tel Aviv South Control||LLSC
+LLSC|Tel Aviv South||LLSC
+LLPT|Tel Aviv North|PLUTO|LLPT
 ; dummy codes for Israel CVFR centers
 LLPL|Pluto|PLUTO|LLLL
 LLGV|Hagav|HAGAV|LLLL

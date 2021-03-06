@@ -93,6 +93,7 @@ Djibouti|HD|
 Djibouti|HF|
 Dominica|TD|
 Dominican Republic|MD|
+Dutch Caribbean|TN|Control
 East Timor|WP|
 Ecuador|SE|
 Egypt|HE|Control
@@ -186,7 +187,6 @@ New Zealand|NZ|Control
 Nicaragua|MN|
 Niger|DR|
 Nigeria|DN|
-Netherlands Antilles and Aruba|TN|Control
 North Korea|ZK|
 Norway|EN|Control
 Oman|OO|Control
@@ -18368,7 +18368,9 @@ ASEA|South East Asia Control|VHHK,WSJC,WMFC,WBFC,WIIF,WAAF,RPHI,VVHM,VDPF,VTBB,V
 ASIA|West Asia Control|VABF,VIDF,VECF,VOMF,VEGF,OPKR,OPLR,OAKX,VCCF,VRMF,VGFR,VNSM
 BALT|Baltic Control|EYVL,EVRR,EETT
 BICC|Iceland Radio|BIRD-E,BIRD-N,BIRD-S,BIRD-W
-CR-RDO|Caribbean Radio|MYNN,MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP,KZMO
+CARI|Caribbean Control|MYNN,MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP,KZMO
+CARE|Caribbean Control East|MDCS,TNCF,TJZS,TTZP
+CARW|Caribbean Control West|MYNN,MUFH,MKJK,MTEG,KZMO
 EDUU|Rhein Radar|EDGG-E,EDMM-G,EDMM-R
 EDYY|Maastricht Radar|EBBU,EHAA,EDGG-P,EDWW-A,EDWW-B
 EURN|Eurocontrol North|EKDK,EETT,EFIN,EVRR,EYVL,ENBD,ENOS,ENSV,ESOS

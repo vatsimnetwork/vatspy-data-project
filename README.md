@@ -1,6 +1,6 @@
 # VAT-Spy Client Data Update Project
 
-VAT-Spy is an Air Traffic and ATC Display client that was designed by Ross Carlson for the VATSIM Network. VAT-Spy can be obtained at <a href="http://www1.metacraft.com/VATSpy/">http://www1.metacraft.com/VATSpy/</a>
+VAT-Spy is an Air Traffic and ATC Display client that was designed by Ross Carlson for the VATSIM Network. VAT-Spy can be obtained at [vatspy.rosscarlson.dev](https://vatspy.rosscarlson.dev/)
 
 <br>
 

@@ -18206,6 +18206,7 @@ VABX|Mumbai Oceanic||VABX
 VANP|Nagpur||VANP
 VCCF|Colombo||VCCF
 VDPF|Phnom Penh||VDPF
+VDPF-2|Phnom Penh (Sector 2)|VDPF_2|
 VEBN|Varanasi||VEBN
 VECC|Kolkata ACC - Kolkata||VECC
 VECC-B|Kolkata (Bhubneshwar) ACC - Kolkata||VECC-B
@@ -18229,8 +18230,18 @@ VOMX|Chennai Oceanic||VOMX
 VOTV|Trivandrum||VOTV
 VRMF|Male||VRMF
 VTBB|Bangkok||VTBB
+VVCL|Mekong (VDPF,VVHM,VVHN,VLVT)|VCL|
 VVHN|Hanoi||VVHN
-VVHM|Ho-Chi-Minh||VVHM
+VVHN-1|Hanoi (Sector 1)|VVHN_1|
+VVHN-2|Hanoi (Sector 2)|VVHN_2|
+VVHN-3|Hanoi (Sector 3)|VVHN_3|
+VVHN-4|Hanoi (Sector 4, covered by VVHM_1/VVHM if offline)|VVHN_4|
+VVHM|Ho Chi Minh||VVHM
+VVHM-1|Ho Chi Minh (Sector 1)|VVHM_1|
+VVHM-2|Ho Chi Minh (Sector 2)|VVHM_2|
+VVHM-3|Ho Chi Minh (Sector 3)|VVHM_3|
+VVHM-4|Ho Chi Minh (Sector 4)|VVHM_4|
+VVHM-5|Ho Chi Minh (Sector 5)|VVHM_5|
 VYYF|Rangoon|VYYY|VYYF
 WAAF|Ujung Pandang||WAAF
 WAAF-B|Ujung Pandang (Bali)|WAAF_B|WAAF-B
@@ -18385,7 +18396,6 @@ SAM-E|South America Control|SBAZ,SBRE,SBBS,SBCW
 SAM-S|South America Control|SLLF,SPIM,SGFA,SARR,SACF,SCFZ
 SAM-W|South America Control|SUEO,SCEZ,SAMF,SAEF,SCTZ,SAVF,SCCZ
 UKR|Ukraine Radar|UKDV,UKFV,UKOV,UKBV,UKLV
-VCL|Mekong Radar|VVHN,VVHM,VDPF,VLVT
 VZUP|India Radar|VABF,VEGF,VECF,VIDF,VOMF
 YBBB|Brisbane Centre Upper|YARA,YDOS,YISA,YMDE,YTBP,YTRT
 YMMM|Melbourne Centre Upper|YASP,YWOL,YBKE,YESP,YORE,YSNO,YTAS,YTBD

@@ -18080,7 +18080,19 @@ OJAC|Amman||OJAC
 OKAC|Kuwait||OKAC
 OLBB|Beirut|OLBA|OLBB
 OMAE|U.A.E|UAE|OMAE
-OOMM|Muscat||OOMM
+OMAE-W|U.A.E (North-West Sector)|OMAE_W|OMAE-W
+OMAE-R|U.A.E (North-East Sector)|OMAE_R|OMAE-R
+OMAE-E|U.A.E (East Sector)|OMAE_E|OMAE-E
+OMAE-A|U.A.E(Abu Dhabi Sector)|OMAE_A|OMAE-A
+OMAE-B|U.A.E(South Sector)|OMAE_B|OMAE-B
+OMAE-C|U.A.E(South-Central Sector)|OMAE_C|OMAE-C
+OMAE-D|U.A.E(North-Central Sector)|OMAE_D|OMAE-D
+OOMM|Muscat|OOMM|OOMM
+OOMM-4|Muscat (Sector 4)|OOMM_4|OOMM-4
+OOMM-3|Muscat (Sector 3)|OOMM_3|OOMM-3
+OOMM-2|Muscat (Sector 2)|OOMM_2|OOMM-2
+OOMM-1|Muscat (Sector 1)|OOMM_1|OOMM-1
+OOMM-5|Muscat (Sector 5)|OOMM_5|OOMM-5
 OPKR|Karachi||OPKR
 OPLR|Lahore||OPLR
 ORBB|Baghdad||ORBB

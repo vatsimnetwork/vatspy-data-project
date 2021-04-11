@@ -17764,22 +17764,14 @@ DRRR|Niamey||DRRR
 DTTC|Tunis||DTTC
 EBBU|Brussels||EBBU
 EBUR|Brussels Upper||EBBU
-EDGG|Langen||EDGG
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_E|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_B|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_F|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_G|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_K|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_O|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_R|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_Z|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_S|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_SE|EDGG-E
-EDGG-P|Langen Radar (Pad High) - Langen|EDGG_N|EDGG-P
+EDGG-B|Langen Radar (Baden) - Langen|EDGG_B|EDGG-B
+EDGG-G|Langen Radar (Giessen) - Langen|EDGG_G|EDGG-G
+EDGG-D|Langen Radar (Dinkelsbuehl) - Langen|EDGG_D|EDGG-D
+EDGG-R|Langen Radar (Ruedesheim) - Langen|EDGG_R|EDGG-R
+EDGG-K|Langen Radar (Kitzingen) - Langen|EDGG_K|EDGG-K
 EDGG-P|Langen Radar (Pad High) - Langen|EDGG_H|EDGG-P
 EDGG-P|Langen Radar (Pad High) - Langen|EDGG_P|EDGG-P
-EDGG-P|Langen Radar (Pad High) - Langen|EDGG_W|EDGG-P
-EDGG-P|Langen Radar (Pad High) - Langen|EDGG_NW|EDGG-P
+EDGG|Langen||EDGG
 EDMM|Muenchen|EDMM_C|EDMM
 EDMM|Muenchen|EDMM_E|EDMM
 EDMM|Muenchen|EDMM_F|EDMM
@@ -18357,7 +18349,7 @@ BICC|Iceland Radio|BIRD-E,BIRD-N,BIRD-S,BIRD-W
 CARI|Caribbean Control|MYNN,MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP,KZMO
 CARE|Caribbean Control East|MDCS,TNCF,TJZS,TTZP
 CARW|Caribbean Control West|MYNN,MUFH,MKJK,MTEG,KZMO
-EDUU|Rhein Radar|EDGG-E,EDMM-G,EDMM-R
+EDUU|Rhein Radar|EDGG-D,EDMM-G,EDMM-R,EDGG-B,EDGG-R,EDGG-G
 EDYY|Maastricht Radar|EBBU,EHAA,EDGG-P,EDWW-A,EDWW-B
 EURN|Eurocontrol North|EKDK,EETT,EFIN,EVRR,EYVL,ENBD,ENOS,ENSV,ESOS
 EURM|Maastricht Eurocontrol|LOVV,EBBU,EDGG,EDMM,EDWW,LSAS,EHAA

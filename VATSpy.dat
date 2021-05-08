@@ -162,8 +162,8 @@ Luxembourg|EL|Control
 Macau|VM|
 Madagascar|FM|
 Malawi|FW|
-Malaysia|WB|
-Malaysia|WM|
+Malaysia|WB|Radar
+Malaysia|WM|Radar
 Maldives|VR|
 Mali|GA|
 Malta|LM|Control
@@ -195,7 +195,7 @@ Panama|MP|
 Papua New Guinea|AY|
 Paraguay|SG|
 Peru|SP|Control
-Philippines|RP|
+Philippines|RP|Control
 Poland|EP|Radar
 Portugal|LP|Control
 Puerto Rico, USA|TJ|

@@ -12779,7 +12779,8 @@ TLPC|Vigie|14.018889|-61||TTZP|0
 TLPL|Hewanorra Intl|13.732222|-60.951944||TTZP|0
 TNCA|Queen Beatrix Airport|12.504167|-70.012222||TNCF|0
 TNCB|Flamingo Airport Bonaire|12.139444|-68.277222||TNCF|0
-TNCC|Hato Airport Curacao|12.191944|-68.956944||TNCF|0
+TNCC|Hato Airport Curaçao|12.191944|-68.956944||TNCF|0
+TNCC|Curaçao TRACON|12.191944|-68.956944|TNCF|TNCF|1
 TNCE|Roosevelt Saint Eustatius|17.491667|-62.975556||TJZS|0
 TNCM|Princess Juliana Intl St.Maarten|18.039722|-63.111944|SXM|TJZS|0
 TNCS|Juancho E. Yrausquin|17.645278|-63.220556||TJZS|0
@@ -18145,7 +18146,7 @@ SUEO|Montevideo||SUEO
 SVZM|Maiquetia||SVZM
 SYGC|Georgetown||SYGC
 TJZS|San Juan|SJU|TJZS
-TNCF|Curacao||TNCF
+TNCF|Curaçao||TNCF
 TTZP|Piarco||TTZP
 TTZO|Piarco Oceanic||TTZO
 UAAA|Almaty||UAAA

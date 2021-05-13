@@ -17972,6 +17972,7 @@ LFRR-N|Brest North||LFRR-N
 LFRR-E|Brest East (Covers West LFFF FL195+)||LFRR-E
 LFUM|Marseille Upper||LFMM
 LGGG|Athina||LGGG
+LGGG|Athina-(Above FL325)|LGGG-U|LGGG
 LGGG-E|Athina-(RDS sector)|LGGG-E|LGGG-E
 LGGG-W|Athina-(KRK sector)|LGGG-W|LGGG-W
 LGGG-S|Athina-(MIL sector)|LGGG-S|LGGG-S
@@ -17979,6 +17980,7 @@ LGGG-K|Athina-(KFN sector)|LGGG-K|LGGG-K
 LGGG-P|Athina-(PLH sector|LGGG-P|LGGG-P
 LGGG-H|Athina-(KAV sector)|LGGG-H|LGGG-H
 LGMD|Makedonia-(SKP sector)||LGMD
+LGMD|Makedonia-(Above FL325)|LGMD-U|LGMD
 LGMD-E|Makedonia-(LMO sector)|LGMD-E|LGMD-E
 LGMD-K|Makedonia-(KVL sector)|LGMD-K|LGMD-K
 LGMD-T|Makedonia-(TSL sector)|LGMD-T|LGMD-T

@@ -162,8 +162,8 @@ Luxembourg|EL|Control
 Macau|VM|
 Madagascar|FM|
 Malawi|FW|
-Malaysia|WB|
-Malaysia|WM|
+Malaysia|WB|Radar
+Malaysia|WM|Radar
 Maldives|VR|
 Mali|GA|
 Malta|LM|Control
@@ -195,7 +195,7 @@ Panama|MP|
 Papua New Guinea|AY|
 Paraguay|SG|
 Peru|SP|Control
-Philippines|RP|
+Philippines|RP|Control
 Poland|EP|Radar
 Portugal|LP|Control
 Puerto Rico, USA|TJ|
@@ -18108,7 +18108,7 @@ RKDA|Daegu ACC - Incheon||RKDA
 RKDA-E|Daegu ACC (East) - Incheon||RKDA
 RKDA-C|Daegu ACC (Central) - Incheon||RKDA
 RJBG|Kobe ACC - Fukuoka||RJBG
-RPHI|Manila||RPHI
+RPHI|Manila|MNL|RPHI
 SACF|Cordoba||SACF
 SACO|Cordoba TMA - Cordoba||SACO
 SAEF|Ezeiza||SAEF
@@ -18232,6 +18232,7 @@ WAAF-B|Ujung Pandang (Bali)|WAAF_B|WAAF-B
 WAAF-W|Ujung Pandang (West)|WAAF_W|WAAF-W
 WAAF-E|Ujung Pandang (East)|WAAF_E|WAAF-E
 WBFC|Kota Kinabalu||WBFC
+WBGG|Kuching||WBGG
 WIIF|Jakarta||WIIF
 WIIF-N|Jakarta (North)|WIIF_N|WIIF-N
 WIIF-W|Jakarta (West)|WIIF_W|WIIF-W

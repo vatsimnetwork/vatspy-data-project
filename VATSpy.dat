@@ -162,8 +162,8 @@ Luxembourg|EL|Control
 Macau|VM|
 Madagascar|FM|
 Malawi|FW|
-Malaysia|WB|
-Malaysia|WM|
+Malaysia|WB|Radar
+Malaysia|WM|Radar
 Maldives|VR|
 Mali|GA|
 Malta|LM|Control
@@ -195,7 +195,7 @@ Panama|MP|
 Papua New Guinea|AY|
 Paraguay|SG|
 Peru|SP|Control
-Philippines|RP|
+Philippines|RP|Control
 Poland|EP|Radar
 Portugal|LP|Control
 Puerto Rico, USA|TJ|
@@ -741,7 +741,7 @@ CYQN|Nakina|50.182778|-86.696389||CZYZ|0
 CYQQ|Comox|49.710833|-124.886667||CZVR|0
 CYQR|Regina|50.431944|-104.665833||CZWG|0
 CYQS|St. Thomas|42.77|-81.110833||CZWG|0
-CYQT|Thunder|48.371944|-89.323889||CZWG|0
+CYQT|Thunder Bay|48.371944|-89.323889||CZWG|0
 CYQU|Grande Prairie|55.179722|-118.885||CZEG|0
 CYQV|Yorkton|51.264722|-102.461667||CZWG|0
 CYQW|North Battleford|52.769167|-108.243611||CZWG|0
@@ -1549,7 +1549,7 @@ EDRW|Dierdorf-Wienau|50.566285|7.653864||EDGG|0
 EDRX|Neunkirchen-Bexbach|49.335306|7.265874||EDGG|0
 EDRY|Speyer|49.302775|8.451194||EDGG|0
 EDRZ|Zweibrucken|49.21|7.401667||EDGG|0
-EDSA|Albstadt-Degerfeld|48.249667|8.060333||EDGG|0
+EDSA|Albstadt-Degerfeld|48.249667|9.060333||EDGG|0
 EDSB|Karlsruhe/Baden-Baden|48.779722|8.080556||EDGG|0
 EDSE|Goeppingen-Bezgenriet|48.658333|9.625|ZES|EDGG|0
 EDSF|Huetten-Hotzenwald|47.633981|7.937261||LSAS|0
@@ -12779,7 +12779,8 @@ TLPC|Vigie|14.018889|-61||TTZP|0
 TLPL|Hewanorra Intl|13.732222|-60.951944||TTZP|0
 TNCA|Queen Beatrix Airport|12.504167|-70.012222||TNCF|0
 TNCB|Flamingo Airport Bonaire|12.139444|-68.277222||TNCF|0
-TNCC|Hato Airport Curacao|12.191944|-68.956944||TNCF|0
+TNCC|Hato Airport Curaçao|12.191944|-68.956944||TNCF|0
+TNCC|Curaçao TRACON|12.191944|-68.956944|TNCF|TNCF|1
 TNCE|Roosevelt Saint Eustatius|17.491667|-62.975556||TJZS|0
 TNCM|Princess Juliana Intl St.Maarten|18.039722|-63.111944|SXM|TJZS|0
 TNCS|Juancho E. Yrausquin|17.645278|-63.220556||TJZS|0
@@ -12823,7 +12824,6 @@ UASP|Pavlodar|52.195|77.073||UACN|0 ; io
 UASS|Semipalatinsk|50.351908|80.233964||UACN|0
 UASU|Urdzhar|47.091086|81.665003|UZR|UAAA|0
 UASZ|Zaisan|47.487492|84.887742|SZI|UAAA|0
-UATE|Aktau|43.86|51.091944||UATT|0
 UATG|Atyrau|47.120278|51.825833||UATT|0
 UATT|Aktyubinsk|50.245|57.203333||UATT|0
 UAUU|Kustanay (Narimanovka)|53.123833|63.3305||UACN|0
@@ -13958,7 +13958,7 @@ WBGF|Long Lellang|3.421389|115.153333|LGL|WBFC|0
 WBGG|Kuching|1.484722|110.340278||WBFC|0
 WBGI|Long Seridan|3.976944|115.068611|ODN|WBFC|0
 WBGJ|Limbang|4.808333|115.009444|LMN|WBFC|0
-WBGK|Mukah|2.906944|112.080833|MKM|WBFC|0
+WBGK|Mukah|2.8820222|112.043438||WBFC|0
 WBGL|Long Banga|3.201389|115.401667|LBP|WBFC|0
 WBGM|Marudi|4.179017|114.327639|MUR|WBFC|0
 WBGP|Kapit|2.009722|112.931944|KPI|WBFC|0
@@ -17765,31 +17765,31 @@ DTTC|Tunis||DTTC
 EBBU|Brussels||EBBU
 EBUR|Brussels Upper||EBBU
 EDGG|Langen||EDGG
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_E|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_B|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_F|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_G|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_K|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_O|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_R|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_Z|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_S|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_SE|EDGG-E
-EDGG-P|Langen Radar (Pad High) - Langen|EDGG_N|EDGG-P
+EDGG-B|Langen Radar (Baden) - Langen|EDGG_B|EDGG-B
+EDGG-G|Langen Radar (Giessen) - Langen|EDGG_G|EDGG-G
+EDGG-G|Langen Radar (Giessen) - Langen|EDGG_E|EDGG-G
+EDGG-G|Langen Radar (Giessen - Langen|EDGG_J|EDGG-G
+EDGG-D|Langen Radar (Dinkelsbuehl) - Langen|EDGG_D|EDGG-D
+EDGG-R|Langen Radar (Ruedesheim) - Langen|EDGG_R|EDGG-R
+EDGG-R|Langen Radar (Ruedesheim) - Langen|EDGG_I|EDGG-R
+EDGG-K|Langen Radar (Kitzingen) - Langen|EDGG_K|EDGG-K
+EDGG-K|Langen Radar (Kitzingen) - Langen|EDGG_A|EDGG-K
 EDGG-P|Langen Radar (Pad High) - Langen|EDGG_H|EDGG-P
 EDGG-P|Langen Radar (Pad High) - Langen|EDGG_P|EDGG-P
 EDGG-P|Langen Radar (Pad High) - Langen|EDGG_W|EDGG-P
 EDGG-P|Langen Radar (Pad High) - Langen|EDGG_NW|EDGG-P
-EDMM|Muenchen|EDMM_C|EDMM
-EDMM|Muenchen|EDMM_E|EDMM
-EDMM|Muenchen|EDMM_F|EDMM
-EDMM|Muenchen|EDMM_K|EDMM
-EDMM|Muenchen|EDMM_R|EDMM
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_A|EDMM-G
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_T|EDMM-G
-EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_S|EDMM-R
+EDMM|Muenchen||EDMM
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_Z|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_E|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_U|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_T|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_N|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_W|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_A|EDMM-Z
 EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_R|EDMM-R
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_M|EDMM-G
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_B|EDMM-G
 EDWW|Bremen||EDWW
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_E|EDWW-B
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_B|EDWW-B
@@ -17971,6 +17971,7 @@ LFRR-N|Brest North||LFRR-N
 LFRR-E|Brest East (Covers West LFFF FL195+)||LFRR-E
 LFUM|Marseille Upper||LFMM
 LGGG|Athina||LGGG
+LGGG|Athina-(Above FL325)|LGGG-U|LGGG
 LGGG-E|Athina-(RDS sector)|LGGG-E|LGGG-E
 LGGG-W|Athina-(KRK sector)|LGGG-W|LGGG-W
 LGGG-S|Athina-(MIL sector)|LGGG-S|LGGG-S
@@ -17978,6 +17979,7 @@ LGGG-K|Athina-(KFN sector)|LGGG-K|LGGG-K
 LGGG-P|Athina-(PLH sector|LGGG-P|LGGG-P
 LGGG-H|Athina-(KAV sector)|LGGG-H|LGGG-H
 LGMD|Makedonia-(SKP sector)||LGMD
+LGMD|Makedonia-(Above FL325)|LGMD-U|LGMD
 LGMD-E|Makedonia-(LMO sector)|LGMD-E|LGMD-E
 LGMD-K|Makedonia-(KVL sector)|LGMD-K|LGMD-K
 LGMD-T|Makedonia-(TSL sector)|LGMD-T|LGMD-T
@@ -17997,8 +17999,6 @@ LLPL|Pluto|PLUTO|LLLL
 LLGV|Hagav|HAGAV|LLLL
 LMMM|Malta||LMMM
 LOVV|Wien||LOVV
-LOVV|Wien|LOVV_N|LOVV-N
-LOVV|Wien|LOVV_S|LOVV-S
 LPPC|Lisboa||LPPC
 LPPC-D|Lisboa - DEMOS Sector|LPPC_D|LPPC-D
 LPPC-V|Lisboa - VERAM Sector|LPPC_V|LPPC-V
@@ -18105,7 +18105,7 @@ RKDA|Daegu ACC - Incheon||RKDA
 RKDA-E|Daegu ACC (East) - Incheon||RKDA
 RKDA-C|Daegu ACC (Central) - Incheon||RKDA
 RJBG|Kobe ACC - Fukuoka||RJBG
-RPHI|Manila||RPHI
+RPHI|Manila|MNL|RPHI
 SACF|Cordoba||SACF
 SACO|Cordoba TMA - Cordoba||SACO
 SAEF|Ezeiza||SAEF
@@ -18145,7 +18145,7 @@ SUEO|Montevideo||SUEO
 SVZM|Maiquetia||SVZM
 SYGC|Georgetown||SYGC
 TJZS|San Juan|SJU|TJZS
-TNCF|Curacao||TNCF
+TNCF|Curaçao||TNCF
 TTZP|Piarco||TTZP
 TTZO|Piarco Oceanic||TTZO
 UAAA|Almaty||UAAA
@@ -18229,6 +18229,7 @@ WAAF-B|Ujung Pandang (Bali)|WAAF_B|WAAF-B
 WAAF-W|Ujung Pandang (West)|WAAF_W|WAAF-W
 WAAF-E|Ujung Pandang (East)|WAAF_E|WAAF-E
 WBFC|Kota Kinabalu||WBFC
+WBGG|Kuching||WBGG
 WIIF|Jakarta||WIIF
 WIIF-N|Jakarta (North)|WIIF_N|WIIF-N
 WIIF-W|Jakarta (West)|WIIF_W|WIIF-W
@@ -18349,8 +18350,8 @@ BICC|Iceland Radio|BIRD-E,BIRD-N,BIRD-S,BIRD-W
 CARI|Caribbean Control|MYNN,MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP,KZMO
 CARE|Caribbean Control East|MDCS,TNCF,TJZS,TTZP
 CARW|Caribbean Control West|MYNN,MUFH,MKJK,MTEG,KZMO
-EDUU|Rhein Radar|EDGG-E,EDMM-G,EDMM-R
-EDYY|Maastricht Radar|EBBU,EHAA,EDGG-P,EDWW-A,EDWW-B
+EDUU|Rhein Radar|EDGG-D,EDMM-G,EDMM-R,EDMM-Z,EDWW-B,EDGG-B,EDGG-R,EDGG-G
+EDYY|Maastricht Radar|EBBU,EHAA,EDGG-P,EDWW-A
 EURN|Eurocontrol North|EKDK,EETT,EFIN,EVRR,EYVL,ENBD,ENOS,ENSV,ESOS
 EURM|Maastricht Eurocontrol|LOVV,EBBU,EDGG,EDMM,EDWW,LSAS,EHAA
 EURW|Eurocontrol West|LFBB,LFEE,LFMM,LFRR,LFFF,LPPC,LECM,LECB,LECS

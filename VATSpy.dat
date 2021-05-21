@@ -13958,7 +13958,7 @@ WBGF|Long Lellang|3.421389|115.153333|LGL|WBFC|0
 WBGG|Kuching|1.484722|110.340278||WBFC|0
 WBGI|Long Seridan|3.976944|115.068611|ODN|WBFC|0
 WBGJ|Limbang|4.808333|115.009444|LMN|WBFC|0
-WBGK|Mukah|2.906944|112.080833|MKM|WBFC|0
+WBGK|Mukah|2.8820222|112.043438||WBFC|0
 WBGL|Long Banga|3.201389|115.401667|LBP|WBFC|0
 WBGM|Marudi|4.179017|114.327639|MUR|WBFC|0
 WBGP|Kapit|2.009722|112.931944|KPI|WBFC|0
@@ -17776,16 +17776,18 @@ EDGG-K|Langen Radar (Kitzingen) - Langen|EDGG_A|EDGG-K
 EDGG-P|Langen Radar (Pad High) - Langen|EDGG_H|EDGG-P
 EDGG-P|Langen Radar (Pad High) - Langen|EDGG_P|EDGG-P
 EDGG|Langen||EDGG
-EDMM|Muenchen|EDMM_C|EDMM
-EDMM|Muenchen|EDMM_E|EDMM
-EDMM|Muenchen|EDMM_F|EDMM
-EDMM|Muenchen|EDMM_K|EDMM
-EDMM|Muenchen|EDMM_R|EDMM
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_A|EDMM-G
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_T|EDMM-G
-EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_S|EDMM-R
+EDMM|Muenchen||EDMM
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_Z|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_E|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_U|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_T|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_N|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_W|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_A|EDMM-Z
 EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_R|EDMM-R
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_M|EDMM-G
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_B|EDMM-G
 EDWW|Bremen||EDWW
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_E|EDWW-B
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_B|EDWW-B
@@ -18347,8 +18349,8 @@ BICC|Iceland Radio|BIRD-E,BIRD-N,BIRD-S,BIRD-W
 CARI|Caribbean Control|MYNN,MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP,KZMO
 CARE|Caribbean Control East|MDCS,TNCF,TJZS,TTZP
 CARW|Caribbean Control West|MYNN,MUFH,MKJK,MTEG,KZMO
-EDUU|Rhein Radar|EDGG-D,EDMM-G,EDMM-R,EDGG-B,EDGG-R,EDGG-G
-EDYY|Maastricht Radar|EBBU,EHAA,EDGG-P,EDWW-A,EDWW-B
+EDUU|Rhein Radar|EDGG-D,EDMM-G,EDMM-R,EDGG-B,EDGG-R,EDGG-G,EDMM-Z,EDWW-B
+EDYY|Maastricht Radar|EBBU,EHAA,EDGG-P,EDWW-A
 EURN|Eurocontrol North|EKDK,EETT,EFIN,EVRR,EYVL,ENBD,ENOS,ENSV,ESOS
 EURM|Maastricht Eurocontrol|LOVV,EBBU,EDGG,EDMM,EDWW,LSAS,EHAA
 EURW|Eurocontrol West|LFBB,LFEE,LFMM,LFRR,LFFF,LPPC,LECM,LECB,LECS

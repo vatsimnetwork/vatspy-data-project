@@ -138,7 +138,7 @@ Indonesia|WI|
 Indonesia|WR|
 Iran|TE|Radar
 Iran|OI|Radar
-Iraq|OR|Radar
+Iraq|OR|Control
 Ireland|EI|Control
 Israel|LL|Control
 Italy|LI|Radar
@@ -150,7 +150,7 @@ Kazakhstan|UA|
 Kyrgyzstan|UC|
 Kenya|HK|
 Kiribati-Tuvalu|NG|
-Kuwait|OK|
+Kuwait|OK|Radar
 Laos|VL|Control
 Latvia|EV|Control
 Lebanon|OL|Radar
@@ -18074,6 +18074,8 @@ OOMM|Muscat||OOMM
 OPKR|Karachi||OPKR
 OPLR|Lahore||OPLR
 ORBB|Baghdad||ORBB
+ORBB-N|Baghdad North|ORBB_N|ORBB-N
+ORBB-S|Baghdad South|ORBB_S|ORBB-S
 OSTT|Damascus|OSDI|OSTT
 OYSC|Sanaa||OYSC
 PAZA|Anchorage|ANC|PAZA

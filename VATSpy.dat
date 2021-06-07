@@ -14087,7 +14087,7 @@ WMKE|Kerteh|4.538333|103.426667|KTE|WMFC|0
 WMKF|Rmaf Kuala Lumpur/Simpang|3.111389|101.702778||WMFC|0
 WMKI|Ipoh/Ipoh Sultan Azlan Shah|4.569167|101.093056|IPH|WMFC|0
 WMKJ|Johore Bharu-Senai|1.640556|103.670278||WMFC|0
-WMKK|Kuala Lumpur-Subang|2.743281|101.697958|KUL|WMFC|0
+WMKK|Kuala Lumpur-Subang|2.743281|101.697958||WMFC|0
 WMKL|Langkawi|6.336389|99.735278||WMFC|0
 WMKM|Malacca|2.263056|102.253889||WMFC|0
 WMKN|Kuala Terengganu/Sultan Mahmud|5.381111|103.103056|TGG|WMFC|0
@@ -18233,7 +18233,7 @@ WIIF|Jakarta||WIIF
 WIIF-N|Jakarta (North)|WIIF_N|WIIF-N
 WIIF-W|Jakarta (West)|WIIF_W|WIIF-W
 WIIF-E|Jakarta (East)|WIIF_E|WIIF-E
-WMFC|Kuala Lumpur|KUL|WMFC
+WMFC|Kuala Lumpur||WMFC
 WSJC|Singapore||WSJC
 YARA|Brisbane (Arafura) 133.7|BN-ARA|
 YASP|Melbourne (Alice Springs) 131.8|ML-ASP|

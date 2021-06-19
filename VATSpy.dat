@@ -162,8 +162,8 @@ Luxembourg|EL|Control
 Macau|VM|
 Madagascar|FM|
 Malawi|FW|
-Malaysia|WB|
-Malaysia|WM|
+Malaysia|WB|Radar
+Malaysia|WM|Radar
 Maldives|VR|
 Mali|GA|
 Malta|LM|Control
@@ -195,7 +195,7 @@ Panama|MP|
 Papua New Guinea|AY|
 Paraguay|SG|
 Peru|SP|Control
-Philippines|RP|
+Philippines|RP|Control
 Poland|EP|Radar
 Portugal|LP|Control
 Puerto Rico, USA|TJ|
@@ -741,7 +741,7 @@ CYQN|Nakina|50.182778|-86.696389||CZYZ|0
 CYQQ|Comox|49.710833|-124.886667||CZVR|0
 CYQR|Regina|50.431944|-104.665833||CZWG|0
 CYQS|St. Thomas|42.77|-81.110833||CZWG|0
-CYQT|Thunder|48.371944|-89.323889||CZWG|0
+CYQT|Thunder Bay|48.371944|-89.323889||CZWG|0
 CYQU|Grande Prairie|55.179722|-118.885||CZEG|0
 CYQV|Yorkton|51.264722|-102.461667||CZWG|0
 CYQW|North Battleford|52.769167|-108.243611||CZWG|0
@@ -1549,7 +1549,7 @@ EDRW|Dierdorf-Wienau|50.566285|7.653864||EDGG|0
 EDRX|Neunkirchen-Bexbach|49.335306|7.265874||EDGG|0
 EDRY|Speyer|49.302775|8.451194||EDGG|0
 EDRZ|Zweibrucken|49.21|7.401667||EDGG|0
-EDSA|Albstadt-Degerfeld|48.249667|8.060333||EDGG|0
+EDSA|Albstadt-Degerfeld|48.249667|9.060333||EDGG|0
 EDSB|Karlsruhe/Baden-Baden|48.779722|8.080556||EDGG|0
 EDSE|Goeppingen-Bezgenriet|48.658333|9.625|ZES|EDGG|0
 EDSF|Huetten-Hotzenwald|47.633981|7.937261||LSAS|0
@@ -12779,7 +12779,8 @@ TLPC|Vigie|14.018889|-61||TTZP|0
 TLPL|Hewanorra Intl|13.732222|-60.951944||TTZP|0
 TNCA|Queen Beatrix Airport|12.504167|-70.012222||TNCF|0
 TNCB|Flamingo Airport Bonaire|12.139444|-68.277222||TNCF|0
-TNCC|Hato Airport Curacao|12.191944|-68.956944||TNCF|0
+TNCC|Hato Airport Curaçao|12.191944|-68.956944||TNCF|0
+TNCC|Curaçao TRACON|12.191944|-68.956944|TNCF|TNCF|1
 TNCE|Roosevelt Saint Eustatius|17.491667|-62.975556||TJZS|0
 TNCM|Princess Juliana Intl St.Maarten|18.039722|-63.111944|SXM|TJZS|0
 TNCS|Juancho E. Yrausquin|17.645278|-63.220556||TJZS|0
@@ -12823,7 +12824,6 @@ UASP|Pavlodar|52.195|77.073||UACN|0 ; io
 UASS|Semipalatinsk|50.351908|80.233964||UACN|0
 UASU|Urdzhar|47.091086|81.665003|UZR|UAAA|0
 UASZ|Zaisan|47.487492|84.887742|SZI|UAAA|0
-UATE|Aktau|43.86|51.091944||UATT|0
 UATG|Atyrau|47.120278|51.825833||UATT|0
 UATT|Aktyubinsk|50.245|57.203333||UATT|0
 UAUU|Kustanay (Narimanovka)|53.123833|63.3305||UACN|0
@@ -13698,7 +13698,7 @@ VVCT|Can Tho|10.083889|105.71|VCA|VVHM|0
 VVDB|Dien Bien|21.397778|103.009167|DIN|VVHN|0
 VVDH|Quang Binh/Dong Hoi|17.515|106.590556|VDH|VVHN|0
 VVDL|Da Lat/Lien Khuong|11.75|108.366667|DLI|VVHM|0
-VVDN|Da Nang|16.043889|108.200278||VVHM|0
+VVDN|Da Nang|16.043889|108.200278|DNA|VVHM|0
 VVNB|Ha Noi|21.221667|105.805556||VVHN|0
 VVNS|Sonla/Na San|21.214722|104.035278|SQH|VVHN|0
 VVNT|Nha Trang|12.25|109.2||VVHM|0
@@ -13958,7 +13958,7 @@ WBGF|Long Lellang|3.421389|115.153333|LGL|WBFC|0
 WBGG|Kuching|1.484722|110.340278||WBFC|0
 WBGI|Long Seridan|3.976944|115.068611|ODN|WBFC|0
 WBGJ|Limbang|4.808333|115.009444|LMN|WBFC|0
-WBGK|Mukah|2.906944|112.080833|MKM|WBFC|0
+WBGK|Mukah|2.8820222|112.043438||WBFC|0
 WBGL|Long Banga|3.201389|115.401667|LBP|WBFC|0
 WBGM|Marudi|4.179017|114.327639|MUR|WBFC|0
 WBGP|Kapit|2.009722|112.931944|KPI|WBFC|0
@@ -17505,7 +17505,7 @@ ZHNY|Nanyang Jiangying|32.980833|112.615278||ZHCC|0
 ZHSN|Shennongjia Hongping|31.626111|110.34||ZHWH|0
 ZHSY|Shiyan Wudangshan|32.593333|110.906111||ZHWH|0
 ZHXF|Xiangyang Liuji|32.150556|112.290833||ZHHH|0
-ZHXY|Xinayng Minggang|32.540833|114.079167||ZHHH|0
+ZHXY|Xinyang Minggang|32.540833|114.079167||ZHHH|0
 ZHYC|Yichang Sanxia|30.556389|111.48||ZHHH|0
 ZJDF|Dongfang(H)|19.136667|108.673333||ZJSA|0
 ZJSY|Sanya Phoenix|18.302892|109.412269||ZJSA|0
@@ -17537,7 +17537,7 @@ ZLLT|Xi'an Lintong|34.376667|109.12||ZLHW|0
 ZLQY|Qingyang Xifeng|35.803056|107.598889||ZLHW|0
 ZLTS|Tianshui Maijishan|34.560278|105.860278||ZLHW|0
 ZLXH|Gannan Xiahe|34.819167|102.621944||ZLHW|0
-ZLXN|Xining Caojiapu|36.616670|101.766390||ZLHW|0
+ZLXN|Xining Caojiapu|36.530278|102.039444||ZLHW|0
 ZLXY|Xi'an Xianyang|34.447119|108.751592||ZLHW|0
 ZLYA|Yan'An Nanniwan|36.479861|109.464111||ZLHW|0
 ZLYX|Yan'An|36.600000|109.500000||ZLHW|0
@@ -17553,6 +17553,7 @@ ZMBN|Bulgan|48.854167|103.484167||ZMUB|0
 ZMBS|Bulgan-Khovd|46.101667|91.581944||ZMUB|0
 ZMBU|Baruun-Urt|46.660278|113.285278||ZMUB|0
 ZMCD|Choibalsan|48.135556|114.646111||ZMUB|0
+ZMCK|Ulaanbaatar-Chinggis Khaan Intl|47.646944|106.82||ZMUB|0
 ZMDA|Dadal|49.015|111.507778||ZMUB|0
 ZMDN|Uliastai|47.712778|96.524167||ZMUB|0
 ZMDZ|Dalanzadgad|43.608611|104.366944||ZMUB|0
@@ -17567,7 +17568,7 @@ ZMMN|Moron|49.663056|100.099167||ZMUB|0
 ZMSF|Nalaikh/Sky Friends|47.773056|107.437778||ZMUB|0
 ZMTL|Zavkhan/Tosontsengel|48.738611|98.293611|TNZ|ZMUB|0
 ZMTT|Tavan Tolgoi|43.773611|105.578889||ZMUB|0
-ZMUB|Ulaanbaatar-Chinggis Khaan Intl|47.843056|106.766639||ZMUB|0
+ZMUB|Ulaanbaatar-Buyant-Ukhaa Intl|47.843056|106.766639||ZMUB|0
 ZMUG|Ulaangom|50.067222|91.937778||ZMUB|0
 ZMUH|Khentii/Undurkhaan|47.304444|110.608889|UNR|ZMUB|0
 ZMUL|Olgii|48.991667|89.919722||ZMUB|0
@@ -17590,13 +17591,14 @@ ZPZT|Zhaotong|27.327778|103.756389||ZPKM|0
 ZSAM|Xiamen Gaoqi|24.543333|118.125000||ZSHA|0
 ZSAQ|Anqing|30.5825|117.050556||ZSHA|0
 ZSCG|Changzhou Benniu|31.919722|119.769722||ZSHA|0
-ZSCN|Nanchang Changbei|28.600000|115.916390||ZSHA|0
+ZSCN|Nanchang Changbei|28.862222|115.901389||ZSHA|0
 ZSDY|Dongying|37.508889|118.789167||ZSHA|0
 ZSFY|Fuyang|32.881944|115.734167||ZSHA|0
 ZSFZ|Fuzhou Changle|25.933333|119.661667||ZSHA|0
 ZSGS|Jinggangshan|26.8575|114.7375||ZSHA|0
 ZSGZ|Ganzhou Huangjin|25.850000|114.950000||ZSHA|0
 ZSHC|Hangzhou Xiaoshan|30.228333|120.431667||ZSHA|0
+ZSHZ|Heze Mudan|35.213611|115.736667||ZSHA|0
 ZSJD|Jingdezhen Luojia|29.338611|117.175833||ZSHA|0
 ZSJG|Jining Qufu|35.292778|116.346667||ZSHA|0
 ZSJH|Chizhou Jiuhuashan|30.740278|117.6875||ZSHA|0
@@ -17610,7 +17612,7 @@ ZSLY|Linyi Qiyang|35.046111|118.411667||ZSHA|0
 ZSNB|Ningbo Lishe|29.826683|121.461906||ZSHA|0
 ZSNJ|Nanjing Lukou|31.740000|118.860000||ZSHA|0
 ZSNT|Nantong Xingdong|32.070833|120.975556||ZSHA|0
-ZSOF|Hefei Xingqiao|31.991111|116.989167||ZSHA|0
+ZSOF|Hefei Xingqiao|31.988333|116.976667||ZSHA|0
 ZSOX|Hefei Luogang|31.783333|117.300000||ZSHA|0
 ZSPD|Shanghai Pudong|31.141667|121.790000||ZSHA|0
 ZSQD|Qingdao Liuting|36.263333|120.376667||ZSHA|0
@@ -17622,6 +17624,7 @@ ZSSM|Sanming Shaxian|26.426389|117.833611||ZSHA|0
 ZSSR|Shangrao Sanqingshan|28.379722|117.964167||ZSHA|0
 ZSSS|Shanghai Hongqiao|31.197778|121.335556||ZSHA|0
 ZSTX|Huangshan Tunxi|29.733333|118.255833||ZSHA|0
+ZSWA|Wuhu Xuanzhou|31.104167|118.666667||ZSHA|0
 ZSWF|Weifang|36.646667|119.118611||ZSHA|0
 ZSWH|Weihai Dashuipo|37.187142|122.228897||ZSHA|0
 ZSWX|Wuxi Shuofang|31.494444|120.429444||ZSHA|0
@@ -17646,7 +17649,7 @@ ZUDS|Chengdu Taipingsi|30.601680|104.013892||ZPKM|0
 ZUGH|Guanghan|30.948505|104.329590||ZPKM|0
 ZUGU|Guangyuan Panlong|32.390278|105.693889||ZPKM|0
 ZUGY|Guiyang Longdongbao|26.536666|106.800000||ZPKM|0
-ZUGZ|Ganzi Sage'erwang(Gesa'er)|31.756111|99.556944||ZPKM|0
+ZUGZ|Garze Gesar|31.756111|99.556944||ZPKM|0
 ZUHY|A'Ba Hongyuan|32.531667|102.352222||ZPKM|0
 ZUJZ|Jiuzhai Huanglong|32.857|103.683||ZPKM|0
 ZUKD|Kangding|30.143056|101.738611||ZPKM|0
@@ -17664,6 +17667,7 @@ ZUPS|Liupanshui Ywezhao|26.608889|104.978333||ZPKM|0
 ZUQJ|Qianjiang Wulingshan|29.514722|108.831667||ZPKM|0
 ZURK|Rikaze Heping|29.351944|89.310556||ZPKM|0
 ZUSN|Suining|30.466667|105.601389||ZPKM|0
+ZUTF|Chengdu Tianfu|30.291111|104.444722||ZPKM|0
 ZUTR|Tongren Fenghuang|27.884167|109.309444||ZPKM|0
 ZUUU|Chengdu Shuangliu|30.580000|103.948333||ZPKM|0
 ZUWL|Chongqing Xiannvshan(Fairy mountain)|29.463889|107.693333||ZPKM|0
@@ -17710,7 +17714,7 @@ ZYDU|Wudalianchi Dedu|48.441111|126.128889||ZYSH|0
 ZYFY|Fuyuan Dongji|48.197222|134.363333||ZYSH|0
 ZYHB|Harbin Taiping|45.623403|126.250328||ZYSH|0
 ZYHE|Heihe Aihui|50.172222|127.308611||ZYSH|0
-ZYJD|Jiagedaqi Gaxian|50.371111|124.1175||ZYSH|0
+ZYJD|Daxing'anling Oroqen|50.371111|124.1175||ZYSH|0
 ZYJM|Jiamusi|46.843394|130.465389||ZYSH|0
 ZYJS|Jiansanjiang Shidi|47.108611|132.6575||ZYSH|0
 ZYJX|Jixi Xingkaihu|45.293056|131.193056||ZYSH|0
@@ -17764,32 +17768,30 @@ DRRR|Niamey||DRRR
 DTTC|Tunis||DTTC
 EBBU|Brussels||EBBU
 EBUR|Brussels Upper||EBBU
-EDGG|Langen||EDGG
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_E|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_B|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_F|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_G|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_K|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_O|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_R|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_Z|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_S|EDGG-E
-EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_SE|EDGG-E
-EDGG-P|Langen Radar (Pad High) - Langen|EDGG_N|EDGG-P
+EDGG-B|Langen Radar (Baden) - Langen|EDGG_B|EDGG-B
+EDGG-G|Langen Radar (Giessen) - Langen|EDGG_G|EDGG-G
+EDGG-G|Langen Radar (Giessen) - Langen|EDGG_E|EDGG-G
+EDGG-G|Langen Radar (Giessen - Langen|EDGG_J|EDGG-G
+EDGG-D|Langen Radar (Dinkelsbuehl) - Langen|EDGG_D|EDGG-D
+EDGG-R|Langen Radar (Ruedesheim) - Langen|EDGG_R|EDGG-R
+EDGG-R|Langen Radar (Ruedesheim) - Langen|EDGG_I|EDGG-R
+EDGG-K|Langen Radar (Kitzingen) - Langen|EDGG_K|EDGG-K
+EDGG-K|Langen Radar (Kitzingen) - Langen|EDGG_A|EDGG-K
 EDGG-P|Langen Radar (Pad High) - Langen|EDGG_H|EDGG-P
 EDGG-P|Langen Radar (Pad High) - Langen|EDGG_P|EDGG-P
-EDGG-P|Langen Radar (Pad High) - Langen|EDGG_W|EDGG-P
-EDGG-P|Langen Radar (Pad High) - Langen|EDGG_NW|EDGG-P
-EDMM|Muenchen|EDMM_C|EDMM
-EDMM|Muenchen|EDMM_E|EDMM
-EDMM|Muenchen|EDMM_F|EDMM
-EDMM|Muenchen|EDMM_K|EDMM
-EDMM|Muenchen|EDMM_R|EDMM
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_A|EDMM-G
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_T|EDMM-G
-EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_S|EDMM-R
+EDGG|Langen||EDGG
+EDMM|Muenchen||EDMM
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_Z|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_E|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_U|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_T|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_N|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_W|EDMM-Z
+EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_A|EDMM-Z
 EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_R|EDMM-R
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_M|EDMM-G
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_B|EDMM-G
 EDWW|Bremen||EDWW
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_E|EDWW-B
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_B|EDWW-B
@@ -17971,6 +17973,7 @@ LFRR-N|Brest North||LFRR-N
 LFRR-E|Brest East (Covers West LFFF FL195+)||LFRR-E
 LFUM|Marseille Upper||LFMM
 LGGG|Athina||LGGG
+LGGG|Athina-(Above FL325)|LGGG-U|LGGG
 LGGG-E|Athina-(RDS sector)|LGGG-E|LGGG-E
 LGGG-W|Athina-(KRK sector)|LGGG-W|LGGG-W
 LGGG-S|Athina-(MIL sector)|LGGG-S|LGGG-S
@@ -17978,6 +17981,7 @@ LGGG-K|Athina-(KFN sector)|LGGG-K|LGGG-K
 LGGG-P|Athina-(PLH sector|LGGG-P|LGGG-P
 LGGG-H|Athina-(KAV sector)|LGGG-H|LGGG-H
 LGMD|Makedonia-(SKP sector)||LGMD
+LGMD|Makedonia-(Above FL325)|LGMD-U|LGMD
 LGMD-E|Makedonia-(LMO sector)|LGMD-E|LGMD-E
 LGMD-K|Makedonia-(KVL sector)|LGMD-K|LGMD-K
 LGMD-T|Makedonia-(TSL sector)|LGMD-T|LGMD-T
@@ -17997,8 +18001,6 @@ LLPL|Pluto|PLUTO|LLLL
 LLGV|Hagav|HAGAV|LLLL
 LMMM|Malta||LMMM
 LOVV|Wien||LOVV
-LOVV|Wien|LOVV_N|LOVV-N
-LOVV|Wien|LOVV_S|LOVV-S
 LPPC|Lisboa||LPPC
 LPPC-D|Lisboa - DEMOS Sector|LPPC_D|LPPC-D
 LPPC-V|Lisboa - VERAM Sector|LPPC_V|LPPC-V
@@ -18106,7 +18108,7 @@ RKDA-W|Daegu ACC (West) - Incheon||RKDA
 RKDA-E|Daegu ACC (East) - Incheon||RKDA
 RKDA-C|Daegu ACC (Central) - Incheon||RKDA
 RJBG|Kobe ACC - Fukuoka||RJBG
-RPHI|Manila||RPHI
+RPHI|Manila|MNL|RPHI
 SACF|Cordoba||SACF
 SACO|Cordoba TMA - Cordoba||SACO
 SAEF|Ezeiza||SAEF
@@ -18146,7 +18148,7 @@ SUEO|Montevideo||SUEO
 SVZM|Maiquetia||SVZM
 SYGC|Georgetown||SYGC
 TJZS|San Juan|SJU|TJZS
-TNCF|Curacao||TNCF
+TNCF|Curaçao||TNCF
 TTZP|Piarco||TTZP
 TTZO|Piarco Oceanic||TTZO
 UAAA|Almaty||UAAA
@@ -18222,14 +18224,16 @@ VOMX|Chennai Oceanic||VOMX
 VOTV|Trivandrum||VOTV
 VRMF|Male||VRMF
 VTBB|Bangkok||VTBB
+VVCL|Mekong|VCL|VVCL
 VVHN|Hanoi||VVHN
-VVHM|Ho-Chi-Minh||VVHM
+VVHM|Ho Chi Minh||VVHM
 VYYF|Rangoon|VYYY|VYYF
 WAAF|Ujung Pandang||WAAF
 WAAF-B|Ujung Pandang (Bali)|WAAF_B|WAAF-B
 WAAF-W|Ujung Pandang (West)|WAAF_W|WAAF-W
 WAAF-E|Ujung Pandang (East)|WAAF_E|WAAF-E
 WBFC|Kota Kinabalu||WBFC
+WBGG|Kuching||WBGG
 WIIF|Jakarta||WIIF
 WIIF-N|Jakarta (North)|WIIF_N|WIIF-N
 WIIF-W|Jakarta (West)|WIIF_W|WIIF-W
@@ -18350,8 +18354,8 @@ BICC|Iceland Radio|BIRD-E,BIRD-N,BIRD-S,BIRD-W
 CARI|Caribbean Control|MYNN,MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP,KZMO
 CARE|Caribbean Control East|MDCS,TNCF,TJZS,TTZP
 CARW|Caribbean Control West|MYNN,MUFH,MKJK,MTEG,KZMO
-EDUU|Rhein Radar|EDGG-E,EDMM-G,EDMM-R
-EDYY|Maastricht Radar|EBBU,EHAA,EDGG-P,EDWW-A,EDWW-B
+EDUU|Rhein Radar|EDGG-D,EDMM-G,EDMM-R,EDGG-B,EDGG-R,EDGG-G,EDMM-Z,EDWW-B
+EDYY|Maastricht Radar|EBBU,EHAA,EDGG-P,EDWW-A
 EURN|Eurocontrol North|EKDK,EETT,EFIN,EVRR,EYVL,ENBD,ENOS,ENSV,ESOS
 EURM|Maastricht Eurocontrol|LOVV,EBBU,EDGG,EDMM,EDWW,LSAS,EHAA
 EURW|Eurocontrol West|LFBB,LFEE,LFMM,LFRR,LFFF,LPPC,LECM,LECB,LECS
@@ -18373,12 +18377,11 @@ RU-WSC|Western Siberia Control|USTV,USSV,USCC,UNNT
 RU-CEN|Central Asia Control|UATT,UACN,UAAA,UTAK,UTAA,UTAT,UTAV,UTSD,UTTR,UAII,UCFO,UTDD,UCFM
 RU-NWC|North West Control|ULLL,ULWW,ULMM,ULAA,ULAM,ULKK,UMKK,UUYY
 RU-SC|Caucasus Radar|URRV,UGGG,UDDD,UBBA
-SAM-N|South America Control|MHCC,MPZL,SKEC,SVZM,SYGC,SMPM,SOOO,SKED,SEFG
-SAM-E|South America Control|SBAZ,SBRE,SBBS,SBCW
-SAM-S|South America Control|SLLF,SPIM,SGFA,SARR,SACF,SCFZ
-SAM-W|South America Control|SUEO,SCEZ,SAMF,SAEF,SCTZ,SAVF,SCCZ
+SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
+SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS
+SAM-S|South America Control South|SUEO,SGFA,SAEF,SARR,SACF,SAMF,SAVF
+SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 UKR|Ukraine Radar|UKDV,UKFV,UKOV,UKBV,UKLV
-VCL|Mekong Radar|VVHN,VVHM,VDPF,VLVT
 VZUP|India Radar|VABF,VEGF,VECF,VIDF,VOMF
 YBBB|Brisbane Centre Upper|YARA,YDOS,YISA,YMDE,YTBP,YTRT
 YMMM|Melbourne Centre Upper|YASP,YWOL,YBKE,YESP,YORE,YSNO,YTAS,YTBD

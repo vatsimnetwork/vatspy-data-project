@@ -2053,7 +2053,7 @@ EGYE|Barkston Heath Royal AFB|52.962333|-0.561667||EGTT|0
 EGYH|Holbeach|52.86667|0.15||EGTT|0
 EGYK|Elvington York|53.589444|-0.992778||EGTT|0
 EGYM|Marham|52.648333|0.5505||EGTT|0
-EGYP|Mount Pleasant (Monte Agradable)|-51.826389|-58.447222||SAVF|0
+EGYP|Mount Pleasant (Monte Agradable)|-51.826389|-58.447222||EGYP|0
 EGYW|Wainfleet|53.08306|0.26639||EGTT|0
 EHAL|Ameland|53.451667|5.676667||EHAA|0
 EHAM|Amsterdam-Schiphol|52.308333|4.765|AMS|EHAA|0
@@ -17853,6 +17853,7 @@ EGTT-S|London ACC (South) - London|LTC_SW|EGTT-S
 EGTT-SC|London ACC (South-Central) - London|LON_SC|EGTT-SC
 EGTT-W|London ACC (West) - London|LON_W|EGTT-W
 EGVV|Swanwick Military|SWAN|EGVV
+EGYP|Mount Pleasant (Monte Agradable)|ISLAND|EGYP
 EHAA|Amsterdam||EHAA
 EHMC|Dutch Mil (Military)||EHAA
 EHML|Bandbox CRC (Military)||EHAA

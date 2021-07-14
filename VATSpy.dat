@@ -18298,17 +18298,17 @@ YWEG|Brisbane (Warrego) 132.45* (125.2)|BN-WEG|
 YWON|Melbourne (Wonthaggi) 135.3* (124.0)|ML-WON|
 YWRA|Melbourne (Woomera) 132.8* (128.2)|ML-WRA|
 YYWE|Melbourne (Yarrowee) 134.32* (124.0)|ML-YWE|
-ZBPE|Beijing||ZBPE
+ZBPE|Beijing|ZBPE|
 ZBAA|Beijing ACC - Beijing|ZBAA|
-ZBHH|Hohhot ACC (Cover 7800m and Below) - Beijing|ZBHH|
-ZBYN|Taiyuan ACC (Cover 7800m and Below) - Beijing|ZBYN|
-ZBLA|Hailar ACC(Cover 12500m and Below) - Beijing|ZBLA|
-ZHCC|Zhengzhou ACC (Cover ZHCC 7800m and Below) - Wuhan|ZHCC|
+ZBHH|Hohhot ACC (Cover 7800m and Below [ZBAA Overlap area 7800m Above]) - Beijing|ZBHH|
+ZBYN|Taiyuan ACC (Cover 7800m and Below [ZBAA Overlap area 7800m Above]) - Beijing|ZBYN|
+ZBLA|Hailar ACC - Shenyang|ZBLA|
+ZHCC|Zhengzhou ACC (Cover ZHCC 7800m and Below [ZBAA Overlap area 7800m Above]) - Wuhan|ZHCC|
 ZHHH|Wuhan ACC (Cover ZHHH 7800m and Below) - Wuhan|ZHHH|
 ZHWH|Wuhan CTR (Cover ZHCC and ZHHH 7800m and Below) - Wuhan|ZHWH|
-ZGHA|Changsha ACC (Cover ZGHA 7800m and Below) - Guangzhou|ZGHA|
+ZGHA|Changsha ACC (Cover ZGHA 7800m and Below [ZGGG Overlap area 7800m Above]) - Guangzhou|ZGHA|
 ZGNN|Nanning ACC - Guangzhou|ZGNN|
-ZGKL|Guilin ACC (Cover ZGKL 7800m and Below) - Guangzhou|ZGKL|
+ZGKL|Guilin ACC (Cover ZGKL 7800m and Below [ZGGG Overlap area 7800m Above]) - Guangzhou|ZGKL|
 ZGZJ|Zhanjiang ACC [AR01/03(Cover 7800m and Below)][AR02(Cover 8900m and Below)] - Guangzhou|ZGZJ|
 ZGGG|Guangzhou ACC - Guangzhou|ZGGG|
 ZGZU|Guangzhou|ZGZU|
@@ -18317,27 +18317,29 @@ ZJSY|Sanya ACC AR01 - Sanya|ZJSY|
 ZKKP|Pyongyang|ZKKP|
 ZLHW|Lanzhou|ZLHW|
 ZLLL|Lanzhou ACC - Lanzhou|ZLLL|
-ZLXY|Xi'an ACC (Cover 8900m and Below [ZLHW Overlap area 8900m Above]) - Lanzhou|ZLXY|
-ZLXY-H|Xi'an ACC High (Cover 8900m to 12500m [ZLHW Overlap area 8900m Above]) - Lanzhou|ZLXY|
+ZLXY|Xi'an ACC - Lanzhou|ZLXY|
+ZLXY-H|Xi'an ACC High (Cover 8900m Above [ZLLL Overlap area 8900m and Below]) - Lanzhou|ZLXY|
 ZULS|Lhasa ACC - Kunming|ZULS|
 ZPKM|Kunming|ZPKM|
 ZSHA|Shanghai|ZSHA|
+ZSHA-AR22|Shanghai ACC AR22 (Delegated by ZGZU, Cover 7800m Above [ZSCN Overlap area 7800m and Below]) - Shanghai|ZSHA|
 ZSSS|Shanghai ACC - Shanghai|ZSSS|
 ZSQD|Qingdao ACC - Shanghai|ZSQD|
-ZSJN|Jinan ACC (Cover ZSJN 7800m and Below) - Shanghai|ZSJN|
-ZSOF|Hefei ACC (Cover 7800m and Below) - Shanghai|ZSOF|
-ZSCN|Nanchang ACC (Cover 7800m and Below [ZSSS AR 01/21 Overlap area 6000m and Below]) - Shanghai|ZSCN|
-ZSAM|Xiamen ACC (Cover 7800m and Below) - Shanghai|ZSAM|
+ZSJN|Jinan ACC (Cover ZSJN 7800m and Below [ZBAA Overlap area 7800m Above]) - Shanghai|ZSJN|
+ZSOF|Hefei ACC (Cover 7800m and Below [ZSSS Overlap area 7800m Above]) - Shanghai|ZSOF|
+ZSCN|Nanchang ACC (Cover 7800m and Below [ZSSS Overlap area 7800m Above(AR 01/21 6000m Above)]) - Shanghai|ZSCN|
+ZSAM|Xiamen ACC (Cover 7800m and Below [ZSSS Overlap area 7800m Above]) - Shanghai|ZSAM|
 ZUUU|Chengdu ACC - Kunming|ZUUU|
-ZUGY|Guiyang ACC (Cover 7800m and Below) - Kunming|ZUGY|
+ZUGY|Guiyang ACC (Cover 7800m and Below [ZUUU Overlap area 7800m Above]) - Kunming|ZUGY|
 ZPPP|Kunming ACC - Kunming|ZPPP|
 ZWUQ|Urumqi|ZWUQ|
 ZWWW|Urumqi ACC - Urumqi|ZWWW|
-ZWAK|Aksu ACC (Cover 6000m and Below) - Urumqi|ZWAK|
+ZWAK|Aksu ACC (Cover 6000m and Below [ZWWW Overlap area 6000m Above) - Urumqi|ZWAK|
 ZYSH|Shenyang|ZYSH|
 ZYTX|Shenyang ACC - Shenyang|ZYTX|
-ZYHB|Harbin ACC (Cover 9800m Below) - Shenyang|ZYHB|
+ZYHB|Harbin ACC (Cover 9800m Below) [ZYTX Overlap area 9800m and Above] - Shenyang|ZYHB|
 ZYTL|Dalian ACC - Shenyang|ZYTL|
+ZYTL-AR03|Dalian ACC AR03/06 (Delegated by ZYTL)- Shanghai|ZYTL|
 ZMUB|Ulaan Baatar|ZMUB|
 
 [UIRs]
@@ -18369,7 +18371,7 @@ LFUP|France Control|LFMM,LFFF,LFEE,LFBB,LFRR
 LIUP|Italy Radar|LIMM,LIBB,LIRR,LIPP
 LRUB|Black Sea West Control|LBSR,LRBB,LUUU
 LTUP|Turkey Control|LTAA
-PRC|Beijing Control|ZBPE,ZGZU,ZHWH,ZJSA,ZLHW,ZPKM,ZSHA,ZWUQ,ZYSH
+PRC|Beijing Control|ZBPE,ZGZU,ZJSA,ZLHW,ZPKM,ZSHA,ZWUQ,ZYSH
 RU-ERC|Eastern Russia Control|UEEE,UHHH,UHMM,UHPP
 RU-WRC|Western Russia Control|UMMV,UUWV,UWWW
 RU-ESC|Eastern Siberia Control|UNKL,UIII

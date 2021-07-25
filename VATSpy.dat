@@ -17803,28 +17803,7 @@ EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_N|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_S|EDWW-A
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
-EGGX|Shanwick Oceanic|EGX|EGGX
-EGGX|Shanwick Oceanic|GX|EGGX
-EGGX|Shanwick Oceanic|SH|EGGX
-EGGX|Shanwick Oceanic|SR|EGGX
-EGGX|Shanwick Oceanic|SHW|EGGX
-EGGX|Shanwick Oceanic|SHAN|EGGX
-EGGX|Shanwick Oceanic|SWICK|EGGX
-EGGX|Shanwick Oceanic|SHWICK|EGGX
-EGGX|Shanwick Oceanic|SAWICK|EGGX
-EGGX|Shanwick Oceanic|SNWICK|EGGX
-EGG1|Shanwick|SC|EGGX
-EGG2|Shanwick Clearance Delivery|SC-D|EGGX
-EGG3|Shanwick Oceanic Routing Clearance Authority|S-ORCA|EGGX
-EGG3|Shanwick Oceanic Routing Clearance Authority|SORCA|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|EGGX-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|EGX-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|EG-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|GX-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|SH-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|SR-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|SHW-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|SHAN-D|EGGX
+EGGX|Shanwick Oceanic|EGGX|EGGX
 EGPX|Scottish|SCO|EGPX
 EGPX-D|Scottish ACC (Dean Cross) - Scottish|SCO_D|EGPX-D
 EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC|EGPX-D
@@ -18033,6 +18012,7 @@ MPZL|Panama||MPZL
 MTEG|Port-Au-Prince||MTEG
 MUFH|Havana|HAV|MUFH
 MYNN|Nassau|MYNN|MYNN
+NAT|Shanwick & Gander|NAT|NAT
 NFFF|Nadi Oceanic|NFFF|
 NFFN|Nadi|NFFN|
 NVVV|Port Vila|NVVV|

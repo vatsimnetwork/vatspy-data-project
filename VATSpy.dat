@@ -586,7 +586,7 @@ CYEU|Eureka Man|80|-85.81639||CZEG|0
 CYEV|Inuvik|68.304167|-133.482778||CZEG|0
 CYEY|Amos/Magny|48.563889|-78.249721||CZUL|0
 CYFA|Fort Albany|52.203611|-81.695833||CZYZ|0
-CYFB|Iqaluit |63.756389|-68.555833||CZEG|0
+CYFB|Iqaluit|63.756389|-68.555833||CZUL|0
 CYFC|Fredericton|45.869444|-66.531667||CZQM|0
 CYFD|Brantford|43.131389|-80.3425||CZYZ|0
 CYFE|Forestville|48.746111|-69.097222|YFE|CZUL|0
@@ -9945,12 +9945,13 @@ OPZB|Zhob|31.3583333|69.4638333||OPLR|0
 ORAA|Al Asad|33.785667|42.441167||ORBB|0
 ORBD|Balad Southeast|33.940167|44.3615||ORBB|0
 ORBI|Baghdad|33.23306|44.23306||ORBB|0
-ORBM|Mosul|36.31667|43.14972||ORBB|0
 ORER|Erbil|36.238|43.946667||ORBB|0
+OREZ|Embassy Heliport|33.29674|44.3725||ORBB|0
 ORKK|Kirkuk|35.4695|44.349||ORBB|0
 ORMM|Basrah|30.549|47.662167||ORBB|0
 ORNI|Al Najaf|31.989833|44.404333||ORBB|0
 ORSU|Sulaymaniyah|35.560833|45.314667||ORBB|0
+ORWH|Washington Army Heliport|33.304617|44.403535||ORWH|0
 OSAP|Aleppo Intl|36.179722|37.226111||OSTT|0
 OSDI|Damascus Intl|33.410833|36.513333||OSTT|0
 OSDZ|Deirzzor|35.283333|40.166667||OSTT|0
@@ -10628,7 +10629,7 @@ RKJB|Muan Intl|34.988140|126.382580||RKRR|0
 RKJJ|Gwangju|35.128056|126.809722||RKRR|0
 RKJK|Gunsan|35.904722|126.616389||RKRR|0
 RKJU|Jeonju|35.878333|127.119444|CHN|RKRR|0
-RKJY|Yeosu|34.840000|127.615833||RKDA|0
+RKJY|Yeosu|34.840000|127.615833||RKRR|0
 RKNC|Chuncheon Ab|37.866670|127.716390||RKDA|0
 RKNF|Whang Ryeong|37.75|128.66639||RKDA|0
 RKNH|Hoengsong Ab|37.43306|127.95||RKDA|0
@@ -10641,26 +10642,26 @@ RKPC|Jeju Intl|33.511389|126.493056||RKRR|0
 RKPD|Jeongseok|33.396350|126.711270||RKRR|0
 RKPK|Gimhae Intl|35.179528|128.937000||RKDA|0
 RKPM|Mosulpo Ab|33.2|126.26639||RKRR|0
-RKPS|Sacheon|35.091389|128.076111||RKDA|0
+RKPS|Sacheon|35.091389|128.076111||RKRR|0
 RKPU|Ulsan|35.593333|129.352222||RKDA|0
 RKSC|Sv Ri San|37.35|126.91639||RKRR|0
 RKSD|Maesanri|37.35|127.26639||RKRR|0
 RKSF|Seoul-Yongdungp'O Rokaf Wc|37.5|126.93306||RKRR|0
 RKSG|Pyongtaek Ab|36.96|127.033333||RKRR|0
 RKSH|Command Post Tango|37.51667|126.98306||RKRR|0
-RKSI|Incheon Intl|37.463333|126.440000||RKRR|0
-RKSJ|Taesong-San|38.2|127.54972||RKRR|0
-RKSM|Seoul|37.445556|127.113056||RKRR|0
-RKSO|Osan Ab|37.090000|127.030000||RKRR|0
-RKSP|Paengnyongdo Ab|37.96667|124.66639||RKRR|0
-RKSQ|Yeonpyeungdo|37.7|125.7||RKRR|0
-RKSS|Gimpo Intl|37.556944|126.797500||RKRR|0
-RKST|Camp Casey-Tongduch|37.91667|127.04972||RKRR|0
+RKSI|Incheon Intl|37.463333|126.440000||RKDA|0
+RKSJ|Taesong-San|38.2|127.54972||RKDA|0
+RKSM|Seoul|37.445556|127.113056||RKDA|0
+RKSO|Osan Ab|37.090000|127.030000||RKDA|0
+RKSP|Paengnyongdo Ab|37.96667|124.66639||RKDA|0
+RKSQ|Yeonpyeungdo|37.7|125.7||RKDA|0
+RKSS|Gimpo Intl|37.556944|126.797500||RKDA|0
+RKST|Camp Casey-Tongduch|37.91667|127.04972||RKDA|0
 RKSU|Yeoju Range|37.43306|127.63306||RKDA|0
 RKSV|Pyoripsan|37.78306|126.36639||RKRR|0
-RKSW|Suwon Ab|37.25|127||RKRR|0
-RKSX|Camp Stanley|37.71667|127.09972||RKRR|0
-RKSY|Yongsan Hp|37.51667|126.98306||RKRR|0
+RKSW|Suwon Ab|37.25|127||RKDA|0
+RKSX|Camp Stanley|37.71667|127.09972||RKDA|0
+RKSY|Yongsan Hp|37.51667|126.98306||RKDA|0
 RKTA|Taean Airfield|36.604950|126.281580||RKRR|0
 RKTB|Paekado|37.01667|126.04972||RKRR|0
 RKTD|Taejon Kor - AFB|36.33306|127.38306||RKDA|0
@@ -12777,12 +12778,11 @@ TKPK|Golden Rock Saint Kitts and Nevis|17.310556|-62.719444||TTZP|0
 TKPN|Charlestown-Newcast|17.19972|-62.58306||TTZP|0
 TLPC|Vigie|14.018889|-61||TTZP|0
 TLPL|Hewanorra Intl|13.732222|-60.951944||TTZP|0
-TNCA|Queen Beatrix Airport|12.504167|-70.012222||TNCF|0
-TNCB|Flamingo Airport Bonaire|12.139444|-68.277222||TNCF|0
-TNCC|Hato Airport Curaçao|12.191944|-68.956944||TNCF|0
-TNCC|Curaçao TRACON|12.191944|-68.956944|TNCF|TNCF|1
-TNCE|Roosevelt Saint Eustatius|17.491667|-62.975556||TJZS|0
-TNCM|Princess Juliana Intl St.Maarten|18.039722|-63.111944|SXM|TJZS|0
+TNCA|Queen Beatrix|12.504167|-70.012222||TNCF|0
+TNCB|Flamingo|12.139444|-68.277222||TNCF|0
+TNCC|Hato|12.191944|-68.956944||TNCF|0
+TNCE|F.D. Roosevelt|17.491667|-62.975556||TJZS|0
+TNCM|Princess Juliana|18.039722|-63.111944|SXM|TJZS|0
 TNCS|Juancho E. Yrausquin|17.645278|-63.220556||TJZS|0
 TQPF|Anguilla Wallblake|18.204722|-63.055||TJZS|0
 TRPG|Gerald'S/John A. Osborne - Intl|16.791389|-62.193333|MNI|TTZP|0
@@ -17803,28 +17803,7 @@ EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_N|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_S|EDWW-A
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
-EGGX|Shanwick Oceanic|EGX|EGGX
-EGGX|Shanwick Oceanic|GX|EGGX
-EGGX|Shanwick Oceanic|SH|EGGX
-EGGX|Shanwick Oceanic|SR|EGGX
-EGGX|Shanwick Oceanic|SHW|EGGX
-EGGX|Shanwick Oceanic|SHAN|EGGX
-EGGX|Shanwick Oceanic|SWICK|EGGX
-EGGX|Shanwick Oceanic|SHWICK|EGGX
-EGGX|Shanwick Oceanic|SAWICK|EGGX
-EGGX|Shanwick Oceanic|SNWICK|EGGX
-EGG1|Shanwick|SC|EGGX
-EGG2|Shanwick Clearance Delivery|SC-D|EGGX
-EGG3|Shanwick Oceanic Routing Clearance Authority|S-ORCA|EGGX
-EGG3|Shanwick Oceanic Routing Clearance Authority|SORCA|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|EGGX-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|EGX-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|EG-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|GX-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|SH-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|SR-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|SHW-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|SHAN-D|EGGX
+EGGX|Shanwick Oceanic|EGGX|EGGX
 EGPX|Scottish|SCO|EGPX
 EGPX-D|Scottish ACC (Dean Cross) - Scottish|SCO_D|EGPX-D
 EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC|EGPX-D
@@ -18034,6 +18013,7 @@ MPZL|Panama||MPZL
 MTEG|Port-Au-Prince||MTEG
 MUFH|Havana|HAV|MUFH
 MYNN|Nassau|MYNN|MYNN
+NAT|Shanwick & Gander|NAT|NAT
 NFFF|Nadi Oceanic|NFFF|
 NFFN|Nadi|NFFN|
 NVVV|Port Vila|NVVV|
@@ -18105,6 +18085,7 @@ RKRR|Incheon ACC - Incheon||RKRR
 RKRR-N|Incheon ACC (North) - Incheon||RKRR-N
 RKRR-S|Incheon ACC (South) - Incheon||RKRR-S
 RKDA|Daegu ACC - Incheon||RKDA
+RKDA-W|Daegu ACC (West) - Incheon||RKDA
 RKDA-E|Daegu ACC (East) - Incheon||RKDA
 RKDA-C|Daegu ACC (Central) - Incheon||RKDA
 RJBG|Kobe ACC - Fukuoka||RJBG
@@ -18298,17 +18279,17 @@ YWEG|Brisbane (Warrego) 132.45* (125.2)|BN-WEG|
 YWON|Melbourne (Wonthaggi) 135.3* (124.0)|ML-WON|
 YWRA|Melbourne (Woomera) 132.8* (128.2)|ML-WRA|
 YYWE|Melbourne (Yarrowee) 134.32* (124.0)|ML-YWE|
-ZBPE|Beijing||ZBPE
+ZBPE|Beijing|ZBPE|
 ZBAA|Beijing ACC - Beijing|ZBAA|
-ZBHH|Hohhot ACC (Cover 7800m and Below) - Beijing|ZBHH|
-ZBYN|Taiyuan ACC (Cover 7800m and Below) - Beijing|ZBYN|
-ZBLA|Hailar ACC(Cover 12500m and Below) - Beijing|ZBLA|
-ZHCC|Zhengzhou ACC (Cover ZHCC 7800m and Below) - Wuhan|ZHCC|
+ZBHH|Hohhot ACC (Cover 7800m and Below [ZBAA Overlap area 7800m Above]) - Beijing|ZBHH|
+ZBYN|Taiyuan ACC (Cover 7800m and Below [ZBAA Overlap area 7800m Above]) - Beijing|ZBYN|
+ZBLA|Hailar ACC - Shenyang|ZBLA|
+ZHCC|Zhengzhou ACC (Cover ZHCC 7800m and Below [ZBAA Overlap area 7800m Above]) - Wuhan|ZHCC|
 ZHHH|Wuhan ACC (Cover ZHHH 7800m and Below) - Wuhan|ZHHH|
 ZHWH|Wuhan CTR (Cover ZHCC and ZHHH 7800m and Below) - Wuhan|ZHWH|
-ZGHA|Changsha ACC (Cover ZGHA 7800m and Below) - Guangzhou|ZGHA|
+ZGHA|Changsha ACC (Cover ZGHA 7800m and Below [ZGGG Overlap area 7800m Above]) - Guangzhou|ZGHA|
 ZGNN|Nanning ACC - Guangzhou|ZGNN|
-ZGKL|Guilin ACC (Cover ZGKL 7800m and Below) - Guangzhou|ZGKL|
+ZGKL|Guilin ACC (Cover ZGKL 7800m and Below [ZGGG Overlap area 7800m Above]) - Guangzhou|ZGKL|
 ZGZJ|Zhanjiang ACC [AR01/03(Cover 7800m and Below)][AR02(Cover 8900m and Below)] - Guangzhou|ZGZJ|
 ZGGG|Guangzhou ACC - Guangzhou|ZGGG|
 ZGZU|Guangzhou|ZGZU|
@@ -18317,27 +18298,29 @@ ZJSY|Sanya ACC AR01 - Sanya|ZJSY|
 ZKKP|Pyongyang|ZKKP|
 ZLHW|Lanzhou|ZLHW|
 ZLLL|Lanzhou ACC - Lanzhou|ZLLL|
-ZLXY|Xi'an ACC (Cover 8900m and Below [ZLHW Overlap area 8900m Above]) - Lanzhou|ZLXY|
-ZLXY-H|Xi'an ACC High (Cover 8900m to 12500m [ZLHW Overlap area 8900m Above]) - Lanzhou|ZLXY|
+ZLXY|Xi'an ACC - Lanzhou|ZLXY|
+ZLXY-H|Xi'an ACC High (Cover 8900m Above [ZLLL Overlap area 8900m and Below]) - Lanzhou|ZLXY|
 ZULS|Lhasa ACC - Kunming|ZULS|
 ZPKM|Kunming|ZPKM|
 ZSHA|Shanghai|ZSHA|
+ZSHA-AR22|Shanghai ACC AR22 (Delegated by ZGZU, Cover 7800m Above [ZSCN Overlap area 7800m and Below]) - Shanghai|ZSHA|
 ZSSS|Shanghai ACC - Shanghai|ZSSS|
 ZSQD|Qingdao ACC - Shanghai|ZSQD|
-ZSJN|Jinan ACC (Cover ZSJN 7800m and Below) - Shanghai|ZSJN|
-ZSOF|Hefei ACC (Cover 7800m and Below) - Shanghai|ZSOF|
-ZSCN|Nanchang ACC (Cover 7800m and Below [ZSSS AR 01/21 Overlap area 6000m and Below]) - Shanghai|ZSCN|
-ZSAM|Xiamen ACC (Cover 7800m and Below) - Shanghai|ZSAM|
+ZSJN|Jinan ACC (Cover ZSJN 7800m and Below [ZBAA Overlap area 7800m Above]) - Shanghai|ZSJN|
+ZSOF|Hefei ACC (Cover 7800m and Below [ZSSS Overlap area 7800m Above]) - Shanghai|ZSOF|
+ZSCN|Nanchang ACC (Cover 7800m and Below [ZSSS Overlap area 7800m Above(AR 01/21 6000m Above)]) - Shanghai|ZSCN|
+ZSAM|Xiamen ACC (Cover 7800m and Below [ZSSS Overlap area 7800m Above]) - Shanghai|ZSAM|
 ZUUU|Chengdu ACC - Kunming|ZUUU|
-ZUGY|Guiyang ACC (Cover 7800m and Below) - Kunming|ZUGY|
+ZUGY|Guiyang ACC (Cover 7800m and Below [ZUUU Overlap area 7800m Above]) - Kunming|ZUGY|
 ZPPP|Kunming ACC - Kunming|ZPPP|
 ZWUQ|Urumqi|ZWUQ|
 ZWWW|Urumqi ACC - Urumqi|ZWWW|
-ZWAK|Aksu ACC (Cover 6000m and Below) - Urumqi|ZWAK|
+ZWAK|Aksu ACC (Cover 6000m and Below [ZWWW Overlap area 6000m Above) - Urumqi|ZWAK|
 ZYSH|Shenyang|ZYSH|
 ZYTX|Shenyang ACC - Shenyang|ZYTX|
-ZYHB|Harbin ACC (Cover 9800m Below) - Shenyang|ZYHB|
+ZYHB|Harbin ACC (Cover 9800m Below) [ZYTX Overlap area 9800m and Above] - Shenyang|ZYHB|
 ZYTL|Dalian ACC - Shenyang|ZYTL|
+ZYTL-AR03|Dalian ACC AR03/06 (Delegated by ZYTL)- Shanghai|ZYTL|
 ZMUB|Ulaan Baatar|ZMUB|
 
 [UIRs]
@@ -18351,9 +18334,7 @@ ASEA|South East Asia Control|VHHK,WSJC,WMFC,WBFC,WIIF,WAAF,RPHI,VVHM,VDPF,VTBB,V
 ASIA|West Asia Control|VABF,VIDF,VECF,VOMF,VEGF,OPKR,OPLR,OAKX,VCCF,VRMF,VGFR,VNSM
 BALT|Baltic Control|EYVL,EVRR,EETT
 BICC|Iceland Radio|BIRD-E,BIRD-N,BIRD-S,BIRD-W
-CARI|Caribbean Control|MYNN,MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP,KZMO
-CARE|Caribbean Control East|MDCS,TNCF,TJZS,TTZP
-CARW|Caribbean Control West|MYNN,MUFH,MKJK,MTEG,KZMO
+CARI|Caribbean Control|MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP,TTZO
 EDUU|Rhein Radar|EDGG-D,EDMM-G,EDMM-R,EDGG-B,EDGG-R,EDGG-G,EDMM-Z,EDWW-B
 EDYY|Maastricht Radar|EBBU,EHAA,EDGG-P,EDWW-A
 EURN|Eurocontrol North|EKDK,EETT,EFIN,EVRR,EYVL,ENBD,ENOS,ENSV,ESOS
@@ -18369,7 +18350,7 @@ LFUP|France Control|LFMM,LFFF,LFEE,LFBB,LFRR
 LIUP|Italy Radar|LIMM,LIBB,LIRR,LIPP
 LRUB|Black Sea West Control|LBSR,LRBB,LUUU
 LTUP|Turkey Control|LTAA
-PRC|Beijing Control|ZBPE,ZGZU,ZHWH,ZJSA,ZLHW,ZPKM,ZSHA,ZWUQ,ZYSH
+PRC|Beijing Control|ZBPE,ZGZU,ZJSA,ZLHW,ZPKM,ZSHA,ZWUQ,ZYSH
 RU-ERC|Eastern Russia Control|UEEE,UHHH,UHMM,UHPP
 RU-WRC|Western Russia Control|UMMV,UUWV,UWWW
 RU-ESC|Eastern Siberia Control|UNKL,UIII

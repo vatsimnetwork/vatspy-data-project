@@ -586,7 +586,7 @@ CYEU|Eureka Man|80|-85.81639||CZEG|0
 CYEV|Inuvik|68.304167|-133.482778||CZEG|0
 CYEY|Amos/Magny|48.563889|-78.249721||CZUL|0
 CYFA|Fort Albany|52.203611|-81.695833||CZYZ|0
-CYFB|Iqaluit |63.756389|-68.555833||CZEG|0
+CYFB|Iqaluit|63.756389|-68.555833||CZUL|0
 CYFC|Fredericton|45.869444|-66.531667||CZQM|0
 CYFD|Brantford|43.131389|-80.3425||CZYZ|0
 CYFE|Forestville|48.746111|-69.097222|YFE|CZUL|0
@@ -2053,7 +2053,7 @@ EGYE|Barkston Heath Royal AFB|52.962333|-0.561667||EGTT|0
 EGYH|Holbeach|52.86667|0.15||EGTT|0
 EGYK|Elvington York|53.589444|-0.992778||EGTT|0
 EGYM|Marham|52.648333|0.5505||EGTT|0
-EGYP|Mount Pleasant (Monte Agradable)|-51.826389|-58.447222||SAVF|0
+EGYP|Mount Pleasant (Monte Agradable)|-51.826389|-58.447222||EGYP|0
 EGYW|Wainfleet|53.08306|0.26639||EGTT|0
 EHAL|Ameland|53.451667|5.676667||EHAA|0
 EHAM|Amsterdam-Schiphol|52.308333|4.765|AMS|EHAA|0
@@ -9945,12 +9945,13 @@ OPZB|Zhob|31.3583333|69.4638333||OPLR|0
 ORAA|Al Asad|33.785667|42.441167||ORBB|0
 ORBD|Balad Southeast|33.940167|44.3615||ORBB|0
 ORBI|Baghdad|33.23306|44.23306||ORBB|0
-ORBM|Mosul|36.31667|43.14972||ORBB|0
 ORER|Erbil|36.238|43.946667||ORBB|0
+OREZ|Embassy Heliport|33.29674|44.3725||ORBB|0
 ORKK|Kirkuk|35.4695|44.349||ORBB|0
 ORMM|Basrah|30.549|47.662167||ORBB|0
 ORNI|Al Najaf|31.989833|44.404333||ORBB|0
 ORSU|Sulaymaniyah|35.560833|45.314667||ORBB|0
+ORWH|Washington Army Heliport|33.304617|44.403535||ORWH|0
 OSAP|Aleppo Intl|36.179722|37.226111||OSTT|0
 OSDI|Damascus Intl|33.410833|36.513333||OSTT|0
 OSDZ|Deirzzor|35.283333|40.166667||OSTT|0
@@ -11584,7 +11585,7 @@ SEYH|Cuyacocha|-1.615833|-76.942222||SEFG|0
 SEYS|Yasnunka|-2.65|-77.4||SEFG|0
 SEYU|Yuca|-2.45|-76.766667||SEFG|0
 SEZR|Surikentza|-2.6|-77.083333||SEFG|0
-SFAL|Stanley (Puerto Argentino)|-51.68306|-57.76639||SAVF|0
+SFAL|Stanley (Puerto Argentino)|-51.68306|-57.76639||EGYP|0
 SGAM|Nu Guazu|-25.273611|-57.530556||SGFA|0
 SGAS|Asuncion-Pettirossi|-25.241667|-57.516667||SGFA|0
 SGAY|Juan De Ayolas|-27.37|-56.853889|AYO|SGFA|0
@@ -12777,12 +12778,11 @@ TKPK|Golden Rock Saint Kitts and Nevis|17.310556|-62.719444||TTZP|0
 TKPN|Charlestown-Newcast|17.19972|-62.58306||TTZP|0
 TLPC|Vigie|14.018889|-61||TTZP|0
 TLPL|Hewanorra Intl|13.732222|-60.951944||TTZP|0
-TNCA|Queen Beatrix Airport|12.504167|-70.012222||TNCF|0
-TNCB|Flamingo Airport Bonaire|12.139444|-68.277222||TNCF|0
-TNCC|Hato Airport Curaçao|12.191944|-68.956944||TNCF|0
-TNCC|Curaçao TRACON|12.191944|-68.956944|TNCF|TNCF|1
-TNCE|Roosevelt Saint Eustatius|17.491667|-62.975556||TJZS|0
-TNCM|Princess Juliana Intl St.Maarten|18.039722|-63.111944|SXM|TJZS|0
+TNCA|Queen Beatrix|12.504167|-70.012222||TNCF|0
+TNCB|Flamingo|12.139444|-68.277222||TNCF|0
+TNCC|Hato|12.191944|-68.956944||TNCF|0
+TNCE|F.D. Roosevelt|17.491667|-62.975556||TJZS|0
+TNCM|Princess Juliana|18.039722|-63.111944|SXM|TJZS|0
 TNCS|Juancho E. Yrausquin|17.645278|-63.220556||TJZS|0
 TQPF|Anguilla Wallblake|18.204722|-63.055||TJZS|0
 TRPG|Gerald'S/John A. Osborne - Intl|16.791389|-62.193333|MNI|TTZP|0
@@ -17751,8 +17751,8 @@ CZQM|Moncton|MCN|CZQM
 CZZV|Sept-Iles (CZUL SFC-280 / CZQM 290-ABV)||CZZV
 CZQX|Gander|GAND|CZQX
 CZQX|Gander|YQX|CZQX
-CZQX|Gander Radio|GAN|CZQX
-CZQX-GOTA|Gander Oceanic Transition Area||CZQX-GOTA
+CZQO|Gander Oceanic|GAN|CZQO
+CZQO-GOTA|Gander Oceanic Transition Area||CZQO-GOTA
 CZUL|Montreal|MTL|CZUL
 CZVR|Vancouver|VAN|CZVR
 CZVR|Vancouver|CYVR|CZVR
@@ -17803,28 +17803,7 @@ EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_N|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_S|EDWW-A
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
-EGGX|Shanwick Oceanic|EGX|EGGX
-EGGX|Shanwick Oceanic|GX|EGGX
-EGGX|Shanwick Oceanic|SH|EGGX
-EGGX|Shanwick Oceanic|SR|EGGX
-EGGX|Shanwick Oceanic|SHW|EGGX
-EGGX|Shanwick Oceanic|SHAN|EGGX
-EGGX|Shanwick Oceanic|SWICK|EGGX
-EGGX|Shanwick Oceanic|SHWICK|EGGX
-EGGX|Shanwick Oceanic|SAWICK|EGGX
-EGGX|Shanwick Oceanic|SNWICK|EGGX
-EGG1|Shanwick|SC|EGGX
-EGG2|Shanwick Clearance Delivery|SC-D|EGGX
-EGG3|Shanwick Oceanic Routing Clearance Authority|S-ORCA|EGGX
-EGG3|Shanwick Oceanic Routing Clearance Authority|SORCA|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|EGGX-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|EGX-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|EG-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|GX-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|SH-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|SR-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|SHW-D|EGGX
-EGG4|Shanwick Oceanic Clearance Delivery|SHAN-D|EGGX
+EGGX|Shanwick Oceanic|EGGX|EGGX
 EGPX|Scottish|SCO|EGPX
 EGPX-D|Scottish ACC (Dean Cross) - Scottish|SCO_D|EGPX-D
 EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC|EGPX-D
@@ -17853,6 +17832,7 @@ EGTT-S|London ACC (South) - London|LTC_SW|EGTT-S
 EGTT-SC|London ACC (South-Central) - London|LON_SC|EGTT-SC
 EGTT-W|London ACC (West) - London|LON_W|EGTT-W
 EGVV|Swanwick Military|SWAN|EGVV
+EGYP|Mount Pleasant (Monte Agradable)|ISLAND|EGYP
 EHAA|Amsterdam||EHAA
 EHMC|Dutch Mil (Military)||EHAA
 EHML|Bandbox CRC (Military)||EHAA
@@ -18033,6 +18013,7 @@ MPZL|Panama||MPZL
 MTEG|Port-Au-Prince||MTEG
 MUFH|Havana|HAV|MUFH
 MYNN|Nassau|MYNN|MYNN
+NAT|Shanwick & Gander|NAT|NAT
 NFFF|Nadi Oceanic|NFFF|
 NFFN|Nadi|NFFN|
 NVVV|Port Vila|NVVV|
@@ -18353,9 +18334,7 @@ ASEA|South East Asia Control|VHHK,WSJC,WMFC,WBFC,WIIF,WAAF,RPHI,VVHM,VDPF,VTBB,V
 ASIA|West Asia Control|VABF,VIDF,VECF,VOMF,VEGF,OPKR,OPLR,OAKX,VCCF,VRMF,VGFR,VNSM
 BALT|Baltic Control|EYVL,EVRR,EETT
 BICC|Iceland Radio|BIRD-E,BIRD-N,BIRD-S,BIRD-W
-CARI|Caribbean Control|MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP,KZMO
-CARE|Caribbean Control East|MDCS,TNCF,TJZS,TTZP
-CARW|Caribbean Control West|MUFH,MKJK,MTEG,KZMO
+CARI|Caribbean Control|MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP,TTZO
 EDUU|Rhein Radar|EDGG-D,EDMM-G,EDMM-R,EDGG-B,EDGG-R,EDGG-G,EDMM-Z,EDWW-B
 EDYY|Maastricht Radar|EBBU,EHAA,EDGG-P,EDWW-A
 EURN|Eurocontrol North|EKDK,EETT,EFIN,EVRR,EYVL,ENBD,ENOS,ENSV,ESOS

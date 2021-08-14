@@ -25,15 +25,6 @@ Airspace Points (One per line; as many as ``PointCount`` indicates):
 
 <br>
 
-# Manual Data Installation
-*Note: VATSPY Beta now does this automatically*
-
-1) Extract the downloaded zip file
-2) Find the file "install.bat" and execute, the required files will be copied to the target location
-3) You may now delete the extracted files and the zip file
-
-<br>
-
 # Who's on the VAT-Spy Client Data Update Project Team?
 
 Néstor Pérez - Project Lead<br />

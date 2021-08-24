@@ -238,9 +238,9 @@ Solomon Islands|AG|
 Somalia|HC|Radio
 South Africa|FA|
 South Korea|RK|Control
-Spain|GC|Control
-Spain|GE|Control
-Spain|LE|Control
+Spain|GC|Radar
+Spain|GE|Radar
+Spain|LE|Radar
 Sri Lanka|VC|
 Sudan|HS|
 Surinam|SM|
@@ -17752,7 +17752,7 @@ CZZV|Sept-Iles (CZUL SFC-280 / CZQM 290-ABV)||CZZV
 CZQX|Gander|GAND|CZQX
 CZQX|Gander|YQX|CZQX
 CZQO|Gander Oceanic|GAN|CZQO
-CZQO-GOTA|Gander Oceanic Transition Area||CZQO-GOTA
+CZQO-GOTA|Gander Oceanic Transition Area (CZQO SFC-290 / CZQX 290-ABV)||CZQO-GOTA
 CZUL|Montreal|MTL|CZUL
 CZVR|Vancouver|VAN|CZVR
 CZVR|Vancouver|CYVR|CZVR

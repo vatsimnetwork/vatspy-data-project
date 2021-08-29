@@ -18151,6 +18151,7 @@ UKFV|Simferopol|UKFF|UKFV
 UKDV|Dnipro||UKDV
 UKLV|Lviv|UKLL|UKLV
 UKOV|Odesa|UKOO|UKOV
+UKR|Ukraine||UKR
 ULAA|Arkhangelsk ACC - Arkhangelsk||ULAA
 ULAM|Naryan-Mar ACC - Arkhangelsk||ULAM
 ULKK|Kotlas ACC - Arkhangelsk||ULKK
@@ -18362,7 +18363,6 @@ SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
 SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS
 SAM-S|South America Control South|SUEO,SGFA,SAEF,SARR,SACF,SAMF,SAVF
 SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
-UKR|Ukraine Radar|UKDV,UKFV,UKOV,UKBV,UKLV
 VZUP|India Radar|VABF,VEGF,VECF,VIDF,VOMF
 YBBB|Brisbane Centre Upper|YARA,YDOS,YISA,YMDE,YTBP,YTRT
 YMMM|Melbourne Centre Upper|YASP,YWOL,YBKE,YESP,YORE,YSNO,YTAS,YTBD

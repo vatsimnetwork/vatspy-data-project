@@ -33,7 +33,7 @@ Airspace Points (One per line; as many as ``PointCount`` indicates):
 
 # VAT-Spy test mode
 
-VAT-Spy comes with a test mode that can be used to test out sector data. Download the latest json3 file from (the vatsim status api)[https://status.vatsim.net/] and save as test-data.json to your %appdata%/VAT-Spy folder. Edit the JSON file to display specific sectors. 
+VAT-Spy comes with a test mode that can be used to test out sector data. Download the latest json3 file from [the vatsim status api](https://status.vatsim.net/) and save as test-data.json to your %appdata%/VAT-Spy folder. Edit the JSON file to display specific sectors. 
 
 <br>
 

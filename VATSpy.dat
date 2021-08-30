@@ -236,7 +236,7 @@ Slovakia|LZ|Radar
 Slovenia|LJ|Control
 Solomon Islands|AG|
 Somalia|HC|Radio
-South Africa|FA|
+South Africa|FA|Control
 South Korea|RK|Control
 Spain|GC|Control
 Spain|GE|Control
@@ -17911,6 +17911,7 @@ FACA-E|Cape Town ACC (East) - Cape Town|FACA_E|FACA-E
 FACA-W|Cape Town ACC (West) - Cape Town|FACA_W|FACA-W
 FAJO|Johannesburg Oceanic||FAJO
 FAJA|Johannesburg||FAJA
+FASA|South Africa||FASA
 FBGR|Gaborone||FBGR
 FCCC|Brazzaville||FCCC
 FIMM|Mauritius||FIMM

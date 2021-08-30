@@ -16,7 +16,7 @@ While we work on a contribution policy, please send an email to, or have your Re
 
 <br>
 
-# What sectors are included in this dataset?
+# Included Sectors
 
 To keep the map clear and not too cluttered, any new additions to the dataset should cover whole FIR's (e.g. HECC/KZFW). Some exceptions can be made for further splits if the (sub)sector is controlled consistently outside of events and the amount of traffic justifies it. This will be reviewed on a case by case basis. 
 
@@ -31,7 +31,7 @@ Airspace Points (One per line; as many as ``PointCount`` indicates):
 
 <br>
 
-# VAT-Spy test mode
+# VAT-Spy Test Mode
 
 VAT-Spy comes with a test mode that can be used to test out sector data. Download the latest json3 file from [the VATSIM status api](https://status.vatsim.net/) and save as ```test-data.json``` to your ```%appdata%/VAT-Spy``` folder. Edit the JSON file to display specific sectors. 
 

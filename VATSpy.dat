@@ -236,7 +236,7 @@ Slovakia|LZ|Radar
 Slovenia|LJ|Control
 Solomon Islands|AG|
 Somalia|HC|Radio
-South Africa|FA|
+South Africa|FA|Control
 South Korea|RK|Control
 Spain|GC|Control
 Spain|GE|Control
@@ -804,7 +804,7 @@ CYUS|Shepherd Bay |68.81667|-93.43306||CZEG|0
 CYUT|Repulse Bay|66.53306|-86.25||CZEG|0
 CYUV|Longstaff|68.93306|-75.28306||CZEG|0
 CYUX|Hall Beach |68.78306|-81.25||CZEG|0
-CYUY|Rouyn-Noranda|48.206667|-78.833889||CZYZ|0
+CYUY|Rouyn-Noranda|48.206667|-78.833889||CZUL|0
 CYVB|Bonaventure|48.071111|-65.460277||CZUL|0
 CYVC|La Ronge|55.151389|-105.261944||CZEG|0
 CYVD|R.J. (Bob) Andrew Field Regional|49.878206|-100.918212||CZWG|0
@@ -17911,6 +17911,7 @@ FACA-E|Cape Town ACC (East) - Cape Town|FACA_E|FACA-E
 FACA-W|Cape Town ACC (West) - Cape Town|FACA_W|FACA-W
 FAJO|Johannesburg Oceanic||FAJO
 FAJA|Johannesburg||FAJA
+FASA|South Africa||FASA
 FBGR|Gaborone||FBGR
 FCCC|Brazzaville||FCCC
 FIMM|Mauritius||FIMM

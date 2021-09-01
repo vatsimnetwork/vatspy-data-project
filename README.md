@@ -16,12 +16,24 @@ While we work on a contribution policy, please send an email to, or have your Re
 
 <br>
 
+# Included Sectors
+
+To keep the map clear and not too cluttered, any new additions to the dataset should cover whole FIR's (e.g. HECC/KZFW). Some exceptions can be made for further splits if the (sub)sector is controlled consistently outside of events and the amount of traffic justifies it. This will be reviewed on a case by case basis. 
+
+<br>
+
 # FIRBoundaries.dat
 
 New Airspace: ```ICAO|IsOceanic|IsExtension|PointCount|MinLat|MinLon|MaxLat|MaxLon|CenterLat|CenterLon```
 
 Airspace Points (One per line; as many as ``PointCount`` indicates):
 ```Lat|Lon```
+
+<br>
+
+# VAT-Spy Test Mode
+
+VAT-Spy comes with a test mode that can be used to test out sector data. Download the latest datafile under the `data.v3` key in [the VATSIM status api](https://status.vatsim.net/status.json) and save as ```test_data.json``` to your ```%appdata%/VAT-Spy``` folder. Edit the JSON file to display specific sectors. 
 
 <br>
 

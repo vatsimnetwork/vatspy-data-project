@@ -13106,14 +13106,14 @@ ULAE|Mezen|65.877|44.213||ULAA|0 ; io
 ULAH|Arkhangelsk (Vaskovo)|64.442|40.425||ULAA|0 ; io
 ULAI|Pinega|64.717|43.417||ULAA|0 ; io
 ULAL|Leshukonskoye|64.9|45.75||ULAA|0 ; io
-ULAM|Naryan-Mar|67.64|53.125||ULAM|0
+ULAM|Naryan-Mar|67.64|53.125||ULAA|0
 ULAN|Shenkursk|62.112|42.9||ULKK|0 ; io
 ULAP|Karpogory|64.018|44.44||ULAA|0 ; io
 ULAS|Solovki|65.03|35.733||ULAA|0 ; io
 ULBJ|Koyda|66.377|42.557||ULAA|0 ; io
 ULDD|Amderma|69.763333|61.563333||UUYY|0
-ULDW|Varandey|68.85|58.2||ULAM|0 ; io
-ULEI|Indiga|67.633|49.05||ULAM|0 ; io
+ULDW|Varandey|68.85|58.2||ULAA|0 ; io
+ULEI|Indiga|67.633|49.05||ULAA|0 ; io
 ULKK|Kotlas|61.236667|46.696667||ULKK|0
 ULKO|Oktyabrskiy|61.067|43.2||ULKK|0 ; io
 ULKS|Kotlas (Savatiya)|60.995|46.87||ULKK|0 ; io
@@ -13212,9 +13212,9 @@ URSS|Sochi|43.445|39.948333||URRV|0
 URWA|Astrakhan|46.283|48.006||URRV|0
 URWI|Elista|46.373933|44.330872||URRV|0
 URWW|Volgograd (Gumrak)|48.781667|44.346667||URRV|0
-USCC|Chelyabinsk (Balandino)|55.305|61.505||USCC|0
-USCG|Chelyabinsk (Shagol)|55.26|61.3||USCC|0 ; io
-USCM|Magnitogorsk|53.393|58.757||USCC|0
+USCC|Chelyabinsk (Balandino)|55.305|61.505||USSV|0
+USCG|Chelyabinsk (Shagol)|55.26|61.3||USSV|0 ; io
+USCM|Magnitogorsk|53.393|58.757||USSV|0
 USDA|Sabetta|71.214444|72.038889||USTV|0
 USDB|Bovanenkovo|70.315278|68.333611||USTV|0
 USDD|Salekhard|66.59|66.61||USTV|0
@@ -14189,7 +14189,7 @@ XKFD|Donuzlav|45.326|33.05||UKFV|0 ; io
 XKFO|Oktyabrskoye|45.322|34.104||UKFV|0 ; io
 XLAL|Lakhta|64.38|40.725||ULAA|0 ; io
 XLAP|Plesetsk|62.717|40.493||ULAA|0 ; io
-XLDR|Rogachyovo|71.615|52.48||ULAM|0 ; io
+XLDR|Rogachyovo|71.615|52.48||ULAA|0 ; io
 XLLE|Gorelovo|59.782|30.08||ULLL|0 ; io
 XLLG|Gdov (Smurovoyevo)|58.815|28.015||ULLL|0 ; io
 XLLJ|Gromovo|60.715|30.113||ULLL|0 ; io
@@ -14232,7 +14232,7 @@ XRWF|Kapustin Yar|48.667|45.733||URRV|0 ; io
 XRWH|Akhtubinsk|48.3|46.225||URRV|0 ; io
 XRWL|Lebyazhye|50.202|45.208||URRV|0 ; io
 XRWM|Volgograd (Marinovka)|48.637|43.729||URRV|0 ; io
-XSCU|Uprun|54.375|61.347||USCC|0 ; io
+XSCU|Uprun|54.375|61.347||USSV|0 ; io
 XSHI|Beloyarskiy|63.688|66.7||USTV|0 ; io
 XSSN|Nizhniy Tagil (Salka)|57.988|60.238||USSV|0 ; io
 XSSU|Kamensk-Uralskiy|56.437|61.988||USSV|0 ; io
@@ -18217,7 +18217,6 @@ UKLV|Lviv|UKLL|UKLV
 UKOV|Odesa|UKOO|UKOV
 UKR|Ukraine||UKR
 ULAA|Arkhangelsk ACC - Arkhangelsk||ULAA
-ULAM|Naryan-Mar ACC - Arkhangelsk||ULAM
 ULKK|Kotlas ACC - Arkhangelsk||ULKK
 ULLL|Sankt-Peterburg ACC - Sankt-Peterburg||ULLL
 ULMM|Murmansk||ULMM
@@ -18227,7 +18226,6 @@ UMMV|Minsk|UMMM|UMMV
 UNKL|Krasnoyarsk||UNKL
 UNNT|Novosibirsk||UNNT
 URRV|Rostov||URRV
-USCC|Chelyabinsk ACC - Ural||USCC
 USSV|Yekaterinburg ACC - Ural||USSV
 USTV|Tyumen ACC - Tyumen||USTV
 UTAA|Ashkhabad||UTAA
@@ -18420,9 +18418,9 @@ PRC|Beijing Control|ZBPE,ZGZU,ZJSA,ZLHW,ZPKM,ZSHA,ZWUQ,ZYSH
 RU-ERC|Eastern Russia Control|UEEE,UHHH,UHMM,UHPP
 RU-WRC|Western Russia Control|UMMV,UUWV,UWWW
 RU-ESC|Eastern Siberia Control|UNKL,UIII
-RU-WSC|Western Siberia Control|USTV,USSV,USCC,UNNT
+RU-WSC|Western Siberia Control|USTV,USSV,UNNT
 RU-CEN|Central Asia Control|UATT,UACN,UAAA,UTAK,UTAA,UTAT,UTAV,UTSD,UTTR,UAII,UCFO,UTDD,UCFM
-RU-NWC|North West Control|ULLL,ULWW,ULMM,ULAA,ULAM,ULKK,UMKK,UUYY
+RU-NWC|North West Control|ULLL,ULWW,ULMM,ULAA,ULKK,UMKK,UUYY
 RU-SC|Caucasus Radar|URRV,UGGG,UDDD,UBBA
 SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
 SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS

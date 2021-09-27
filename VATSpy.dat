@@ -18287,63 +18287,67 @@ WIIF-E|Jakarta (East)|WIIF_E|WIIF-E
 WMFC|Kuala Lumpur||WMFC
 WSJC|Singapore||WSJC
 YARA|Brisbane (Arafura) 133.7|BN-ARA|
-YASP|Melbourne (Alice Springs) 131.8|ML-ASP|
-YWOL|Melbourne (Wollongong) 125.0|ML-WOL|
-YBKE|Melbourne (Bourke) 128.2|ML-BKE|
-YDOS|Brisbane (Downs) 135.6|BN-DOS|
-YESP|Melbourne (Esperance) 123.95|ML-ESP|
-YORE|Melbourne (Ore) 127.0|ML-ORE|
+YARM|Brisbane (Armidale) 130.9|BN-ARM|
+YASP|Melbourne (Alice Springs) 118.3|ML-ASP|
+YBIK|Melbourne (Bindook) 129.8|ML-BIK|
+YELW|Melbourne (Eildon Weir) 123.75|ML-ELW|
+YINL|Brisbane (Inverell) 134.2|BN-INL|
 YIND|Brisbane Radio (Indian) 122.4|ML-IND|
 YISA|Brisbane (Isa) 125.2|BN-ISA|
-YMDE|Brisbane (Mudgee) 133.0|BN-MDE|
-YSNO|Melbourne (Snowy) 124.0|ML-SNO|
+YOLW|Melbourne (Onslow) 134.0|ML-OLW|
+YPIY|Melbourne (Pingelly) 133.9|ML-PIY|
 YTAS|Melbourne (Tasmania) 123.8|ML-TAS|
 YTBD|Melbourne (Tailem Bend) 125.3|ML-TBD|
-YTBP|Brisbane (Tabletop) 120.55|BN-TBP|
+YKEN|Brisbane (Kennedy) 120.15|BN-KEN|
 YTRT|Brisbane (Territory) 133.2|BN-TRT|
-YTSN|Brisbane Radio (Tasman) 128.6|BN-TSN|YTSN
-YARM|Brisbane (Armadale) 130.9* (133.0)|BN-ARM|
+YTSN|Brisbane Radio (Tasman) 124.65|BN-TSN|
 YAUG|Melbourne (Augusta) 127.05* (125.3)|ML-AUG|
-YBAR|Brisbane (Barra) 123.8* (120.55)|BN-BAR|
-YGTH|Melbourne (Griffith) 122.75* (125.0)|ML-GTH|
-YBIK|Melbourne (Bindook) 129.8* (125.0)|ML-BIK|
-YKAT|Melbourne (Katomba) 133.5* (125.0)|ML-KAT|
-YBIL|Melbourne (Billabong) 132.0* (127.0)|ML-BIL|
-YBUR|Brisbane (Burnett) 123.0* (135.6)|BN-BUR|
-YCOL|Brisbane Radio (Coral) 129.6* (128.6)|BN-COL|
-YCRS|Melbourne (Cross) 135.8* (123.95)|ML-CRS|
-YCVN|Brisbane (Carnarvon) 133.8* (135.6)|BN-CVN|
-YELW|Melbourne (Eildon Weir) 123.75* (124.0)|ML-ELW|
-YFLD|Brisbane Radio (Flinders) 129.5* (128.6)|BN-FLD|
-YFOR|Melbourne (Forest) 132.7* (131.8)|ML-FOR|
-YGEL|Melbourne (Geraldton) 134.2* (123.95)|ML-GEL|
-YGRN|Brisbane (Grafton) 120.3* (135.6)|BN-GRN|
-YGVE|Melbourne (Grove) 133.8* (123.95)|ML-GVE|
-YHUM|Melbourne (Hume) 132.2* (124.0)|ML-HUM|
-YHWE|Brisbane Radio (Howe) 124.6* (128.6)|BN-HWE|
-YHYD|Melbourne (Hyden) 118.2* (123.95)|ML-HYD|
+YASW|Melbourne (Alice Springs West) 131.8* (118.3)|ML-ASW|
+YBAR|Brisbane (Barra) 123.8* (120.15)|BN-BAR|
+YGTH|Melbourne (Griffith) 122.75* (129.8)|ML-GTH|
+YBKE|Melbourne (Bourke) 128.2* (125.3)|ML-BKE|
+YKAT|Melbourne (Katomba) 133.5* (129.8)|ML-KAT|
+YBUR|Brisbane (Burnett) 123.0* (134.2)|BN-BUR|
+YCOL|Brisbane Radio (Coral) 133.15* (124.65)|BN-COL|
+YCRS|Melbourne (Cross) 135.8* (133.9)|ML-CRS|
+YCVN|Brisbane (Carnarvon) 133.8* (134.2)|BN-CVN|
+YDOS|Brisbane (Downs) 135.6* (134.2)|BN-DOS|
+YESP|Melbourne (Esperance) 123.95* (133.9)|ML-ESP|
+YFLD|Brisbane Radio (Flinders) 132.85* (124.65)|BN-FLD|
+YFOR|Melbourne (Forest) 132.7* (118.3)|ML-FOR|
+YGEL|Melbourne (Geraldton) 134.2* (133.9)|ML-GEL|
+YGVE|Melbourne (Grove) 133.8* (133.9)|ML-GVE|
+YBLA|Melbourne (Benalla) 132.2* (123.75)|ML-BLA|
+YHWE|Brisbane Radio (Howe) 124.95* (124.65)|BN-HWE|
+YHYD|Melbourne (Hyden) 118.2* (133.9)|ML-HYD|
 YINE|Brisbane Radio (Indian East) 123.65* (122.4)|ML-INE|
 YINS|Brisbane Radio (Indian South) 123.2* (122.4)|ML-INS|
-YJAR|Melbourne (Jarrah) 120.3* (123.95)|ML-JAR|
-YKEN|Brisbane (Kennedy) 120.15* (120.55)|BN-KEN|
+YJAR|Melbourne (Jarrah) 120.3* (133.9)|ML-JAR|
 YKIY|Brisbane (Kimberley) 133.4* (133.2)|BN-KIY|
-YKPL|Brisbane (Keppel) 125.9* (135.6)|BN-KPL|
-YLEA|Melbourne (Leeman) 122.4* (123.95)|ML-LEA|
-YMLD|Brisbane (Maitland) 132.35* (133.0)|BN-MLD|
-YMOR|Melbourne (Morris) 133.7* (127.0)|ML-MOR|
+YKPL|Brisbane (Keppel) 125.9* (134.2)|BN-KPL|
+YLEA|Melbourne (Leeman) 122.4* (133.9)|ML-LEA|
+YMDE|Brisbane (Mudgee) 133.0* (130.9)|BN-MDE|
+YMEK|Melbourne (Meekatharra) 132.0* (134.0)|ML-MEK|
+YMLD|Brisbane (Maitland) 132.35* (130.9)|BN-MLD|
+YMTK|Melbourne (Mount) 133.7* (134.0)|ML-MTK|
 YMUN|Melbourne (Mungo) 132.6* (125.3)|ML-MUN|
-YOCN|Brisbane (Ocean) 133.6* (133.0)|BN-OCN|
+YMZI|Melbourne (Menzies) 134.3* (133.9)|ML-MZI|
+YNEW|Melbourne (Newman) 125.4* (134.0)|ML-NEW|
+YOCN|Brisbane (Ocean) 128.6* (130.9)|BN-OCN|
 YOXL|Melbourne (Oxley) 128.5* (125.3)|ML-OXL|
-YPIY|Melbourne (Pingelly) 133.9* (123.95)|ML-PIY|
-YSDY|Brisbane (Straddy) 134.4* (135.6)|BN-SDY|
-YSWY|Brisbane (Swampy) 133.2* (120.55)|BN-SWY|
+YPAR|Melbourne (Paraburdoo) 133.5* (134.0)|ML-PAR|
+YPOT|Melbourne (Port) 127.0* (134.0)|ML-POT|
+YSDY|Brisbane (Straddy) 134.3* (134.2)|BN-SDY|
+YSNO|Melbourne (Snowy) 124.0* (123.75)|ML-SNO|
+YSWY|Brisbane (Swampy) 133.2* (120.15)|BN-SWY|
 YSTR|Brisbane (Sturt) 134.4* (133.2)|BN-STR|
-YTFR|Melbourne (Telfer) 125.4* (127.0)|ML-TFR|
-YWAR|Melbourne (Warburton) 124.9* (131.8)|ML-WAR|
+YTBP|Brisbane (Tabletop) 120.55* (120.15)|BN-TBP|
+YWAR|Melbourne (Warburton) 124.9* (118.3)|ML-WAR|
 YWEG|Brisbane (Warrego) 132.45* (125.2)|BN-WEG|
-YWON|Melbourne (Wonthaggi) 135.3* (124.0)|ML-WON|
-YWRA|Melbourne (Woomera) 132.8* (128.2)|ML-WRA|
-YYWE|Melbourne (Yarrowee) 134.32* (124.0)|ML-YWE|
+YWOL|Melbourne (Wollongong) 125.0* (129.8)|ML-WOL|
+YWON|Melbourne (Wonthaggi) 135.3* (123.75)|ML-WON|
+YWRA|Melbourne (Woomera) 132.9* (118.3)|ML-WRA|
+YYWE|Melbourne (Yarrowee) 134.32* (123.75)|ML-YWE|
 ZBPE|Beijing|ZBPE|
 ZBAA|Beijing ACC - Beijing|ZBAA|
 ZBHH|Hohhot ACC (Cover 7800m and Below [ZBAA Overlap area 7800m Above]) - Beijing|ZBHH|
@@ -18429,8 +18433,6 @@ SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS
 SAM-S|South America Control South|SUEO,SGFA,SAEF,SARR,SACF,SAMF,SAVF
 SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 VZUP|India Radar|VABF,VEGF,VECF,VIDF,VOMF
-YBBB|Brisbane Centre Upper|YARA,YDOS,YISA,YMDE,YTBP,YTRT
-YMMM|Melbourne Centre Upper|YASP,YWOL,YBKE,YESP,YORE,YSNO,YTAS,YTBD
 
 [IDL]
 90.0|-180.0

@@ -41,7 +41,6 @@ VAT-Spy comes with a test mode that can be used to test out sector data. Downloa
 
 Niels Voogd - Data Management Team<br />
 Adrian Bjerke - Data Management Team<br />
-Alex Long - Data Management Team<br />
 
 
 <br>

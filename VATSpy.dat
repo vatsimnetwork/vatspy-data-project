@@ -18414,6 +18414,8 @@ YMEK|Melbourne (Meekatharra) 132.0* (134.0)|ML-MEK|
 YKAT|Melbourne (Katomba) 133.5* (129.8)|ML-KAT|
 YBKE|Melbourne (Bourke) 128.2* (125.3)|ML-BKE|
 YBIK|Melbourne (Bindook) 129.8|ML-BIK|
+YMLD|Brisbane (Maitland) 132.35* (130.9)|BN-MLD|
+YOCN|Brisbane (Ocean) 128.6* (130.9)|BN-OCN|
 YWOL|Melbourne (Wollongong) 125.0* (129.8)|ML-WOL|
 YTSN|Brisbane Radio (Tasman) 124.65|BN-TSN|
 YELW|Melbourne (Eildon Weir) 123.75|ML-ELW|
@@ -18424,6 +18426,7 @@ YTAS|Melbourne (Tasmania) 123.8|ML-TAS|
 YMUN|Melbourne (Mungo) 132.6* (125.3)|ML-MUN|
 YTBD|Melbourne (Tailem Bend) 125.3|ML-TBD|
 YARL|Brisbane (Armidale) 130.9|BN-ARL|
+YMDE|Brisbane (Mudgee) 133.0* (130.9)|BN-MDE|
 YWON|Melbourne (Wonthaggi) 135.3* (123.75)|ML-WON|
 YSNO|Melbourne (Snowy) 124.0* (123.75)|ML-SNO|
 YHWE|Brisbane Radio (Howe) 124.95* (124.65)|BN-HWE|

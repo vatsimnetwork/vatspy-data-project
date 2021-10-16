@@ -100,14 +100,14 @@ Egypt|HE|Control
 El Salvador|MS|
 Eritrea|HH|
 Estonia|EE|Control
+Eswatini|FD|
 Ethiopia|HA|Radar
-Islas Malvinas|SF|
+Fakland Islands (Islas Malvinas)|SF|
 Fiji-Tonga|NF|
 Finland|EF|Control
 France|LF|Control
 French Guyana|SO|
 French Polynesia|NT|
-FYROM|LW|Radar
 Gabon|FO|
 Gambia|GB|
 Georgia|UG|
@@ -175,6 +175,7 @@ Moldova|LU|Control
 Mongolia|ZM|Control
 Montserrat|TR|
 Morocco|GM|Radar
+North Macedonia|LW|Radar
 Mozambique|FQ|
 Myanmar|VB|
 Myanmar|VY|
@@ -245,7 +246,6 @@ Sri Lanka|VC|
 Sudan|HS|
 South Sudan|HJ|
 Surinam|SM|
-Swaziland|FD|
 Sweden|ES|Control
 Switzerland|LS|Radar
 Syria|OS|Radar

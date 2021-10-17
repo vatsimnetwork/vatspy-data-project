@@ -19,10 +19,26 @@ While we work on a contribution policy, please send an email to, or have your Re
 # Included Sectors
 
 To keep the map clear and not too cluttered, any new additions to the dataset should cover whole FIR's (e.g. HECC/KZFW). Some exceptions can be made for further splits if the (sub)sector is controlled consistently outside of events and the amount of traffic justifies it. This will be reviewed on a case by case basis. 
+<br>
+
+# Boundaries.GeoJSON
+
+Introducing the VATSIM Sector Map format, an [RFC7946 compliant](https://tools.ietf.org/html/rfc7946) GeoJSON. This file format can be edited using freely available GIS tools like QGIS and displayed by most mapping frameworks. Every sector should be represented as a MultiPolygon with the following properties:
+<br>
+
+| property  | value       | note                                |
+|-----------|-------------|-------------------------------------|
+| id        | "ICAO"      | string, does not have to be unique  |
+| oceanic   | "0" or "1"  | string                              |
+| label_lat | "latitude"  | string, rounded to 6 decimal places |
+| label_lon | "longitude" | string, rounded to 6 decimal places |
 
 <br>
 
 # FIRBoundaries.dat
+
+The FIRBoundaries.dat file is generated at the end of each cycle and included in the release for backwards compatibility. The [VATSpy GeoJSON tool](https://github.com/NelisV/vatspy-geojson/releases/latest) can be used to generate a valid FIRBoundaries.dat for testing purposes. 
+
 
 New Airspace: ```ICAO|IsOceanic|IsExtension|PointCount|MinLat|MinLon|MaxLat|MaxLon|CenterLat|CenterLon```
 
@@ -48,4 +64,4 @@ Adrian Bjerke - Data Management Team<br />
 # Credits
 
 Ross Carlson - Developer, VAT-Spy<br />
-Néstor Pérez - Previous Project Leader<br />
+NÃ©stor PÃ©rez - Previous Project Leader<br />

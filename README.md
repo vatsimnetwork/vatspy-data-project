@@ -19,6 +19,7 @@ While we work on a contribution policy, please send an email to, or have your Re
 # Included Sectors
 
 To keep the map clear and not too cluttered, any new additions to the dataset should cover whole FIR's (e.g. HECC/KZFW). Some exceptions can be made for further splits if the (sub)sector is controlled consistently outside of events and the amount of traffic justifies it. This will be reviewed on a case by case basis. 
+
 <br>
 
 # Boundaries.GeoJSON
@@ -38,7 +39,6 @@ Introducing the VATSIM Sector Map format, an [RFC7946 compliant](https://tools.i
 # FIRBoundaries.dat
 
 The FIRBoundaries.dat file is generated at the end of each cycle and included in the release for backwards compatibility. The [VATSpy GeoJSON tool](https://github.com/NelisV/vatspy-geojson/releases/latest) can be used to generate a valid FIRBoundaries.dat for testing purposes. 
-
 
 New Airspace: ```ICAO|IsOceanic|IsExtension|PointCount|MinLat|MinLon|MaxLat|MaxLon|CenterLat|CenterLon```
 

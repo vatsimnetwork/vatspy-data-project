@@ -24,7 +24,7 @@ To keep the map clear and not too cluttered, any new additions to the dataset sh
 
 # Boundaries.geojson
 
-This file uses the GeoJSON format as defined in [RFC7946](https://datatracker.ietf.org/doc/html/rfc7946).
+This file uses the GeoJSON format as defined in [RFC7946](https://datatracker.ietf.org/doc/html/rfc7946). At the end of each cycle a FIRBoundaries.dat will be generated and included in the release, for testing in vat-spy [a converter](https://github.com/NelisV/vatspy-geojson/releases/tag/v0.2-alpha) can be used. 
 
 <br>
 
@@ -38,4 +38,4 @@ Adrian Bjerke - Data Management Team<br />
 # Credits
 
 Ross Carlson - Developer, VAT-Spy<br />
-Néstor Pérez - Previous Project Leader<br />
+NÃ©stor PÃ©rez - Previous Project Leader<br />

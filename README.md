@@ -22,18 +22,9 @@ To keep the map clear and not too cluttered, any new additions to the dataset sh
 
 <br>
 
-# FIRBoundaries.dat
+# Boundaries.geojson
 
-New Airspace: ```ICAO|IsOceanic|IsExtension|PointCount|MinLat|MinLon|MaxLat|MaxLon|CenterLat|CenterLon```
-
-Airspace Points (One per line; as many as ``PointCount`` indicates):
-```Lat|Lon```
-
-<br>
-
-# VAT-Spy Test Mode
-
-VAT-Spy comes with a test mode that can be used to test out sector data. Download the latest datafile under the `data.v3` key in [the VATSIM status api](https://status.vatsim.net/status.json) and save as ```test_data.json``` to your ```%appdata%/VAT-Spy``` folder. Edit the JSON file to display specific sectors. 
+This file uses the GeoJSON format as defined in [RFC7946](https://datatracker.ietf.org/doc/html/rfc7946).
 
 <br>
 
@@ -41,7 +32,6 @@ VAT-Spy comes with a test mode that can be used to test out sector data. Downloa
 
 Niels Voogd - Data Management Team<br />
 Adrian Bjerke - Data Management Team<br />
-
 
 <br>
 

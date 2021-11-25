@@ -202,7 +202,7 @@ North Korea|ZK|
 North Macedonia|LW|Radar
 Norway|EN|Control
 Oman|OO|Control
-Pakistan|OP|
+Pakistan|OP|Control
 Palestine|LV|
 Panama|MP|
 Papua New Guinea|AY|
@@ -18091,7 +18091,10 @@ NZCS|Christchurch (South)|NZCH-S|NZCS
 NZOH|Ohakea ||NZOH
 NZCM|McMurdo||NZCM
 NSFA|Faleolo (Non-Standard)||NSFA
-OAKX|Kabul||OAKX
+OAKX-HE|Kabul High East ACC (Above FL290) - Kabul|OAKX-HE|OAKX-HE
+OAKX-HW|Kabul High West ACC (Above FL290) - Kabul|OAKX-HW|OAKX-HW
+OAKX-HE|Kabul Low North ACC (Below FL290) - Kabul|OAKX-N|OAKX-HE
+OAKX-HW|Kabul Low SOuth ACC (Below FL290) - Kabul|OAKX-S|OAKX-HW
 OBBB|Bahrain||OBBB
 OBBB-E|Bahrain East|OBBB_E|OBBB-E
 OBBB-N|Bahrain North|OBBB_N|OBBB-N
@@ -18120,8 +18123,16 @@ OKAC|Kuwait||OKAC
 OLBB|Beirut|OLBA|OLBB
 OMAE|U.A.E|UAE|OMAE
 OOMM|Muscat||OOMM
-OPKR|Karachi||OPKR
-OPLR|Lahore||OPLR
+OPKR|Karachi Bandbox ACC - Karachi||OPKR
+OPKR-C|Karachi Centre ACC - Karachi|OPKR-C|OPKR-C
+OPKR-E|Karachi East ACC - Karachi|OPKR-E|OPKR-E
+OPKR-S|Karachi South ACC - Karachi|OPKR-S|OPKR-S
+OPKR-W|Karachi West ACC - Karachi|OPKR-W|OPKR-W
+OPLR|Lahore Bandbox ACC - Lahore||OPLR
+OPLR-E|Lahore East ACC - Lahore|OPLR-E|OPLR-E
+OPLR-ISB|Islamabad ACC - Lahore|ISB|OPLR-ISB
+OPLR-S|Lahore South ACC - Lahore|OPLR-S|OPLR-S
+OPLR-W|Lahore West ACC - Lahore|OPLR-W|OPLR-W
 ORBB|Baghdad||ORBB
 ORBB-N|Baghdad North||ORBB-N
 ORBB-S|Baghdad South||ORBB-N

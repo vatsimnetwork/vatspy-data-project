@@ -18069,16 +18069,18 @@ NFFF|Nadi Oceanic||NFFF
 NFFN|Nadi||NFFN
 NVVV|Port Vila||NVVV
 NSTU|Pago Pago||NZZO
-NTTT|Tahiti Oceanic||NTTT
+NTTT|Tahiti Radio||NTTT
 NWWW|Noumea||NWWW
-NZZO|Auckland Oceanic||NZZO
+NZZO|Auckland Radio||NZZO
+NZZO|Auckland Radio East|NZZO-E|NZZO
 NZAA|Auckland||NZAA
+NZAA|Auckland|NZAA-R|NZAA
 NZCB|Christchurch (Bay)|NZCH-B|NZCB
 NZCT|Christchurch (Taranaki)|NZCH-T|NZCT
 NZCK|Christchurch (Kaikoura)|NZCH-K|NZCK
 NZCS|Christchurch (South)|NZCH-S|NZCS
-NZOH|Ohakea ||NZOH
-NZCM|McMurdo||NZCM
+NZOH|Ohakea||NZOH
+NZCM|McMurdo (Mac)||NZCM
 NSFA|Faleolo (Non-Standard)||NSFA
 OAKX|Kabul||OAKX
 OBBB|Bahrain||OBBB

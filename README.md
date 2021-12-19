@@ -12,38 +12,30 @@ We have chosen GitHub to be the core of this project so far, as it allows for co
 
 # How Do I Verify My Account To Submit Updates?
 
-While we work on a contribution policy, please send an email to, or have your Region, Division, or FIR/ARTCC Leadership send an email from your/their staff Region, Division, or FIR/ARTCC linked e-mail account with your GitHub username to n.perez (at) vatsim.net. Only authorized users from each Region, Division, or FIR/ARTCC will be permitted to submit updates. **PRs from non-verified accounts will NOT be merged.**
+While we work on a contribution policy, please send an email to, or have your Region, Division, or FIR/ARTCC Leadership send an email from your/their staff Region, Division, or FIR/ARTCC linked e-mail account with your GitHub username to vatspy-data-project (at) vatsim.net. Only authorized users from each Region, Division, or FIR/ARTCC will be permitted to submit updates. **PRs from non-verified accounts will NOT be merged.**
 
 <br>
 
-# FIRBoundaries.dat
+# Included Sectors
 
-New Airspace: ```ICAO|IsOceanic|IsExtension|PointCount|MinLat|MinLon|MaxLat|MaxLon|CenterLat|CenterLon```
-
-Airspace Points (One per line; as many as ``PointCount`` indicates):
-```Lat|Lon```
+To keep the map clear and not too cluttered, any new additions to the dataset should cover whole FIR's (e.g. HECC/KZFW). Some exceptions can be made for further splits if the (sub)sector is controlled consistently outside of events and the amount of traffic justifies it. This will be reviewed on a case by case basis. 
 
 <br>
 
-# Manual Data Installation
-*Note: VATSPY Beta now does this automatically*
+# Boundaries.geojson
 
-1) Extract the downloaded zip file
-2) Find the file "install.bat" and execute, the required files will be copied to the target location
-3) You may now delete the extracted files and the zip file
+This file uses the GeoJSON format as defined in [RFC7946](https://datatracker.ietf.org/doc/html/rfc7946). At the end of each cycle a FIRBoundaries.dat will be generated and included in the release, for testing in vat-spy [a converter](https://github.com/NelisV/vatspy-geojson/releases/latest) can be used. 
 
 <br>
 
 # Who's on the VAT-Spy Client Data Update Project Team?
 
-Néstor Pérez - Project Lead<br />
 Niels Voogd - Data Management Team<br />
 Adrian Bjerke - Data Management Team<br />
-Alex Long - Data Management Team<br />
-
 
 <br>
 
 # Credits
 
 Ross Carlson - Developer, VAT-Spy<br />
+Néstor Pérez - Previous Project Leader<br />

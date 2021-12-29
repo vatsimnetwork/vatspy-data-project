@@ -187,8 +187,7 @@ Mongolia|ZM|Control
 Montserrat|TR|
 Morocco|GM|Radar
 Mozambique|FQ|
-Myanmar|VB|
-Myanmar|VY|
+Myanmar|VY|Control
 Namibia|FY|
 Nauru|AN|
 Nepal|VN|
@@ -13720,7 +13719,7 @@ VVPR|Phan Rang|11.633611|108.951944|PHA|VVHM|0
 VVQN|Quy Nhon|13.76667|109.21639||VVHM|0
 VVRG|Kien Giang/Rach Gia|9.966667|105.133333|VKG|VVHM|0
 VVTH|Phu Yen/Tuy Hoa|13.049444|109.333611|TBB|VVHM|0
-VVTS|Ho Chi Minh|10.820556|106.660833||VVHM|0
+VVTS|Tan Son Nhat|10.820556|106.660833||VVHM|0
 VVTX|Thanh Hoa/Tho Xuan|19.9|105.466667|THD|VVHN|0
 VVVD|Quang Ninh/Van Don Intl|21.118056|107.414167|VDO|VVHN|0
 VVVH|Vinh|18.69972|105.66639||VVHN|0
@@ -18255,7 +18254,7 @@ VTBB|Bangkok||VTBB
 VVCL|Mekong|VCL|VVCL
 VVHN|Hanoi||VVHN
 VVHM|Ho Chi Minh||VVHM
-VYYF|Rangoon|VYYY|VYYF
+VYYF|Yangon||VYYF
 WAAF|Ujung Pandang||WAAF
 WAAF-B|Ujung Pandang (Bali)|WAAF_B|WAAF-B
 WAAF-W|Ujung Pandang (West)|WAAF_W|WAAF-W

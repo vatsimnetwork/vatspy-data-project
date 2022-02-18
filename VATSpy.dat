@@ -258,7 +258,7 @@ Spain|GE|Control
 Spain|LE|Control
 Sri Lanka|VC|
 Sudan|HS|
-South Sudan|HJ|
+South Sudan|HJ|Control
 Surinam|SM|
 Sweden|ES|Control
 Switzerland|LS|Radar
@@ -17948,7 +17948,7 @@ HCSM|Mogadishu||HCSM
 HECC|Cairo||HECC
 HHAA|Asmara||HHAA
 HKNA|Nairobi||HKNA
-HJJJ|Juba||HJJJ
+HJJJ|Juba (Up to FL245)||HJJJ
 HLLL|Tripoli|TIP|HLLL
 HLLL|Tripoli|HLLT|HLLL
 HLLB|Benina|BEN|HLLL

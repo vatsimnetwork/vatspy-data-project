@@ -17840,25 +17840,30 @@ EDGG-P|Langen Radar (Pad High) - Langen|EDGG_P|EDGG-P
 EDGG|Langen||EDGG
 EDMM|Muenchen||EDMM
 EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_Z|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_E|EDMM-Z
 EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_U|EDMM-Z
 EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_T|EDMM-Z
 EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_N|EDMM-Z
 EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_W|EDMM-Z
 EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_A|EDMM-Z
 EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_R|EDMM-R
+EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_E|EDMM-R
+EDMM-O|Muenchen ACC (Hof) - Muenchen|EDMM_O|EDMM-O
+EDMM-O|Muenchen ACC (Hof) - Muenchen|EDMM_B|EDMM-O
 EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
 EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_M|EDMM-G
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_B|EDMM-G
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDWW_B|EDMM-G
 EDWW|Bremen||EDWW
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_E|EDWW-B
+EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_F|EDWW-B
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_B|EDWW-B
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_I|EDWW-B
+EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_K|EDWW-B
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_M|EDWW-B
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_W|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_A|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_N|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_H|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_D|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_R|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_S|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_E|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_W|EDWW-A
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
 EGGX|Shanwick Oceanic|EGGX|EGGX

@@ -17904,10 +17904,9 @@ EIDW|Dublin|DUB|EIDW
 EISN|Shannon||EISN
 EKDK|Kobenhavn||EKDK
 ENBD|Bodo ACC - Polaris||ENBD
-ENBD-S|Bodo South ACC - Polaris|ENBD_S|ENBD-S
 ENOB|Bodo Oceanic||ENOB
 ENOR|Polaris||ENOR
-ENOR-S|Polaris South||ENOR-S
+ENOR-S|Polaris South|ENOR_S|ENOR-S
 ENOS|Oslo ACC - Polaris||ENOS
 ENRC|Bodo RTC - Polaris||ENOR
 ENSV|Stavanger ACC - Polaris||ENSV

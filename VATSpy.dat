@@ -201,7 +201,7 @@ North Korea|ZK|
 North Macedonia|LW|Radar
 Norway|EN|Control
 Oman|OO|Control
-Pakistan|OP|
+Pakistan|OP|Control
 Palestine|LV|
 Panama|MP|
 Papua New Guinea|AY|
@@ -9986,16 +9986,16 @@ OOSR|Sur|22.53306|59.48306||OOMM|0
 OOTH|Thumrait|17.668333|54.021667||OOMM|0
 OPBN|Bannu|32.9721667|70.525||OPLR|0
 OPBT|Bhit|26.195833|67.505556||OPKR|0
-OPBW|Bahawalpur|29.347|71.7113333||OPKR|0
+OPBW|Bahawalpur|29.347|71.7113333||OPLR|0
 OPCH|Chitral|35.8861667|71.8||OPLR|0
 OPDB|Dalbandin|28.875|64.4046667||OPKR|0
-OPDG|Dera Ghazi Khan|29.9611667|70.4856667||OPKR|0
+OPDG|Dera Ghazi Khan|29.9611667|70.4856667||OPLR|0
 OPDI|Dera Ismail Khan|31.909306|70.896861||OPLR|0
 OPFA|Faisalabad|31.3651667|72.9955||OPLR|0
 OPGD|Gwadar|25.2333333|62.3295||OPKR|0
 OPGT|Gilgit|35.9186667|74.3336667||OPLR|0
 OPIS|New Islamabad Intl|33.553722|72.829442||OPLR|0
-OPJA|Jacobabad|28.3|68.46639||OPKR|0
+OPJA|Jacobabad|28.3|68.46639||OPLR|0
 OPJI|Jiwani|25.06667|61.79972||OPKR|0
 OPKA|Cape Monze|24.828056|66.664444||OPKR|0
 OPKC|Karachi|24.901389|67.15||OPKR|0
@@ -10015,13 +10015,13 @@ OPPG|Panjgur|26.950889|64.139083||OPKR|0
 OPPI|Pasni|25.2903333|63.3445||OPKR|0
 OPPS|Peshawar|33.991667|71.516667||OPLR|0
 OPQT|Quetta|30.251194|66.940111||OPLR|0
-OPRK|Rahim Yar Khan|28.3856667|70.2795||OPKR|0
+OPRK|Rahim Yar Khan|28.3856667|70.2795||OPLR|0
 OPRN|Islamabad|33.617222|73.1||OPLR|0
 OPRS|Risalpur|34.06667|71.98306||OPLR|0
 OPRT|Rawalakot|33.8498333|73.7978333||OPLR|0
-OPSB|Sibi|29.55|67.88306||OPKR|0
+OPSB|Sibi|29.55|67.88306||OPLR|0
 OPSD|Skardu|35.3393333|75.5415||OPLR|0
-OPSK|Sukkur|27.722|68.792||OPKR|0
+OPSK|Sukkur|27.722|68.792||OPLR|0
 OPSR|Sargodha|32.04972|72.66639||OPLR|0
 OPSS|Saidu Sharif|34.8133333|72.3521667||OPLR|0
 OPST|Sialkot|32.5356667|74.3636667||OPLR|0
@@ -17820,6 +17820,7 @@ CZWG|Winnipeg|ZWG|CZWG
 CZYZ|Toronto|TOR|CZYZ
 DAAA|Algiers||DAAA
 DGAC|Accra||DGAC
+DGAO|Accra Oceanic||DGAO
 DIII|Abidjan||DIII
 DNKK|Kano||DNKK
 DRRR|Niamey||DRRR
@@ -17840,25 +17841,30 @@ EDGG-P|Langen Radar (Pad High) - Langen|EDGG_P|EDGG-P
 EDGG|Langen||EDGG
 EDMM|Muenchen||EDMM
 EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_Z|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_E|EDMM-Z
 EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_U|EDMM-Z
 EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_T|EDMM-Z
 EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_N|EDMM-Z
 EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_W|EDMM-Z
 EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_A|EDMM-Z
 EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_R|EDMM-R
+EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_E|EDMM-R
+EDMM-O|Muenchen ACC (Hof) - Muenchen|EDMM_O|EDMM-O
+EDMM-O|Muenchen ACC (Hof) - Muenchen|EDMM_B|EDMM-O
 EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
 EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_M|EDMM-G
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_B|EDMM-G
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDWW_B|EDMM-G
 EDWW|Bremen||EDWW
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_E|EDWW-B
+EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_F|EDWW-B
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_B|EDWW-B
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_I|EDWW-B
+EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_K|EDWW-B
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_M|EDWW-B
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_W|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_A|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_N|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_H|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_D|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_R|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_S|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_E|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_W|EDWW-A
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
 EGGX|Shanwick Oceanic|EGGX|EGGX
@@ -17898,10 +17904,9 @@ EIDW|Dublin|DUB|EIDW
 EISN|Shannon||EISN
 EKDK|Kobenhavn||EKDK
 ENBD|Bodo ACC - Polaris||ENBD
-ENBD-S|Bodo South ACC - Polaris|ENBD_S|ENBD-S
 ENOB|Bodo Oceanic||ENOB
 ENOR|Polaris||ENOR
-ENOR-S|Polaris South||ENOR-S
+ENOR-S|Polaris South|ENOR_S|ENOR-S
 ENOS|Oslo ACC - Polaris||ENOS
 ENRC|Bodo RTC - Polaris||ENOR
 ENSV|Stavanger ACC - Polaris||ENSV
@@ -17941,6 +17946,7 @@ GLRB|Roberts||GLRB
 GMMM|Casablanca||GMMM
 GMMO|Agadir||GMMO
 GOOO|Dakar||GOOO
+GOOC|Dakar Oceanic||GOOC
 GVSC|Sal Oceanic||GVSC
 HAAA|Addis Ababa||HAAA
 HBBA|Bujumbura||HBBA
@@ -18121,8 +18127,16 @@ OKAC|Kuwait||OKAC
 OLBB|Beirut|OLBA|OLBB
 OMAE|U.A.E|UAE|OMAE
 OOMM|Muscat||OOMM
-OPKR|Karachi||OPKR
-OPLR|Lahore||OPLR
+OPKR|Karachi|OPKR|OPKR
+OPKR|Karachi|OPKR-C|OPKR
+OPKR|Karachi|OPKR-E|OPKR
+OPKR|Karachi|OPKR-S|OPKR
+OPKR|Karachi|OPKR-W|OPKR
+OPLR|Lahore|OPLR|OPLR
+OPLR|Lahore|OPLR-E|OPLR
+OPLR|Lahore (Islamabad)|ISB|OPLR
+OPLR|Lahore|OPLR-S|OPLR
+OPLR|Lahore|OPLR-W|OPLR
 ORBB|Baghdad||ORBB
 ORBB-N|Baghdad North||ORBB-N
 ORBB-S|Baghdad South||ORBB-N
@@ -18390,7 +18404,7 @@ AFRN|North Africa Control|DAAA,DRRR,DTTC,FTTT,GMMM,HLLL
 AFRC|Africa Central Control|FLFI,FNAN,FSSS,FWLL,FZZA,HKNA,HTDC,HUEC,HBBA,HRYR
 AFRE|East Africa Control|HAAA,HCSM,HHAA,HSSS
 AFRS|Africa South Control|FACA,FAJA,FBGR,FIMM,FMMM,FQBE,FVHF,FYWH
-AFRW|Africa West Control|DGAC,DIII,DNKK,FCCC,GLRB,GOOO,GVSC
+AFRW|Africa West Control|DGAC,DGAO,DIII,DNKK,FCCC,GLRB,GOOO,GOOC,GVSC
 ASEA_N|South East Asia Control|VHHK,RPHI,VVHM,VTBB,VVHN,VLVT,VDPF
 ASEA_S|South East Asia Control|WSJC,WMFC,WBFC,WIIF,WAAF
 ASEA|South East Asia Control|VHHK,WSJC,WMFC,WBFC,WIIF,WAAF,RPHI,VVHM,VDPF,VTBB,VVHN,VLVT,VYYF
@@ -18426,7 +18440,6 @@ SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
 SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS
 SAM-S|South America Control South|SUEO,SGFA,SAEF,SARR,SACF,SAMF,SAVF
 SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
-VZUP|India Radar|VABF,VEGF,VECF,VIDF,VOMF
 
 
 [IDL]

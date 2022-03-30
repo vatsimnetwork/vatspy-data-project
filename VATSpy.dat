@@ -17760,6 +17760,7 @@ ZWTS|Tumushuke Tangwangcheng|39.889269|79.234757||ZWUQ|0
 ZWWW|Urumqi Diwopu|43.904836|87.476230||ZWUQ|0
 ZWYN|Yining|43.950620|81.333050||ZWUQ|0
 ZWYT|Yutian Wanfang|36.809145|81.783636||ZWUQ|0
+ZWZS|Zhaosu Tianma|43.087156|81.225104||ZWUQ|0
 ZYAS|Anshan Tengao|41.107035|122.852721||ZYSH|0
 ZYBA|Baicheng Changan|45.504546|123.020510||ZYSH|0
 ZYBS|Baishan Changbaishan|42.067865|127.601825||ZYSH|0
@@ -18368,12 +18369,13 @@ ZHHH|Wuhan ACC (Cover ZHHH 7800m and Below) - Wuhan|ZHHH|
 ZHWH|Wuhan CTR (Cover ZHCC and ZHHH 7800m and Below) - Wuhan|ZHWH|
 ZGHA|Changsha ACC (Cover ZGHA 7800m and Below [ZGGG Overlap area 7800m Above]) - Guangzhou|ZGHA|
 ZGNN|Nanning ACC - Guangzhou|ZGNN|
+ZGNN-AR07|Nanning ACC AR07 (Cover 7800m and Below [ZGGG Overlap area 7800m Above]) - Guangzhou|ZGNN|
 ZGNN-AR08|Nanning ACC AR08/09 (Cover 7800m and Below [ZGGG Overlap area 7800m Above]) - Guangzhou|ZGNN|
-ZGZJ|Zhanjiang ACC [AR01/03(Cover 7800m and Below)][AR02(Cover 8900m and Below)] - Guangzhou|ZGZJ|
+ZGNN-AR11|Nanning ACC [AR10/12(Cover 7800m and Below)][AR11(Cover 8900m and Below)][ZJSA Overlap area Above] - Guangzhou|ZGNN|
 ZGGG|Guangzhou ACC - Guangzhou|ZGGG|
 ZGZU|Guangzhou|ZGZU|
 ZJSA|Sanya ACC (ZGZJ Overlap area [AR11 7800m Above][AR12 8900m Above) Sanya|ZJSA|
-ZJSY|Sanya ACC AR01 - Sanya|ZJSY|
+ZJSY|Sanya ACC AR01/04 - Sanya|ZJSY|
 ZJSA-OCA|Sanya ACC AR02/03 (Oceanic Sector) - Sanya|ZJSA|
 ZKKP|Pyongyang|ZKKP|
 ZLHW|Lanzhou|ZLHW|

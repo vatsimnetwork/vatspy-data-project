@@ -18361,22 +18361,18 @@ YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
 YYWE|Melbourne (Yarrowee) 134.325* (123.75)|ML-YWE|YYWE
 ZBPE|Beijing|ZBPE|
 ZBAA|Beijing ACC - Beijing|ZBAA|
-ZBHH|Hohhot ACC (Cover 7800m and Below [ZBAA Overlap area 7800m Above]) - Beijing|ZBHH|
-ZBYN|Taiyuan ACC (Cover 7800m and Below [ZBAA Overlap area 7800m Above]) - Beijing|ZBYN|
+ZBHH|Hohhot ACC - Beijing|ZBHH|
+ZBYN|Taiyuan ACC - Beijing|ZBYN|
 ZBLA|Hailar ACC - Shenyang|ZBLA|
-ZHCC|Zhengzhou ACC (Cover ZHCC 7800m and Below [ZBAA Overlap area 7800m Above]) - Wuhan|ZHCC|
-ZHHH|Wuhan ACC (Cover ZHHH 7800m and Below) - Wuhan|ZHHH|
-ZHWH|Wuhan CTR (Cover ZHCC and ZHHH 7800m and Below) - Wuhan|ZHWH|
-ZGHA|Changsha ACC (Cover ZGHA 7800m and Below [ZGGG Overlap area 7800m Above]) - Guangzhou|ZGHA|
+ZHCC|Zhengzhou ACC - Wuhan|ZHCC|
+ZHHH|Wuhan ACC - Wuhan|ZHHH|
+ZHWH|Wuhan CTR - Wuhan|ZHWH|
+ZGHA|Changsha ACC - Guangzhou|ZGHA|
 ZGNN|Nanning ACC - Guangzhou|ZGNN|
-ZGNN-AR07|Nanning ACC AR07 (Cover 7800m and Below [ZGGG Overlap area 7800m Above]) - Guangzhou|ZGNN|
-ZGNN-AR08|Nanning ACC AR08/09 (Cover 7800m and Below [ZGGG Overlap area 7800m Above]) - Guangzhou|ZGNN|
-ZGNN-AR11|Nanning ACC AR10/11/12 (Cover 8900m/7800m and Below [ZJSA Overlap area Above]) - Guangzhou|ZGNN|
 ZGGG|Guangzhou ACC - Guangzhou|ZGGG|
 ZGZU|Guangzhou|ZGZU|
-ZJSA|Sanya ACC (ZGZJ Overlap area [AR11 7800m Above][AR12 8900m Above) Sanya|ZJSA|
-ZJSY|Sanya ACC AR01/04 - Sanya|ZJSY|
-ZJSA-OCA|Sanya ACC AR02/03 (Oceanic Sector) - Sanya|ZJSA|
+ZJSA|Sanya|ZJSA|
+ZJSY|Sanya ACC - Sanya|ZJSY|
 ZKKP|Pyongyang|ZKKP|
 ZLHW|Lanzhou|ZLHW|
 ZLLL|Lanzhou ACC - Lanzhou|ZLLL|
@@ -18384,15 +18380,14 @@ ZLXY|Xi'an ACC - Lanzhou|ZLXY|
 ZULS|Lhasa ACC - Kunming|ZULS|
 ZPKM|Kunming|ZPKM|
 ZSHA|Shanghai|ZSHA|
-ZSHA-AR22|Shanghai ACC AR22 (Delegated by ZGZU, Cover 7800m Above [ZSCN Overlap area 7800m and Below]) - Shanghai|ZSHA|
 ZSSS|Shanghai ACC - Shanghai|ZSSS|
 ZSQD|Qingdao ACC - Shanghai|ZSQD|
-ZSJN|Jinan ACC (Cover ZSJN 7800m and Below [ZBAA Overlap area 7800m Above]) - Shanghai|ZSJN|
-ZSOF|Hefei ACC (Cover 7800m and Below [ZSSS Overlap area 7800m Above]) - Shanghai|ZSOF|
-ZSCN|Nanchang ACC (Cover 7800m and Below [ZSSS Overlap area 7800m Above(AR 01/21 6000m Above)]) - Shanghai|ZSCN|
-ZSAM|Xiamen ACC (Cover 7800m and Below [ZSSS Overlap area 7800m Above]) - Shanghai|ZSAM|
+ZSJN|Jinan ACC - Shanghai|ZSJN|
+ZSOF|Hefei ACC - Shanghai|ZSOF|
+ZSCN|Nanchang ACC - Shanghai|ZSCN|
+ZSAM|Xiamen ACC - Shanghai|ZSAM|
 ZUUU|Chengdu ACC - Kunming|ZUUU|
-ZUGY|Guiyang ACC (Cover 7800m and Below [ZUUU Overlap area 7800m Above]) - Kunming|ZUGY|
+ZUGY|Guiyang ACC - Kunming|ZUGY|
 ZPPP|Kunming ACC - Kunming|ZPPP|
 ZWUQ|Urumqi|ZWUQ|
 ZWWW|Urumqi ACC - Urumqi|ZWWW|

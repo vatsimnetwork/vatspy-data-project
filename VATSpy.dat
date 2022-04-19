@@ -89,7 +89,7 @@ China|ZY|Control
 Colombia|SK|
 Congo (Republic)|FC|
 Congo (Democratic Republic)|FZ|
-Cook Islands|NC|
+Cook Islands|NC|Control
 Cook Islands|NI|
 Costa Rica|MR|
 Cote D'Ivoire|DI|
@@ -117,7 +117,7 @@ Fiji-Tonga|NF|
 Finland|EF|Control
 France|LF|Control
 French Guyana|SO|
-French Polynesia|NT|
+French Polynesia|NT|Control
 Gabon|FO|
 Gambia|GB|
 Georgia|UG|
@@ -239,7 +239,7 @@ Russia|Z2|Control
 Rwanda|HR|
 Saint Kitts and Nevis|TK|
 Saint Vincent and the Grenadines|TV|
-Samoa|NS|
+Samoa|NS|Control
 Sao Tome and Principe|FP|
 Santa Lucia|TL|
 Saudi Arabia|OE|Control
@@ -9737,8 +9737,7 @@ NZWJ|Wellsford|-36.284694|174.522778||NZAA|0
 NZWK|Whakatane|-37.922546|176.920215|WHK|NZCB|0
 NZWL|West Melton|-43.474615|172.388591||NZCS|0
 NZWM|Waimate|-44.789092|171.075519||NZCS|0
-NZWN|Wellington|-41.335264|174.803487|NZWN-F|NZCT|1
-NZWN|Wellington|-41.335264|174.803487|WLG|NZCT|0
+NZWN|Wellington|-41.335264|174.803487|NZWN-F|NZCT|0
 NZWO|Wairoa|-39.007346|177.402092||NZOH|0
 NZWP|Whenuapai (Mil)|-36.800166|174.617||NZAA|0
 NZWQ|Waitiki|-34.526944|172.838333||NZAA|0

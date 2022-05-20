@@ -1315,7 +1315,6 @@ EDDN|Nurnberg|49.498611|11.077778||EDMM|0
 EDDP|Leipzig-Halle|51.424|12.236389||EDMM|0
 EDDR|Saarbrucken|49.214444|7.109444||EDGG|0
 EDDS|Stuttgart|48.69|9.221944||EDGG|0
-EDDT|Berlin-Tegel|52.559722|13.287778||EDWW|0
 EDDV|Hannover|52.460278|9.683611||EDWW|0
 EDDW|Bremen|53.0475|8.786667||EDWW|0
 EDEB|Bad Langensalza|51.129183|10.621664||EDMM|0
@@ -17674,7 +17673,7 @@ ZSLY|Linyi Qiyang|35.045523|118.412483||ZSHA|0
 ZSNB|Ningbo Lishe|29.826424|121.461039||ZSHA|0
 ZSNJ|Nanjing Lukou|31.740106|118.860779||ZSHA|0
 ZSNT|Nantong Xingdong|32.071513|120.974957||ZSHA|0
-ZSOF|Hefei Xingqiao|31.987384|116.976634||ZSHA|0
+ZSOF|Hefei Xinqiao|31.987384|116.976634||ZSHA|0
 ZSPD|Shanghai Pudong|31.142333|121.790844||ZSHA|0
 ZSQD|Qingdao Jiaodong|36.366526|120.098729||ZSHA|0
 ZSQZ|Quanzhou Jinjiang|24.799411|118.591113||ZSHA|0
@@ -17760,6 +17759,7 @@ ZWTS|Tumushuke Tangwangcheng|39.889269|79.234757||ZWUQ|0
 ZWWW|Urumqi Diwopu|43.904836|87.476230||ZWUQ|0
 ZWYN|Yining|43.950620|81.333050||ZWUQ|0
 ZWYT|Yutian Wanfang|36.809145|81.783636||ZWUQ|0
+ZWZS|Zhaosu Tianma|43.087156|81.225104||ZWUQ|0
 ZYAS|Anshan Tengao|41.107035|122.852721||ZYSH|0
 ZYBA|Baicheng Changan|45.504546|123.020510||ZYSH|0
 ZYBS|Baishan Changbaishan|42.067865|127.601825||ZYSH|0
@@ -18360,21 +18360,18 @@ YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
 YYWE|Melbourne (Yarrowee) 134.325* (123.75)|ML-YWE|YYWE
 ZBPE|Beijing|ZBPE|
 ZBAA|Beijing ACC - Beijing|ZBAA|
-ZBHH|Hohhot ACC (Cover 7800m and Below [ZBAA Overlap area 7800m Above]) - Beijing|ZBHH|
-ZBYN|Taiyuan ACC (Cover 7800m and Below [ZBAA Overlap area 7800m Above]) - Beijing|ZBYN|
+ZBHH|Hohhot ACC - Beijing|ZBHH|
+ZBYN|Taiyuan ACC - Beijing|ZBYN|
 ZBLA|Hailar ACC - Shenyang|ZBLA|
-ZHCC|Zhengzhou ACC (Cover ZHCC 7800m and Below [ZBAA Overlap area 7800m Above]) - Wuhan|ZHCC|
-ZHHH|Wuhan ACC (Cover ZHHH 7800m and Below) - Wuhan|ZHHH|
-ZHWH|Wuhan CTR (Cover ZHCC and ZHHH 7800m and Below) - Wuhan|ZHWH|
-ZGHA|Changsha ACC (Cover ZGHA 7800m and Below [ZGGG Overlap area 7800m Above]) - Guangzhou|ZGHA|
+ZHCC|Zhengzhou ACC - Wuhan|ZHCC|
+ZHHH|Wuhan ACC - Wuhan|ZHHH|
+ZHWH|Wuhan|ZHWH|
+ZGHA|Changsha ACC - Guangzhou|ZGHA|
 ZGNN|Nanning ACC - Guangzhou|ZGNN|
-ZGNN-AR08|Nanning ACC AR08/09 (Cover 7800m and Below [ZGGG Overlap area 7800m Above]) - Guangzhou|ZGNN|
-ZGZJ|Zhanjiang ACC [AR01/03(Cover 7800m and Below)][AR02(Cover 8900m and Below)] - Guangzhou|ZGZJ|
 ZGGG|Guangzhou ACC - Guangzhou|ZGGG|
 ZGZU|Guangzhou|ZGZU|
-ZJSA|Sanya ACC (ZGZJ Overlap area [AR11 7800m Above][AR12 8900m Above) Sanya|ZJSA|
-ZJSY|Sanya ACC AR01 - Sanya|ZJSY|
-ZJSA-OCA|Sanya ACC AR02/03 (Oceanic Sector) - Sanya|ZJSA|
+ZJSA|Sanya|ZJSA|
+ZJSY|Sanya ACC - Sanya|ZJSY|
 ZKKP|Pyongyang|ZKKP|
 ZLHW|Lanzhou|ZLHW|
 ZLLL|Lanzhou ACC - Lanzhou|ZLLL|
@@ -18382,15 +18379,14 @@ ZLXY|Xi'an ACC - Lanzhou|ZLXY|
 ZULS|Lhasa ACC - Kunming|ZULS|
 ZPKM|Kunming|ZPKM|
 ZSHA|Shanghai|ZSHA|
-ZSHA-AR22|Shanghai ACC AR22 (Delegated by ZGZU, Cover 7800m Above [ZSCN Overlap area 7800m and Below]) - Shanghai|ZSHA|
 ZSSS|Shanghai ACC - Shanghai|ZSSS|
 ZSQD|Qingdao ACC - Shanghai|ZSQD|
-ZSJN|Jinan ACC (Cover ZSJN 7800m and Below [ZBAA Overlap area 7800m Above]) - Shanghai|ZSJN|
-ZSOF|Hefei ACC (Cover 7800m and Below [ZSSS Overlap area 7800m Above]) - Shanghai|ZSOF|
-ZSCN|Nanchang ACC (Cover 7800m and Below [ZSSS Overlap area 7800m Above(AR 01/21 6000m Above)]) - Shanghai|ZSCN|
-ZSAM|Xiamen ACC (Cover 7800m and Below [ZSSS Overlap area 7800m Above]) - Shanghai|ZSAM|
+ZSJN|Jinan ACC - Shanghai|ZSJN|
+ZSOF|Hefei ACC - Shanghai|ZSOF|
+ZSCN|Nanchang ACC - Shanghai|ZSCN|
+ZSAM|Xiamen ACC - Shanghai|ZSAM|
 ZUUU|Chengdu ACC - Kunming|ZUUU|
-ZUGY|Guiyang ACC (Cover 7800m and Below [ZUUU Overlap area 7800m Above]) - Kunming|ZUGY|
+ZUGY|Guiyang ACC - Kunming|ZUGY|
 ZPPP|Kunming ACC - Kunming|ZPPP|
 ZWUQ|Urumqi|ZWUQ|
 ZWWW|Urumqi ACC - Urumqi|ZWWW|
@@ -18420,7 +18416,8 @@ EURN|Eurocontrol North|EKDK,EETT,EFIN,EVRR,EYVL,ENBD,ENOS,ENSV,ESOS
 EURM|Maastricht Eurocontrol|LOVV,EBBU,EDGG,EDMM,EDWW,LSAS,EHAA
 EURM-E|Maastricht Eurocontrol|LOVV,EDMM,EDWW-B,LKAA
 EURM-W|Maastricht Eurocontrol|EBBU,EDGG,EDWW-A,LSAS,EHAA
-EURW|Eurocontrol West|LFBB,LFEE,LFMM,LFRR,LFFF,LPPC,LECM,LECB,LECS
+EURW-N|Eurocontrol West|LFBB,LFEE,LFMM,LFRR
+EURW-S|Eurocontrol West|LPPC,LECM,LECB,LECS
 EURE|Eurocontrol East|LAAA,LQSB,LBSR,LDZO,LKAA,LWSS,LHCC,LUUU,EPWW,LRBB,LYBA,LZBB,LJLA
 EURS|Eurocontrol South|LCCC,LGGG,LIMM,LIPP,LIRR,LIBB,LMMM,LTAA,LTBB
 GULF|Gulf Control|OIIX,ORBB,OSTT,OEJD,OKAC,OBBB,OMAE,OYSC,OOMM,OJAC,OLBB,HECC

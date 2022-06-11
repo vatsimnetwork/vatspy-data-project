@@ -18300,10 +18300,10 @@ YARA|Brisbane (Arafura) 133.7|BN-ARA|YARA
 YARL|Brisbane (Armidale) 130.9|BN-ARL|YARL
 YASP|Melbourne (Alice Springs) 128.85|ML-ASP|YASP
 YASW|Melbourne (Alice Springs West) 131.8* (128.85)|ML-ASW|YASW
-YAUG|Melbourne (Augusta) 127.05* (125.3)|ML-AUG|YAUG
+YAUG|Melbourne (Augusta) 127.05* (123.05)|ML-AUG|YAUG
 YBAR|Brisbane (Barra) 123.8* (120.15)|BN-BAR|YBAR
 YBIK|Melbourne (Bindook) 129.8|ML-BIK|YBIK
-YBKE|Melbourne (Bourke) 128.2* (125.3)|ML-BKE|YBKE
+YBKE|Melbourne (Bourke) 128.2* (123.05)|ML-BKE|YBKE
 YBLA|Melbourne (Benalla) 132.2* (123.75)|ML-BLA|YBLA
 YBUR|Brisbane (Burnett) 123.0* (134.2)|BN-BUR|YBUR
 YCOL|Brisbane Radio (Coral) 133.15* (124.65)|BN-COL|YCOL
@@ -18317,6 +18317,7 @@ YFOR|Melbourne (Forest) 132.7* (128.85)|ML-FOR|YFOR
 YGEL|Melbourne (Geraldton) 134.2* (133.9)|ML-GEL|YGEL
 YGTH|Melbourne (Griffith) 122.75* (129.8)|ML-GTH|YGTH
 YGVE|Melbourne (Grove) 133.8* (133.9)|ML-GVE|YGVE
+YHUO|Melbourne (Huon) 123.8|ML-HUO|YHUO
 YHWE|Brisbane Radio (Howe) 124.95* (124.65)|BN-HWE|YHWE
 YHYD|Melbourne (Hyden) 118.2* (133.9)|ML-HYD|YHYD
 YIND|Brisbane Radio (Indian) 129.25|ML-IND|YIND
@@ -18334,12 +18335,12 @@ YMDE|Brisbane (Mudgee) 133.0* (130.9)|BN-MDE|YMDE
 YMEK|Melbourne (Meekatharra) 132.0* (134.0)|ML-MEK|YMEK
 YMLD|Brisbane (Maitland) 132.35* (130.9)|BN-MLD|YMLD
 YMTK|Melbourne (Mount) 133.7* (134.0)|ML-MTK|YMTK
-YMUN|Melbourne (Mungo) 132.6* (125.3)|ML-MUN|YMUN
+YMUN|Melbourne (Mungo) 132.6* (123.05)|ML-MUN|YMUN
 YMZI|Melbourne (Menzies) 134.3* (133.9)|ML-MZI|YMZI
 YNEW|Melbourne (Newman) 125.4* (134.0)|ML-NEW|YNEW
 YOCN|Brisbane (Ocean) 128.6* (130.9)|BN-OCN|YOCN
 YOLW|Melbourne (Onslow) 134.0|ML-OLW|YOLW
-YOXL|Melbourne (Oxley) 128.5* (125.3)|ML-OXL|YOXL
+YOXL|Melbourne (Oxley) 128.5* (123.05)|ML-OXL|YOXL
 YPAR|Melbourne (Paraburdoo) 133.5* (134.0)|ML-PAR|YPAR
 YPIY|Melbourne (Pingelly) 133.9|ML-PIY|YPIY
 YPOT|Melbourne (Port) 127.0* (134.0)|ML-POT|YPOT
@@ -18347,8 +18348,7 @@ YSDY|Brisbane (Straddy) 134.3* (134.2)|BN-SDY|YSDY
 YSNO|Melbourne (Snowy) 124.0* (123.75)|ML-SNO|YSNO
 YSTR|Brisbane (Sturt) 134.4* (133.2)|BN-STR|YSTR
 YSWY|Brisbane (Swampy) 133.2* (120.15)|BN-SWY|YSWY
-YTAS|Melbourne (Tasmania) 123.8|ML-TAS|YTAS
-YTBD|Melbourne (Tailem Bend) 125.3|ML-TBD|YTBD
+YTBD|Melbourne (Tailem Bend) 123.05|ML-TBD|YTBD
 YTBP|Brisbane (Tabletop) 120.55* (120.15)|BN-TBP|YTBP
 YTRT|Brisbane (Territory) 133.2|BN-TRT|YTRT
 YTSN|Brisbane Radio (Tasman) 124.65|BN-TSN|YTSN

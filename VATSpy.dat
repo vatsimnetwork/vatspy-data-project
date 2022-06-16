@@ -18030,9 +18030,13 @@ LCCC-S|Nicosia|LCCC-S|LCCC-S
 LCCC-W|Nicosia|LCCC-W|LCCC-W
 LDZO|Zagreb||LDZO
 LECB|Barcelona|LEBL|LECB
-LECL|Valencia||LECL
+LECB-W|Barcelona West|LECB_W|LECB-W
+LECB-E|Barcelona East|LECB_E|LECB-E
+LECB-S|Barcelona South|LECB_S|LECB-S
+LECB-N|Barcelona North|LECB_N|LECB-N
+LECL|Valencia (FL245-)||LECL
 LECM|Madrid|LEMD|LECM
-LECP|Palma|LEPA|LECP
+LECP|Palma (FL245-)|LEPA|LECP
 LECS|Sevilla||LECS
 LFBB|Bordeaux||LFBB
 LFEE|Reims (Covers North-East LFFF FL295+)||LFEE

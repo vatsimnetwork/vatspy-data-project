@@ -18241,7 +18241,6 @@ UEEE|Yakutsk||UEEE
 UGGG|Tbilisi||UGGG
 UHHH|Khabarovsk||UHHH
 UHMM|Magadan||UHMM
-UHPP|Petropavlovsk-Kamchatsky||UHPP
 UIII|Irkutsk||UIII
 UKBV|Kyiv|UKBB|UKBV
 UKFV|Simferopol|UKFF|UKFV
@@ -18449,7 +18448,7 @@ LIUP|Italy Radar|LIMM,LIBB,LIRR,LIPP
 LRUB|Black Sea West Control|LBSR,LRBB,LUUU
 LTUP|Turkey Control|LTAA
 PRC|Beijing Control|ZBPE,ZGZU,ZJSA,ZLHW,ZPKM,ZSHA,ZWUQ,ZYSH
-RU-ERC|Eastern Russia Control|UEEE,UHHH,UHMM,UHPP
+RU-ERC|Eastern Russia Control|UEEE,UHHH,UHMM
 RU-WRC|Western Russia Control|UMMV,UUWV,UWWW
 RU-ESC|Eastern Siberia Control|UNKL,UIII
 RU-WSC|Western Siberia Control|USTV,USSV,UNNT

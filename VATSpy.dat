@@ -18317,7 +18317,7 @@ WIIF-W|Jakarta (West)|WIIF_W|WIIF-W
 WIIF-E|Jakarta (East)|WIIF_E|WIIF-E
 WMFC|Kuala Lumpur||WMFC
 WSJC|Singapore||WSJC
-YARA|Brisbane (Arafura) 133.7|BN-ARA|YARA
+YARA|Brisbane (Arafura) 133.7* (125.2)|BN-ARA|YARA
 YARL|Brisbane (Armidale) 130.9|BN-ARL|YARL
 YASP|Melbourne (Alice Springs) 128.85|ML-ASP|YASP
 YASW|Melbourne (Alice Springs West) 131.8* (128.85)|ML-ASW|YASW
@@ -18327,6 +18327,7 @@ YBIK|Melbourne (Bindook) 129.8|ML-BIK|YBIK
 YBKE|Melbourne (Bourke) 128.2* (123.05)|ML-BKE|YBKE
 YBLA|Melbourne (Benalla) 132.2* (123.75)|ML-BLA|YBLA
 YBUR|Brisbane (Burnett) 123.0* (134.2)|BN-BUR|YBUR
+YCNK|Brisbane (Cessnock) 123.4* (130.9)|BN-CNK|YCNK
 YCOL|Brisbane Radio (Coral) 133.15* (124.65)|BN-COL|YCOL
 YCRS|Melbourne (Cross) 135.8* (133.9)|ML-CRS|YCRS
 YCVN|Brisbane (Carnarvon) 133.8* (134.2)|BN-CVN|YCVN
@@ -18336,7 +18337,9 @@ YESP|Melbourne (Esperance) 123.95* (133.9)|ML-ESP|YESP
 YFLD|Brisbane Radio (Flinders) 132.85* (124.65)|BN-FLD|YFLD
 YFOR|Melbourne (Forest) 132.7* (128.85)|ML-FOR|YFOR
 YGEL|Melbourne (Geraldton) 134.2* (133.9)|ML-GEL|YGEL
+YGOL|Brisbane (Gold Coast) 130.4* (134.2)|BN-GOL|YGOL
 YGTH|Melbourne (Griffith) 122.75* (129.8)|ML-GTH|YGTH
+YGUN|Melbourne (Gundagai) 128.4* (129.8)|ML-GUN|YGUN
 YGVE|Melbourne (Grove) 133.8* (133.9)|ML-GVE|YGVE
 YHUO|Melbourne (Huon) 122.6|ML-HUO|YHUO
 YHWE|Brisbane Radio (Howe) 124.95* (124.65)|BN-HWE|YHWE
@@ -18355,10 +18358,12 @@ YLEA|Melbourne (Leeman) 122.4* (133.9)|ML-LEA|YLEA
 YMDE|Brisbane (Mudgee) 133.0* (130.9)|BN-MDE|YMDE
 YMEK|Melbourne (Meekatharra) 132.0* (134.0)|ML-MEK|YMEK
 YMLD|Brisbane (Maitland) 132.35* (130.9)|BN-MLD|YMLD
+YMNN|Brisbane (Manning) 130.1* (130.9)|BN-MNN|YMNN
 YMTK|Melbourne (Mount) 133.7* (134.0)|ML-MTK|YMTK
 YMUN|Melbourne (Mungo) 132.6* (123.05)|ML-MUN|YMUN
 YMZI|Melbourne (Menzies) 134.3* (133.9)|ML-MZI|YMZI
 YNEW|Melbourne (Newman) 125.4* (134.0)|ML-NEW|YNEW
+YNSA|Brisbane (Noosa) 124.1* (134.2)|BN-NSA|YNSA
 YOCN|Brisbane (Ocean) 128.6* (130.9)|BN-OCN|YOCN
 YOLW|Melbourne (Onslow) 134.0|ML-OLW|YOLW
 YOXL|Melbourne (Oxley) 128.5* (123.05)|ML-OXL|YOXL

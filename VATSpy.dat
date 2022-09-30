@@ -18249,15 +18249,16 @@ UKDV|Dnipro||UKDV
 UKLV|Lviv|UKLL|UKLV
 UKOV|Odesa|UKOO|UKOV
 UKR|Ukraine||UKR
-ULAA|Arkhangelsk ACC - Peterburg|ULLL_AR|ULLL_AR
-ULAM|Naryan-Mar ACC - Peterburg|ULLL_NM|ULLL_NM
-ULKK+ULWW|Kotlas + Vologda ACCs - Peterburg|ULLL_WK|ULLL_WK
-ULLL|Peterburg|ULLL|ULLL
-ULLL|Sankt-Peterburg ACC - Peterburg|ULLL_R|ULLL_R
-ULMM|Murmansk ACC - Peterburg|ULLL_MR|ULLL_MR
-ULMM Oceanic|Murmansk Oceanic - Peterburg|ULLL_MO|ULLL_MO
-ULAA+ULAM+ULMM|Arkhangelsk + Naryan-Mar + Murmansk ACCs - Peterburg|ULLL_AM|ULLL_AM
-ULWW|Vologda ACC - Peterburg|ULLL_W|ULLL_W
+ULLL|Sankt-Peterburg ACC Sankt-Peterburg FIR - Peterburg Control|ULLL|ULLL
+ULLL_AM|Sankt-Peterburg ACC sectors Arkhangelsk, Murmansk, Naryan-Mar, Oceanic - Peterburg Control|ULLL_AM|ULLL_AM
+ULLL_AR|Sankt-Peterburg ACC sector Arkhangelsk - Peterburg Control|ULLL_AR|ULLL_AR
+ULLL_MO|Sankt-Peterburg ACC sector Oceanic - Peterburg Control|ULLL_MO|ULLL_MO
+ULLL_MR|Sankt-Peterburg ACC sector Murmansk - Peterburg Control|ULLL_MR|ULLL_MR
+ULLL_NM|Sankt-Peterburg ACC sector Naryan-Mar - Peterburg Control|ULLL_NM|ULLL_NM
+ULLL_R|Sankt-Peterburg ACC sector Peterburg - Peterburg Control|ULLL_R|ULLL_R
+ULLL_S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg Control|ULLL_S|ULLL_S
+ULLL_W|Sankt-Peterburg ACC sector Vologda - Peterburg Control|ULLL_W|ULLL_W
+ULLL_WK|Sankt-Peterburg ACC sectors Kotlas, Vologda - Peterburg Control|ULLL_WK|ULLL_WK
 UMKK|Kaliningrad||UMKK
 UMMV|Minsk|UMMM|UMMV
 UNKL|Krasnoyarsk||UNKL
@@ -18273,7 +18274,6 @@ UTDD|Dushanbe||UTDD
 UTSD|Samarkand||UTSD
 UTTR|Tashkent||UTTR
 UUWV|Moscow||UUWV
-UUYY|Syktyvkar ACC - Peterburg|ULLL_S|ULLL_S
 UWWW|Samara||UWWW
 VAAH|Ahmedabad||VAAH
 VABB|Mumbai ACC - Mumbai||VABB

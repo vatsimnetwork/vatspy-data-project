@@ -18249,11 +18249,15 @@ UKDV|Dnipro||UKDV
 UKLV|Lviv|UKLL|UKLV
 UKOV|Odesa|UKOO|UKOV
 UKR|Ukraine||UKR
-ULAA|Arkhangelsk ACC - Arkhangelsk||ULAA
-ULKK|Kotlas ACC - Arkhangelsk||ULKK
-ULLL|Sankt-Peterburg ACC - Sankt-Peterburg||ULLL
-ULMM|Murmansk||ULMM
-ULWW|Vologda ACC - Sankt-Peterburg||ULWW
+ULAA|Arkhangelsk ACC - Peterburg|ULLL_AR|ULLL_AR
+ULAM|Naryan-Mar ACC - Peterburg|ULLL_NM|ULLL_NM
+ULAA+ULAM|Arkhangelsk + Naryan-Mar + Oceanic ACCs - Peterburg|ULLL_AM|ULLL_AM
+ULKK+ULWW|Kotlas + Vologda ACCs - Peterburg|ULLL_WK|ULLL_WK
+ULLL|Peterburg|ULLL|ULLL
+ULLL|Sankt-Peterburg ACC - Peterburg|ULLL_R|ULLL_R
+ULMM|Murmansk ACC - Peterburg|ULLL_MR|ULLL_MR
+ULMM Oceanic|Murmansk Oceanic - Peterburg|ULLL_MO|ULLL_MO
+ULWW|Vologda ACC - Peterburg|ULLL_W|ULLL_W
 UMKK|Kaliningrad||UMKK
 UMMV|Minsk|UMMM|UMMV
 UNKL|Krasnoyarsk||UNKL
@@ -18269,7 +18273,7 @@ UTDD|Dushanbe||UTDD
 UTSD|Samarkand||UTSD
 UTTR|Tashkent||UTTR
 UUWV|Moscow||UUWV
-UUYY|Syktyvkar||UUYY
+UUYY|Syktyvkar ACC - Peterburg|ULLL_S|ULLL_S
 UWWW|Samara||UWWW
 VAAH|Ahmedabad||VAAH
 VABB|Mumbai ACC - Mumbai||VABB
@@ -18454,7 +18458,7 @@ RU-WRC|Western Russia Control|UMMV,UUWV,UWWW
 RU-ESC|Eastern Siberia Control|UNKL,UIII
 RU-WSC|Western Siberia Control|USTV,USSV,UNNT
 RU-CEN|Central Asia Control|UATT,UACN,UAAA,UTAK,UTAA,UTAT,UTAV,UTSD,UTTR,UAII,UCFO,UTDD,UCFM
-RU-NWC|North West Control|ULLL,ULWW,ULMM,ULAA,ULKK,UMKK,UUYY
+RU-NWC|North West Control|ULLL,ULKK
 RU-SC|Caucasus Radar|URRV,UGGG,UDDD,UBBA
 SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
 SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS

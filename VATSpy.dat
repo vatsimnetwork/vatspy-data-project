@@ -18251,12 +18251,12 @@ UKOV|Odesa|UKOO|UKOV
 UKR|Ukraine||UKR
 ULAA|Arkhangelsk ACC - Peterburg|ULLL_AR|ULLL_AR
 ULAM|Naryan-Mar ACC - Peterburg|ULLL_NM|ULLL_NM
-ULAA+ULAM|Arkhangelsk + Naryan-Mar + Oceanic ACCs - Peterburg|ULLL_AM|ULLL_AM
 ULKK+ULWW|Kotlas + Vologda ACCs - Peterburg|ULLL_WK|ULLL_WK
 ULLL|Peterburg|ULLL|ULLL
 ULLL|Sankt-Peterburg ACC - Peterburg|ULLL_R|ULLL_R
 ULMM|Murmansk ACC - Peterburg|ULLL_MR|ULLL_MR
 ULMM Oceanic|Murmansk Oceanic - Peterburg|ULLL_MO|ULLL_MO
+ULAA+ULAM+ULMM|Arkhangelsk + Naryan-Mar + Murmansk ACCs - Peterburg|ULLL_AM|ULLL_AM
 ULWW|Vologda ACC - Peterburg|ULLL_W|ULLL_W
 UMKK|Kaliningrad||UMKK
 UMMV|Minsk|UMMM|UMMV

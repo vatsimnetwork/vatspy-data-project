@@ -18458,7 +18458,7 @@ RU-WRC|Western Russia Control|UMMV,UUWV,UWWW
 RU-ESC|Eastern Siberia Control|UNKL,UIII
 RU-WSC|Western Siberia Control|USTV,USSV,UNNT
 RU-CEN|Central Asia Control|UATT,UACN,UAAA,UTAK,UTAA,UTAT,UTAV,UTSD,UTTR,UAII,UCFO,UTDD,UCFM
-RU-NWC|North West Control|ULLL,ULKK
+RU-NWC|North West Control|ULLL,UMKK
 RU-SC|Caucasus Radar|URRV,UGGG,UDDD,UBBA
 SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
 SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS

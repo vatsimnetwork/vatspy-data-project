@@ -7,7 +7,7 @@ Antigua and Barbuda|TA|
 Anguilla|TQ|
 Argentina|SA|Centro
 Argentina|BA|Centro
-Armenia|UD|
+Armenia|UD|Control
 Ascension and Saint Helena|FH|
 Australia|YA|Centre
 Australia|YB|Centre
@@ -36,7 +36,7 @@ Australia|YX|Centre
 Australia|YY|Centre
 Australia|YZ|Centre
 Austria|LO|Radar
-Azerbaijan|UB|
+Azerbaijan|UB|Control
 Bahamas|MY|
 Bahrain|OB|Radar
 Bangladesh|VG|Control
@@ -120,7 +120,7 @@ French Guyana|SO|
 French Polynesia|NT|Control
 Gabon|FO|
 Gambia|GB|
-Georgia|UG|
+Georgia|UG|Radar
 Germany|ED|Radar
 Germany|ET|Radar
 Ghana|DG|
@@ -18259,6 +18259,12 @@ UMMV|Minsk|UMMM|UMMV
 UNKL|Krasnoyarsk||UNKL
 UNNT|Novosibirsk||UNNT
 URRV|Rostov||URRV
+URRV-K|Rostov ACC - Krasnodar|URRV_K|URRV-K
+URRV-A|Rostov ACC - Astrakhan|URRV_A|URRV-A
+URRV-R|Rostov ACC - Platov|URRV_R|URRV-R
+URRV-S|Rostov ACC - Sochi|URRV_S|URRV-S
+URRV-V|Rostov ACC - Vladikavkaz|URRV_V|URRV-V
+URRV-W|Rostov ACC - Volgograd|URRV_W|URRV-W
 USSV|Yekaterinburg ACC - Ural||USSV
 USTV|Tyumen ACC - Tyumen||USTV
 UTAA|Ashkhabad||UTAA
@@ -18455,7 +18461,7 @@ RU-ESC|Eastern Siberia Control|UNKL,UIII
 RU-WSC|Western Siberia Control|USTV,USSV,UNNT
 RU-CEN|Central Asia Control|UATT,UACN,UAAA,UTAK,UTAA,UTAT,UTAV,UTSD,UTTR,UAII,UCFO,UTDD,UCFM
 RU-NWC|North West Control|ULLL,ULWW,ULMM,ULAA,ULKK,UMKK,UUYY
-RU-SC|Caucasus Radar|URRV,UGGG,UDDD,UBBA
+RU-SC|Caucasus Radar|URRV,UGGG,UDDD,UBBA,UBBA-S
 SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
 SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS
 SAM-S|South America Control South|SUEO,SGFA,SAEF,SARR,SACF,SAMF,SAVF

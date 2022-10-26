@@ -18233,12 +18233,16 @@ UACN|Nur-Sultan||UACN
 UAII|Shymkent||UAII
 UATT|Aktyubinsk||UATT
 UBBA|Baku|UBBB|UBBA
-UBBA-S|Baku South|UBBA-S|UBBA-S
+UBBA-E|Baku East|UBBA_E|UBBA-E
+UBBA-S|Baku South|UBBA_S|UBBA-S
+UBBA-W|Baku West|UBBA_W|UBBA-W
 UCFM|Bishkek||UCFM
 UCFO|Osh||UCFO
 UDDD|Yerevan|UGEE|UDDD
 UEEE|Yakutsk||UEEE
 UGGG|Tbilisi||UGGG
+UGGG-E|Tbilisi East|UGGG_E|UGGG-E
+UGGG-W|Tbilisi West|UGGG_W|UGGG-W
 UHHH|Khabarovsk||UHHH
 UHMM|Magadan||UHMM
 UHPP|Petropavlovsk-Kamchatsky||UHPP
@@ -18259,8 +18263,8 @@ UMMV|Minsk|UMMM|UMMV
 UNKL|Krasnoyarsk||UNKL
 UNNT|Novosibirsk||UNNT
 URRV|Rostov||URRV
-URRV-K|Rostov ACC - Krasnodar|URRV_K|URRV-K
 URRV-A|Rostov ACC - Astrakhan|URRV_A|URRV-A
+URRV-K|Rostov ACC - Krasnodar|URRV_K|URRV-K
 URRV-R|Rostov ACC - Platov|URRV_R|URRV-R
 URRV-S|Rostov ACC - Sochi|URRV_S|URRV-S
 URRV-V|Rostov ACC - Vladikavkaz|URRV_V|URRV-V

@@ -12854,15 +12854,15 @@ UHNN|Nikolayevsk-na-Amure|53.154285|140.650577||UHHH|0
 UHNX|Nelkan|57.642|136.162||UHHH|0 ; io
 UHOO|Okhotsk|59.410456|143.056926||UHHH|0
 UHOT|Tak-Yurya|58.677|137.502||UHHH|0 ; io
-UHPA|Pakhachi|60.553|169.103||UHPP|0 ; io
-UHPD|Ossora|59.223|163.063||UHPP|0 ; io
-UHPG|Tigil|57.783|158.733||UHPP|0 ; io
+UHPA|Pakhachi|60.553|169.103||UHMM|0 ; io
+UHPD|Ossora|59.223|163.063||UHMM|0 ; io
+UHPG|Tigil|57.783|158.733||UHMMM|0 ; io
 UHPH|Khalaktyrka|53.027|158.72||UHMM|0 ; io
-UHPL|Palana|59.082|159.888||UHPP|0 ; io
-UHPM|Milkovo|54.68|158.547||UHPP|0 ; io
-UHPN|Manily|62.485|165.337||UHPP|0 ; io
-UHPP|Petropavlovsk-Kamchatskiy (Yelizovo)|53.17|158.451667||UHPP|0
-UHPU|Ust-Khayryuzovo|57.1|156.735||UHPP|0 ; io
+UHPL|Palana|59.082|159.888||UHMM|0 ; io
+UHPM|Milkovo|54.68|158.547||UHMM|0 ; io
+UHPN|Manily|62.485|165.337||UHMM|0 ; io
+UHPP|Petropavlovsk-Kamchatskiy (Yelizovo)|53.17|158.451667||UHMM|0
+UHPU|Ust-Khayryuzovo|57.1|156.735||UHMM|0 ; io
 UHSB|Burevestnik|44.92|147.62||UHHH|0 ; io
 UHSH|Okha|53.516583|142.881875||UHHH|0
 UHSI|Iturup|45.256389|147.955833||UHHH|0
@@ -18241,7 +18241,6 @@ UEEE|Yakutsk||UEEE
 UGGG|Tbilisi||UGGG
 UHHH|Khabarovsk||UHHH
 UHMM|Magadan||UHMM
-UHPP|Petropavlovsk-Kamchatsky||UHPP
 UIII|Irkutsk||UIII
 UKBV|Kyiv|UKBB|UKBV
 UKFV|Simferopol|UKFF|UKFV
@@ -18452,7 +18451,7 @@ LIUP|Italy Radar|LIMM,LIBB,LIRR,LIPP
 LRUB|Black Sea West Control|LBSR,LRBB,LUUU
 LTUP|Turkey Control|LTAA
 PRC|Beijing Control|ZBPE,ZGZU,ZJSA,ZLHW,ZPKM,ZSHA,ZWUQ,ZYSH
-RU-ERC|Eastern Russia Control|UEEE,UHHH,UHMM,UHPP
+RU-ERC|Eastern Russia Control|UEEE,UHHH,UHMM
 RU-WRC|Western Russia Control|UMMV,UUWV,UWWW
 RU-ESC|Eastern Siberia Control|UNKL,UIII
 RU-WSC|Western Siberia Control|USTV,USSV,UNNT

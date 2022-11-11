@@ -18017,10 +18017,10 @@ LCCC-S|Nicosia|LCCC-S|LCCC-S
 LCCC-W|Nicosia|LCCC-W|LCCC-W
 LDZO|Zagreb||LDZO
 LECB|Barcelona|LEBL|LECB
-LECB-W|Barcelona West|LECB_W|LECB-W
-LECB-E|Barcelona East|LECB_E|LECB-E
-LECB-S|Barcelona South|LECB_S|LECB-S
-LECB-N|Barcelona North|LECB_N|LECB-N
+LECB-W|Barcelona West|LECB_RW|LECB-W
+LECB-E|Barcelona East|LECB_RE|LECB-E
+LECB-S|Barcelona South|LECB_RS|LECB-S
+LECB-N|Barcelona North|LECB_RN|LECB-N
 LECL|Valencia (FL245-)||LECL
 LECM|Madrid|LEMD|LECM
 LECP|Palma (FL245-)|LEPA|LECP

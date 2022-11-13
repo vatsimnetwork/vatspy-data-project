@@ -18179,12 +18179,12 @@ RJCG|Sapporo ACC - Fukuoka|RJCO|RJCG
 RJDG|Fukuoka ACC - Fukuoka|FKO|RJDG
 RJTG|Tokyo ACC - Fukuoka||RJTG
 RKRR|Incheon ACC - Incheon||RKRR
-RKRR-N|Incheon ACC (North) - Incheon||RKRR-N
-RKRR-S|Incheon ACC (South) - Incheon||RKRR-S
-RKDA|Daegu ACC - Incheon||RKDA
-RKDA-W|Daegu ACC (West) - Incheon||RKDA
-RKDA-E|Daegu ACC (East) - Incheon||RKDA
-RKDA-C|Daegu ACC (Central) - Incheon||RKDA
+RKRR-N|Incheon ACC (North) - Incheon|RKRR_N|RKRR-N
+RKRR-S|Incheon ACC (South) - Incheon|RKRR_S|RKRR-S
+RKDA|Daegu ACC - Daegu||RKDA
+RKDA-W|Daegu ACC (West) - Daegu|RKDA_W|RKDA-W
+RKDA-E|Daegu ACC (East) - Daegu|RKDA_E|RKDA-E
+RKDA-C|Daegu ACC (Central) - Daegu|RKDA_C|RKDA-C
 RJBG|Kobe ACC - Fukuoka||RJBG
 RPHI|Manila|MNL|RPHI
 SACF|Cordoba||SACF

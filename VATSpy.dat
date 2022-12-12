@@ -322,7 +322,7 @@ Virgin Islands (British)|TU|
 Virgin Islands (US)|TI|
 Wallis and Futuna|NL|
 Yemen|OY|Radio
-Serbia and Montenegro|LY|Radar
+Serbia-Montenegro|LY|Radar
 Zambia|FL|
 Zimbabwe|FV|
 
@@ -4099,7 +4099,6 @@ HJWW|Wau|7.725833|27.975||HJJJ|0
 HJYA|Yambio|4.567222|28.424167||HJJJ|0
 HJYE|Yei|4.128889|30.732222||HJJJ|0
 HJYL|Yirol|6.558889|30.508056||HJJJ|0
-HKAA|Lubarra|-1.3|36.95||HKNA|0
 HKAB|Allia Bay|3.708361|36.254769||HKNA|0
 HKAC|Komofodo (Galan Ranch)|-2.5525|39.667583||HKNA|0
 HKAD|Arabia|3.530306|41.500972||HKNA|0
@@ -17847,8 +17846,8 @@ EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_GIN|EDGG-GIN
 EDGG-DKB|Langen Radar (Dinkelsbuehl) - Langen|EDGG_DKB|EDGG-DKB
 EDGG-RUD|Langen Radar (Ruedesheim) - Langen|EDGG_RUD|EDGG-RUD
 EDGG-KTG|Langen Radar (Kitzingen) - Langen|EDGG_KTG|EDGG-KTG
-EDGG-P|Langen Radar (Pad High) - Langen|EDGG_H|EDGG-P
-EDGG-P|Langen Radar (Pad High) - Langen|EDGG_P|EDGG-P
+EDGG-HMM|Langen Radar (Hamm) - Langen|EDGG_HMM|EDGG-HMM
+EDGG-PAH|Langen Radar (Pad High) - Langen|EDGG_PAH|EDGG-PAH
 EDGG|Langen||EDGG
 EDMM|Muenchen||EDMM
 EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_Z|EDMM-Z
@@ -17876,6 +17875,7 @@ EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_R|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_S|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_E|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_W|EDWW-A
+EDXX|Langen Information - FIS olny|EDXX_FIS|EDXX
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
 EGGX|Shanwick Oceanic|EGGX|EGGX
@@ -18017,10 +18017,10 @@ LCCC-S|Nicosia|LCCC-S|LCCC-S
 LCCC-W|Nicosia|LCCC-W|LCCC-W
 LDZO|Zagreb||LDZO
 LECB|Barcelona|LEBL|LECB
-LECB-W|Barcelona West|LECB_W|LECB-W
-LECB-E|Barcelona East|LECB_E|LECB-E
-LECB-S|Barcelona South|LECB_S|LECB-S
-LECB-N|Barcelona North|LECB_N|LECB-N
+LECB-W|Barcelona West|LECB_RW|LECB-W
+LECB-E|Barcelona East|LECB_RE|LECB-E
+LECB-S|Barcelona South|LECB_RS|LECB-S
+LECB-N|Barcelona North|LECB_RN|LECB-N
 LECL|Valencia (FL245-)||LECL
 LECM|Madrid|LEMD|LECM
 LECP|Palma (FL245-)|LEPA|LECP
@@ -18454,8 +18454,8 @@ LTUP|Turkey Control|LTAA
 PRC|Beijing Control|ZBPE,ZGZU,ZJSA,ZLHW,ZPKM,ZSHA,ZWUQ,ZYSH
 RU-ERC|Eastern Russia Control|UEEE,UHHH,UHMM
 RU-WRC|Western Russia Control|UMMV,UUWV,UWWW
-RU-ESC|Eastern Siberia Control|UNKL,UIII
-RU-WSC|Western Siberia Control|USTV,USSV,UNNT
+RU-ESC|Eastern Siberia Control|UNKL,UNNT,UIII
+RU-WSC|Western Siberia Control|USTV,USSV
 RU-CEN|Central Asia Control|UATT,UACN,UAAA,UTAK,UTAA,UTAT,UTAV,UTSD,UTTR,UAII,UCFO,UTDD,UCFM
 RU-NWC|North West Control|ULLL,ULWW,ULMM,ULAA,ULKK,UMKK,UUYY
 RU-SC|Caucasus Radar|URRV,UGGG,UDDD,UBBA

@@ -18083,8 +18083,8 @@ LRBB|Bucharest||LRBB
 LSAS|Swiss Radar - Switzerland||LSAS
 LSAG|Swiss Radar (Geneva ACC) - Switzerland||LSAG
 LSAZ|Swiss Radar (Zurich ACC) - Switzerland||LSAZ
-LTAA|Ankara||LTAA
-LTBB|Istanbul||LTBB
+LTAA|Ankara Control - Ankara||LTAA
+LTBB|Ankara Control - Istanbul||LTBB
 LUUU|Chisinau|LUKK|LUUU
 LWSS|Skopje||LWSS
 LYBA|Beograd||LYBA
@@ -18449,7 +18449,6 @@ GULF_W|Gulf Control|HECC,OEJD,OJAC,OLBB,OSTT,OYSC
 LFUP|France Control|LFMM,LFFF,LFEE,LFBB,LFRR
 LIUP|Italy Radar|LIMM,LIBB,LIRR,LIPP
 LRUB|Black Sea West Control|LBSR,LRBB,LUUU
-LTUP|Turkey Control|LTAA
 PRC|Beijing Control|ZBPE,ZGZU,ZJSA,ZLHW,ZPKM,ZSHA,ZWUQ,ZYSH
 RU-ERC|Eastern Russia Control|UEEE,UHHH,UHMM
 RU-WRC|Western Russia Control|UMMV,UUWV,UWWW

@@ -156,7 +156,7 @@ Jamaica|MK|Radar
 Japan|RJ|Control
 Japan|RO|Control
 Jordan|OJ|Control
-Kazakhstan|UA|
+Kazakhstan|UA|Control
 Kyrgyzstan|UC|
 Kenya|HK|
 Kiribati-Tuvalu|NG|
@@ -12747,7 +12747,7 @@ UAAH|Balkhash|46.893|75.005||UAAA|0 ; io
 UAAL|Usharal|46.190833|80.831111||UAAA|0
 UAAR|Boralday|43.351389|76.8825||UAAA|0
 UAAT|Taldykorgan|45.122|78.443||UAAA|0 ; io
-UACC|Nur-Sultan|51.022|71.467||UACN|0
+UACC|Astana|51.022|71.467||UACN|0
 UACK|Kokchetau|53.328|69.595||UACN|0 ; io
 UACP|Petropavlovsk|54.775|69.185||UACN|0 ; corr
 UADD|Taraz (Auliye-Ata)|42.853|71.303||UAAA|0 ; io
@@ -18229,7 +18229,7 @@ TNCF|Curaçao||TNCF
 TTZP|Piarco||TTZP
 TTZO|Piarco Oceanic||TTZO
 UAAA|Almaty||UAAA
-UACN|Nur-Sultan||UACN
+UACN|Astana||UACN
 UAII|Shymkent||UAII
 UATT|Aktyubinsk||UATT
 UBBA|Baku|UBBB|UBBA

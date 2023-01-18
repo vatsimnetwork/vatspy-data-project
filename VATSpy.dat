@@ -156,7 +156,7 @@ Jamaica|MK|Radar
 Japan|RJ|Control
 Japan|RO|Control
 Jordan|OJ|Control
-Kazakhstan|UA|
+Kazakhstan|UA|Control
 Kyrgyzstan|UC|
 Kenya|HK|
 Kiribati-Tuvalu|NG|
@@ -2873,7 +2873,7 @@ FACL|Carolina|-26.06667|30.11639||FAJA|0
 FACN|Carnarvon|-30.991667|22.133333||FACA|0
 FACO|Alkantpan|-29.906486|22.316583||FAJA|0
 FACR|Carletonville|-26.369278|27.349281||FAJA|0
-FACT|Cape Town-D.F.Malan|-33.968144|18.604639||FACA|0
+FACT|Cape Town|-33.968144|18.604639||FACA|0
 FACV|Calvinia|-31.46667|19.76639||FACA|0
 FACW|Clanwilliam|-32.177142|18.881947||FACA|0
 FACX|Cathchart|-32.276358|27.151619||FACA|0
@@ -12747,7 +12747,7 @@ UAAH|Balkhash|46.893|75.005||UAAA|0 ; io
 UAAL|Usharal|46.190833|80.831111||UAAA|0
 UAAR|Boralday|43.351389|76.8825||UAAA|0
 UAAT|Taldykorgan|45.122|78.443||UAAA|0 ; io
-UACC|Nur-Sultan|51.022|71.467||UACN|0
+UACC|Astana|51.022|71.467||UACN|0
 UACK|Kokchetau|53.328|69.595||UACN|0 ; io
 UACP|Petropavlovsk|54.775|69.185||UACN|0 ; corr
 UADD|Taraz (Auliye-Ata)|42.853|71.303||UAAA|0 ; io
@@ -13101,7 +13101,7 @@ USDP|Krasnoselkup|65.7|82.45||USTV|0 ; io
 USDR|Yar-Sale|66.867|70.833||USTV|0 ; io
 USFF|Krasnoufimsk|56.692|57.805||USSV|0 ; io
 USHA|Saranpaul|64.25|60.9||USTV|0 ; io
-USHB|Beryozovo|63.55|65.01||USTV|0
+USHB|Beryozovo|63.9220|65.0334||USTV|0
 USHG|Khulimsunt|62.877|61.633||USTV|0 ; io
 USHH|Khanty-Mansiysk|61.028275|69.086706||USTV|0
 USHI|Igrim|63.2|64.433||USTV|0
@@ -14169,7 +14169,6 @@ XRWH|Akhtubinsk|48.3|46.225||URRV|0 ; io
 XRWL|Lebyazhye|50.202|45.208||URRV|0 ; io
 XRWM|Volgograd (Marinovka)|48.637|43.729||URRV|0 ; io
 XSCU|Uprun|54.375|61.347||USSV|0 ; io
-XSHI|Beloyarskiy|63.688|66.7||USTV|0 ; io
 XSSN|Nizhniy Tagil (Salka)|57.988|60.238||USSV|0 ; io
 XSSU|Kamensk-Uralskiy|56.437|61.988||USSV|0 ; io
 XUBG|Kaluga (Oreshkovo)|54.468|36.073||UUWV|0 ; io
@@ -17875,7 +17874,7 @@ EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_R|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_S|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_E|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_W|EDWW-A
-EDXX|Langen Information - FIS olny|EDXX_FIS|EDXX
+EDXX|Langen Information - FIS only|EDXX_FIS|EDXX
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
 EGGX|Shanwick Oceanic|EGGX|EGGX
@@ -18084,8 +18083,8 @@ LRBB|Bucharest||LRBB
 LSAS|Swiss Radar - Switzerland||LSAS
 LSAG|Swiss Radar (Geneva ACC) - Switzerland||LSAG
 LSAZ|Swiss Radar (Zurich ACC) - Switzerland||LSAZ
-LTAA|Ankara||LTAA
-LTBB|Istanbul||LTBB
+LTAA|Ankara Control - Ankara||LTAA
+LTBB|Ankara Control - Istanbul||LTBB
 LUUU|Chisinau|LUKK|LUUU
 LWSS|Skopje||LWSS
 LYBA|Beograd||LYBA
@@ -18230,7 +18229,7 @@ TNCF|Curaçao||TNCF
 TTZP|Piarco||TTZP
 TTZO|Piarco Oceanic||TTZO
 UAAA|Almaty||UAAA
-UACN|Nur-Sultan||UACN
+UACN|Astana||UACN
 UAII|Shymkent||UAII
 UATT|Aktyubinsk||UATT
 UBBA|Baku|UBBB|UBBA
@@ -18450,7 +18449,6 @@ GULF_W|Gulf Control|HECC,OEJD,OJAC,OLBB,OSTT,OYSC
 LFUP|France Control|LFMM,LFFF,LFEE,LFBB,LFRR
 LIUP|Italy Radar|LIMM,LIBB,LIRR,LIPP
 LRUB|Black Sea West Control|LBSR,LRBB,LUUU
-LTUP|Turkey Control|LTAA
 PRC|Beijing Control|ZBPE,ZGZU,ZJSA,ZLHW,ZPKM,ZSHA,ZWUQ,ZYSH
 RU-ERC|Eastern Russia Control|UEEE,UHHH,UHMM
 RU-WRC|Western Russia Control|UMMV,UUWV,UWWW

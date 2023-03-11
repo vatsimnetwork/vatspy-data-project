@@ -12973,30 +12973,30 @@ UKRN|Nezhin|51.088|31.87||UKFV|0 ; io
 UKSX|V. Shyroke|46.947222|34.915278||UKFV|0
 UKWW|Vinnytsia (Gavryshivka)|49.2425|28.613889|VIN|UKBV|0
 UKYS|Shyroke|47.911944|34.955||UKDV|0
-ULAA|Arkhangelsk (Talagi)|64.6|40.718333||ULAA|0
-ULAB|Bereznik|62.8|42.817||ULAA|0 ; io
-ULAE|Mezen|65.877|44.213||ULAA|0 ; io
-ULAH|Arkhangelsk (Vaskovo)|64.442|40.425||ULAA|0 ; io
-ULAI|Pinega|64.717|43.417||ULAA|0 ; io
-ULAL|Leshukonskoye|64.9|45.75||ULAA|0 ; io
-ULAM|Naryan-Mar|67.64|53.125||ULAA|0
-ULAN|Shenkursk|62.112|42.9||ULKK|0 ; io
-ULAP|Karpogory|64.018|44.44||ULAA|0 ; io
-ULAS|Solovki|65.03|35.733||ULAA|0 ; io
-ULBJ|Koyda|66.377|42.557||ULAA|0 ; io
-ULDD|Amderma|69.763333|61.563333||UUYY|0
-ULDW|Varandey|68.85|58.2||ULAA|0 ; io
-ULEI|Indiga|67.633|49.05||ULAA|0 ; io
-ULKK|Kotlas|61.236667|46.696667||ULKK|0
-ULKO|Oktyabrskiy|61.067|43.2||ULKK|0 ; io
-ULKS|Kotlas (Savatiya)|60.995|46.87||ULKK|0 ; io
-ULKW|Belsk|61.05|42.133||ULKK|0 ; io
+ULAA|Arkhangelsk (Talagi)|64.6|40.718333||ULLL|0
+ULAB|Bereznik|62.8|42.817||ULLL|0 ; io
+ULAE|Mezen|65.877|44.213||ULLL|0 ; io
+ULAH|Arkhangelsk (Vaskovo)|64.442|40.425||ULLL|0 ; io
+ULAI|Pinega|64.717|43.417||ULLL|0 ; io
+ULAL|Leshukonskoye|64.9|45.75||ULLL|0 ; io
+ULAM|Naryan-Mar|67.64|53.125||ULLL|0
+ULAN|Shenkursk|62.112|42.9||ULLL|0 ; io
+ULAP|Karpogory|64.018|44.44||ULLL|0 ; io
+ULAS|Solovki|65.03|35.733||ULLL|0 ; io
+ULBJ|Koyda|66.377|42.557||ULLL|0 ; io
+ULDD|Amderma|69.763333|61.563333||UULL|0
+ULDW|Varandey|68.85|58.2||ULLL|0 ; io
+ULEI|Indiga|67.633|49.05||ULLL|0 ; io
+ULKK|Kotlas|61.236667|46.696667||ULLL|0
+ULKO|Oktyabrskiy|61.067|43.2||ULLL|0 ; io
+ULKS|Kotlas (Savatiya)|60.995|46.87||ULLL|0 ; io
+ULKW|Belsk|61.05|42.133||ULLL|0 ; io
 ULLI|St. Petersburg (Pulkovo)|59.8|30.265|ULLL|ULLL|0
 ULLK|Krechevitsy|58.622|31.387||ULLL|0 ; io
 ULLP|Pushkin|59.685|30.338||ULLL|0 ; io
 ULLS|Siverskiy|59.3567|30.0367||ULLL|0
-ULMK|Kirovsk (Apatity)|67.463334|33.588333||ULMM|0
-ULMM|Murmansk|68.781667|32.746667||ULMM|0
+ULMK|Kirovsk (Apatity)|67.463334|33.588333||ULLL|0
+ULMM|Murmansk|68.781667|32.746667||ULLL|0
 ULNB|Borovichi|58.383|33.883||ULLL|0 ; io
 ULNN|Novgorod|58.5|31.25||ULLL|0 ; io
 ULNR|Staraya Russa|57.962|31.387||ULLL|0 ; io
@@ -13004,10 +13004,10 @@ ULOL|Velikiye Luki|56.382|30.61||ULLL|0
 ULOO|Pskov|57.785|28.398333||ULLL|0
 ULPB|Petrozavodsk (Besovets)|61.885|34.1567||ULLL|0
 ULSS|St. Petersburg (Rzhevka)|59.98|30.586667||ULLL|0
-ULWC|Cherepovets|59.276667|38.028333||ULWW|0
-ULWK|Kichmengskiy Gorodok|59.967|45.817||ULWW|0 ; io
-ULWR|Vytegra|61.042|36.45||ULWW|0 ; io
-ULWW|Vologda|59.282|39.98||ULWW|0 ; io
+ULWC|Cherepovets|59.276667|38.028333||ULLL|0
+ULWK|Kichmengskiy Gorodok|59.967|45.817||ULLL|0 ; io
+ULWR|Vytegra|61.042|36.45||ULLL|0 ; io
+ULWW|Vologda|59.282|39.98||ULLL|0 ; io
 UMBB|Brest|52.108333|23.896667||UMMV|0
 UMGG|Gomel|52.526944|31.016667||UMMV|0
 UMII|Vitebsk|55.126389|30.351667||UMMV|0
@@ -13052,7 +13052,7 @@ UNSS|Strezhevoy|60.716667|77.65||UNNT|0
 UNTT|Tomsk (Bogashevo)|56.383333|85.211667||UNNT|0
 UNWW|Novokuznetsk (Spichenkovo)|53.811003|86.877022||UNNT|0
 UODD|Dikson|73.516667|80.381666||UNKL|0
-UODS|Sredniy Ostrov|79.528|91.075||ULMM|0 ; io
+UODS|Sredniy Ostrov|79.528|91.075||ULLL|0 ; io
 UOHH|Khatanga|71.968334|102.486666||UNKL|0
 UOII|Igarka|67.441667|86.623333||UNKL|0
 UOOO|Norilsk (Alykel)|69.311086|87.328911||UNKL|0
@@ -13241,17 +13241,17 @@ UUWR|Heliport Iasenevo|55.596111|37.503056||UUWV|0
 UUWV|Moscow|55.768333|37.621389|MSK|UUWV|1 ; fake airport for MSK_APP display
 UUWW|Moscow (Vnukovo)|55.598333|37.275||UUWV|0
 UUWX|Turgenevo|53.366389|37.288056||UUWV|0
-UUYH|Ukhta|63.567|53.803||UUYY|0 ; corr
-UUYI|Inta|66.055|60.112||UUYY|0 ; io
-UUYK|Vuktyl|63.083|57.3||UUYY|0 ; io
-UUYL|Koslan|63.467|48.817||UUYY|0 ; io
-UUYM|Yemva|62.6|50.933||UUYY|0 ; io
-UUYP|Pechyora|65.122|57.13||UUYY|0 ; io
-UUYS|Usinsk|66.005|57.368||UUYY|0 ; io
-UUYV|Izhma|65.017|53.65||UUYY|0 ; io
-UUYW|Vorkuta|67.488|63.992||UUYY|0 ; io
-UUYX|Ust-Tsilma|66.438|52.2||UUYY|0 ; io
-UUYY|Syktyvkar|61.641667|50.84||UUYY|0
+UUYH|Ukhta|63.567|53.803||ULLL|0 ; corr
+UUYI|Inta|66.055|60.112||ULLL|0 ; io
+UUYK|Vuktyl|63.083|57.3||ULLL|0 ; io
+UUYL|Koslan|63.467|48.817||ULLL|0 ; io
+UUYM|Yemva|62.6|50.933||ULLL|0 ; io
+UUYP|Pechyora|65.122|57.13||ULLL|0 ; io
+UUYS|Usinsk|66.005|57.368||ULLL|0 ; io
+UUYV|Izhma|65.017|53.65||ULLL|0 ; io
+UUYW|Vorkuta|67.488|63.992||ULLL|0 ; io
+UUYX|Ust-Tsilma|66.438|52.2||ULLL|0 ; io
+UUYY|Syktyvkar|61.641667|50.84||ULLL|0
 UWGB|Bolshoye Boldino|55.023889|45.321944||UUWV|0
 UWGG|Nizhny Novgorod (Strigino)|56.23|43.783333||UUWV|0
 UWGI|Nizhny Novgorod (Babino)|56.218611|43.590278||UUWV|0
@@ -14118,9 +14118,9 @@ XIUW|Ulan-Ude (Vostochny)|51.85|107.737||UIII|0 ; io
 XKFB|Vesyoloye|45.578|34.28||UKFV|0 ; io
 XKFD|Donuzlav|45.326|33.05||UKFV|0 ; io
 XKFO|Oktyabrskoye|45.322|34.104||UKFV|0 ; io
-XLAL|Lakhta|64.38|40.725||ULAA|0 ; io
-XLAP|Plesetsk|62.717|40.493||ULAA|0 ; io
-XLDR|Rogachyovo|71.615|52.48||ULAA|0 ; io
+XLAL|Lakhta|64.38|40.725||ULLL|0 ; io
+XLAP|Plesetsk|62.717|40.493||ULLL|0 ; io
+XLDR|Rogachyovo|71.615|52.48||ULLL|0 ; io
 XLLE|Gorelovo|59.782|30.08||ULLL|0 ; io
 XLLG|Gdov (Smurovoyevo)|58.815|28.015||ULLL|0 ; io
 XLLJ|Gromovo|60.715|30.113||ULLL|0 ; io
@@ -14128,18 +14128,18 @@ XLLL|Soltsy|58.145|30.3317||ULLL|0
 XLLN|Kasimovo|60.2|33.338||ULLL|0 ; io
 XLLV|Levashovo|60.087|30.188||ULLL|0 ; io
 XLLY|Pribylovo|60.458|28.748||ULLL|0 ; io
-XLMA|Alakurtti|66.977|30.35||ULMM|0 ; io
-XLMD|Severomorsk-1|69.03|33.425||ULMM|0 ; io
-XLME|Afrikanda|67.455|32.787||ULMM|0 ; io
-XLMG|Monchegorsk|67.988|33.022||ULMM|0 ; io
-XLMO|Olenya|68.152|33.47||ULMM|0 ; io
-XLMV|Severomorsk-3|68.867|33.717||ULMM|0 ; io
-XLMW|Kilpyavr|69.095|32.405||ULMM|0 ; io
+XLMA|Alakurtti|66.977|30.35||ULLL|0 ; io
+XLMD|Severomorsk-1|69.03|33.425||ULLL|0 ; io
+XLME|Afrikanda|67.455|32.787||ULLL|0 ; io
+XLMG|Monchegorsk|67.988|33.022||ULLL|0 ; io
+XLMO|Olenya|68.152|33.47||ULLL|0 ; io
+XLMV|Severomorsk-3|68.867|33.717||ULLL|0 ; io
+XLMW|Kilpyavr|69.095|32.405||ULLL|0 ; io
 XLOS|Ostrov|57.3|28.435||ULLL|0 ; io
 XLPG|Girvas|62.48|33.75||ULLL|0 ; io
 XLPO|Lodeynoye Pole|60.71|33.573||ULLL|0 ; io
 XLPU|Poduzhemye|64.917|34.283||ULLL|0 ; io
-XLWF|Kipelovo|59.096|39.066||ULWW|0
+XLWF|Kipelovo|59.096|39.066||ULLL|0
 XMWB|Kaliningrad (Chkalovsk)|54.75|20.415||UMKK|0 ; io
 XMWH|Chernyakhovsk|54.602|21.785||UMKK|0 ; io
 XMWN|Nivenskoye|54.563|20.605||UMKK|0 ; io
@@ -14217,7 +14217,7 @@ XUWM|Michurinsk|52.918|40.368||UUWV|0 ; io
 XUWO|Morshansk|53.438|41.737||UUWV|0 ; io
 XUWR|Ryazhsk|53.695|40.003||UUWV|0 ; io
 XUWS|Seltsy|54.923889|39.638889||UUWV|0
-XUYK|Vorkuta (Sovetsky)|67.462|64.308||UUYY|0 ; io
+XUYK|Vorkuta (Sovetsky)|67.462|64.308||ULLL|0 ; io
 XWKD|Yoshkar-Ola (Danilovo)|56.655|48.038||UWWW|0 ; io
 XWOI|Chebenki|51.967|55.55||UWWW|0 ; io
 XWOK|Kumertau (Vorotynovka)|52.848|55.825||UWWW|0 ; io
@@ -18245,11 +18245,17 @@ UKDV|Dnipro||UKDV
 UKLV|Lviv|UKLL|UKLV
 UKOV|Odesa|UKOO|UKOV
 UKR|Ukraine||UKR
-ULAA|Arkhangelsk ACC - Arkhangelsk||ULAA
-ULKK|Kotlas ACC - Arkhangelsk||ULKK
-ULLL|Sankt-Peterburg ACC - Sankt-Peterburg||ULLL
-ULMM|Murmansk||ULMM
-ULWW|Vologda ACC - Sankt-Peterburg||ULWW
+ULLL|Sankt-Peterburg ACC Sankt-Peterburg FIR - Peterburg|ULLL|ULLL
+ULLL-AM|Sankt-Peterburg ACC sectors Arkhangelsk, Murmansk, Naryan-Mar, Oceanic - Peterburg|ULLL_AM|ULLL-AM
+ULLL-AR|Sankt-Peterburg ACC sector Arkhangelsk - Peterburg|ULLL_AR|ULLL-AR
+ULLL-MO|Sankt-Peterburg ACC sector Oceanic - Peterburg|ULLL_MO|ULLL-MO
+ULLL-MR|Sankt-Peterburg ACC sector Murmansk - Peterburg|ULLL_MR|ULLL-MR
+ULLL-NM|Sankt-Peterburg ACC sector Naryan-Mar - Peterburg|ULLL_NM|ULLL-NM
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R|ULLL-R
+ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_S|ULLL-S
+ULLL-W|Sankt-Peterburg ACC sector Vologda - Peterburg|ULLL_W|ULLL-W
+ULLL-KT|Sankt-Peterburg ACC sector Kotlas - Peterburg|ULLL_KT|ULLL-KT
+ULLL-WK|Sankt-Peterburg ACC sectors Kotlas, Vologda - Peterburg|ULLL_WK|ULLL-WK
 UMKK|Kaliningrad||UMKK
 UMMV|Minsk|UMMM|UMMV
 UNKL|Krasnoyarsk||UNKL
@@ -18265,7 +18271,6 @@ UTDD|Dushanbe||UTDD
 UTSD|Samarkand||UTSD
 UTTR|Tashkent||UTTR
 UUWV|Moscow||UUWV
-UUYY|Syktyvkar||UUYY
 UWWW|Samara||UWWW
 VAAH|Ahmedabad||VAAH
 VABB|Mumbai ACC - Mumbai||VABB
@@ -18452,7 +18457,7 @@ RU-WRC|Western Russia Control|UMMV,UUWV,UWWW
 RU-ESC|Eastern Siberia Control|UNKL,UNNT,UIII
 RU-WSC|Western Siberia Control|USTV,USSV
 RU-CEN|Central Asia Control|UATT,UACN,UAAA,UTAK,UTAA,UTAT,UTAV,UTSD,UTTR,UAII,UCFO,UTDD,UCFM
-RU-NWC|North West Control|ULLL,ULWW,ULMM,ULAA,ULKK,UMKK,UUYY
+RU-NWC|North West Control|ULLL,UMKK
 RU-SC|Caucasus Radar|URRV,UGGG,UDDD,UBBA
 SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
 SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS

@@ -17949,6 +17949,7 @@ FWLL|Lilongwe||FWLL
 FYWH|Windhoek||FYWH
 FZZA|Kinshasa||FZZA
 GCCC|Canarias||GCCC
+GCCC-R6|Canarias|GCCC_R6|GCCC-R6
 GCCO|Canarias Oceanic||GCCO
 GLRB|Roberts||GLRB
 GMMM|Casablanca||GMMM
@@ -18020,6 +18021,9 @@ LECB-S|Barcelona South|LECB_RS|LECB-S
 LECB-N|Barcelona North|LECB_RN|LECB-N
 LECL|Valencia (FL245-)||LECL
 LECM|Madrid|LEMD|LECM
+LECM-ALL|Madrid|LECM_ALL|LECM-ALL
+LECM-R1|Madrid|LECM_R1|LECM-R1
+LECM-R2|Madrid|LECM_R2|LECM-R2
 LECP|Palma (FL245-)|LEPA|LECP
 LECS|Sevilla||LECS
 LFBB|Bordeaux||LFBB

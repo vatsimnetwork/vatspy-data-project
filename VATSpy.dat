@@ -2537,7 +2537,7 @@ EPPT|Piotrkow Trybunalski|51.3825|19.688611||EPWW|0
 EPPW|Powidz MIL|52.379167|17.852222||EPWW|0
 EPPY|Pszczyna|50.006611|18.962||EPWW|0
 EPPZ|Przasnysz|53.01|20.933333||EPWW|0
-EPRA|Radom-Sadkow|51.47898|21.110002||EPWW|0
+EPRA|Warszawa-Radom|51.388889|21.211667||EPWW|0
 EPRG|Gotartowice k.Rybnika|50.070556|18.628889||EPWW|0
 EPRJ|Rzeszow|50.104167|22.046944||EPWW|0
 EPRP|Piastow k.Radomia|51.478889|21.11||EPWW|0
@@ -3971,8 +3971,8 @@ HASM|Semera|11.796111|40.983333|SZE|HAAA|0
 HASO|Assosa-Asosa|10.03306|34.53306||HAAA|0
 HASR|Shire/Inda Selassie|14.086944|38.265556|SHC|HAAA|0
 HATS|Tessenei-Teseney|15.11667|36.68306||HAAA|0
-HBBA|Bujumbura|-3.320461|29.317744||HBBA|0
-HBBE|Gitega|-3.433333|29.916667||HBBA|0
+HBBA|Bujumbura|-3.320461|29.317744||HTDC|0
+HBBE|Gitega|-3.433333|29.916667||HTDC|0
 HCCO|Conoco|8.5|48.666667||HCSM|0
 HCGR|Garowe Airport|8.459878|48.568472||HCSM|0
 HCMB|Baidoa|3.098611|43.624167|BIB|HCSM|0
@@ -4484,12 +4484,12 @@ HLZN|Zintan|31.76736|12.24609||HLLL|0
 HLZT|Zelten - S22|28.953333|19.771667||HLLL|0
 HLZU|Zueitina - Oxy1|30.87|20.075556||HLLL|0
 HLZW|Zwara|32.9525|12.015278|WAX|HLLL|0
-HRYG|Gisenyi|-1.66667|29.25||HRYR|0
-HRYI|Butare|-2.6|29.733333|BTQ|HRYR|0
-HRYN|Nemba|-2.333333|30.2||HRYR|0
-HRYR|Kigali|-1.966558|30.133125||HRYR|0
-HRYU|Ruhengeri|-1.5|29.633333|RHG|HRYR|0
-HRZA|Kamembe|-2.459314|28.908431|KME|HRYR|0
+HRYG|Gisenyi|-1.66667|29.25||HTDC|0
+HRYI|Butare|-2.6|29.733333|BTQ|HTDC|0
+HRYN|Nemba|-2.333333|30.2||HTDC|0
+HRYR|Kigali|-1.966558|30.133125||HTDC|0
+HRYU|Ruhengeri|-1.5|29.633333|RHG|HTDC|0
+HRZA|Kamembe|-2.459314|28.908431|KME|HTDC|0
 HSAT|Atbara|17.69972|33.96639||HSSS|0
 HSDN|Dongola|19.153611|30.429444||HSSS|0
 HSDZ|Damazine|11.78306|34.38306||HSSS|0
@@ -9492,7 +9492,6 @@ NWWV|Ouloup Ile Ouvea|-20.64972|166.58306||NWWW|0
 NWWW|La Tontouta Nlle-Caledonie|-22.016389|166.216111||NWWW|0
 NWWX|Canala|-21.522833|165.975667||NWWW|0
 NZAA|Auckland|-37.019217|174.770674|AKL|NZAA|0
-NZAA|Auckland|-37.019217|174.770674|NZAA-F|NZAA|1
 NZAH|Taharoa Iron Sands|-43.894186|171.747975||NZAA|0
 NZAL|Avalon|-41.186667|174.943889||NZCT|0
 NZAM|Ashburton Medical Centre|-43.5339|171.4452||NZCS|0
@@ -9694,7 +9693,6 @@ NZWJ|Wellsford|-36.284694|174.522778||NZAA|0
 NZWK|Whakatane|-37.922546|176.920215|WHK|NZCB|0
 NZWL|West Melton|-43.474615|172.388591||NZCS|0
 NZWM|Waimate|-44.789092|171.075519||NZCS|0
-NZWN|Wellington|-41.335264|174.803487|NZWN-F|NZCT|0
 NZWO|Wairoa|-39.007346|177.402092||NZOH|0
 NZWP|Whenuapai (Mil)|-36.800166|174.617||NZAA|0
 NZWQ|Waitiki|-34.526944|172.838333||NZAA|0
@@ -18260,8 +18258,23 @@ ULLL-MO|Sankt-Peterburg ACC sector Oceanic - Peterburg|ULLL_MO|ULLL-MO
 ULLL-MR|Sankt-Peterburg ACC sector Murmansk - Peterburg|ULLL_MR|ULLL-MR
 ULLL-NM|Sankt-Peterburg ACC sector Naryan-Mar - Peterburg|ULLL_NM|ULLL-NM
 ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_SW|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R1|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R2|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R3|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R4|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R5|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R6|ULLL-R
 ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_S|ULLL-S
+ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_SC|ULLL-S
+ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_S1|ULLL-S
+ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_S2|ULLL-S
+ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_S3|ULLL-S
+ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_S4|ULLL-S
+ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_S5|ULLL-S
 ULLL-W|Sankt-Peterburg ACC sector Vologda - Peterburg|ULLL_W|ULLL-W
+ULLL-W|Sankt-Peterburg ACC sector Vologda - Peterburg|ULLL_W1|ULLL-W
+ULLL-W|Sankt-Peterburg ACC sector Vologda - Peterburg|ULLL_W2|ULLL-W
 ULLL-KT|Sankt-Peterburg ACC sector Kotlas - Peterburg|ULLL_KT|ULLL-KT
 ULLL-WK|Sankt-Peterburg ACC sectors Kotlas, Vologda - Peterburg|ULLL_WK|ULLL-WK
 UMKK|Kaliningrad||UMKK
@@ -18432,7 +18445,7 @@ ZMUB|Ulaan Baatar|ZMUB|
 [UIRs]
 ADR_U|Adria Radar Upper|LJLA,LDZO,LQSB,LYBA,LWSS,LAAA
 AFRN|North Africa Control|DAAA,DRRR,DTTC,FTTT,GMMM,HLLL
-AFRC|Africa Central Control|FLFI,FNAN,FSSS,FWLL,FZZA,HKNA,HTDC,HUEC,HBBA,HRYR
+AFRC|Africa Central Control|FLFI,FNAN,FSSS,FWLL,FZZA,HKNA,HTDC,HUEC
 AFRE|East Africa Control|HAAA,HCSM,HHAA,HSSS
 AFRS|Africa South Control|FACA,FAJA,FBGR,FIMM,FMMM,FQBE,FVHF,FYWH
 AFRW|Africa West Control|DGAC,DGAO,DIII,DNKK,FCCC,GLRB,GOOO,GOOC,GVSC

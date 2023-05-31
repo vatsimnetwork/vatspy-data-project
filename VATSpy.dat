@@ -17506,7 +17506,7 @@ YYWL|Yalwal|-34.933333|150.383056||YBIK|0
 YYWN|Yarrawin|-30.266389|147.216389||YASP|0
 YYYA|Yandiearra|-21.299722|118.366667||YOLW|0
 YZAN|Zanthus|-31.033333|123.566667||YOLW|0
-ZBAA|Beijing Capital|40.074069|116.590800||ZBPE|0
+ZBAA|Beijing Capital|40.074069|116.590800|PEK|ZBPE|0
 ZBAD|Beijing Daxing|39.500895|116.398586||ZBPE|0
 ZBAL|Alxa Left Banner Bayanhot|38.748871|105.583644||ZBPE|0
 ZBAR|Alxa Right Banner Badain Jaran|39.225828|101.549451||ZBPE|0
@@ -17764,7 +17764,7 @@ ZWNL|Xinyuan Nalati|43.432276|83.376524||ZWUQ|0
 ZWRQ|Ruoqiang Loulan|38.974349|88.008889||ZWUQ|0
 ZWSC|Shache Yarkant|38.243812|77.056924||ZWUQ|0
 ZWSH|Kashi|39.542730|76.021193||ZWUQ|0
-ZWTC|Tacheng|46.672369|83.340693||ZWUQ|0
+ZWTC|Tacheng Qianquan|46.672369|83.340693||ZWUQ|0
 ZWTK|Taxkorgan Khunjerab|37.663519|75.288024||ZWUQ|0
 ZWTL|Turpan Jiaohe|43.031830|89.098922||ZWUQ|0
 ZWTN|Hotan|37.032448|79.865872||ZWUQ|0
@@ -18410,6 +18410,10 @@ YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
 YYWE|Melbourne (Yarrowee) 134.325|ML-YWE|YYWE
 ZBPE|Beijing|ZBPE|
 ZBAA|Beijing ACC - Beijing|ZBAA|
+ZBAA-N|Beijing ACC North High Sector - Beijing|ZBAA_N|ZBAA-N
+ZBAA-S|Beijing ACC South High Sector - Beijing|ZBAA_S|ZBAA-S
+ZBAA-W|Beijing ACC West High Sector - Beijing|ZBAA_W|ZBAA-W
+ZBAA-C|Beijing ACC Central Sector - Beijing|ZBAA_C|ZBAA-C
 ZBHH|Hohhot ACC - Beijing|ZBHH|
 ZHCC|Zhengzhou ACC - Wuhan|ZHCC|
 ZHHH|Wuhan ACC - Wuhan|ZHHH|
@@ -18419,7 +18423,8 @@ ZGNN|Nanning ACC - Guangzhou|ZGNN|
 ZGGG|Guangzhou ACC - Guangzhou|ZGGG|
 ZGZU|Guangzhou|ZGZU|
 ZJSA|Sanya|ZJSA|
-ZJSY|Sanya ACC - Sanya|ZJSY|
+ZJSY-L|Sanya ACC Land Sector - Sanya|ZJSY_L|ZJSY-L
+ZJSY-O|Sanya ACC Oceanic Sector - Sanya|ZJSY_O|ZJSY-O
 ZKKP|Pyongyang|ZKKP|
 ZLHW|Lanzhou|ZLHW|
 ZLLL|Lanzhou ACC - Lanzhou|ZLLL|
@@ -18428,6 +18433,10 @@ ZULS|Lhasa ACC - Kunming|ZULS|
 ZPKM|Kunming|ZPKM|
 ZSHA|Shanghai|ZSHA|
 ZSSS|Shanghai ACC - Shanghai|ZSSS|
+ZSSS-N|Shanghai ACC North High Sector - Shanghai|ZSSS_N|ZSSS-N
+ZSSS-S|Shanghai ACC South High Sector - Shanghai|ZSSS_S|ZSSS-S
+ZSSS-W|Shanghai ACC West High Sector - Shanghai|ZSSS_W|ZSSS-W
+ZSSS-C|Shanghai ACC Central High Sector - Shanghai|ZSSS_C|ZSSS-C
 ZSQD|Qingdao ACC - Shanghai|ZSQD|
 ZSJN|Jinan ACC - Shanghai|ZSJN|
 ZSOF|Hefei ACC - Shanghai|ZSOF|

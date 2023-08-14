@@ -1856,7 +1856,6 @@ EGFD|Llanbedr|52.804722|-4.127222||EGTT|0
 EGFE|Haverfordwest|51.833056|-4.961111||EGTT|0
 EGFF|Cardiff|51.396667|-3.343333||EGTT|0
 EGFH|Swansea|51.605278|-4.067778||EGTT|0
-EGFO|Foula|60.116667|-2.05||EGPX|0
 EGFP|Pembrey West Wales Intl|51.713889|-4.312222||EGTT|0
 EGGD|Bristol|51.382669|-2.719089||EGTT|0
 EGGP|Liverpool|53.333611|-2.849722||EGTT|0
@@ -1917,10 +1916,8 @@ EGMJ|Little Gransden|52.166667|-0.154167||EGTT|0
 EGML|Damyns Hall|51.528611|0.245556||EGTT|0
 EGMT|Thurrock|51.538|0.366667||EGTT|0
 EGNC|Carlisle|54.9375|-2.809167||EGPX|0
-EGND|Huddersfield Crossland Moor|53.621111|-1.830833||EGTT|0
 EGNE|Gamston Retford|53.280556|-0.951389||EGTT|0
 EGNF|Netherthorpe|53.316944|-1.195833||EGTT|0
-EGNG|Bagby Thirsk|54.2|-1.283333||EGPX|0
 EGNH|Blackpool|53.771561|-3.028561||EGTT|0
 EGNI|Skegness|53.175|0.333889||EGTT|0
 EGNJ|Humberside|53.574444|-0.350833||EGTT|0
@@ -1962,7 +1959,6 @@ EGPT|Perth Scone|56.45|-3.36639||EGPX|0
 EGPU|Tiree|56.5|-6.88306||EGPX|0
 EGPW|Unst Island|60.73306|-0.81639||EGPX|0
 EGQA|Tain Range|57.81667|-3.96639||EGPX|0
-EGQJ|Machrihanish|55.43306|-5.7||EGPX|0
 EGQL|Leuchars|56.372833|-2.8685||EGPX|0
 EGQS|Lossiemouth|57.705214|-3.339169||EGPX|0
 EGRE|Magnus|61.62017|1.30717||EGPX|0
@@ -1970,7 +1966,6 @@ EGRL|Harding|59.2795|1.51617||EGPX|0
 EGRN|Fulmar A|56.49367|2.15467||EGPX|0
 EGRO|Andrew|58.0475|1.40433||EGPX|0
 EGRP|Mungo|57.37533|1.998||EGPX|0
-EGRR|Bracknell-Beaufort Park|51.38306|-0.78306||EGTT|0
 EGSA|Shipdam|52.629444|0.928056||EGTT|0
 EGSC|Cambridge|52.205|0.175||EGTT|0
 EGSF|Peterborough Glatton Conington|52.468056|-0.251111||EGTT|0
@@ -2016,7 +2011,6 @@ EGVN|Brize Norton|51.75|-1.583667||EGTT|0
 EGVO|Odiham|51.234167|-0.942833||EGTT|0
 EGVP|Middle Wallop|51.14972|-1.56639||EGTT|0
 EGWC|Cosford|52.64|-2.3055||EGTT|0
-EGWE|Henlow|52.017778|-0.302222||EGTT|0
 EGWN|Halton|51.7325|-0.736667||EGTT|0
 EGWU|Northolt|51.553|-0.418167||EGTT|0
 EGXC|Coningsby|53.093|-0.166||EGTT|0
@@ -2027,7 +2021,6 @@ EGXY|Syerston|53.023333|-0.913611||EGTT|0
 EGXZ|Topcliffe|54.2055|-1.382167||EGPX|0
 EGYD|Cranwell|53.030333|-0.483167||EGTT|0
 EGYE|Barkston Heath|52.962333|-0.561667||EGTT|0
-EGYK|Elvington York|53.589444|-0.992778||EGTT|0
 EGYM|Marham|52.648333|0.5505||EGTT|0
 EGYP|Mount Pleasant|-51.826389|-58.447222||EGYP|0
 EHAL|Ameland|53.451667|5.676667||EHAA|0
@@ -2537,7 +2530,7 @@ EPPT|Piotrkow Trybunalski|51.3825|19.688611||EPWW|0
 EPPW|Powidz MIL|52.379167|17.852222||EPWW|0
 EPPY|Pszczyna|50.006611|18.962||EPWW|0
 EPPZ|Przasnysz|53.01|20.933333||EPWW|0
-EPRA|Radom-Sadkow|51.47898|21.110002||EPWW|0
+EPRA|Warszawa-Radom|51.388889|21.211667||EPWW|0
 EPRG|Gotartowice k.Rybnika|50.070556|18.628889||EPWW|0
 EPRJ|Rzeszow|50.104167|22.046944||EPWW|0
 EPRP|Piastow k.Radomia|51.478889|21.11||EPWW|0
@@ -8380,6 +8373,7 @@ LRBM|Baia|47.65825|23.466219||LRBB|0
 LRBN|Bistrita/Bistrita|47.158333|24.551667||LRBB|0
 LRBO|Bobocu (MIL)|45.216389|26.978611||LRBB|0
 LRBS|Bucuresti-Baneasa|44.503483|26.103594||LRBB|0
+LRBV|Brasov-Ghimbav|45.706111|25.523333||LRBB|0
 LRCB|Arad/Charlie-Bravo Siria|46.271667|21.606111||LRBB|0
 LRCD|Magura|45.737183|24.165208||LRBB|0
 LRCK|Kogalniceanu|44.362114|28.488453||LRBB|0
@@ -8820,6 +8814,7 @@ MHOT|Ocotales|15.669167|-85.194444||MHCC|0
 MHPA|Barra Del Patuca|15.801389|-84.296667||MHCC|0
 MHPC|Palacios|15.955|-84.941389||MHCC|0
 MHPL|Puerto Lempira|15.21667|-83.79972||MHCC|0
+MHPR|Palmerola|14.382375|-87.621161||MHCC|0
 MHPS|Desvio Potrerillos|14.595833|-86.15||MHCC|0
 MHPV|El Porvenir|15.530278|-86.273611||MHCC|0
 MHPY|Payasito|15.875833|-85.396944||MHCC|0
@@ -8834,7 +8829,6 @@ MHRS|Santa Rosa|15.468611|-87.826944||MHCC|0
 MHRY|Raya|15.066389|-83.297222||MHCC|0
 MHSA|San Luis|14.745833|-87.405278||MHCC|0
 MHSB|Santa Barbara|14.938056|-88.241389||MHCC|0
-MHSC|Nueva Ocotepeque|14.381667|-87.621667||MHCC|0
 MHSF|San Fernando|14.113333|-86.952778||MHCC|0
 MHSI|Sico|15.818611|-85.114444||MHCC|0
 MHSJ|San Jose|13.827778|-86.810278||MHCC|0
@@ -9492,7 +9486,6 @@ NWWV|Ouloup Ile Ouvea|-20.64972|166.58306||NWWW|0
 NWWW|La Tontouta Nlle-Caledonie|-22.016389|166.216111||NWWW|0
 NWWX|Canala|-21.522833|165.975667||NWWW|0
 NZAA|Auckland|-37.019217|174.770674|AKL|NZAA|0
-NZAA|Auckland|-37.019217|174.770674|NZAA-F|NZAA|1
 NZAH|Taharoa Iron Sands|-43.894186|171.747975||NZAA|0
 NZAL|Avalon|-41.186667|174.943889||NZCT|0
 NZAM|Ashburton Medical Centre|-43.5339|171.4452||NZCS|0
@@ -9694,7 +9687,7 @@ NZWJ|Wellsford|-36.284694|174.522778||NZAA|0
 NZWK|Whakatane|-37.922546|176.920215|WHK|NZCB|0
 NZWL|West Melton|-43.474615|172.388591||NZCS|0
 NZWM|Waimate|-44.789092|171.075519||NZCS|0
-NZWN|Wellington|-41.335264|174.803487|NZWN-F|NZCT|0
+NZWN|Wellington|-41.335264|174.803487|WLG|NZCT|0
 NZWO|Wairoa|-39.007346|177.402092||NZOH|0
 NZWP|Whenuapai (Mil)|-36.800166|174.617||NZAA|0
 NZWQ|Waitiki|-34.526944|172.838333||NZAA|0
@@ -12882,7 +12875,7 @@ UIUN|Nizhneangarsk|55.8|109.6||UIII|0
 UIUU|Ulan-Ude (Mukhino)|51.808333|107.441667||UIII|0
 UKAM|Mala Vyska|48.6325|31.614444||UKBV|0
 UKBB|Kyiv (Boryspil)|50.345|30.895|UKBV|UKBV|0
-UKBC|Belaya Tserkov|49.797|30.027||UKBV|0 ; io
+UKBC|Bila Tserkva|49.797|30.027||UKBV|0 ; io
 UKBD|Kyiv/Pivdenyi|50.005|30.197222||UKBV|0
 UKBE|Kaniv (Pekari)|49.697|31.563||UKBV|0
 UKBF|Konotop|51.243|33.152||UKBV|0 ; io
@@ -14377,8 +14370,10 @@ YBBF|Brooklet-Blueberry Fields|-28.739722|153.487222||YINL|0
 YBBH|Birri Beach|-16.491667|139.283333||YISA|0
 YBBL|Billabalong|-27.416389|115.833333||YOLW|0
 YBBN|Brisbane|-27.384167|153.1175|BN|YINL|0
-YBBN|Brisbane|-27.384167|153.1175|BN-S|YINL|0
-YBBN|Brisbane|327.384167|153.1175|BN-F|YINL|0
+YBBN|Brisbane|-27.384167|153.1175|BN-S|YINL|1
+YBBN|Brisbane|-27.384167|153.1175|BN-F|YINL|1
+YBBN|Brisbane|-27.384167|153.1175|BN-N|YINL|1
+YBBN|Brisbane|-27.384167|153.1175|BN-W|YINL|1
 YBBO|Bon Bon|-30.406389|135.479722||YASP|0
 YBBS|Ban Ban Springs|-13.376944|131.495278||YTRT|0
 YBBT|Boort|-36.137222|143.720556||YYWE|0
@@ -16286,7 +16281,7 @@ YPDN|Darwin|-12.414722|130.876667|DN|YTRT|0
 YPDN|Darwin|-12.414722|130.876667|DN-W|YTRT|0
 YPDO|Pardoo Stn|-20.116667|119.583333||YOLW|0
 YPDY|Padthaway Stn|-36.616389|140.483333||YYWE|0
-YPEA|Pearce|-31.667778|116.015|PEA|YPIY|0
+YPEA|Pearce|-31.667778|116.015|PE|YPIY|0
 YPEC|Aeropelican|-33.066111|151.648056||YARL|0
 YPED|Edinburgh|-34.7025|138.620833|ED|YTBD|0
 YPEE|Portee Stn|-34.422778|139.595||YTBD|0
@@ -17909,7 +17904,7 @@ EGTT-W|London ACC (West) - London|LON_W|EGTT-W
 EGVV|Swanwick Military|SWAN|EGVV
 EGYP|Mount Pleasant (Monte Agradable)|ISLAND|EGYP
 EHAA|Amsterdam||EHAA
-EHMC|Dutch Mil (Military)||EHAA
+EHMC|Dutch Mil (Up to FL245, including N and E)||EHMC
 EHML|Bandbox CRC (Military)||EHAA
 EIDW|Dublin ACC (Up to FL245) - Shannon||EIDW
 EISN|Shannon||EISN
@@ -17956,7 +17951,7 @@ GCCC-R6|Canarias|GCCC_R6|GCCC-R6
 GCCO|Canarias Oceanic||GCCO
 GLRB|Roberts||GLRB
 GMMM|Casablanca||GMMM
-GMMO|Agadir||GMMO
+GMAC|Agadir||GMAC
 GOOO|Dakar||GOOO
 GOOC|Dakar Oceanic||GOOC
 GVSC|Sal Oceanic||GVSC
@@ -18111,13 +18106,14 @@ NFFF|Nadi Oceanic||NFFF
 NFFN|Nadi||NFFN
 NVVV|Port Vila||NVVV
 NSTU|Pago Pago||NZZO
-NTTT|Tahiti||NTTT
+NTTT|Tahiti Radio||NTTT
 NTTC|Tahiti||NTTC
 NWWW|Noumea||NWWW
 NZZO|Auckland Radio||NZZO
 NZZO|Auckland Radio East|NZZO-E|NZZO
+NZZO|Auckland Radio (Tasman)|NZZO-TSN|NZZO
 NZAA|Auckland||NZAA
-NZAA|Auckland|NZAA-R|NZAA
+NZAA|Auckland (Raglan)|NZAA-R|NZAA
 NZCB|Christchurch (Bay)|NZCH-B|NZCB
 NZCT|Christchurch (Taranaki)|NZCH-T|NZCT
 NZCK|Christchurch (Kaikoura)|NZCH-K|NZCK
@@ -18260,8 +18256,23 @@ ULLL-MO|Sankt-Peterburg ACC sector Oceanic - Peterburg|ULLL_MO|ULLL-MO
 ULLL-MR|Sankt-Peterburg ACC sector Murmansk - Peterburg|ULLL_MR|ULLL-MR
 ULLL-NM|Sankt-Peterburg ACC sector Naryan-Mar - Peterburg|ULLL_NM|ULLL-NM
 ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_SW|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R1|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R2|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R3|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R4|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R5|ULLL-R
+ULLL-R|Sankt-Peterburg ACC sector Peterburg - Peterburg|ULLL_R6|ULLL-R
 ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_S|ULLL-S
+ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_SC|ULLL-S
+ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_S1|ULLL-S
+ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_S2|ULLL-S
+ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_S3|ULLL-S
+ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_S4|ULLL-S
+ULLL-S|Sankt-Peterburg ACC sector Syktyvkar - Peterburg|ULLL_S5|ULLL-S
 ULLL-W|Sankt-Peterburg ACC sector Vologda - Peterburg|ULLL_W|ULLL-W
+ULLL-W|Sankt-Peterburg ACC sector Vologda - Peterburg|ULLL_W1|ULLL-W
+ULLL-W|Sankt-Peterburg ACC sector Vologda - Peterburg|ULLL_W2|ULLL-W
 ULLL-KT|Sankt-Peterburg ACC sector Kotlas - Peterburg|ULLL_KT|ULLL-KT
 ULLL-WK|Sankt-Peterburg ACC sectors Kotlas, Vologda - Peterburg|ULLL_WK|ULLL-WK
 UMKK|Kaliningrad||UMKK

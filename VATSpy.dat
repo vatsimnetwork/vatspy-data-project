@@ -17890,10 +17890,16 @@ EGTL|London TMA (Up to FL195)|LTC|EGTL
 EGTM|Manchester TMA (Up to FL285)|MAN|EGTM
 EGTT|London|LON|EGTT
 EGTT-C|London ACC (Central) - London|LON_C|EGTT-C
+EGTT-C|London ACC (Central) - London|LON_M|EGTT-C
 EGTT-C|London ACC (Central) - London|LON_E|EGTT-C
+EGTT-C|London ACC (Central) - London|LTC_M|EGTT-C
+EGTT-C|London ACC (Central) - London|LTC_E|EGTT-C
 EGTT-C|London ACC (Central) - London|LTC_N|EGTT-C
+EGTT-C|London ACC (Central) - London|LTC_NE|EGTT-C
 EGTT-C|London ACC (Central) - London|LTC_NW|EGTT-C
 EGTT-N|London ACC (North) - London|LON_N|EGTT-N
+EGTT-N|London ACC (North) - London|LON_NE|EGTT-N
+EGTT-N|London ACC (North) - London|LON_NW|EGTT-N
 EGTT-S|London ACC (South) - London|LON_S|EGTT-S
 EGTT-S|London ACC (South) - London|LON_D|EGTT-S
 EGTT-S|London ACC (South) - London|LTC_S|EGTT-S

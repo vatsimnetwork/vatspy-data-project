@@ -18112,8 +18112,8 @@ LRBB|Bucharest||LRBB
 LSAS|Swiss Radar - Switzerland||LSAS
 LSAG|Swiss Radar (Geneva ACC) - Switzerland||LSAG
 LSAZ|Swiss Radar (Zurich ACC) - Switzerland||LSAZ
-LTAA|Ankara Control - Ankara||LTAA
-LTBB|Ankara Control - Istanbul||LTBB
+LTAA|Ankara Control - Ankara|ANK|LTAA
+LTBB|Ankara Control - Istanbul|ANK_W|LTBB
 LUUU|Chisinau|LUKK|LUUU
 LWSS|Skopje||LWSS
 LYBA|Beograd||LYBA

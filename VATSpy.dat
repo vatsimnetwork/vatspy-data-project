@@ -17910,8 +17910,8 @@ EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC|EGPX-D
 EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC_W|EGPX-D
 EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC_E|EGPX-D
 EGPX-E|Scottish ACC (East) - Scottish|SCO_E|EGPX-E
-EGPX-N|Scottish ACC (East) - Scottish|SCO_N|EGPX-E
-EGPX-S|Scottish ACC (East) - Scottish|SCO_S|EGPX-E
+EGPX-N|Scottish ACC (North) - Scottish|SCO_N|EGPX-N
+EGPX-S|Scottish ACC (South) - Scottish|SCO_S|EGPX-S
 EGPX-WD|Scottish ACC (West/Dean Cross) - Scottish|SCO_WD|EGPX-WD
 EGPX-W|Scottish ACC (West) - Scottish|SCO_W|EGPX-W
 EGPX-R|Scottish ACC (Rathlin) - Scottish|SCO_R|EGPX-R

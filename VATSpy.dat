@@ -17914,7 +17914,8 @@ ENOB|Bodo Oceanic||ENOB
 ENOR|Polaris||ENOR
 ENOR-S|Polaris South|ENOR_S|ENOR-S
 ENOS|Oslo ACC - Polaris||ENOS
-ENRC|Bodo RTC - Polaris||ENOR
+ENRC-N|Bodo RTC North - Polaris|ENRC_N|ENBD
+ENRC-S|Bodo RTC South - Polaris|ENRC_S|ENOR-S
 ENSV|Stavanger ACC - Polaris||ENSV
 EPWW|Warszawa|EPWA|EPWW
 EPWW-N|Warszawa|EPWW-N|EPWW

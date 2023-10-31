@@ -18120,35 +18120,35 @@ LSAS|Swiss Radar - Switzerland||LSAS
 LSAG|Swiss Radar (Geneva ACC) - Switzerland||LSAG
 LSAZ|Swiss Radar (Zurich ACC) - Switzerland||LSAZ
 LTAA|Ankara Control - Ankara|ANK|LTAA
-LTAA-A|Ankara Control - Ankara Central & East|ANK-C|LTAA-A
-LTAA-A|Ankara Control - Ankara Central|ANK-C|LTAA-A
-LTAA-A|Ankara Control - Ankara East|ANK-E|LTAA-A
-LTAA-A|Ankara Control - Ankara North|ANK-N|LTAA-A
-LTAA-A|Ankara Control - Ankara South|ANK-S|LTAA-A
-LTAA-A|Ankara Control - Ankara East North|ANK-EN|LTAA-A
-LTAA-A|Ankara Control - Ankara East South|ANK-ES|LTAA-A
-LTAA-A|Ankara Control - Ankara 7 Sector|ANK-7|LTAA-A
-LTAA-A|Ankara Control - Ankara 8 Sector|ANK-8|LTAA-A
-LTAA-A|Ankara Control - Ankara 9 Sector|ANK-9|LTAA-A
-LTAA-A|Ankara Control - Ankara 10 Sector|ANK-10|LTAA-A
-LTAA-A|Ankara Control - Ankara 11 Sector|ANK-11|LTAA-A
-LTAA-A|Ankara Control - Ankara 12 Sector|ANK-12|LTAA-A
-LTAA-A|Ankara Control - Ankara 13 Sector|ANK-13|LTAA-A
-LTAA-A|Ankara Control - Ankara 14 Sector|ANK-14|LTAA-A
-LTAA-A|Ankara Control - Ankara 15 Sector|ANK-15|LTAA-A
-LTAA-A|Ankara Control - Ankara 16 Sector|ANK-16|LTAA-A
-LTAA-A|Ankara Control - Ankara 17 Sector|ANK-17|LTAA-A
-LTAA-A|Ankara Control - Ankara 18 Sector|ANK-18|LTAA-A
-LTAA-A|Ankara Control - Ankara 19 Sector|ANK-19|LTAA-A
-LTBB|Ankara Control - Istanbul|ANK-W|LTBB
-LTBB|Ankara Control - Istanbul West North|ANK-WN|LTBB
-LTBB|Ankara Control - Istanbul West South|ANK-WS|LTBB
-LTBB|Ankara Control - Ankara 1 Sector|ANK-1|LTBB
-LTBB|Ankara Control - Ankara 2 Sector|ANK-2|LTBB
-LTBB|Ankara Control - Ankara 3 Sector|ANK-3|LTBB
-LTBB|Ankara Control - Ankara 4 Sector|ANK-4|LTBB
-LTBB|Ankara Control - Ankara 5 Sector|ANK-5|LTBB
-LTBB|Ankara Control - Ankara 6 Sector|ANK-6|LTBB
+LTAA-A|Ankara Control - Ankara Central & East|ANK_A|LTAA-A
+LTAA-A|Ankara Control - Ankara Central|ANK_C|LTAA-A
+LTAA-A|Ankara Control - Ankara East|ANK_E|LTAA-A
+LTAA-A|Ankara Control - Ankara North|ANK_N|LTAA-A
+LTAA-A|Ankara Control - Ankara South|ANK_S|LTAA-A
+LTAA-A|Ankara Control - Ankara East North|ANK_EN|LTAA-A
+LTAA-A|Ankara Control - Ankara East South|ANK_ES|LTAA-A
+LTAA-A|Ankara Control - Ankara 7 Sector|ANK_7|LTAA-A
+LTAA-A|Ankara Control - Ankara 8 Sector|ANK_8|LTAA-A
+LTAA-A|Ankara Control - Ankara 9 Sector|ANK_9|LTAA-A
+LTAA-A|Ankara Control - Ankara 10 Sector|ANK_10|LTAA-A
+LTAA-A|Ankara Control - Ankara 11 Sector|ANK_11|LTAA-A
+LTAA-A|Ankara Control - Ankara 12 Sector|ANK_12|LTAA-A
+LTAA-A|Ankara Control - Ankara 13 Sector|ANK_13|LTAA-A
+LTAA-A|Ankara Control - Ankara 14 Sector|ANK_14|LTAA-A
+LTAA-A|Ankara Control - Ankara 15 Sector|ANK_15|LTAA-A
+LTAA-A|Ankara Control - Ankara 16 Sector|ANK_16|LTAA-A
+LTAA-A|Ankara Control - Ankara 17 Sector|ANK_17|LTAA-A
+LTAA-A|Ankara Control - Ankara 18 Sector|ANK_18|LTAA-A
+LTAA-A|Ankara Control - Ankara 19 Sector|ANK_19|LTAA-A
+LTBB|Ankara Control - Istanbul|ANK_W|LTBB
+LTBB|Ankara Control - Istanbul West North|ANK_WN|LTBB
+LTBB|Ankara Control - Istanbul West South|ANK_WS|LTBB
+LTBB|Ankara Control - Ankara 1 Sector|ANK_1|LTBB
+LTBB|Ankara Control - Ankara 2 Sector|ANK_2|LTBB
+LTBB|Ankara Control - Ankara 3 Sector|ANK_3|LTBB
+LTBB|Ankara Control - Ankara 4 Sector|ANK_4|LTBB
+LTBB|Ankara Control - Ankara 5 Sector|ANK_5|LTBB
+LTBB|Ankara Control - Ankara 6 Sector|ANK_6|LTBB
 LUUU|Chisinau|LUKK|LUUU
 LWSS|Skopje||LWSS
 LYBA|Beograd||LYBA

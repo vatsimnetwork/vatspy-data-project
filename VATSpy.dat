@@ -17920,39 +17920,38 @@ EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
 EGGX|Shanwick Oceanic|EGGX|EGGX
 EGPX|Scottish|SCO|EGPX
-EGPX-D|Scottish ACC (Dean Cross) - Scottish|SCO_D|EGPX-D
+EGPX-D|Scottish ACC (Deancross) - Scottish|SCO_D|EGPX-D
 EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC|EGPX-D
 EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC_W|EGPX-D
 EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC_E|EGPX-D
 EGPX-E|Scottish ACC (East) - Scottish|SCO_E|EGPX-E
-EGPX-E|Scottish ACC (East) - Scottish|SCO_N|EGPX-E
-EGPX-E|Scottish ACC (East) - Scottish|SCO_S|EGPX-E
-EGPX-WD|Scottish ACC (West/Dean Cross) - Scottish|SCO_WD|EGPX-WD
+EGPX-N|Scottish ACC (North) - Scottish|SCO_N|EGPX-N
+EGPX-S|Scottish ACC (South) - Scottish|SCO_S|EGPX-S
+EGPX-WD|Scottish ACC (West/Deancross) - Scottish|SCO_WD|EGPX-WD
 EGPX-W|Scottish ACC (West) - Scottish|SCO_W|EGPX-W
-EGPX-R|Scottish ACC (Rathlin) - Scottish|SCO_R|EGPX-R
-EGPX-R|Scottish TMA (Antrim) - Scottish|STC_A|EGPX-R
-EGTL|London TMA (Up to FL195)|LTC|EGTL
-EGTM|Manchester TMA (Up to FL285)|MAN|EGTM
+EGPX-W|Scottish ACC (Rathlin) - Scottish|SCO_R|EGPX-W
+EGPX-A|Scottish TMA Antrim (Up to FL255) - Scottish|STC_A|EGPX-A
+EGTL|London TMA (Up to FL195) - London|LTC|EGTL
+EGTL-N|London TMA North (Up to FL155) - London|LTC_N|EGTL-N
+EGTL-S|London TMA South (Up to FL195) - London|LTC_S|EGTL-S
+EGTM|Manchester TMA (Up to FL285) - London|MAN|EGTM
+EGTM-W|Manchester TMA West (Up to FL285) - London|MAN_W|EGTM-W
+EGTM-NE|Manchester TMA North East (Up to FL285) - London|MAN_NE|EGTM-NE
+EGTM-W|Manchester TMA South East (Up to FL195) - London|MAN_SE|EGTM-W
 EGTT|London|LON|EGTT
 EGTT-C|London ACC (Central) - London|LON_C|EGTT-C
-EGTT-C|London ACC (Central) - London|LON_M|EGTT-C
-EGTT-C|London ACC (Central) - London|LON_E|EGTT-C
-EGTT-C|London ACC (Central) - London|LTC_M|EGTT-C
-EGTT-C|London ACC (Central) - London|LTC_E|EGTT-C
-EGTT-C|London ACC (Central) - London|LTC_N|EGTT-C
-EGTT-C|London ACC (Central) - London|LTC_NE|EGTT-C
-EGTT-C|London ACC (Central) - London|LTC_NW|EGTT-C
+EGTT-M|London ACC (Daventry) - London|LON_M|EGTT-M
+EGTT-M|London TMA Midlands (Up to FL225) - London|LTC_M|EGTT-M
+EGTT-E|London ACC (Clacton) - London|LON_E|EGTT-E
+EGTT-E|London TMA East (Up to FL245) - London|LTC_E|EGTT-E
 EGTT-N|London ACC (North) - London|LON_N|EGTT-N
-EGTT-N|London ACC (North) - London|LON_NE|EGTT-N
-EGTT-N|London ACC (North) - London|LON_NW|EGTT-N
+EGTT-NE|London ACC (North Sea) - London|LON_NE|EGTT-NE
+EGTT-NW|London ACC (Lakes) - London|LON_NW|EGTT-NW
 EGTT-S|London ACC (South) - London|LON_S|EGTT-S
-EGTT-S|London ACC (South) - London|LON_D|EGTT-S
-EGTT-S|London ACC (South) - London|LTC_S|EGTT-S
-EGTT-S|London ACC (South) - London|LTC_SE|EGTT-S
-EGTT-S|London ACC (South) - London|LTC_SW|EGTT-S
+EGTT-D|London ACC (Dover) - London|LON_D|EGTT-D
 EGTT-SC|London ACC (South-Central) - London|LON_SC|EGTT-SC
 EGTT-W|London ACC (West) - London|LON_W|EGTT-W
-EGVV|Swanwick Military|SWAN|EGVV
+EGVV|Swanwick Military|EGVV|EGVV
 EGYP|Mount Pleasant (Monte Agradable)|ISLAND|EGYP
 EHAA|Amsterdam||EHAA
 EHMC|Dutch Mil (Up to FL245, including N and E)||EHMC

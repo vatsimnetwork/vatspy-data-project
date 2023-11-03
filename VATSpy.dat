@@ -17968,6 +17968,16 @@ EHML|Bandbox CRC (Military)||EHAA
 EIDW|Dublin ACC (Up to FL245) - Shannon||EIDW
 EISN|Shannon||EISN
 EKDK|Kobenhavn||EKDK
+EKDK-E|Kobenhavn (East)|EKDK_E|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_D|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_I|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_B|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_C|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_A|EKDK-E
+EKDK-W|Kobenhavn (West)|EKDK_V|EKDK-W
+EKDK-W|Kobenhavn (West)|EKDK_N|EKDK-W
+EKDK-W|Kobenhavn (West)|EKDK_L|EKDK-W
+EKDK-W|Kobenhavn (West)|EKDK_S|EKDK-W
 ENBD|Bodo ACC - Polaris||ENBD
 ENOB|Bodo Oceanic||ENOB
 ENOR|Polaris||ENOR

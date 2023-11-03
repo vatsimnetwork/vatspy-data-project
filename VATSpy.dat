@@ -17889,17 +17889,23 @@ EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
 EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_M|EDMM-G
 EDMM-G|Muenchen ACC (Gera) - Muenchen|EDWW_B|EDMM-G
 EDWW|Bremen||EDWW
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_F|EDWW-B
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_B|EDWW-B
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_K|EDWW-B
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_M|EDWW-B
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_A|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_H|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_D|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_R|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_S|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_E|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_W|EDWW-A
+EDWW-B|Bremen Radar (Boerde) - Bremen|EDWW_F|EDWW-B
+EDWW-B|Bremen Radar (Boerde) - Bremen|EDWW_B|EDWW-B
+EDWW-B|Bremen Radar (Boerde) - Bremen|EDWW_K|EDWW-B
+EDWW-B|Bremen Radar (Boerde) - Bremen|EDWW_M|EDWW-B
+EDWW-A|Bremen Radar (Aller) - Bremen|EDWW_A|EDWW-A
+EDWW-A|Bremen Radar (Aller) - Bremen|EDWW_H|EDWW-A
+EDWW-A|Bremen Radar (Aller) - Bremen|EDWW_E|EDWW-A
+EDWW-A|Bremen Radar (Aller) - Bremen|EDWW_ALR|EDWW-A
+EDWW-A|Bremen Radar (Aller) - Bremen|EDWW_HEI|EDWW-A
+EDWW-A|Bremen Radar (Aller) - Bremen|EDWW_EIDE|EDWW-A
+EDWW-W|Bremen Radar (Eider West) - Bremen|EDWW_W|EDWW-W
+EDWW-D|Bremen Radar (Deister) - Bremen|EDWW_D|EDWW-D
+EDWW-D|Bremen Radar (Deister) - Bremen|EDWW_R|EDWW-D
+EDWW-D|Bremen Radar (Deister) - Bremen|EDWW_S|EDWW-D
+EDWW-D|Bremen Radar (Deister) - Bremen|EDWW_DST|EDWW-D
+EDWW-D|Bremen Radar (Deister) - Bremen|EDWW_HRZ|EDWW-D
+EDWW-D|Bremen Radar (Deister) - Bremen|EDWW_EMS|EDWW-D
 EDXX|Langen Information - FIS only|EDXX_FIS|EDXX
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN

@@ -17946,6 +17946,10 @@ EIDW|Dublin ACC (Up to FL245) - Shannon||EIDW
 EISN|Shannon||EISN
 EKDK|Kobenhavn||EKDK
 ENBD|Bodo ACC - Polaris||ENBD
+ENBD-E|Bodo East ACC - Polaris|ENBD_E|ENBD-E
+ENBD-C|Bodo Central ACC - Polaris|ENBD_C|ENBD-C
+ENBD-S|Bodo South ACC - Polaris|ENBD_S|ENBD-S
+ENBD-19|Bodø South ACC - Polaris|ENBD_19|ENBD-19
 ENOB|Bodo Oceanic||ENOB
 ENOR|Polaris||ENOR
 ENOR-S|Polaris South|ENOR_S|ENOR-S

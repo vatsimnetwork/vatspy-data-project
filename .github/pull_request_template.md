@@ -9,7 +9,7 @@
 
 ## Approved contributior?
 <!--- We will only approve changes that is approved from staff -->
-<!--- Only select one of the following options - Do not select all. -->
+<!--- Only select **one** of the following options - Do not select all. -->
 - [ ] I am on the approved contributers list
 - [ ] I have sent an request by email to get approved
 - [ ] Someone on the approved contributer list will review this request

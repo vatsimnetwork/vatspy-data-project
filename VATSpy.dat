@@ -17979,6 +17979,10 @@ EKDK-W|Kobenhavn (West)|EKDK_N|EKDK-W
 EKDK-W|Kobenhavn (West)|EKDK_L|EKDK-W
 EKDK-W|Kobenhavn (West)|EKDK_S|EKDK-W
 ENBD|Bodo ACC - Polaris||ENBD
+ENBD-E|Bodø ACC (East) - Polaris|ENBD_E|ENBD-E
+ENBD-C|Bodø ACC (Central) - Polaris|ENBD_C|ENBD-C
+ENBD-S|Bodø ACC (South) - Polaris|ENBD_S|ENBD-S
+ENBD-19|Bodø ACC - Polaris|ENBD_19|ENBD-19
 ENOB|Bodo Oceanic||ENOB
 ENOR|Polaris||ENOR
 ENOR-S|Polaris South|ENOR_S|ENOR-S

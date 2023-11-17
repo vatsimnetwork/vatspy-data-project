@@ -17899,19 +17899,20 @@ EDGG-HMM|Langen Radar (Hamm) - Langen|EDGG_HMM|EDGG-HMM
 EDGG-PAH|Langen Radar (Pad High) - Langen|EDGG_PAH|EDGG-PAH
 EDGG|Langen||EDGG
 EDMM|Muenchen||EDMM
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_Z|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_U|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_T|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_N|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_W|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_A|EDMM-Z
-EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_R|EDMM-R
-EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_E|EDMM-R
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_ZUG|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_ALB|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_EGG|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_FUE|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_NDG|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_STA|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_TEG|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_TRU|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_WLD|EDMM-ZUG
+EDMM-RDG|Muenchen ACC (Roding) - Muenchen|EDMM_RDG|EDMM-RDG
 EDMM-O|Muenchen ACC (Hof) - Muenchen|EDMM_O|EDMM-O
 EDMM-O|Muenchen ACC (Hof) - Muenchen|EDMM_B|EDMM-O
 EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
 EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_M|EDMM-G
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDWW_B|EDMM-G
 EDWW|Bremen||EDWW
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_F|EDWW-B
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_B|EDWW-B

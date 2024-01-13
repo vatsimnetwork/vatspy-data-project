@@ -8377,6 +8377,7 @@ LRBS|Bucuresti-Baneasa|44.503483|26.103594||LRBB|0
 LRBV|Brasov-Ghimbav|45.706111|25.523333||LRBB|0
 LRCB|Arad/Charlie-Bravo Siria|46.271667|21.606111||LRBB|0
 LRCD|Magura|45.737183|24.165208||LRBB|0
+LRCJ|Dezmir|46.779166|23.711944||LRBB|0
 LRCK|Kogalniceanu|44.362114|28.488453||LRBB|0
 LRCL|Cluj-Napoca|46.785092|23.686119||LRBB|0
 LRCN|Clinceni|44.358333|25.930556||LRBB|0
@@ -8385,6 +8386,7 @@ LRCT|Campia Turzii|46.5025|23.886111||LRBB|0
 LRCV|Craiova|44.318144|23.888533||LRBB|0
 LRDV|Deva/Saulesti - Constantin Manolache|45.866389|22.966111||LRBB|0
 LRFT|Fetesti (MIL)|44.392222|27.726667||LRBB|0
+LRHR|Remetea|46.819166|25.411666||LRBB|0
 LRIA|Iasi|47.178758|27.620044||LRBB|0
 LROD|Oradea|47.025322|21.902408||LRBB|0
 LROP|Bucuresti-Otopeni|44.570992|26.085119||LRBB|0
@@ -12776,7 +12778,7 @@ UASZ|Zaisan|47.487492|84.887742|SZI|UAAA|0
 UATE|Aktau|43.86667|51.09722||UATT|0
 UATG|Atyrau|47.120278|51.825833||UATT|0
 UATT|Aktyubinsk|50.245|57.203333||UATT|0
-UAUU|Kustanay (Narimanovka)|53.123833|63.3305||UACN|0
+UAUU|Kustanay (Narimanovka)|53.208611111|63.548055556||UACN|0
 UBBB|Baku (Heydar Aliyev)|40.467222|50.053333||UBBA|0
 UBBG|Gyandzha|40.735|46.318333||UBBA|0
 UBBL|Lenkoran|38.758611|48.806389|LLK|UBBA|0
@@ -17862,9 +17864,15 @@ AYPM|Port Moresby||AYPM
 BGGL|Nuuk||BGGL
 BIRD|Reykjavik||BIRD
 BIRD-E|Reykjavik ACC (East) - Reykjavik|BIRD_E|BIRD-E
+BIRD-E|Reykjavik ACC (East) - Reykjavik|BIRD_E1|BIRD-E
+BIRD-E|Reykjavik ACC (East) - Reykjavik|BIRD_E2|BIRD-E
+BIRD-E|Reykjavik ACC (East) - Reykjavik|BIRD_E3|BIRD-E
 BIRD-N|Reykjavik ACC (North) - Reykjavik|BIRD_N|BIRD-N
 BIRD-S|Reykjavik ACC (South) - Reykjavik|BIRD_S|BIRD-S
 BIRD-W|Reykjavik ACC (West) - Reykjavik|BIRD_W|BIRD-W
+BIRD-W|Reykjavik ACC (West) - Reykjavik|BIRD_W1|BIRD-W
+BIRD-W|Reykjavik ACC (West) - Reykjavik|BIRD_W2|BIRD-W
+BIRD-W|Reykjavik ACC (West) - Reykjavik|BIRD_W3|BIRD-W
 BSW|Black Sea West Radar||BSW
 CZEG|Edmonton|EDM|CZEG
 CZEG|Edmonton|ZEG|CZEG
@@ -17899,19 +17907,20 @@ EDGG-HMM|Langen Radar (Hamm) - Langen|EDGG_HMM|EDGG-HMM
 EDGG-PAH|Langen Radar (Pad High) - Langen|EDGG_PAH|EDGG-PAH
 EDGG|Langen||EDGG
 EDMM|Muenchen||EDMM
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_Z|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_U|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_T|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_N|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_W|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_A|EDMM-Z
-EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_R|EDMM-R
-EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_E|EDMM-R
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_ZUG|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_ALB|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_EGG|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_FUE|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_NDG|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_STA|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_TEG|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_TRU|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_WLD|EDMM-ZUG
+EDMM-RDG|Muenchen ACC (Roding) - Muenchen|EDMM_RDG|EDMM-RDG
 EDMM-O|Muenchen ACC (Hof) - Muenchen|EDMM_O|EDMM-O
 EDMM-O|Muenchen ACC (Hof) - Muenchen|EDMM_B|EDMM-O
 EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
 EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_M|EDMM-G
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDWW_B|EDMM-G
 EDWW|Bremen||EDWW
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_F|EDWW-B
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_B|EDWW-B
@@ -17963,10 +17972,11 @@ EGTT-W|London ACC (West) - London|LON_W|EGTT-W
 EGVV|Swanwick Military|EGVV|EGVV
 EGYP|Mount Pleasant (Monte Agradable)|ISLAND|EGYP
 EHAA|Amsterdam||EHAA
-EHMC|Dutch Mil (Up to FL245, including N and E)||EHMC
+EHMC|Dutch Mil (Up to FL245)||EHAA
 EHML|Bandbox CRC (Military)||EHAA
 EIDW|Dublin ACC (Up to FL245) - Shannon||EIDW
-EISN|Shannon||EISN
+EISN|Shannon ACC - Shannon||EISN
+EISN-L|Shannon ACC (Up to FL245) - Shannon|EISN_LS|EISN-L
 EKDK|Kobenhavn||EKDK
 EKDK-E|Kobenhavn (East)|EKDK_E|EKDK-E
 EKDK-E|Kobenhavn (East)|EKDK_D|EKDK-E
@@ -17979,6 +17989,10 @@ EKDK-W|Kobenhavn (West)|EKDK_N|EKDK-W
 EKDK-W|Kobenhavn (West)|EKDK_L|EKDK-W
 EKDK-W|Kobenhavn (West)|EKDK_S|EKDK-W
 ENBD|Bodo ACC - Polaris||ENBD
+ENBD-E|Bodø ACC (East) - Polaris|ENBD_E|ENBD-E
+ENBD-C|Bodø ACC (Central) - Polaris|ENBD_C|ENBD-C
+ENBD-S|Bodø ACC (South) - Polaris|ENBD_S|ENBD-S
+ENBD-19|Bodø ACC - Polaris|ENBD_19|ENBD-19
 ENOB|Bodo Oceanic||ENOB
 ENOR|Polaris||ENOR
 ENOR-S|Polaris South|ENOR_S|ENOR-S
@@ -18566,14 +18580,14 @@ CARE|Caribbean Control East|MDCS,TJZS,TTZP,TTZO
 CARW|Caribbean Control West|MUFH,MKJK,MTEG,TNCF
 ANT|Antilles Center|MDCS,TNCF,MTEG
 EURN|EuroNorth|EKDK,EETT,EFIN,EVRR,EYVL,ENBD,ENOS,ENSV,ESOS
-EUC-EN|EuroEast|EPWW,LKAA,LZBB,LOVV,LHCC
-EUC-ES|EuroEast|LIPP,LJLA,LDZO,LQSB,LIBB,LIRR,LMMM
-EUC-ME|Maastricht|EDWW-B,EDMM,EDGG-BAD,EDGG-DKB,EDGG-GIN,EDGG-RUD
+EUC-EN|Eurocontrol|EPWW,LKAA,LZBB,LHCC
+EUC-ES|Eurocontrol|LIPP,LJLA,LDZO,LQSB,LIBB,LIRR,LMMM
+EUC-ME|Maastricht|EDWW-B,EDMM,EDGG-BAD,EDGG-DKB,EDGG-GIN,EDGG-RUD,LOVV
 EUC-MW|Maastricht|EDGG-PAH,EDWW-A,EHAA,EBBU
-EUC-SE|EuroSouth|LTAA,LTBB,LCCC
-EUC-SW|EuroSouth|LRBB,LUUU,LBSR,LYBA,LGGG,LAAA,LWSS
-EUC-WN|EuroWest|LFBB,LFEE,LFMM,LFRR,LIMM,LSAS
-EUC-WS|EuroWest|LPPC,LECM,LECB,LECS
+EUC-SE|Eurocontrol|LTAA,LTBB,LCCC
+EUC-SW|Eurocontrol|LRBB,LUUU,LBSR,LYBA,LGGG,LAAA,LWSS
+EUC-WN|Eurocontrol|LFBB,LFEE,LFMM,LFRR,LIMM,LSAS
+EUC-WS|Eurocontrol|LPPC,LECM,LECB,LECS
 GULF|Gulf Control|OIIX,ORBB,OSTT,OEJD,OKAC,OBBB,OMAE,OYSC,OOMM,OJAC,OLBB,HECC
 GULF_E|Gulf Control|OBBB,OIIX,OKAC,OMAE,OOMM,ORBB
 GULF_W|Gulf Control|HECC,OEJD,OJAC,OLBB,OSTT,OYSC
@@ -18592,8 +18606,6 @@ SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
 SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS
 SAM-S|South America Control South|SUEO,SGFA,SAEF,SARR,SACF,SAMF,SAVF
 SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
-RKRR_A|Incheon Control|RKRR,RKDA
-
 
 [IDL]
 90.0|-180.0

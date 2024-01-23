@@ -18560,7 +18560,7 @@ ZYSH|Shenyang|ZYSH|
 ZYTX|Shenyang ACC - Shenyang|ZYTX|
 ZYHB|Harbin ACC - Shenyang|ZYHB|
 ZYTL|Dalian ACC - Shenyang|ZYTL|
-ZMUB|Ulaanbaatar|ZMUB|
+ZMUB|Ulaanbaatar||ZMUB
 ZMUB-A|Ulaanbaatar ACC Altai Sector - Ulaanbaatar|ZMUB_A|ZMUB-A
 ZMUB-B|Ulaanbaatar ACC Bayan Sector - Ulaanbaatar|ZMUB_B|ZMUB-B
 ZMUB-C|Ulaanbaatar ACC Central Sector - Ulaanbaatar|ZMUB_C|ZMUB-C

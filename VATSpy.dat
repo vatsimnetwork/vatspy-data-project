@@ -17930,11 +17930,11 @@ EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_K|EDWW-B
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_M|EDWW-B
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_A|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_H|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_D|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_R|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_S|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_E|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_W|EDWW-A
+EDWW-W|Bremen ACC (West) - Bremen|EDWW_W|EDWW-W
+EDWW-D|Bremen ACC (Deister) - Bremen|EDWW_D|EDWW-D
+EDWW-D|Bremen ACC (Deister) - Bremen|EDWW_R|EDWW-D
+EDWW-D|Bremen ACC (Deister) - Bremen|EDWW_S|EDWW-D
 EDXX|Langen Information - FIS only|EDXX_FIS|EDXX
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
@@ -18585,7 +18585,7 @@ EURN|EuroNorth|EKDK,EETT,EFIN,EVRR,EYVL,ENBD,ENOS,ENSV,ESOS
 EUC-EN|Eurocontrol|EPWW,LKAA,LZBB,LHCC
 EUC-ES|Eurocontrol|LIPP,LJLA,LDZO,LQSB,LIBB,LIRR,LMMM
 EUC-ME|Maastricht|EDWW-B,EDMM,EDGG-BAD,EDGG-DKB,EDGG-GIN,EDGG-RUD,LOVV
-EUC-MW|Maastricht|EDGG-PAH,EDWW-A,EHAA,EBBU
+EUC-MW|Maastricht|EDGG-PAH,EDWW-A,EDWW-D,EHAA,EBBU
 EUC-SE|Eurocontrol|LTAA,LTBB,LCCC
 EUC-SW|Eurocontrol|LRBB,LUUU,LBSR,LYBA,LGGG,LAAA,LWSS
 EUC-WN|Eurocontrol|LFBB,LFEE,LFMM,LFRR,LIMM,LSAS

@@ -18009,7 +18009,13 @@ EPWW-W|Warszawa|EPWW-W|EPWW
 EPWW-SW|Warszawa (if West offline)|EPWW-SW|EPWW
 EPWW-NW|Warszawa (if West offline)|EPWW-NW|EPWW
 ESMM|Malmo ACC - Sweden||ESMM
+ESMM-5|Malmo ACC (5) - Sweden|ESMM_5|ESMM-5
+ESMM-7|Malmo ACC (7) - Sweden|ESMM_7|ESMM-7
+ESMM-8|Malmo ACC (8) - Sweden|ESMM_8|ESMM-8
 ESOS|Stockholm ACC - Sweden||ESOS
+ESOS-K|Stockholm ACC (K) - Sweden|ESOS_K|ESOS-K
+ESOS-N|Stockholm ACC (N) - Sweden|ESOS_N|ESOS-N
+ESOS-3|Stockholm ACC (3) - Sweden|ESOS_3|ESOS-3
 ESSR|Stockholm RTC - Sweden||ESOS
 EVRR|Riga||EVRR
 EYVL|Vilnius||EYVL

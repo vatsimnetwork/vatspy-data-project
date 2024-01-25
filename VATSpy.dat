@@ -18577,7 +18577,13 @@ ZYSH|Shenyang|ZYSH|
 ZYTX|Shenyang ACC - Shenyang|ZYTX|
 ZYHB|Harbin ACC - Shenyang|ZYHB|
 ZYTL|Dalian ACC - Shenyang|ZYTL|
-ZMUB|Ulaan Baatar|ZMUB|
+ZMUB|Ulaanbaatar||ZMUB
+ZMUB-A|Ulaanbaatar ACC Altai Sector - Ulaanbaatar|ZMUB_A|ZMUB-A
+ZMUB-B|Ulaanbaatar ACC Bayan Sector - Ulaanbaatar|ZMUB_B|ZMUB-B
+ZMUB-C|Ulaanbaatar ACC Central Sector - Ulaanbaatar|ZMUB_C|ZMUB-C
+ZMUB-D|Ulaanbaatar ACC Dornod Sector - Ulaanbaatar|ZMUB_D|ZMUB-D
+ZMUB-G|Ulaanbaatar ACC Gobi Sector - Ulaanbaatar|ZMUB_G|ZMUB-G
+ZMUB-M|Ulaanbaatar ACC Muren Sector - Ulaanbaatar|ZMUB_M|ZMUB-M
 
 [UIRs]
 ADR_U|Adria Radar Upper|LJLA,LDZO,LQSB,LYBA,LWSS,LAAA

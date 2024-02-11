@@ -18,7 +18,9 @@ While we work on a contribution policy, please send an email to, or have your Re
 
 # Included Sectors
 
-To keep the map clear and not too cluttered, any new additions to the dataset should cover whole FIR's (e.g. HECC/KZFW). Some exceptions can be made for further splits if the (sub)sector is controlled consistently outside of events and the amount of traffic justifies it. This will be reviewed on a case by case basis. 
+Since the introduction of VATSpy version 1.4.0, a significant change has been implemented concerning the handling of sub-sectors. Previously, there was a strict policy in place aimed at reducing clutter on the map by limiting the inclusion of sub-sectors in the dataset.
+
+Currently, we are open to accepting sub-sectors that offer clear benefits to the VACC. If you wish to propose the addition of new sub-sectors, we kindly request that you provide an explanation for why these additions are necessary and how they would be advantageous. It's important to note that this is not an open invitation to include every single sub-sector within your FIR at this time.
 
 <br>
 

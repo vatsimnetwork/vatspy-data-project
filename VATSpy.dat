@@ -18003,12 +18003,12 @@ ENOS|Oslo ACC - Polaris||ENOS
 ENRC-N|Bodo RTC North - Polaris|ENRC_N|ENBD
 ENRC-S|Bodo RTC South - Polaris|ENRC_S|ENOR-S
 ENSV|Stavanger ACC - Polaris||ENSV
-EPWW|Warszawa|EPWA|EPWW
-EPWW-N|Warszawa|EPWW-N|EPWW
-EPWW-S|Warszawa|EPWW-S|EPWW
-EPWW-W|Warszawa|EPWW-W|EPWW
-EPWW-SW|Warszawa (if West offline)|EPWW-SW|EPWW
-EPWW-NW|Warszawa (if West offline)|EPWW-NW|EPWW
+EPWW|Warszawa||EPWW
+EPWW-N|Warszawa|EPWW_N|EPWW
+EPWW-S|Warszawa|EPWW_S|EPWW
+EPWW-W|Warszawa|EPWW_W|EPWW
+EPWW-SW|Warszawa|EPWW_SW|EPWW
+EPWW-NW|Warszawa|EPWW_NW|EPWW
 ESMM|Malmo ACC - Sweden||ESMM
 ESMM-5|Malmo ACC (5) - Sweden|ESMM_5|ESMM-5
 ESMM-7|Malmo ACC (7) - Sweden|ESMM_7|ESMM-7

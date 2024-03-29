@@ -17856,7 +17856,6 @@ ZYYK|Yingkou Lanqi|40.542243|122.359052||ZYSH|0
 
 [FIRs]
 ;ICAO|NAME|CALLSIGN PREFIX|FIR BOUNDARY
-;dummy codes for Adria CTR
 ADR|Adria Radar||ADR
 ADR-W|Adria Radar (West)|ADR_W|ADR-W
 ADR-E|Adria Radar (East)|ADR_E|ADR-E
@@ -17939,7 +17938,7 @@ EDWW-D|Bremen ACC (Deister) - Bremen|EDWW_S|EDWW-D
 EDXX|Langen Information - FIS only|EDXX_FIS|EDXX
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
-EGGX|Shanwick Oceanic|EGGX|EGGX
+EGGX|Shanwick Oceanic||EGGX
 EGPX|Scottish|SCO|EGPX
 EGPX-D|Scottish ACC (Deancross) - Scottish|SCO_D|EGPX-D
 EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC|EGPX-D
@@ -17972,7 +17971,7 @@ EGTT-S|London ACC (South) - London|LON_S|EGTT-S
 EGTT-D|London ACC (Dover) - London|LON_D|EGTT-D
 EGTT-SC|London ACC (South-Central) - London|LON_SC|EGTT-SC
 EGTT-W|London ACC (West) - London|LON_W|EGTT-W
-EGVV|Swanwick Military|EGVV|EGVV
+EGVV|Swanwick Military||EGVV
 EGYP|Mount Pleasant (Monte Agradable)|ISLAND|EGYP
 EHAA|Amsterdam||EHAA
 EHMC|Dutch Mil (Up to FL245)||EHAA
@@ -18142,14 +18141,14 @@ LGMD-T|Makedonia-(TSL sector)|LGMD-T|LGMD-T
 LHCC|Budapest||LHCC
 LIBB|Brindisi||LIBB
 LIMM|Milano||LIMM
-LIPP|Padova|LIMM|LIPP
+LIPP|Padova||LIPP
 LIRR|Roma||LIRR
 LJLA|Ljubljana||LJLA
 LKAA|Praha||LKAA
 LLLL|Tel Aviv|LLTA|LLLL
 LLLL|Tel Aviv|SHOLET|LLLL
 LLSC|Tel Aviv South||LLSC
-LLPT|Tel Aviv North|PLUTO|LLPT
+LLPT|Tel Aviv North||LLPT
 ; dummy codes for Israel CVFR centers
 LLPL|Pluto|PLUTO|LLLL
 LLGV|Hagav|HAGAV|LLLL
@@ -18284,8 +18283,8 @@ OPLR|Lahore (Islamabad)|ISB|OPLR
 OPLR|Lahore|OPLR-S|OPLR
 OPLR|Lahore|OPLR-W|OPLR
 ORBB|Baghdad||ORBB
-ORBB-N|Baghdad North||ORBB-N
-ORBB-S|Baghdad South||ORBB-N
+ORBB-N|Baghdad North|ORBB_N|ORBB-N
+ORBB-S|Baghdad South|ORBB_S|ORBB-N
 OSTT|Damascus|OSDI|OSTT
 OYSC|Sanaa||OYSC
 PAZA|Anchorage|ANC|PAZA
@@ -18301,12 +18300,12 @@ RJCG|Sapporo ACC - Fukuoka|RJCO|RJCG
 RJDG|Fukuoka ACC - Fukuoka|FKO|RJDG
 RJTG|Tokyo ACC - Fukuoka||RJTG
 RKRR|Incheon ACC - Incheon||RKRR
-RKRR-N|Incheon ACC (North) - Incheon||RKRR-N
-RKRR-S|Incheon ACC (South) - Incheon||RKRR-S
+RKRR-N|Incheon ACC (North) - Incheon|RKRR_N|RKRR-N
+RKRR-S|Incheon ACC (South) - Incheon|RKRR_S|RKRR-S
 RKDA|Daegu ACC - Incheon||RKDA
-RKDA-W|Daegu ACC (West) - Incheon||RKDA
-RKDA-E|Daegu ACC (East) - Incheon||RKDA
-RKDA-C|Daegu ACC (Central) - Incheon||RKDA
+RKDA-W|Daegu ACC (West) - Incheon|RKDA_W|RKDA
+RKDA-E|Daegu ACC (East) - Incheon|RKDA_E|RKDA
+RKDA-C|Daegu ACC (Central) - Incheon|EKDA_C|RKDA
 RJBG|Kobe ACC - Fukuoka||RJBG
 RPHI|Manila|MNL|RPHI
 SACF|Cordoba||SACF
@@ -18356,7 +18355,7 @@ UACN|Astana||UACN
 UAII|Shymkent||UAII
 UATT|Aktyubinsk||UATT
 UBBA|Baku|UBBB|UBBA
-UBBA-S|Baku South|UBBA-S|UBBA-S
+UBBA-S|Baku South|UBBA_S|UBBA-S
 UCFM|Bishkek||UCFM
 UCFO|Osh||UCFO
 UDDD|Yerevan|UGEE|UDDD
@@ -18534,49 +18533,49 @@ YWOL|Melbourne (Wollongong) 125.0* (129.8)|ML-WOL|YWOL
 YWON|Melbourne (Wonthaggi) 135.3* (134.325)|ML-WON|YWON
 YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
 YYWE|Melbourne (Yarrowee) 134.325|ML-YWE|YYWE
-ZBPE|Beijing|ZBPE|
-ZBAA|Beijing ACC - Beijing|ZBAA|
+ZBPE|Beijing|ZBPE|ZBPE
+ZBAA|Beijing ACC - Beijing|ZBAA|ZBAA
 ZBAA-N|Beijing ACC North High Sector - Beijing|ZBAA_N|ZBAA-N
 ZBAA-S|Beijing ACC South High Sector - Beijing|ZBAA_S|ZBAA-S
 ZBAA-W|Beijing ACC West High Sector - Beijing|ZBAA_W|ZBAA-W
 ZBAA-C|Beijing ACC Central Sector - Beijing|ZBAA_C|ZBAA-C
-ZBHH|Hohhot ACC - Beijing|ZBHH|
-ZHCC|Zhengzhou ACC - Wuhan|ZHCC|
-ZHHH|Wuhan ACC - Wuhan|ZHHH|
-ZHWH|Wuhan|ZHWH|
-ZGHA|Changsha ACC - Guangzhou|ZGHA|
-ZGNN|Nanning ACC - Guangzhou|ZGNN|
-ZGGG|Guangzhou ACC - Guangzhou|ZGGG|
-ZGZU|Guangzhou|ZGZU|
-ZJSA|Sanya|ZJSA|
+ZBHH|Hohhot ACC - Beijing||ZBHH
+ZHCC|Zhengzhou ACC - Wuhan||ZHCC
+ZHHH|Wuhan ACC - Wuhan||ZHHH
+ZHWH|Wuhan||ZHWH
+ZGHA|Changsha ACC - Guangzhou||ZGHA
+ZGNN|Nanning ACC - Guangzhou||ZGNN
+ZGGG|Guangzhou ACC - Guangzhou||ZGGG
+ZGZU|Guangzhou||ZGZU
+ZJSA|Sanya||ZJSA
 ZJSY-L|Sanya ACC Land Sector - Sanya|ZJSY_L|ZJSY-L
 ZJSY-O|Sanya ACC Oceanic Sector - Sanya|ZJSY_O|ZJSY-O
-ZKKP|Pyongyang|ZKKP|
-ZLHW|Lanzhou|ZLHW|
-ZLLL|Lanzhou ACC - Lanzhou|ZLLL|
-ZLXY|Xi'an ACC - Lanzhou|ZLXY|
-ZULS|Lhasa ACC - Kunming|ZULS|
-ZPKM|Kunming|ZPKM|
-ZSHA|Shanghai|ZSHA|
-ZSSS|Shanghai ACC - Shanghai|ZSSS|
+ZKKP|Pyongyang||ZKKP
+ZLHW|Lanzhou||ZLHW
+ZLLL|Lanzhou ACC - Lanzhou||ZLLL
+ZLXY|Xi'an ACC - Lanzhou||ZLXY
+ZULS|Lhasa ACC - Kunming||ZULS
+ZPKM|Kunming||ZPKM
+ZSHA|Shanghai||ZSHA
+ZSSS|Shanghai ACC - Shanghai||ZSSS
 ZSSS-N|Shanghai ACC North High Sector - Shanghai|ZSSS_N|ZSSS-N
 ZSSS-S|Shanghai ACC South High Sector - Shanghai|ZSSS_S|ZSSS-S
 ZSSS-W|Shanghai ACC West High Sector - Shanghai|ZSSS_W|ZSSS-W
 ZSSS-C|Shanghai ACC Central High Sector - Shanghai|ZSSS_C|ZSSS-C
-ZSQD|Qingdao ACC - Shanghai|ZSQD|
-ZSJN|Jinan ACC - Shanghai|ZSJN|
-ZSOF|Hefei ACC - Shanghai|ZSOF|
-ZSCN|Nanchang ACC - Shanghai|ZSCN|
-ZSAM|Xiamen ACC - Shanghai|ZSAM|
-ZUUU|Chengdu ACC - Kunming|ZUUU|
-ZUGY|Guiyang ACC - Kunming|ZUGY|
-ZPPP|Kunming ACC - Kunming|ZPPP|
-ZWUQ|Urumqi|ZWUQ|
-ZWWW|Urumqi ACC - Urumqi|ZWWW|
-ZYSH|Shenyang|ZYSH|
-ZYTX|Shenyang ACC - Shenyang|ZYTX|
-ZYHB|Harbin ACC - Shenyang|ZYHB|
-ZYTL|Dalian ACC - Shenyang|ZYTL|
+ZSQD|Qingdao ACC - Shanghai||ZSQD
+ZSJN|Jinan ACC - Shanghai||ZSJN
+ZSOF|Hefei ACC - Shanghai||ZSOF
+ZSCN|Nanchang ACC - Shanghai||ZSCN
+ZSAM|Xiamen ACC - Shanghai||ZSAM
+ZUUU|Chengdu ACC - Kunming||ZUUU
+ZUGY|Guiyang ACC - Kunming||ZUGY
+ZPPP|Kunming ACC - Kunming||ZPPP
+ZWUQ|Urumqi||ZWUQ
+ZWWW|Urumqi ACC - Urumqi||ZWWW
+ZYSH|Shenyang||ZYSH
+ZYTX|Shenyang ACC - Shenyang||ZYTX
+ZYHB|Harbin ACC - Shenyang||ZYHB
+ZYTL|Dalian ACC - Shenyang||ZYTL
 ZMUB|Ulaanbaatar||ZMUB
 ZMUB-A|Ulaanbaatar ACC Altai Sector - Ulaanbaatar|ZMUB_A|ZMUB-A
 ZMUB-B|Ulaanbaatar ACC Bayan Sector - Ulaanbaatar|ZMUB_B|ZMUB-B

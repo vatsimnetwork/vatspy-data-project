@@ -18565,51 +18565,51 @@ YWOL|Melbourne (Wollongong) 125.0* (129.8)|ML-WOL|YWOL
 YWON|Melbourne (Wonthaggi) 135.3* (134.325)|ML-WON|YWON
 YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
 YYWE|Melbourne (Yarrowee) 134.325|ML-YWE|YYWE
-ZBPE|Beijing|ZBPE|
-ZBAA|Beijing ACC - Beijing|ZBAA|
+ZBPE|Beijing||ZBPE
+ZBAA|Beijing ACC - Beijing||ZBAA
 ZBAA-N|Beijing ACC North High Sector - Beijing|ZBAA_N|ZBAA-N
 ZBAA-S|Beijing ACC South High Sector - Beijing|ZBAA_S|ZBAA-S
 ZBAA-W|Beijing ACC West High Sector - Beijing|ZBAA_W|ZBAA-W
 ZBAA-C|Beijing ACC Central Sector - Beijing|ZBAA_C|ZBAA-C
-ZBHH|Hohhot ACC - Beijing|ZBHH|
-ZHCC|Zhengzhou ACC - Wuhan|ZHCC|
-ZHHH|Wuhan ACC - Wuhan|ZHHH|
-ZHWH|Wuhan|ZHWH|
-ZGHA|Changsha ACC - Guangzhou|ZGHA|
-ZGNN|Nanning ACC - Guangzhou|ZGNN|
-ZGGG|Guangzhou ACC - Guangzhou|ZGGG|
-ZGZU|Guangzhou|ZGZU|
-ZJSA|Sanya|ZJSA|
+ZBHH|Hohhot ACC - Beijing|ZBHH|ZBHH
+ZHCC|Zhengzhou ACC - Wuhan||ZHCC
+ZHHH|Wuhan ACC - Wuhan||ZHHH
+ZHWH|Wuhan||ZHWH
+ZGHA|Changsha ACC - Guangzhou||ZGHA
+ZGNN|Nanning ACC - Guangzhou||ZGNN
+ZGGG|Guangzhou ACC - Guangzhou||ZGGG
+ZGZU|Guangzhou|ZGZU|ZGZU
+ZJSA|Sanya||ZJSA
 ZJSY-L|Sanya ACC Land Sector - Sanya|ZJSY_L|ZJSY-L
 ZJSY-O|Sanya ACC Oceanic Sector - Sanya|ZJSY_O|ZJSY-O
-ZKKP|Pyongyang|ZKKP|
-ZLHW|Lanzhou|ZLHW|
-ZLLL|Lanzhou ACC - Lanzhou|ZLLL|
-ZLXY|Xi'an ACC - Lanzhou|ZLXY|
-ZULS|Lhasa ACC - Kunming|ZULS|
-ZPKM|Kunming|ZPKM|
-ZSHA|Shanghai|ZSHA|
-ZSSS|Shanghai ACC - Shanghai|ZSSS|
+ZKKP|Pyongyang||ZKKP
+ZLHW|Lanzhou||ZLHW
+ZLLL|Lanzhou ACC - Lanzhou|ZLLL|ZLLL
+ZLXY|Xi'an ACC - Lanzhou||ZLXY
+ZULS|Lhasa ACC - Kunming||ZULS
+ZPKM|Kunming||ZPKM
+ZSHA|Shanghai|ZSHA|ZSHA
+ZSSS|Shanghai ACC - Shanghai||ZSSS
 ZSSS-N|Shanghai ACC North High Sector - Shanghai|ZSSS_N|ZSSS-N
 ZSSS-S|Shanghai ACC South High Sector - Shanghai|ZSSS_S|ZSSS-S
 ZSSS-W|Shanghai ACC West High Sector - Shanghai|ZSSS_W|ZSSS-W
 ZSSS-C|Shanghai ACC Central High Sector - Shanghai|ZSSS_C|ZSSS-C
-ZSQD|Qingdao ACC - Shanghai|ZSQD|
-ZSJN|Jinan ACC - Shanghai|ZSJN|
-ZSOF|Hefei ACC - Shanghai|ZSOF|
-ZSCN|Nanchang ACC - Shanghai|ZSCN|
-ZSAM|Xiamen ACC - Shanghai|ZSAM|
-ZUUU|Chengdu ACC - Kunming|ZUUU|
-ZUGY|Guiyang ACC - Kunming|ZUGY|
-ZPPP|Kunming ACC - Kunming|ZPPP|
-ZWUQ|Urumqi|ZWUQ|
-ZWWW|Urumqi ACC - Urumqi|ZWWW|
+ZSQD|Qingdao ACC - Shanghai||ZSQD
+ZSJN|Jinan ACC - Shanghai||ZSJN
+ZSOF|Hefei ACC - Shanghai||ZSOF
+ZSCN|Nanchang ACC - Shanghai||ZSCN
+ZSAM|Xiamen ACC - Shanghai||ZSAM
+ZUUU|Chengdu ACC - Kunming||ZUUU
+ZUGY|Guiyang ACC - Kunming||ZUGY
+ZPPP|Kunming ACC - Kunming||ZPPP
+ZWUQ|Urumqi|ZWUQ|ZWUQ
+ZWWW|Urumqi ACC - Urumqi||ZWWW
 ZWWW-N|Urumqi ACC North Sector- Urumqi|ZWWW_N|ZWWW-N
 ZWWW-S|Urumqi ACC South Sector- Urumqi|ZWWW_S|ZWWW-S
-ZYSH|Shenyang|ZYSH|
-ZYTX|Shenyang ACC - Shenyang|ZYTX|
-ZYHB|Harbin ACC - Shenyang|ZYHB|
-ZYTL|Dalian ACC - Shenyang|ZYTL|
+ZYSH|Shenyang||ZYSH
+ZYTX|Shenyang ACC - Shenyang||ZYTX
+ZYHB|Harbin ACC - Shenyang||ZYHB
+ZYTL|Dalian ACC - Shenyang||ZYTL
 ZMUB|Ulaanbaatar||ZMUB
 ZMUB-A|Ulaanbaatar ACC Altai Sector - Ulaanbaatar|ZMUB_A|ZMUB-A
 ZMUB-B|Ulaanbaatar ACC Bayan Sector - Ulaanbaatar|ZMUB_B|ZMUB-B

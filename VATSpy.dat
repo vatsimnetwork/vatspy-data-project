@@ -2321,7 +2321,6 @@ ENQK|Kvitebjorn (Offshore Helideck)|61.083333|2.5||ENSV|0
 ENQL|Martin Linge B (Offshore Helideck)|60.498333|2.073333||ENSV|0
 ENQM|Martin Linge A (Offshore Helideck)|60.5075|2.014722||ENSV|0
 ENQO|Oseberg South (Offshore Helideck)|60.39243|2.795461||ENSV|0
-ENQP|Petrojarl Knarr (Offshore Helideck)|61.781944|2.831944||ENSV|0
 ENQR|Snorre B (Offshore Helideck)|61.525|2.209722||ENSV|0
 ENQS|Statfjord C (Offshore Helideck)|61.296111|1.900833||ENSV|0
 ENQV|Visund A (Offshore Helideck)|61.369722|2.457222||ENSV|0
@@ -2339,7 +2338,6 @@ ENRT|Rosten (Heliport)|63.368131|10.374019||ENBD|0
 ENRV|Reinsvoll|60.672887|10.566512||ENOS|0
 ENRX|Honefoss Ringerike Hospital (Helipad)|60.149167|10.255278||ENOS|0
 ENRY|Rygge|59.366667|10.783333||ENOS|0
-ENSA|Svea|77.895925|16.72166||ENOB|0
 ENSB|Svalbard/Longyear|78.246111|15.465556||ENOB|0
 ENSC|Suldal/Sand (Helipad)|59.48359|6.27233||ENSV|0
 ENSD|Sandane/Anda|61.83306|6.11639||ENSV|0
@@ -2372,8 +2370,11 @@ ENTX|Talarud (Helipad)|59.803883333333|10.840680555556||ENOS|0
 ENUA|Aasgard A (Offshore Helideck)|65.064144|6.725689||ENBD|0
 ENUB|Aasgard B (Offshore Helideck)|65.110102|6.78943||ENBD|0
 ENUC|Aasgard C (Offshore Helideck)|65.131101|6.864031||ENBD|0
+ENUD|Njord A (Offshore Helideck)|64.271111|7.201388||ENBD|0
+ENUE|Njord B (Offshore Helideck)|64.271666|7.251388||ENBD|0
 ENUG|Goliat FPSO (Offshore Helideck)|71.311111|22.250833||ENOB|0
 ENUH|Oslo/Ullevaal University Hospital (Helipad)|59.936216|10.736542||ENOS|0
+ENUJ|Johan Castberg (Offshore Helideck)|72.484166|20.235555||ENBD|0
 ENUK|Kristin (Offshore Helideck)|64.99407|6.550522||ENBD|0
 ENUL|Ulven/Vaksinen|60.191389|5.420556||ENSV|0
 ENUN|Aasta Hansteen (Offshore Helideck)|67.068889|7.097222||ENBD|0
@@ -2382,7 +2383,6 @@ ENUS|Skarv (Offshore Helideck)|65.699722|7.650833||ENBD|0
 ENVA|Trondheim/Vaernes|63.4575|10.939872||ENBD|0
 ENVD|Vadso|70.06667|29.85||ENBD|0
 ENVE|Valle/Aaraksoeyene|59.030751|7.554714||ENOS|0
-ENVF|Veslefrikk B (Offshore Helideck)|60.782222|2.896111||ENSV|0
 ENVR|Vaeroey (Heliport)|67.654551|12.72704||ENBD|0
 ENVS|Verdal/Slottelid (Helipad)|63.80021|11.53358||ENBD|0
 ENWA|Alvheim (Offshore Helideck)|59.566667|1.991667||ENSV|0
@@ -2394,8 +2394,8 @@ ENWK|Gina Krog (Offshore Helideck)|58.571389|1.695278||ENSV|0
 ENWR|Randgrid (Offshore Helideck)|58.583333|1.732778||ENSV|0
 ENWS|Eldfisk S (Offshore Helideck)|56.373611|3.262778||ENSV|0
 ENWV|Valhall PH (Offshore Helideck)|56.274722|3.393333||ENSV|0
+ENWY|Yme Inspirer (Offshore Helideck)|57.815833|4.535555||ENSV|0
 ENXB|Eldfisk B (Offshore Helideck)|56.418611|3.216944||ENSV|0
-ENXG|Gyda (Offshore Helideck)|56.904271|3.083727||ENSV|0
 ENXH|Hod (Offshore Helideck)|56.175833|3.458611||ENSV|0
 ENXI|Valhall Flank North (Offshore Helideck)|56.323889|3.351111||ENSV|0
 ENXJ|Valhall Flank South (Offshore Helideck)|56.226944|3.435833||ENSV|0

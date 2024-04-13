@@ -3490,9 +3490,8 @@ FMSV|Betioky|-23.733611|44.390833|BKU|FMMM|0
 FMSY|Ampanihy|-24.699167|44.7325|AMP|FMMM|0
 FMSZ|Ankazoabo|-22.296667|44.531944|WAK|FMMM|0
 FNBG|Monbaca Benguela|-12.58306|13.41639||FNAN|0
-FNBJ|Dr Antonio Agostinho Neto|-9.0536108333333|13.496943888889||FNAN|0
 FNCA|Cabinda|-5.54972|12.18306||FNAN|0
-FNCT|Catumbela|-12.479418888889|13.48718583333||FNAN|0
+FNCT|Catumbela|-9.429472|20.311111||FNAN|0
 FNCU|Calulo|-9.983333|14.916667||FNAN|0
 FNCV|Cuito Cuanavale|-15.160472|19.157194||FNAN|0
 FNDU|Kamakenzo|-7.402692|20.816833|DUE|FNAN|0
@@ -17951,58 +17950,30 @@ EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC_E|EGPX-D
 EGPX-E|Scottish ACC (East) - Scottish|SCO_E|EGPX-E
 EGPX-N|Scottish ACC (North) - Scottish|SCO_N|EGPX-N
 EGPX-S|Scottish ACC (South) - Scottish|SCO_S|EGPX-S
-EGPX-S|Scottish ACC (Tay) - Scottish|SCL_TAY|EGPX-S
 EGPX-WD|Scottish ACC (West/Deancross) - Scottish|SCO_WD|EGPX-WD
 EGPX-W|Scottish ACC (West) - Scottish|SCO_W|EGPX-W
 EGPX-W|Scottish ACC (Rathlin) - Scottish|SCO_R|EGPX-W
 EGPX-A|Scottish TMA Antrim (Up to FL255) - Scottish|STC_A|EGPX-A
 EGTL|London TMA (Up to FL195) - London|LTC|EGTL
 EGTL-N|London TMA North (Up to FL155) - London|LTC_N|EGTL-N
-EGTL-N|London TMA North (Up to FL155) - London|LTC_NE|EGTL-N
-EGTL-N|London TMA North (Up to FL155) - London|LTC_NW|EGTL-N
 EGTL-S|London TMA South (Up to FL195) - London|LTC_S|EGTL-S
-EGTL-S|London TMA South (Up to FL195) - London|LTC_SE|EGTL-S
-EGTL-S|London TMA South (Up to FL195) - London|LTC_SW|EGTL-S
 EGTM|Manchester TMA (Up to FL285) - London|MAN|EGTM
 EGTM-W|Manchester TMA West (Up to FL285) - London|MAN_W|EGTM-W
-EGTM-W|Manchester TMA West (Up to FL285) - London|MAN_WP|EGTM-W
-EGTM-W|Manchester TMA West (Up to FL285) - London|MAN_WI|EGTM-W
 EGTM-NE|Manchester TMA North East (Up to FL285) - London|MAN_NE|EGTM-NE
 EGTM-W|Manchester TMA South East (Up to FL195) - London|MAN_SE|EGTM-W
 EGTT|London|LON|EGTT
 EGTT-C|London ACC (Central) - London|LON_C|EGTT-C
 EGTT-M|London ACC (Daventry) - London|LON_M|EGTT-M
-EGTT-M|London ACC (Daventry) - London|LON_ME|EGTT-M
-EGTT-M|London ACC (Daventry) - London|LON_ML|EGTT-M
-EGTT-M|London ACC (Daventry) - London|LON_MW|EGTT-M
 EGTT-M|London TMA Midlands (Up to FL225) - London|LTC_M|EGTT-M
-EGTT-M|London TMA Midlands (Up to FL225) - London|LTC_MW|EGTT-M
 EGTT-E|London ACC (Clacton) - London|LON_E|EGTT-E
-EGTT-E|London ACC (Clacton) - London|LON_ES|EGTT-E
-EGTT-E|London ACC (Clacton) - London|LON_EN|EGTT-E
 EGTT-E|London TMA East (Up to FL245) - London|LTC_E|EGTT-E
-EGTT-E|London TMA East (Up to FL245) - London|LTC_ES|EGTT-E
-EGTT-E|London TMA East (Up to FL245) - London|LTC_ER|EGTT-E
 EGTT-N|London ACC (North) - London|LON_N|EGTT-N
 EGTT-NE|London ACC (North Sea) - London|LON_NE|EGTT-NE
 EGTT-NW|London ACC (Lakes) - London|LON_NW|EGTT-NW
-EGTT-NW|London ACC (Lakes) - London|LON_NU|EGTT-NW
 EGTT-S|London ACC (South) - London|LON_S|EGTT-S
-EGTT-S|London ACC (Worthing) - London|LON_SF|EGTT-S
-EGTT-S|London ACC (Worthing) - London|LON_SH|EGTT-S
-EGTT-S|London ACC (LUS) - London|LON_SU|EGTT-S
 EGTT-D|London ACC (Dover) - London|LON_D|EGTT-D
-EGTT-D|London ACC (Dover) - London|LON_DK|EGTT-D
-EGTT-D|London ACC (Dover) - London|LON_DL|EGTT-D
 EGTT-SC|London ACC (South-Central) - London|LON_SC|EGTT-SC
 EGTT-W|London ACC (West) - London|LON_W|EGTT-W
-EGTT-W|London ACC (West) - London|LON_WH|EGTT-W
-EGTT-W|London ACC (West) - London|LON_WB|EGTT-W
-EGTT-W|London ACC (West) - London|LON_WL|EGTT-W
-EGTT-W|London ACC (West) - London|LON_23|EGTT-W
-EGTT-W|London ACC (West) - London|LON_8|EGTT-W
-EGTT-W|London ACC (West) - London|LON_WX|EGTT-W
-EGTT-W|London ACC (West) - London|LON_9|EGTT-W
 EGVV|Swanwick Military|EGVV|EGVV
 EGYP|Mount Pleasant (Monte Agradable)|ISLAND|EGYP
 EHAA|Amsterdam||EHAA
@@ -18498,7 +18469,7 @@ WIIF-W|Jakarta (West)|WIIF_W|WIIF-W
 WIIF-E|Jakarta (East)|WIIF_E|WIIF-E
 WMFC|Kuala Lumpur||WMFC
 WSJC|Singapore||WSJC
-YARA|Brisbane (Arafura) 133.7* (125.7)|BN-ARA|YARA
+YARA|Brisbane (Arafura) 133.7* (125.2)|BN-ARA|YARA
 YARL|Brisbane (Armidale) 130.9|BN-ARL|YARL
 YASP|Melbourne (Alice Springs) 128.85|ML-ASP|YASP
 YASW|Melbourne (Alice Springs West) 131.8* (128.85)|ML-ASW|YASW
@@ -18511,7 +18482,7 @@ YBUR|Brisbane (Burnett) 123.0* (134.2)|BN-BUR|YBUR
 YCNK|Brisbane (Cessnock) 123.4* (130.9)|BN-CNK|YCNK
 YCOL|Brisbane Radio (Coral) 133.15* (124.65)|BN-COL|YCOL
 YCRS|Melbourne (Cross) 135.8* (133.9)|ML-CRS|YCRS
-YCVN|Brisbane (Carnarvon) 133.8* (125.7)|BN-CVN|YCVN
+YCVN|Brisbane (Carnarvon) 133.8* (125.2)|BN-CVN|YCVN
 YDOS|Brisbane (Downs) 135.6* (134.2)|BN-DOS|YDOS
 YELW|Melbourne (Eildon Weir) 123.75|ML-ELW|YELW
 YESP|Melbourne (Esperance) 123.95* (128.85)|ML-ESP|YESP
@@ -18529,7 +18500,7 @@ YIND|Brisbane Radio (Indian) 129.25|ML-IND|YIND
 YINE|Brisbane Radio (Indian East) 123.65* (129.25)|ML-INE|YINE
 YINL|Brisbane (Inverell) 134.2|BN-INL|YINL
 YINS|Brisbane Radio (Indian South) 123.2* (129.25)|ML-INS|YINS
-YISA|Brisbane (Isa) 125.7|BN-ISA|YISA
+YISA|Brisbane (Isa) 125.2|BN-ISA|YISA
 YJAR|Melbourne (Jarrah) 120.3* (133.9)|ML-JAR|YJAR
 YKAT|Melbourne (Katomba) 133.5* (134.325)|ML-KAT|YKAT
 YKEN|Brisbane (Kennedy) 120.15|BN-KEN|YKEN

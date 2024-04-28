@@ -1821,7 +1821,7 @@ EGCF|Sandtoft|53.559722|-0.858333||EGTT|0
 EGCG|Strubby Heliport|53.3|0.166667||EGTT|0
 EGCJ|Sherburn in Elmet|53.788056|-1.218333||EGTT|0
 EGCK|Caernarfon|53.104167|-4.340278||EGTT|0
-EGCL|Fenland Holbeach St John|52.739444|-0.029722||EGTT|0
+EGCL|Fenland|52.739444|-0.029722||EGTT|0
 EGCM|Leeds East|53.834468|-1.19548||EGTT|0
 EGCN|Doncaster Sheffield (Closed)|53.474222|-1.004444||EGTT|0
 EGCP|Thorne|53.616667|-0.966667||EGTT|0
@@ -1831,12 +1831,12 @@ EGCV|Sleap|52.833889|-2.771667||EGTT|0
 EGCW|Welshpool|52.629167|-3.1525||EGTT|0
 EGDB|Plymouth|50.35|-4.11639||EGTT|0
 EGDI|Merryfield|50.9625|-2.935667||EGTT|0
-EGDM|Boscombe Down|51.152167|-1.747333||EGTT|0
+EGDM|RAF Boscombe Down|51.152167|-1.747333||EGTT|0
 EGDN|Netheravon|51.247222|-1.754167||EGTT|0
 EGDO|Predannack|50.002033|-5.231769||EGTT|0
 EGDP|Portland-Rnas|50.56667|-2.45||EGTT|0
-EGDR|Culdrose|50.086167|-5.255667||EGTT|0
-EGDY|Yeovilton|51.009333|-2.638833||EGTT|0
+EGDR|RNAS Culdrose|50.086167|-5.255667||EGTT|0
+EGDY|RNAS Yeovilton|51.009333|-2.638833||EGTT|0
 EGEA|Culter Helipad|57.119722|-2.320833||EGPX|0
 EGEC|Campbeltown Machrihanish|55.437222|-5.686667||EGPX|0
 EGED|Eday London|59.191389|-2.773889||EGPX|0
@@ -1924,7 +1924,7 @@ EGNI|Skegness|53.175|0.333889||EGTT|0
 EGNJ|Humberside|53.574444|-0.350833||EGTT|0
 EGNL|Walney Island|54.11667|-3.25||EGTT|0
 EGNM|Leeds|53.865897|-1.660569||EGTT|0
-EGNO|Warton|53.745|-2.883889||EGTT|0
+EGNO|BAe Warton|53.745|-2.883889||EGTT|0
 EGNR|Hawarden|53.178056|-2.977778||EGTT|0
 EGNS|Isle Of Man-Ronaldsway|54.083333|-4.623889||EGPX|0
 EGNT|Newcastle|55.0375|-1.691667||EGPX|0
@@ -1936,10 +1936,10 @@ EGNY|Beverley Linley Hill|53.898611|-0.361944||EGTT|0
 EGOE|Ternhill AB|52.871111|-2.533333||EGTT|0
 EGOM|Spadeadam|55.04972|-2.54972||EGPX|0
 EGOP|Pembrey (Mod)|51.733333|-4.3625||EGTT|0
-EGOQ|Mona|53.258889|-4.373056||EGTT|0
-EGOS|Shawbury|52.798167|-2.668||EGTT|0
-EGOV|Valley|53.248167|-4.535333||EGTT|0
-EGOW|Woodvale AB|53.581389|-3.055556||EGTT|0
+EGOQ|RAF Mona|53.258889|-4.373056||EGTT|0
+EGOS|RAF Shawbury|52.798167|-2.668||EGTT|0
+EGOV|RAF Valley|53.248167|-4.535333||EGTT|0
+EGOW|Woodvale|53.581389|-3.055556||EGTT|0
 EGPA|Kirkwall|58.957897|-2.905336||EGPX|0
 EGPB|Sumburgh Cape|59.878889|-1.295556||EGPX|0
 EGPC|Wick|58.458889|-3.093056||EGPX|0
@@ -1959,9 +1959,9 @@ EGPS|Peterhead Longside|57.516667|-1.866667||EGPX|0
 EGPT|Perth Scone|56.45|-3.36639||EGPX|0
 EGPU|Tiree|56.5|-6.88306||EGPX|0
 EGPW|Unst Island|60.73306|-0.81639||EGPX|0
-EGQA|Tain Range|57.81667|-3.96639||EGPX|0
-EGQL|Leuchars|56.372833|-2.8685||EGPX|0
-EGQS|Lossiemouth|57.705214|-3.339169||EGPX|0
+EGQA|Tain AWR|57.81667|-3.96639||EGPX|0
+EGQL|RAF Leuchars|56.372833|-2.8685||EGPX|0
+EGQS|RAF Lossiemouth|57.705214|-3.339169||EGPX|0
 EGRE|Magnus|61.62017|1.30717||EGPX|0
 EGRL|Harding|59.2795|1.51617||EGPX|0
 EGRN|Fulmar A|56.49367|2.15467||EGPX|0
@@ -1969,7 +1969,7 @@ EGRO|Andrew|58.0475|1.40433||EGPX|0
 EGRP|Mungo|57.37533|1.998||EGPX|0
 EGSA|Shipdam|52.629444|0.928056||EGTT|0
 EGSC|Cambridge|52.205|0.175||EGTT|0
-EGSF|Peterborough Glatton Conington|52.468056|-0.251111||EGTT|0
+EGSF|Peterborough Conington|52.468056|-0.251111||EGTT|0
 EGSG|Stapleford Tawney|51.6525|0.156111||EGTT|0
 EGSH|Norwich|52.675833|1.282778||EGTT|0
 EGSI|Marshland. Wisbeach|52.65|0.3||EGTT|0
@@ -2002,28 +2002,28 @@ EGTP|Perranporth Trevallis|50.331667|-5.1775||EGTT|0
 EGTR|Elstree Aldenham|51.655556|-0.325278||EGTT|0
 EGTU|Dunkeswell|50.86|-3.234722||EGTT|0
 EGTW|Oaksey Park|51.631667|-2.013056||EGTT|0
-EGUB|Benson|51.616333|-1.095833||EGTT|0
-EGUL|Lakenheath|52.409167|0.562778||EGTT|0
-EGUN|Mildenhall|52.360833|0.486944||EGTT|0
-EGUW|Wattisham|52.127333|0.956||EGTT|0
-EGVA|Fairford|51.68306|-1.78306||EGTT|0
+EGUB|RAF Benson|51.616333|-1.095833||EGTT|0
+EGUL|RAF Lakenheath|52.409167|0.562778||EGTT|0
+EGUN|RAF Mildenhall|52.360833|0.486944||EGTT|0
+EGUW|RAF Wattisham|52.127333|0.956||EGTT|0
+EGVA|RAF Fairford|51.68306|-1.78306||EGTT|0
 EGVL|Little Rissington|51.867089|-1.694189||EGTT|0
-EGVN|Brize Norton|51.75|-1.583667||EGTT|0
-EGVO|Odiham|51.234167|-0.942833||EGTT|0
+EGVN|RAF Brize Norton|51.75|-1.583667||EGTT|0
+EGVO|RAF Odiham|51.234167|-0.942833||EGTT|0
 EGVP|Middle Wallop|51.14972|-1.56639||EGTT|0
-EGWC|Cosford|52.64|-2.3055||EGTT|0
-EGWN|Halton|51.7325|-0.736667||EGTT|0
-EGWU|Northolt|51.553|-0.418167||EGTT|0
-EGXC|Coningsby|53.093|-0.166||EGTT|0
-EGXE|Leeming|54.292333|-1.535167||EGPX|0
-EGXT|Wittering|52.6125|-0.476667||EGTT|0
-EGXW|Waddington|53.166167|-0.523833||EGTT|0
+EGWC|RAF Cosford|52.64|-2.3055||EGTT|0
+EGWN|RAF Halton|51.7325|-0.736667||EGTT|0
+EGWU|RAF Northolt|51.553|-0.418167||EGTT|0
+EGXC|RAF Coningsby|53.093|-0.166||EGTT|0
+EGXE|RAF Leeming|54.292333|-1.535167||EGPX|0
+EGXT|RAF Wittering|52.6125|-0.476667||EGTT|0
+EGXW|RAF Waddington|53.166167|-0.523833||EGTT|0
 EGXY|Syerston|53.023333|-0.913611||EGTT|0
 EGXZ|Topcliffe|54.2055|-1.382167||EGPX|0
-EGYD|Cranwell|53.030333|-0.483167||EGTT|0
-EGYE|Barkston Heath|52.962333|-0.561667||EGTT|0
-EGYM|Marham|52.648333|0.5505||EGTT|0
-EGYP|Mount Pleasant|-51.826389|-58.447222||EGYP|0
+EGYD|RAF Cranwell|53.030333|-0.483167||EGTT|0
+EGYE|RAF Barkston Heath|52.962333|-0.561667||EGTT|0
+EGYM|RAF Marham|52.648333|0.5505||EGTT|0
+EGYP|RAF Mount Pleasant|-51.826389|-58.447222||EGYP|0
 EHAL|Ameland|53.451667|5.676667||EHAA|0
 EHAM|Amsterdam-Schiphol|52.308333|4.765|AMS|EHAA|0
 EHBD|Budel (Weert)|51.255|5.601667||EHAA|0
@@ -2321,7 +2321,6 @@ ENQK|Kvitebjorn (Offshore Helideck)|61.083333|2.5||ENSV|0
 ENQL|Martin Linge B (Offshore Helideck)|60.498333|2.073333||ENSV|0
 ENQM|Martin Linge A (Offshore Helideck)|60.5075|2.014722||ENSV|0
 ENQO|Oseberg South (Offshore Helideck)|60.39243|2.795461||ENSV|0
-ENQP|Petrojarl Knarr (Offshore Helideck)|61.781944|2.831944||ENSV|0
 ENQR|Snorre B (Offshore Helideck)|61.525|2.209722||ENSV|0
 ENQS|Statfjord C (Offshore Helideck)|61.296111|1.900833||ENSV|0
 ENQV|Visund A (Offshore Helideck)|61.369722|2.457222||ENSV|0
@@ -2339,7 +2338,6 @@ ENRT|Rosten (Heliport)|63.368131|10.374019||ENBD|0
 ENRV|Reinsvoll|60.672887|10.566512||ENOS|0
 ENRX|Honefoss Ringerike Hospital (Helipad)|60.149167|10.255278||ENOS|0
 ENRY|Rygge|59.366667|10.783333||ENOS|0
-ENSA|Svea|77.895925|16.72166||ENOB|0
 ENSB|Svalbard/Longyear|78.246111|15.465556||ENOB|0
 ENSC|Suldal/Sand (Helipad)|59.48359|6.27233||ENSV|0
 ENSD|Sandane/Anda|61.83306|6.11639||ENSV|0
@@ -2372,8 +2370,11 @@ ENTX|Talarud (Helipad)|59.803883333333|10.840680555556||ENOS|0
 ENUA|Aasgard A (Offshore Helideck)|65.064144|6.725689||ENBD|0
 ENUB|Aasgard B (Offshore Helideck)|65.110102|6.78943||ENBD|0
 ENUC|Aasgard C (Offshore Helideck)|65.131101|6.864031||ENBD|0
+ENUD|Njord A (Offshore Helideck)|64.271111|7.201388||ENBD|0
+ENUE|Njord B (Offshore Helideck)|64.271666|7.251388||ENBD|0
 ENUG|Goliat FPSO (Offshore Helideck)|71.311111|22.250833||ENOB|0
 ENUH|Oslo/Ullevaal University Hospital (Helipad)|59.936216|10.736542||ENOS|0
+ENUJ|Johan Castberg (Offshore Helideck)|72.484166|20.235555||ENBD|0
 ENUK|Kristin (Offshore Helideck)|64.99407|6.550522||ENBD|0
 ENUL|Ulven/Vaksinen|60.191389|5.420556||ENSV|0
 ENUN|Aasta Hansteen (Offshore Helideck)|67.068889|7.097222||ENBD|0
@@ -2382,7 +2383,6 @@ ENUS|Skarv (Offshore Helideck)|65.699722|7.650833||ENBD|0
 ENVA|Trondheim/Vaernes|63.4575|10.939872||ENBD|0
 ENVD|Vadso|70.06667|29.85||ENBD|0
 ENVE|Valle/Aaraksoeyene|59.030751|7.554714||ENOS|0
-ENVF|Veslefrikk B (Offshore Helideck)|60.782222|2.896111||ENSV|0
 ENVR|Vaeroey (Heliport)|67.654551|12.72704||ENBD|0
 ENVS|Verdal/Slottelid (Helipad)|63.80021|11.53358||ENBD|0
 ENWA|Alvheim (Offshore Helideck)|59.566667|1.991667||ENSV|0
@@ -2394,8 +2394,8 @@ ENWK|Gina Krog (Offshore Helideck)|58.571389|1.695278||ENSV|0
 ENWR|Randgrid (Offshore Helideck)|58.583333|1.732778||ENSV|0
 ENWS|Eldfisk S (Offshore Helideck)|56.373611|3.262778||ENSV|0
 ENWV|Valhall PH (Offshore Helideck)|56.274722|3.393333||ENSV|0
+ENWY|Yme Inspirer (Offshore Helideck)|57.815833|4.535555||ENSV|0
 ENXB|Eldfisk B (Offshore Helideck)|56.418611|3.216944||ENSV|0
-ENXG|Gyda (Offshore Helideck)|56.904271|3.083727||ENSV|0
 ENXH|Hod (Offshore Helideck)|56.175833|3.458611||ENSV|0
 ENXI|Valhall Flank North (Offshore Helideck)|56.323889|3.351111||ENSV|0
 ENXJ|Valhall Flank South (Offshore Helideck)|56.226944|3.435833||ENSV|0
@@ -3454,7 +3454,7 @@ FMNA|Diego-Suarez|-12.34972|49.29972||FMMM|0
 FMNB|Bealanana/Ankaizina|-14.542778|48.691667|WBE|FMMM|0
 FMNC|Mananara/Avaratra|-16.163611|49.769722|WMR|FMMM|0
 FMND|Andapa|-14.65|49.61639||FMMM|0
-FMNE|Ambilobe|-13.188333|48.9875|AMB|FMMM|0
+FMNE|Ambilobe|-13.188333|48.9875||FMMM|0
 FMNF|Befandriana/Avaratra|-15.2|48.483333|WBD|FMMM|0
 FMNG|Port-Berge|-15.584167|47.626389|WPB|FMMM|0
 FMNH|Antalaha|-14.88306|50.25||FMMM|0
@@ -3490,8 +3490,9 @@ FMSV|Betioky|-23.733611|44.390833|BKU|FMMM|0
 FMSY|Ampanihy|-24.699167|44.7325|AMP|FMMM|0
 FMSZ|Ankazoabo|-22.296667|44.531944|WAK|FMMM|0
 FNBG|Monbaca Benguela|-12.58306|13.41639||FNAN|0
+FNBJ|Dr Antonio Agostinho Neto|-9.0536108333333|13.496943888889||FNAN|0
 FNCA|Cabinda|-5.54972|12.18306||FNAN|0
-FNCT|Catumbela|-9.429472|20.311111||FNAN|0
+FNCT|Catumbela|-12.479418888889|13.48718583333||FNAN|0
 FNCU|Calulo|-9.983333|14.916667||FNAN|0
 FNCV|Cuito Cuanavale|-15.160472|19.157194||FNAN|0
 FNDU|Kamakenzo|-7.402692|20.816833|DUE|FNAN|0
@@ -14322,7 +14323,7 @@ YALO|Altona|-37.834444|144.808333||YELW|0
 YALR|Aileron|-22.653056|133.347222||YASP|0
 YALX|Alexandria Stn|-19.066667|136.699722||YISA|0
 YALY|Alderley|-22.494167|139.662222||YISA|0
-YAMB|Amberley|-27.640556|152.711944|AMB|YINL|0
+YAMB|Amberley|-27.640556|152.711944|AM|YINL|0
 YAMC|Aramac|-22.959444|145.2525||YISA|0
 YAMJ|Ampilatwatja|-21.655|135.229722||YASP|0
 YAMK|Andamooka|-30.437778|137.137222||YASP|0
@@ -17614,6 +17615,7 @@ ZGSY|Shaoyang Wugang|26.805287|110.641026||ZGZU|0
 ZGSZ|Shenzhen Baoan|22.638927|113.811990|ZGJD|ZGZU|0
 ZGUH|Zhuhai Jiuzhou|22.252097|113.590535||ZGZU|0
 ZGWZ|Wuzhou Xijiang|23.402656|111.099351||ZGZU|0
+ZGXX|Xiangxi Biancheng|28.495278|109.519722||ZGZU|0
 ZGYJ|Yangjiang Heshan|21.960816|112.102364||ZGZU|0
 ZGYL|Yulin Fumian|22.433647|110.119638||ZGZU|0
 ZGYY|Yueyang Sanhe|29.313677|113.281633||ZGZU|0
@@ -17781,7 +17783,7 @@ ZUMY|Mianyang Nanjiao|31.428780|104.740824||ZPKM|0
 ZUNC|Nanchong Gaoping|30.797596|106.164896||ZPKM|0
 ZUNP|Liping|26.322600|109.150448||ZPKM|0
 ZUNZ|Linzhi Milin|29.303185|94.334629||ZPKM|0
-ZUPL|Nagri Pulan|30.39145|81.13747||ZPKM|0
+ZUPL|Ngari Pulan|30.39145|81.13747||ZPKM|0
 ZUPS|Liupanshui Yuezhao|26.609063|104.978306||ZPKM|0
 ZUQJ|Qianjiang Wulingshan|29.515665|108.832636||ZPKM|0
 ZURK|Shigatse Heping|29.351402|89.309806||ZPKM|0
@@ -17948,30 +17950,58 @@ EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC_E|EGPX-D
 EGPX-E|Scottish ACC (East) - Scottish|SCO_E|EGPX-E
 EGPX-N|Scottish ACC (North) - Scottish|SCO_N|EGPX-N
 EGPX-S|Scottish ACC (South) - Scottish|SCO_S|EGPX-S
+EGPX-S|Scottish ACC (Tay) - Scottish|SCL_TAY|EGPX-S
 EGPX-WD|Scottish ACC (West/Deancross) - Scottish|SCO_WD|EGPX-WD
 EGPX-W|Scottish ACC (West) - Scottish|SCO_W|EGPX-W
 EGPX-W|Scottish ACC (Rathlin) - Scottish|SCO_R|EGPX-W
 EGPX-A|Scottish TMA Antrim (Up to FL255) - Scottish|STC_A|EGPX-A
 EGTL|London TMA (Up to FL195) - London|LTC|EGTL
 EGTL-N|London TMA North (Up to FL155) - London|LTC_N|EGTL-N
+EGTL-N|London TMA North (Up to FL155) - London|LTC_NE|EGTL-N
+EGTL-N|London TMA North (Up to FL155) - London|LTC_NW|EGTL-N
 EGTL-S|London TMA South (Up to FL195) - London|LTC_S|EGTL-S
+EGTL-S|London TMA South (Up to FL195) - London|LTC_SE|EGTL-S
+EGTL-S|London TMA South (Up to FL195) - London|LTC_SW|EGTL-S
 EGTM|Manchester TMA (Up to FL285) - London|MAN|EGTM
 EGTM-W|Manchester TMA West (Up to FL285) - London|MAN_W|EGTM-W
+EGTM-W|Manchester TMA West (Up to FL285) - London|MAN_WP|EGTM-W
+EGTM-W|Manchester TMA West (Up to FL285) - London|MAN_WI|EGTM-W
 EGTM-NE|Manchester TMA North East (Up to FL285) - London|MAN_NE|EGTM-NE
 EGTM-W|Manchester TMA South East (Up to FL195) - London|MAN_SE|EGTM-W
 EGTT|London|LON|EGTT
 EGTT-C|London ACC (Central) - London|LON_C|EGTT-C
 EGTT-M|London ACC (Daventry) - London|LON_M|EGTT-M
+EGTT-M|London ACC (Daventry) - London|LON_ME|EGTT-M
+EGTT-M|London ACC (Daventry) - London|LON_ML|EGTT-M
+EGTT-M|London ACC (Daventry) - London|LON_MW|EGTT-M
 EGTT-M|London TMA Midlands (Up to FL225) - London|LTC_M|EGTT-M
+EGTT-M|London TMA Midlands (Up to FL225) - London|LTC_MW|EGTT-M
 EGTT-E|London ACC (Clacton) - London|LON_E|EGTT-E
+EGTT-E|London ACC (Clacton) - London|LON_ES|EGTT-E
+EGTT-E|London ACC (Clacton) - London|LON_EN|EGTT-E
 EGTT-E|London TMA East (Up to FL245) - London|LTC_E|EGTT-E
+EGTT-E|London TMA East (Up to FL245) - London|LTC_ES|EGTT-E
+EGTT-E|London TMA East (Up to FL245) - London|LTC_ER|EGTT-E
 EGTT-N|London ACC (North) - London|LON_N|EGTT-N
 EGTT-NE|London ACC (North Sea) - London|LON_NE|EGTT-NE
 EGTT-NW|London ACC (Lakes) - London|LON_NW|EGTT-NW
+EGTT-NW|London ACC (Lakes) - London|LON_NU|EGTT-NW
 EGTT-S|London ACC (South) - London|LON_S|EGTT-S
+EGTT-S|London ACC (Worthing) - London|LON_SF|EGTT-S
+EGTT-S|London ACC (Worthing) - London|LON_SH|EGTT-S
+EGTT-S|London ACC (LUS) - London|LON_SU|EGTT-S
 EGTT-D|London ACC (Dover) - London|LON_D|EGTT-D
+EGTT-D|London ACC (Dover) - London|LON_DK|EGTT-D
+EGTT-D|London ACC (Dover) - London|LON_DL|EGTT-D
 EGTT-SC|London ACC (South-Central) - London|LON_SC|EGTT-SC
 EGTT-W|London ACC (West) - London|LON_W|EGTT-W
+EGTT-W|London ACC (West) - London|LON_WH|EGTT-W
+EGTT-W|London ACC (West) - London|LON_WB|EGTT-W
+EGTT-W|London ACC (West) - London|LON_WL|EGTT-W
+EGTT-W|London ACC (West) - London|LON_23|EGTT-W
+EGTT-W|London ACC (West) - London|LON_8|EGTT-W
+EGTT-W|London ACC (West) - London|LON_WX|EGTT-W
+EGTT-W|London ACC (West) - London|LON_9|EGTT-W
 EGVV|Swanwick Military|EGVV|EGVV
 EGYP|Mount Pleasant (Monte Agradable)|ISLAND|EGYP
 EHAA|Amsterdam||EHAA
@@ -18288,7 +18318,11 @@ ORBB-N|Baghdad North||ORBB-N
 ORBB-S|Baghdad South||ORBB-N
 OSTT|Damascus|OSDI|OSTT
 OYSC|Sanaa||OYSC
-PAZA|Anchorage|ANC|PAZA
+PAZA|Anchorage||PAZA
+PAZA|Anchorage|ANC|PAZA-D
+PAZA|Anchorage Oceanic - Pacific|ZAN_10|PAZA-P
+PAZA|Anchorage Oceanic - Pacific|ZAN_11|PAZA-P
+PAZA|Anchorage Oceanic - Arctic|ZAN_64|PAZA-A
 PGZU|Guam|GU|PGZU
 PGZU|Guam|GUM|PGZU
 PGZU|Guam|GUAM|PGZU
@@ -18467,7 +18501,7 @@ WIIF-W|Jakarta (West)|WIIF_W|WIIF-W
 WIIF-E|Jakarta (East)|WIIF_E|WIIF-E
 WMFC|Kuala Lumpur||WMFC
 WSJC|Singapore||WSJC
-YARA|Brisbane (Arafura) 133.7* (125.2)|BN-ARA|YARA
+YARA|Brisbane (Arafura) 133.7* (125.7)|BN-ARA|YARA
 YARL|Brisbane (Armidale) 130.9|BN-ARL|YARL
 YASP|Melbourne (Alice Springs) 128.85|ML-ASP|YASP
 YASW|Melbourne (Alice Springs West) 131.8* (128.85)|ML-ASW|YASW
@@ -18480,7 +18514,7 @@ YBUR|Brisbane (Burnett) 123.0* (134.2)|BN-BUR|YBUR
 YCNK|Brisbane (Cessnock) 123.4* (130.9)|BN-CNK|YCNK
 YCOL|Brisbane Radio (Coral) 133.15* (124.65)|BN-COL|YCOL
 YCRS|Melbourne (Cross) 135.8* (133.9)|ML-CRS|YCRS
-YCVN|Brisbane (Carnarvon) 133.8* (125.2)|BN-CVN|YCVN
+YCVN|Brisbane (Carnarvon) 133.8* (125.7)|BN-CVN|YCVN
 YDOS|Brisbane (Downs) 135.6* (134.2)|BN-DOS|YDOS
 YELW|Melbourne (Eildon Weir) 123.75|ML-ELW|YELW
 YESP|Melbourne (Esperance) 123.95* (128.85)|ML-ESP|YESP
@@ -18498,7 +18532,7 @@ YIND|Brisbane Radio (Indian) 129.25|ML-IND|YIND
 YINE|Brisbane Radio (Indian East) 123.65* (129.25)|ML-INE|YINE
 YINL|Brisbane (Inverell) 134.2|BN-INL|YINL
 YINS|Brisbane Radio (Indian South) 123.2* (129.25)|ML-INS|YINS
-YISA|Brisbane (Isa) 125.2|BN-ISA|YISA
+YISA|Brisbane (Isa) 125.7|BN-ISA|YISA
 YJAR|Melbourne (Jarrah) 120.3* (133.9)|ML-JAR|YJAR
 YKAT|Melbourne (Katomba) 133.5* (134.325)|ML-KAT|YKAT
 YKEN|Brisbane (Kennedy) 120.15|BN-KEN|YKEN
@@ -18529,7 +18563,7 @@ YTBP|Brisbane (Tabletop) 120.55* (120.15)|BN-TBP|YTBP
 YTRT|Brisbane (Territory) 133.2|BN-TRT|YTRT
 YTSN|Brisbane Radio (Tasman) 124.65|BN-TSN|YTSN
 YWAR|Melbourne (Warburton) 124.9* (128.85)|ML-WAR|YWAR
-YWEG|Brisbane (Warrego) 132.45* (125.2)|BN-WEG|YWEG
+YWEG|Brisbane (Warrego) 132.45* (125.7)|BN-WEG|YWEG
 YWOL|Melbourne (Wollongong) 125.0* (129.8)|ML-WOL|YWOL
 YWON|Melbourne (Wonthaggi) 135.3* (134.325)|ML-WON|YWON
 YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
@@ -18624,7 +18658,7 @@ RU-ESC|Siberia Control|UNKL,UNNT,UIII
 RU-WSC|Western Siberia Control|USTV,USSV
 RU-CEN|Asia-Center|UATT,UACN,UAAA,UTAK,UTAA,UTAT,UTAV,UTSD,UTTR,UAII,UCFO,UTDD,UCFM
 RU-NWC|North Western Russia Control|ULLL,UMKK
-RU-SC|Caucasus-Radar|URRV,UGGG,UDDD,UBBA
+RU-SC|Caucasus-Radar|URRV,UGGG,UDDD,UBBA,UBBA-S
 SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
 SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS
 SAM-S|South America Control South|SUEO,SGFA,SAEF,SARR,SACF,SAMF,SAVF

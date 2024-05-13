@@ -18159,11 +18159,11 @@ LFUM|Marseille Upper||LFMM
 LGGG|Athina||LGGG
 LGGG|Athina-(Above FL325)|LGGG_U|LGGG
 LGGG_RDS|Athina-(RDS sector)|LGGG_RDS|LGGG_RDS
-LGGG_KRK|Athina-(KRK sector)|LGGG-W|LGGG-W
-LGGG_MIL|Athina-(MIL sector)|LGGG-S|LGGG-S
-LGGG_KFN|Athina-(KFN sector)|LGGG-K|LGGG-K
-LGGG_PLH|Athina-(PLH sector|LGGG-P|LGGG-P
-LGGG_KAV|Athina-(KAV sector)|LGGG-H|LGGG-H
+LGGG_KRK|Athina-(KRK sector)|LGGG_KRK|LGGG_KRK
+LGGG_MIL|Athina-(MIL sector)|LGGG_MIL|LGGG_MIL
+LGGG_KFN|Athina-(KFN sector)|LGGG_KFN|LGGG_KFN
+LGGG_PLH|Athina-(PLH sector|LGGG_PLH|LGGG_PLH
+LGGG_KAV|Athina-(KAV sector)|LGGG_KAV|LGGG_KAV
 LGMD_SKP|Makedonia-(SKP sector)|LGMD|LGMD_SKP
 LGMD|Makedonia-(Above FL325)|LGMD_U|LGMD
 LGMD_LMO|Makedonia-(LMO sector)|LGMD_LMO|LGMD_LMO

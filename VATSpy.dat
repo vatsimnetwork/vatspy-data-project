@@ -18129,10 +18129,10 @@ KZTL|Atlanta|ATL|KZTL
 LAAA|Tirana||LAAA
 LBSR|Sofia||LBSR
 LCCC|Nicosia||LCCC
-LCCC-E|Nicosia|LCCC-E|LCCC-E
-LCCC-H|Nicosia-(South2 Sector)|LCCC-H|LCCC-H
-LCCC-S|Nicosia|LCCC-S|LCCC-S
-LCCC-W|Nicosia|LCCC-W|LCCC-W
+LCCC_E|Nicosia|LCCC_E|LCCC_E
+LCCC_H|Nicosia-(South2 Sector)|LCCC_H|LCCC_H
+LCCC_S|Nicosia|LCCC_S|LCCC_S
+LCCC_W|Nicosia|LCCC_W|LCCC_W
 LDZO|Zagreb||LDZO
 LECB|Barcelona|LEBL|LECB
 LECB-W|Barcelona West|LECB_RW|LECB-W
@@ -18157,18 +18157,18 @@ LFRR-N|Brest North||LFRR-N
 LFRR-E|Brest East (Covers West LFFF FL295+)||LFRR-E
 LFUM|Marseille Upper||LFMM
 LGGG|Athina||LGGG
-LGGG|Athina-(Above FL325)|LGGG-U|LGGG
-LGGG-E|Athina-(RDS sector)|LGGG-E|LGGG-E
-LGGG-W|Athina-(KRK sector)|LGGG-W|LGGG-W
-LGGG-S|Athina-(MIL sector)|LGGG-S|LGGG-S
-LGGG-K|Athina-(KFN sector)|LGGG-K|LGGG-K
-LGGG-P|Athina-(PLH sector|LGGG-P|LGGG-P
-LGGG-H|Athina-(KAV sector)|LGGG-H|LGGG-H
-LGMD|Makedonia-(SKP sector)||LGMD
-LGMD|Makedonia-(Above FL325)|LGMD-U|LGMD
-LGMD-E|Makedonia-(LMO sector)|LGMD-E|LGMD-E
-LGMD-K|Makedonia-(KVL sector)|LGMD-K|LGMD-K
-LGMD-T|Makedonia-(TSL sector)|LGMD-T|LGMD-T
+LGGG|Athina-(Above FL325)|LGGG_U|LGGG
+LGGG_RDS|Athina-(RDS sector)|LGGG_RDS|LGGG_RDS
+LGGG_KRK|Athina-(KRK sector)|LGGG-W|LGGG-W
+LGGG_MIL|Athina-(MIL sector)|LGGG-S|LGGG-S
+LGGG_KFN|Athina-(KFN sector)|LGGG-K|LGGG-K
+LGGG_PLH|Athina-(PLH sector|LGGG-P|LGGG-P
+LGGG_KAV|Athina-(KAV sector)|LGGG-H|LGGG-H
+LGMD_SKP|Makedonia-(SKP sector)|LGMD|LGMD_SKP
+LGMD|Makedonia-(Above FL325)|LGMD_U|LGMD
+LGMD_LMO|Makedonia-(LMO sector)|LGMD_LMO|LGMD_LMO
+LGMD_KVL|Makedonia-(KVL sector)|LGMD_KVL|LGMD_KVL
+LGMD_TSL|Makedonia-(TSL sector)|LGMD_TSL|LGMD_TSL
 LHCC|Budapest||LHCC
 LIBB|Brindisi||LIBB
 LIMM|Milano||LIMM

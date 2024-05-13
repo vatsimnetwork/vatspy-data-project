@@ -18103,6 +18103,9 @@ KZFW|Fort Worth|FTW|KZFW
 KZHU|Houston|HOU|KZHU
 KZID|Indianapolis|IND|KZID
 KZJX|Jacksonville|JAX|KZJX
+KZJX-P|Jacksonville (Panhandle)|JAX_P|KZJX-P
+KZJX-C|Jacksonville (Central)|JAX_C|KZJX-C
+KZJX-A|Jacksonville (Atlantic)|JAX_A|KZJX-A
 KZKC|Kansas City|MCI|KZKC
 KZKC|Kansas City|KC|KZKC
 KZLA|Los Angeles|LAX|KZLA

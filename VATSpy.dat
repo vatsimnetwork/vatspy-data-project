@@ -18164,10 +18164,11 @@ LGGG-MIL|Athina-(MIL sector)|LGGG_MIL|LGGG-MIL
 LGGG-KFN|Athina-(KFN sector)|LGGG_KFN|LGGG-KFN
 LGGG-PLH|Athina-(PLH sector|LGGG_PLH|LGGG-PLH
 LGGG-KAV|Athina-(KAV sector)|LGGG_KAV|LGGG-KAV
-LGMD-SKP|Makedonia-(SKP sector)|LGMD_SKP|LGMD-SKP
-LGMD-SKU|Makedonia-(Above FL325)|LGMD_SKU|LGMD-SKU
+LGMD-W|Makedonia-(SKP sector)|LGMD_W|LGMD-W
+LGMD-W|Makedonia-(Above FL325)|LGMD_SKU|LGMD-W
 LGMD-LMO|Makedonia-(LMO sector)|LGMD_LMO|LGMD-LMO
 LGMD-KVL|Makedonia-(KVL sector)|LGMD_KVL|LGMD-KVL
+LGMD-KVL|Makedonia-(KVL sector)|LGMD_KVU|LGMD-KVL
 LGMD-TSL|Makedonia-(TSL sector)|LGMD_TSL|LGMD-TSL
 LHCC|Budapest||LHCC
 LIBB|Brindisi||LIBB

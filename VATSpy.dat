@@ -18396,7 +18396,11 @@ UCFO|Osh||UCFO
 UDDD|Yerevan|UGEE|UDDD
 UEEE|Yakutsk||UEEE
 UGGG|Tbilisi||UGGG
-UHHH|Khabarovsk||UHHH
+UHHH|Khabarovsk|UHHH|UHHH
+UHHH-1|Khabarovsk sector 1|UHHH_1|UHHH-1
+UHHH-2|Khabarovsk sector 2|UHHH_2|UHHH-2
+UHHH-3|Khabarovsk sector 3|UHHH_3|UHHH-3
+UHHH-HF|Khabarovsk sector HF|UHHH_HF|UHHH-HF
 UHMM|Magadan||UHMM
 UIII|Irkutsk||UIII
 UKBV|Kyiv|UKBB|UKBV

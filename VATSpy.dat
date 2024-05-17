@@ -17600,7 +17600,7 @@ ZGFS|Foshan Shadi|23.083455|113.071541||ZGZU|0
 ZGGG|Guangzhou Baiyun|23.393217|113.298764||ZGZU|0
 ZGHA|Changsha Huanghua|28.197546|113.221163||ZGZU|0
 ZGHC|Hechi Jinchengjiang|24.805860|107.710966||ZGZU|0
-ZGHY|Hengyang Nanywe|26.722411|112.618634||ZGZU|0
+ZGHY|Hengyang Nanyue|26.722411|112.618634||ZGZU|0
 ZGHZ|Huizhou Pingtan|23.049379|114.601026||ZGZU|0
 ZGKL|Guilin Liangjiang|25.216865|110.039820||ZGZU|0
 ZGLD|Luoding|22.711440|111.600645||ZGZU|0
@@ -17661,7 +17661,7 @@ ZLLN|Longnan Chengxian|33.790843|105.788208||ZLHW|0
 ZLQY|Qingyang Xifeng|35.802861|107.599837||ZLHW|0
 ZLTS|Tianshui Maijishan|34.559612|105.859447||ZLHW|0
 ZLXH|Gannan Xiahe|34.819653|102.622455||ZLHW|0
-ZLXN|Xining Caojiabao|36.529974|102.040398||ZLHW|0
+ZLXN|Xining Caojiapu|36.529974|102.040398||ZLHW|0
 ZLXY|Xi'an Xianyang|34.446715|108.752252||ZLHW|0
 ZLYA|Yan'An Nanniwan|36.479061|109.465063||ZLHW|0
 ZLYL|Yulin Yuyang|38.357265|109.592483||ZLHW|0
@@ -17771,6 +17771,7 @@ ZUGU|Guangyuan Panlong|32.389350|105.693709||ZPKM|0
 ZUGY|Guiyang Longdongbao|26.537507|106.799047||ZPKM|0
 ZUGZ|Garze Gesar|31.755788|99.557675||ZPKM|0
 ZUHY|A'Ba Hongyuan|32.531566|102.351893||ZPKM|0
+ZUHZ|Chengdu Huaizhou|30.677339|104.529456||ZPKM|0
 ZUJZ|Jiuzhai Huanglong|32.856610|103.683140||ZPKM|0
 ZUKD|Kangding|30.142979|101.738668||ZPKM|0
 ZUKJ|Kaili Huangping|26.971613|107.987240||ZPKM|0
@@ -17806,7 +17807,7 @@ ZWAT|Altay Xuedu|47.750615|88.084709||ZWUQ|0
 ZWBL|Bole Alashankou|44.895052|82.300420||ZWUQ|0
 ZWCM|Qiemo Yudu|38.234302|85.463559||ZWUQ|0
 ZWFY|Fuyun Keketuohai|46.804803|89.511580||ZWUQ|0
-ZWHJ|Hejing Bayinbuluke|42.9766|83.9729||ZWUQ|0
+ZWHJ|Hejing Bayinbuluke|40.924392|107.743390||ZWUQ|0
 ZWHM|Hami Yizhou|42.841018|93.668973||ZWUQ|0
 ZWHZ|Shihezi Huayuan|44.241603|85.890130||ZWUQ|0
 ZWKC|Kuche Qiuci|41.677386|82.871927||ZWUQ|0
@@ -18574,49 +18575,50 @@ YWOL|Melbourne (Wollongong) 125.0* (129.8)|ML-WOL|YWOL
 YWON|Melbourne (Wonthaggi) 135.3* (134.325)|ML-WON|YWON
 YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
 YYWE|Melbourne (Yarrowee) 134.325|ML-YWE|YYWE
-ZBPE|Beijing|ZBPE|
-ZBAA|Beijing ACC - Beijing|ZBAA|
+ZBPE|Beijing||ZBPE
+ZBAA|Beijing ACC - Beijing||ZBAA
 ZBAA-N|Beijing ACC North High Sector - Beijing|ZBAA_N|ZBAA-N
 ZBAA-S|Beijing ACC South High Sector - Beijing|ZBAA_S|ZBAA-S
 ZBAA-W|Beijing ACC West High Sector - Beijing|ZBAA_W|ZBAA-W
 ZBAA-C|Beijing ACC Central Sector - Beijing|ZBAA_C|ZBAA-C
-ZBHH|Hohhot ACC - Beijing|ZBHH|
-ZHCC|Zhengzhou ACC - Wuhan|ZHCC|
-ZHHH|Wuhan ACC - Wuhan|ZHHH|
-ZHWH|Wuhan|ZHWH|
-ZGHA|Changsha ACC - Guangzhou|ZGHA|
-ZGNN|Nanning ACC - Guangzhou|ZGNN|
-ZGGG|Guangzhou ACC - Guangzhou|ZGGG|
-ZGZU|Guangzhou|ZGZU|
-ZJSA|Sanya|ZJSA|
+ZBHH|Hohhot ACC - Beijing|ZBHH|ZBHH
+ZHCC|Zhengzhou ACC - Wuhan||ZHCC
+ZHHH|Wuhan ACC - Wuhan||ZHHH
+ZHWH|Wuhan||ZHWH
+ZGHA|Changsha ACC - Guangzhou||ZGHA
+ZGNN|Nanning ACC - Guangzhou||ZGNN
+ZGGG|Guangzhou ACC - Guangzhou||ZGGG
+ZGZU|Guangzhou|ZGZU|ZGZU
+ZJSA|Sanya||ZJSA
 ZJSY-L|Sanya ACC Land Sector - Sanya|ZJSY_L|ZJSY-L
 ZJSY-O|Sanya ACC Oceanic Sector - Sanya|ZJSY_O|ZJSY-O
-ZKKP|Pyongyang|ZKKP|
-ZLHW|Lanzhou|ZLHW|
-ZLLL|Lanzhou ACC - Lanzhou|ZLLL|
-ZLXY|Xi'an ACC - Lanzhou|ZLXY|
-ZULS|Lhasa ACC - Kunming|ZULS|
-ZPKM|Kunming|ZPKM|
-ZSHA|Shanghai|ZSHA|
-ZSSS|Shanghai ACC - Shanghai|ZSSS|
+ZKKP|Pyongyang||ZKKP
+ZLHW|Lanzhou||ZLHW
+ZLLL|Lanzhou ACC - Lanzhou|ZLLL|ZLLL
+ZLXY|Xi'an ACC - Lanzhou||ZLXY
+ZULS|Lhasa ACC - Kunming||ZULS
+ZPKM|Kunming||ZPKM
+ZSHA|Shanghai|ZSHA|ZSHA
+ZSSS|Shanghai ACC - Shanghai||ZSSS
 ZSSS-N|Shanghai ACC North High Sector - Shanghai|ZSSS_N|ZSSS-N
 ZSSS-S|Shanghai ACC South High Sector - Shanghai|ZSSS_S|ZSSS-S
 ZSSS-W|Shanghai ACC West High Sector - Shanghai|ZSSS_W|ZSSS-W
 ZSSS-C|Shanghai ACC Central High Sector - Shanghai|ZSSS_C|ZSSS-C
-ZSQD|Qingdao ACC - Shanghai|ZSQD|
-ZSJN|Jinan ACC - Shanghai|ZSJN|
-ZSOF|Hefei ACC - Shanghai|ZSOF|
-ZSCN|Nanchang ACC - Shanghai|ZSCN|
-ZSAM|Xiamen ACC - Shanghai|ZSAM|
-ZUUU|Chengdu ACC - Kunming|ZUUU|
-ZUGY|Guiyang ACC - Kunming|ZUGY|
-ZPPP|Kunming ACC - Kunming|ZPPP|
-ZWUQ|Urumqi|ZWUQ|
-ZWWW|Urumqi ACC - Urumqi|ZWWW|
-ZYSH|Shenyang|ZYSH|
-ZYTX|Shenyang ACC - Shenyang|ZYTX|
-ZYHB|Harbin ACC - Shenyang|ZYHB|
-ZYTL|Dalian ACC - Shenyang|ZYTL|
+ZSQD|Qingdao ACC - Shanghai||ZSQD
+ZSJN|Jinan ACC - Shanghai||ZSJN
+ZSOF|Hefei ACC - Shanghai||ZSOF
+ZSCN|Nanchang ACC - Shanghai||ZSCN
+ZSAM|Xiamen ACC - Shanghai||ZSAM
+ZUUU|Chengdu ACC - Kunming||ZUUU
+ZUGY|Guiyang ACC - Kunming||ZUGY
+ZPPP|Kunming ACC - Kunming||ZPPP
+ZWUQ|Urumqi|ZWUQ|ZWUQ
+ZWWW-N|Urumqi ACC North Sector- Urumqi|ZWWW_N|ZWWW-N
+ZWWW-S|Urumqi ACC South Sector- Urumqi|ZWWW_S|ZWWW-S
+ZYSH|Shenyang||ZYSH
+ZYTX|Shenyang ACC - Shenyang||ZYTX
+ZYHB|Harbin ACC - Shenyang||ZYHB
+ZYTL|Dalian ACC - Shenyang||ZYTL
 ZMUB|Ulaanbaatar||ZMUB
 ZMUB-A|Ulaanbaatar ACC Altai Sector - Ulaanbaatar|ZMUB_A|ZMUB-A
 ZMUB-B|Ulaanbaatar ACC Bayan Sector - Ulaanbaatar|ZMUB_B|ZMUB-B

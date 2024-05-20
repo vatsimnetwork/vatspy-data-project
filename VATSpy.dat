@@ -143,8 +143,8 @@ India|VA|Control
 India|VE|Control
 India|VI|Control
 India|VO|Control
-Indonesia|WA|
-Indonesia|WI|
+Indonesia|WA|Control
+Indonesia|WI|Control
 Indonesia|WR|
 Iran|TE|Radar
 Iran|OI|Radar
@@ -246,7 +246,7 @@ Saudi Arabia|OE|Control
 Senegal|GO|
 Seychelles|FS|
 Sierra Leone|GF|
-Singapore|WS|
+Singapore|WS|Radar
 Slovakia|LZ|Radar
 Slovenia|LJ|Control
 Solomon Islands|AG|
@@ -9626,7 +9626,7 @@ NZLF|Rotorua Lakefront|-38.129444|176.252778||NZCB|0
 NZLT|Taupo Water|-38.75|176.033333||NZCB|0
 NZLX|Alexandra|-45.217304|169.374421||NZCS|0
 NZMA|Matamata|-37.740537|175.741234||NZCB|0
-NZMB|Mechanics Bay|-36.846667|174.788611||NZAA|0 
+NZMB|Mechanics Bay|-36.846667|174.788611||NZAA|0
 NZMC|Mount Cook|-43.770416|170.135996|ZMC|NZCS|0
 NZME|Mercer|-37.250917|175.114722||NZAA|0
 NZMF|Milford Sound|-44.672168|167.919992||NZCS|0
@@ -12737,7 +12737,7 @@ TLPC|George F.L. Charles|14.018889|-61||TTZP|0
 TLPL|Hewanorra|13.732222|-60.951944||TTZP|0
 TNCA|Queen Beatrix|12.504167|-70.012222||TNCF|0
 TNCB|Flamingo|12.139444|-68.277222||TNCF|0
-TNCC|Hato|12.191944|-68.956944||TNCF|0
+TNCC|Curaçao|12.191944|-68.956944|TNCF|TNCF|0
 TNCE|F.D. Roosevelt|17.491667|-62.975556||TJZS|0
 TNCM|Princess Juliana|18.039722|-63.111944|SXM|TJZS|0
 TNCS|Juancho E. Yrausquin|17.645278|-63.220556||TJZS|0
@@ -12839,13 +12839,13 @@ UGSA|Natakhtari|41.9205|44.719333||UGGG|0
 UGSB|Batumi|41.61|41.5997||UGGG|0
 UGSS|Sukhumi (Babushara)|42.858|41.128||UGGG|0 ; io
 UGTB|Tbilisi (Lochini)|41.669156|44.954792||UGGG|0
-UHBB|Blagoveschensk (Ignatyevo)|50.425|127.411667||UHHH|0
+UHBB|Blagoveschensk (Ignatyevo)|50.4269|127.4116||UHHH|0
 UHBF|Fevralsk|52.483|130.883||UHHH|0 ; io
 UHBI|Magdagachi|53.076186|132.948904||UHHH|0
 UHBS|Svobodny|51.45|128.067||UHHH|0 ; io
 UHBW|Tynda|55.283074|124.778337||UHHH|0
 UHHD|Dalnerechensk|45.883|133.733||UHHH|0 ; io
-UHHH|Khabarovsk (Novy)|48.526667|135.186667||UHHH|0
+UHHH|Khabarovsk (Novy)|48.52806|135.18806||UHHH|0
 UHHY|Chumikan|54.695|135.283||UHHH|0 ; io
 UHKD|Komsomolsk-na-Amure (Dzyomghi)|50.604813|137.081394||UHHH|0
 UHKG|Sovgavan (Kamenny Ruchey)|49.237|140.188||UHHH|0 ; io
@@ -12886,10 +12886,10 @@ UHSM|Yuzhno-Kurilsk (Mendeleyevo)|43.95|145.683||UHHH|0 ; io
 UHSN|Nogliki|51.783|143.142||UHHH|0 ; io
 UHSO|Zonalnoye|50.668014|142.759008||UHHH|0
 UHSP|Poronaysk|49.267|142.917||UHHH|0 ; io
-UHSS|Yuzhno-Sakhalinsk (Khomutovo)|46.888333|142.716667||UHHH|0
+UHSS|Yuzhno-Sakhalinsk (Khomutovo)|46.88861|142.7175||UHHH|0
 UHWK|Kavalerovo|44.272|135.028||UHHH|0 ; io
 UHWP|Plastun|44.817|136.283||UHHH|0 ; io
-UHWW|Vladivostok (Knevichi)|43.398333|132.146667||UHHH|0
+UHWW|Vladivostok (Knevichi)|43.39806|132.1489||UHHH|0
 UIAA|Chita (Kadala)|52.026667|113.305||UIII|0
 UIAC|Tungokochen|53.55|115.617||UIII|0 ; io
 UIAI|Chita (Cheryomushki)|52.073477|113.432089||UIII|0
@@ -13027,7 +13027,7 @@ ULSS|St. Petersburg (Rzhevka)|59.98|30.586667||ULLL|0
 ULWC|Cherepovets|59.276667|38.028333||ULLL|0
 ULWK|Kichmengskiy Gorodok|59.967|45.817||ULLL|0 ; io
 ULWR|Vytegra|61.042|36.45||ULLL|0 ; io
-ULWW|Vologda|59.282|39.98||ULLL|0 ; io
+ULWW|Vologda|59.285278|39.946667||ULLL|0 ; io
 UMBB|Brest|52.108333|23.896667||UMMV|0
 UMGG|Gomel|52.526944|31.016667||UMMV|0
 UMII|Vitebsk|55.126389|30.351667||UMMV|0
@@ -17600,7 +17600,7 @@ ZGFS|Foshan Shadi|23.083455|113.071541||ZGZU|0
 ZGGG|Guangzhou Baiyun|23.393217|113.298764||ZGZU|0
 ZGHA|Changsha Huanghua|28.197546|113.221163||ZGZU|0
 ZGHC|Hechi Jinchengjiang|24.805860|107.710966||ZGZU|0
-ZGHY|Hengyang Nanywe|26.722411|112.618634||ZGZU|0
+ZGHY|Hengyang Nanyue|26.722411|112.618634||ZGZU|0
 ZGHZ|Huizhou Pingtan|23.049379|114.601026||ZGZU|0
 ZGKL|Guilin Liangjiang|25.216865|110.039820||ZGZU|0
 ZGLD|Luoding|22.711440|111.600645||ZGZU|0
@@ -17661,7 +17661,7 @@ ZLLN|Longnan Chengxian|33.790843|105.788208||ZLHW|0
 ZLQY|Qingyang Xifeng|35.802861|107.599837||ZLHW|0
 ZLTS|Tianshui Maijishan|34.559612|105.859447||ZLHW|0
 ZLXH|Gannan Xiahe|34.819653|102.622455||ZLHW|0
-ZLXN|Xining Caojiabao|36.529974|102.040398||ZLHW|0
+ZLXN|Xining Caojiapu|36.529974|102.040398||ZLHW|0
 ZLXY|Xi'an Xianyang|34.446715|108.752252||ZLHW|0
 ZLYA|Yan'An Nanniwan|36.479061|109.465063||ZLHW|0
 ZLYL|Yulin Yuyang|38.357265|109.592483||ZLHW|0
@@ -17771,6 +17771,7 @@ ZUGU|Guangyuan Panlong|32.389350|105.693709||ZPKM|0
 ZUGY|Guiyang Longdongbao|26.537507|106.799047||ZPKM|0
 ZUGZ|Garze Gesar|31.755788|99.557675||ZPKM|0
 ZUHY|A'Ba Hongyuan|32.531566|102.351893||ZPKM|0
+ZUHZ|Chengdu Huaizhou|30.677339|104.529456||ZPKM|0
 ZUJZ|Jiuzhai Huanglong|32.856610|103.683140||ZPKM|0
 ZUKD|Kangding|30.142979|101.738668||ZPKM|0
 ZUKJ|Kaili Huangping|26.971613|107.987240||ZPKM|0
@@ -17806,7 +17807,7 @@ ZWAT|Altay Xuedu|47.750615|88.084709||ZWUQ|0
 ZWBL|Bole Alashankou|44.895052|82.300420||ZWUQ|0
 ZWCM|Qiemo Yudu|38.234302|85.463559||ZWUQ|0
 ZWFY|Fuyun Keketuohai|46.804803|89.511580||ZWUQ|0
-ZWHJ|Hejing Bayinbuluke|42.9766|83.9729||ZWUQ|0
+ZWHJ|Hejing Bayinbuluke|40.924392|107.743390||ZWUQ|0
 ZWHM|Hami Yizhou|42.841018|93.668973||ZWUQ|0
 ZWHZ|Shihezi Huayuan|44.241603|85.890130||ZWUQ|0
 ZWKC|Kuche Qiuci|41.677386|82.871927||ZWUQ|0
@@ -18028,11 +18029,17 @@ ENBD-S|Bodø ACC (South) - Polaris|ENBD_S|ENBD-S
 ENBD-19|Bodø ACC - Polaris|ENBD_19|ENBD-19
 ENOB|Bodo Oceanic||ENOB
 ENOR|Polaris||ENOR
+ENOR-SC|Polaris South-Central|ENOR_SC|ENOR-SC
 ENOR-S|Polaris South|ENOR_S|ENOR-S
 ENOS|Oslo ACC - Polaris||ENOS
+ENOS-1|Oslo ACC (Sector 1) - Polaris|ENOS_1|ENOS-1
+ENOS-4|Oslo ACC (Sector 4) - Polaris|ENOS_4|ENOS-4
+ENOS-8|Oslo ACC (Sector 8) - Polaris|ENOS_8|ENOS-8
 ENRC-N|Bodo RTC North - Polaris|ENRC_N|ENBD
 ENRC-S|Bodo RTC South - Polaris|ENRC_S|ENOR-S
 ENSV|Stavanger ACC - Polaris||ENSV
+ENSV-W|Stavanger West ACC - Polaris|ENSV_W|ENSV-W
+ENSV-E|Stavanger East ACC - Polaris|ENSV_E|ENSV-E
 EPWW|Warszawa|EPWA|EPWW
 EPWW-N|Warszawa|EPWW-N|EPWW
 EPWW-S|Warszawa|EPWW-S|EPWW
@@ -18103,6 +18110,9 @@ KZFW|Fort Worth|FTW|KZFW
 KZHU|Houston|HOU|KZHU
 KZID|Indianapolis|IND|KZID
 KZJX|Jacksonville|JAX|KZJX
+KZJX-P|Jacksonville (Panhandle)|JAX_P|KZJX-P
+KZJX-C|Jacksonville (Central)|JAX_C|KZJX-C
+KZJX-A|Jacksonville (Atlantic)|JAX_A|KZJX-A
 KZKC|Kansas City|MCI|KZKC
 KZKC|Kansas City|KC|KZKC
 KZLA|Los Angeles|LAX|KZLA
@@ -18129,10 +18139,10 @@ KZTL|Atlanta|ATL|KZTL
 LAAA|Tirana||LAAA
 LBSR|Sofia||LBSR
 LCCC|Nicosia||LCCC
-LCCC-E|Nicosia|LCCC-E|LCCC-E
-LCCC-H|Nicosia-(South2 Sector)|LCCC-H|LCCC-H
-LCCC-S|Nicosia|LCCC-S|LCCC-S
-LCCC-W|Nicosia|LCCC-W|LCCC-W
+LCCC-E|Nicosia-East|LCCC_E|LCCC-E
+LCCC-S2|Nicosia-South2|LCCC_S2|LCCC-S2
+LCCC-S1|Nicosia-South1|LCCC_S1|LCCC-S1
+LCCC-W|Nicosia-West|LCCC_W|LCCC-W
 LDZO|Zagreb||LDZO
 LECB|Barcelona|LEBL|LECB
 LECB-W|Barcelona West|LECB_RW|LECB-W
@@ -18156,19 +18166,19 @@ LFRR|Brest||LFRR
 LFRR-N|Brest North||LFRR-N
 LFRR-E|Brest East (Covers West LFFF FL295+)||LFRR-E
 LFUM|Marseille Upper||LFMM
-LGGG|Athina||LGGG
-LGGG|Athina-(Above FL325)|LGGG-U|LGGG
-LGGG-E|Athina-(RDS sector)|LGGG-E|LGGG-E
-LGGG-W|Athina-(KRK sector)|LGGG-W|LGGG-W
-LGGG-S|Athina-(MIL sector)|LGGG-S|LGGG-S
-LGGG-K|Athina-(KFN sector)|LGGG-K|LGGG-K
-LGGG-P|Athina-(PLH sector|LGGG-P|LGGG-P
-LGGG-H|Athina-(KAV sector)|LGGG-H|LGGG-H
-LGMD|Makedonia-(SKP sector)||LGMD
-LGMD|Makedonia-(Above FL325)|LGMD-U|LGMD
-LGMD-E|Makedonia-(LMO sector)|LGMD-E|LGMD-E
-LGMD-K|Makedonia-(KVL sector)|LGMD-K|LGMD-K
-LGMD-T|Makedonia-(TSL sector)|LGMD-T|LGMD-T
+LGGG|Athinai||LGGG
+LGGG|Athinai-Above FL325|LGGG_U|LGGG
+LGGG-RDS|Athinai-Rodos sector|LGGG_RDS|LGGG-RDS
+LGGG-KRK|Athinai-Kerkira sector|LGGG_KRK|LGGG-KRK
+LGGG-MIL|Athinai-Milos sector|LGGG_MIL|LGGG-MIL
+LGGG-KFN|Athinai-Kefallinia sector|LGGG_KFN|LGGG-KFN
+LGGG-PLH|Athinai-Paleochora sector|LGGG_PLH|LGGG-PLH
+LGGG-KAV|Athinai-Kavos sector|LGGG_KAV|LGGG-KAV
+LGGG-SIT|Athinai-Sitia sector|LGGG_SIT|LGGG-SIT
+LGMD|Makedonia||LGMD
+LGMD-W|Makedonia-Skopelos sector|LGMD_W|LGMD-W
+LGMD-LMO|Makedonia-Limnos sector|LGMD_LMO|LGMD-LMO
+LGMD-KVL|Makedonia-Kavala sector|LGMD_KVL|LGMD-KVL
 LHCC|Budapest||LHCC
 LIBB|Brindisi||LIBB
 LIMM|Milano||LIMM
@@ -18192,8 +18202,9 @@ LOVV-E|Wien|LOVV_E|LOVV-E
 LOVV-W|Wien|LOVV_W|LOVV-W
 LOVV|Wien||LOVV
 LPPC|Lisboa||LPPC
-LPPC-D|Lisboa - DEMOS Sector|LPPC_D|LPPC-D
-LPPC-V|Lisboa - VERAM Sector|LPPC_V|LPPC-V
+LPPC-D|Lisboa - DEMOS+VERAM Sector|LPPC_D|LPPC-D
+LPPC-W|Lisboa - WEST COMBINED|LPPC_W|LPPC-W
+LPPC-E|Lisboa - EAST COMBINED|LPPC_E|LPPC-E
 LPPC-I|Lisboa - MADEIRA Sector|LPPC_I|LPPC-I
 LPPC-N|Lisboa - NORTH Sector|LPPC_N|LPPC-N
 LPPC-C|Lisboa - CENTRE Sector|LPPC_C|LPPC-C
@@ -18396,7 +18407,11 @@ UCFO|Osh||UCFO
 UDDD|Yerevan|UGEE|UDDD
 UEEE|Yakutsk||UEEE
 UGGG|Tbilisi||UGGG
-UHHH|Khabarovsk||UHHH
+UHHH|Khabarovsk|UHHH|UHHH
+UHHH-1|Khabarovsk Sector 1|UHHH_1|UHHH-1
+UHHH-2|Khabarovsk Sector 2|UHHH_2|UHHH-2
+UHHH-3|Khabarovsk Sector 3|UHHH_3|UHHH-3
+UHHH-HF|Khabarovsk Sector HF|UHHH_HF|UHHH-HF
 UHMM|Magadan||UHMM
 UIII|Irkutsk||UIII
 UKBV|Kyiv|UKBB|UKBV
@@ -18568,49 +18583,50 @@ YWOL|Melbourne (Wollongong) 125.0* (129.8)|ML-WOL|YWOL
 YWON|Melbourne (Wonthaggi) 135.3* (134.325)|ML-WON|YWON
 YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
 YYWE|Melbourne (Yarrowee) 134.325|ML-YWE|YYWE
-ZBPE|Beijing|ZBPE|
-ZBAA|Beijing ACC - Beijing|ZBAA|
+ZBPE|Beijing||ZBPE
+ZBAA|Beijing ACC - Beijing||ZBAA
 ZBAA-N|Beijing ACC North High Sector - Beijing|ZBAA_N|ZBAA-N
 ZBAA-S|Beijing ACC South High Sector - Beijing|ZBAA_S|ZBAA-S
 ZBAA-W|Beijing ACC West High Sector - Beijing|ZBAA_W|ZBAA-W
 ZBAA-C|Beijing ACC Central Sector - Beijing|ZBAA_C|ZBAA-C
-ZBHH|Hohhot ACC - Beijing|ZBHH|
-ZHCC|Zhengzhou ACC - Wuhan|ZHCC|
-ZHHH|Wuhan ACC - Wuhan|ZHHH|
-ZHWH|Wuhan|ZHWH|
-ZGHA|Changsha ACC - Guangzhou|ZGHA|
-ZGNN|Nanning ACC - Guangzhou|ZGNN|
-ZGGG|Guangzhou ACC - Guangzhou|ZGGG|
-ZGZU|Guangzhou|ZGZU|
-ZJSA|Sanya|ZJSA|
+ZBHH|Hohhot ACC - Beijing|ZBHH|ZBHH
+ZHCC|Zhengzhou ACC - Wuhan||ZHCC
+ZHHH|Wuhan ACC - Wuhan||ZHHH
+ZHWH|Wuhan||ZHWH
+ZGHA|Changsha ACC - Guangzhou||ZGHA
+ZGNN|Nanning ACC - Guangzhou||ZGNN
+ZGGG|Guangzhou ACC - Guangzhou||ZGGG
+ZGZU|Guangzhou|ZGZU|ZGZU
+ZJSA|Sanya||ZJSA
 ZJSY-L|Sanya ACC Land Sector - Sanya|ZJSY_L|ZJSY-L
 ZJSY-O|Sanya ACC Oceanic Sector - Sanya|ZJSY_O|ZJSY-O
-ZKKP|Pyongyang|ZKKP|
-ZLHW|Lanzhou|ZLHW|
-ZLLL|Lanzhou ACC - Lanzhou|ZLLL|
-ZLXY|Xi'an ACC - Lanzhou|ZLXY|
-ZULS|Lhasa ACC - Kunming|ZULS|
-ZPKM|Kunming|ZPKM|
-ZSHA|Shanghai|ZSHA|
-ZSSS|Shanghai ACC - Shanghai|ZSSS|
+ZKKP|Pyongyang||ZKKP
+ZLHW|Lanzhou||ZLHW
+ZLLL|Lanzhou ACC - Lanzhou|ZLLL|ZLLL
+ZLXY|Xi'an ACC - Lanzhou||ZLXY
+ZULS|Lhasa ACC - Kunming||ZULS
+ZPKM|Kunming||ZPKM
+ZSHA|Shanghai|ZSHA|ZSHA
+ZSSS|Shanghai ACC - Shanghai||ZSSS
 ZSSS-N|Shanghai ACC North High Sector - Shanghai|ZSSS_N|ZSSS-N
 ZSSS-S|Shanghai ACC South High Sector - Shanghai|ZSSS_S|ZSSS-S
 ZSSS-W|Shanghai ACC West High Sector - Shanghai|ZSSS_W|ZSSS-W
 ZSSS-C|Shanghai ACC Central High Sector - Shanghai|ZSSS_C|ZSSS-C
-ZSQD|Qingdao ACC - Shanghai|ZSQD|
-ZSJN|Jinan ACC - Shanghai|ZSJN|
-ZSOF|Hefei ACC - Shanghai|ZSOF|
-ZSCN|Nanchang ACC - Shanghai|ZSCN|
-ZSAM|Xiamen ACC - Shanghai|ZSAM|
-ZUUU|Chengdu ACC - Kunming|ZUUU|
-ZUGY|Guiyang ACC - Kunming|ZUGY|
-ZPPP|Kunming ACC - Kunming|ZPPP|
-ZWUQ|Urumqi|ZWUQ|
-ZWWW|Urumqi ACC - Urumqi|ZWWW|
-ZYSH|Shenyang|ZYSH|
-ZYTX|Shenyang ACC - Shenyang|ZYTX|
-ZYHB|Harbin ACC - Shenyang|ZYHB|
-ZYTL|Dalian ACC - Shenyang|ZYTL|
+ZSQD|Qingdao ACC - Shanghai||ZSQD
+ZSJN|Jinan ACC - Shanghai||ZSJN
+ZSOF|Hefei ACC - Shanghai||ZSOF
+ZSCN|Nanchang ACC - Shanghai||ZSCN
+ZSAM|Xiamen ACC - Shanghai||ZSAM
+ZUUU|Chengdu ACC - Kunming||ZUUU
+ZUGY|Guiyang ACC - Kunming||ZUGY
+ZPPP|Kunming ACC - Kunming||ZPPP
+ZWUQ|Urumqi|ZWUQ|ZWUQ
+ZWWW-N|Urumqi ACC North Sector- Urumqi|ZWWW_N|ZWWW-N
+ZWWW-S|Urumqi ACC South Sector- Urumqi|ZWWW_S|ZWWW-S
+ZYSH|Shenyang||ZYSH
+ZYTX|Shenyang ACC - Shenyang||ZYTX
+ZYHB|Harbin ACC - Shenyang||ZYHB
+ZYTL|Dalian ACC - Shenyang||ZYTL
 ZMUB|Ulaanbaatar||ZMUB
 ZMUB-A|Ulaanbaatar ACC Altai Sector - Ulaanbaatar|ZMUB_A|ZMUB-A
 ZMUB-B|Ulaanbaatar ACC Bayan Sector - Ulaanbaatar|ZMUB_B|ZMUB-B
@@ -18632,8 +18648,8 @@ ASEA|South East Asia Control|VHHK,WSJC,WMFC,WBFC,WIIF,WAAF,RPHI,VVHM,VDPF,VTBB,V
 ASIA|West Asia Control|VABF,VIDF,VECF,VOMF,VEGF,OPKR,OPLR,OAKX,VCCF,VRMF,VGFR,VNSM
 BALT|Baltic Control|EYVL,EVRR,EETT
 BICC|Iceland Radio|BIRD-E,BIRD-N,BIRD-S,BIRD-W
-CARI|Caribbean Control|MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP,TTZO
-CARE|Caribbean Control East|MDCS,TJZS,TTZP,TTZO
+CARI|Caribbean Control|MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP
+CARE|Caribbean Control East|MDCS,TJZS,TTZP
 CARW|Caribbean Control West|MUFH,MKJK,MTEG,TNCF
 ANT|Antilles Center|MDCS,TNCF,MTEG
 EURN|EuroNorth|EKDK,EETT,EFIN,EVRR,EYVL,ENBD,ENOS,ENSV,ESOS

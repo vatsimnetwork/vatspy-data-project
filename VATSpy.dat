@@ -18329,10 +18329,10 @@ ORBB-S|Baghdad South||ORBB-N
 OSTT|Damascus|OSDI|OSTT
 OYSC|Sanaa||OYSC
 PAZA|Anchorage||PAZA
-PAZA|Anchorage|ANC|PAZA-D
-PAZA|Anchorage Oceanic - Pacific|ZAN_10|PAZA-P
-PAZA|Anchorage Oceanic - Pacific|ZAN_11|PAZA-P
-PAZA|Anchorage Oceanic - Arctic|ZAN_64|PAZA-A
+PAZA-D|Anchorage|ANC|PAZA-D
+PAZA-P|Anchorage Oceanic - Pacific|ZAN_10|PAZA-P
+PAZA-P|Anchorage Oceanic - Pacific|ZAN_11|PAZA-P
+PAZA-A|Anchorage Oceanic - Arctic|ZAN_64|PAZA-A
 PGZU|Guam|GU|PGZU
 PGZU|Guam|GUM|PGZU
 PGZU|Guam|GUAM|PGZU

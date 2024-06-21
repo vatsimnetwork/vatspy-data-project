@@ -18370,10 +18370,16 @@ SARR|Resistencia||SARR
 SARE|Resistencia TMA - Resistencia||SARE
 SAVF|Comodoro Rivadavia||SAVF
 SAVC|Comodoro Rivadavia TMA - Comodoro Rivadavia||SAVC
+SBAO|Atlantico||SBAO
+SBAO-N|Atlantico|SBAO_N|SBAO-N
+SBAO-S|Atlantico|SBAO_S|SBAO-S
+SBAO-NW|Atlantico|SBAO_NW|SBAO-NW
+SBAO-NE|Atlantico|SBAO_NE|SBAO-NE
+SBAO-SW|Atlantico|SBAO_SW|SBAO-SW
+SBAO-SE|Atlantico|SBAO_SE|SBAO-SE
 SBAZ|Amazonica||SBAZ
-SBBS|Brasilia|SBBR|SBBS
+SBBS|Brasilia||SBBS
 SBCW|Curitiba||SBCW
-SBAO|Atlantico Oceanic||SBAO
 SBRE|Recife||SBRE
 SCCZ|Punta Arenas||SCCZ
 SCEZ|Santiago||SCEZ

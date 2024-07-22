@@ -14442,6 +14442,7 @@ YBCO|Bicheno|-41.916667|148.266389||YHUO|0
 YBCP|Beachport|-37.448333|140||YYWE|0
 YBCR|Batchelor|-13.061111|131.024722||YTRT|0
 YBCS|Cairns-Cairns Intl|-16.885833|145.755278|CS|YKEN|0
+YBCS|Cairns-Cairns Intl|-16.885833|145.755278|CS-W|YKEN|0
 YBCT|Black Tip Whp|-13.883333|128.483333||YTRT|0
 YBCV|Charleville|-26.413333|146.2625||YISA|0
 YBCX|Baroco|-27.35|153.416667||YINL|0
@@ -16300,6 +16301,7 @@ YOXL|Oxley Police Academy|-27.569444|152.975278||YINL|0
 YOYS|Oyster Reef|-16.633056|145.933333||YKEN|0
 YPAC|Pacific Haven|-25.236667|152.543333||YINL|0
 YPAD|Adelaide|-34.945|138.530556|AD|YTBD|0
+YPAD|Adelaide|-34.945|138.530556|AD-W|YTBD|0
 YPAE|Paradise Palms|-16.783056|145.666667||YKEN|0
 YPAG|Port Augusta|-32.506944|137.716667||YTBD|0
 YPAH|Panton Hill|-37.65|145.233333||YELW|0
@@ -18534,14 +18536,14 @@ YDOS|Brisbane (Downs) 135.6* (134.2)|BN-DOS|YDOS
 YELW|Melbourne (Eildon Weir) 123.75|ML-ELW|YELW
 YESP|Melbourne (Esperance) 123.95* (128.85)|ML-ESP|YESP
 YFLD|Brisbane Radio (Flinders) 132.85* (124.65)|BN-FLD|YFLD
-YFOR|Melbourne (Forest) 132.7* (128.85)|ML-FOR|YFOR
+YFOR|Melbourne (Forrest) 132.7* (128.85)|ML-FOR|YFOR
 YGEL|Melbourne (Geraldton) 134.2* (133.9)|ML-GEL|YGEL
 YGOL|Brisbane (Gold Coast) 130.4* (134.2)|BN-GOL|YGOL
 YGTH|Melbourne (Griffith) 122.75* (134.325)|ML-GTH|YGTH
 YGUN|Melbourne (Gundagai) 128.4* (129.8)|ML-GUN|YGUN
 YGVE|Melbourne (Grove) 133.8* (133.9)|ML-GVE|YGVE
 YHUO|Melbourne (Huon) 122.6|ML-HUO|YHUO
-YHWE|Brisbane Radio (Howe) 124.95* (124.65)|BN-HWE|YHWE
+YHWE|Brisbane (Howe) 124.95|BN-HWE|YHWE
 YHYD|Melbourne (Hyden) 118.2* (133.9)|ML-HYD|YHYD
 YIND|Brisbane Radio (Indian) 129.25|ML-IND|YIND
 YINE|Brisbane Radio (Indian East) 123.65* (129.25)|ML-INE|YINE

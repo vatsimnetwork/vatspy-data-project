@@ -211,7 +211,7 @@ Philippines|RP|Control
 Poland|EP|Radar
 Portugal|LP|Control
 Puerto Rico, USA|TJ|
-Qatar|OT|
+Qatar|OT|Control
 Romania|LR|Radar
 Russia|UE|Control
 Russia|UH|Control
@@ -17809,7 +17809,7 @@ ZWAT|Altay Xuedu|47.750615|88.084709||ZWUQ|0
 ZWBL|Bole Alashankou|44.895052|82.300420||ZWUQ|0
 ZWCM|Qiemo Yudu|38.234302|85.463559||ZWUQ|0
 ZWFY|Fuyun Keketuohai|46.804803|89.511580||ZWUQ|0
-ZWHJ|Hejing Bayinbuluke|42.9656|83.9750||ZWUQ|0
+ZWHJ|Hejing Bayinbuluke|40.924392|107.743390||ZWUQ|0
 ZWHM|Hami Yizhou|42.841018|93.668973||ZWUQ|0
 ZWHZ|Shihezi Huayuan|44.241603|85.890130||ZWUQ|0
 ZWKC|Kuqa Qiuci|41.677386|82.871927||ZWUQ|0
@@ -18288,14 +18288,16 @@ NZCM|McMurdo (Mac)||NZCM
 NSFA|Faleolo||NSFA
 OAKX|Kabul||OAKX
 OBBB|Bahrain||OBBB
-OBBB-E|Bahrain East|OBBB_E|OBBB-E
 OBBB-N|Bahrain North|OBBB_N|OBBB-N
-OBBB-S|Bahrain South|OBBB_S|OBBB-S
 OBBB-C|Bahrain Central|OBBB_C|OBBB-C
+OBBB-E|Bahrain East|OBBB_E|OBBB-E
+OBBB-S|Bahrain South|OBBB_S|OBBB_S
 OEJD|Jeddah||OEJD
 OERD|Riyadh||OERD
 OIIX|Tehran|TEH|OIIX
-OTDF|Doha FIR (Up to FL245)||OTDF
+OTDF|Doha||OTDF
+OTDF-N|Doha (North SFC-FL245)|OTDF_N|OTDF_N
+OTDF-S|Doha (South SFC-UNL)|OTDF_S|OTDF_S
 TEH-1W|Tehran 1 West|TEH_1W|TEH-1W
 TEH-1N|Tehran 1 North|TEH_1N|TEH-1N
 TEH-1E|Tehran 1 East|TEH_1E|TEH-1E
@@ -18314,7 +18316,7 @@ TEH-7|Tehran 7|TEH_7|TEH-7
 OJAC|Amman||OJAC
 OKAC|Kuwait||OKAC
 OLBB|Beirut|OLBA|OLBB
-OMAE|U.A.E|UAE|OMAE
+OMAE|U.A.E||OMAE
 OOMM|Muscat||OOMM
 OPKR|Karachi|OPKR|OPKR
 OPKR|Karachi|OPKR-C|OPKR

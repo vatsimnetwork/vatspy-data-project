@@ -18274,37 +18274,37 @@ LSAS|Swiss Radar - Switzerland||LSAS
 LSAG|Swiss Radar (Geneva ACC) - Switzerland||LSAG
 LSAZ|Swiss Radar (Zurich ACC) - Switzerland||LSAZ
 LTAA|Ankara||LTAA
-LTAA-A|Ankara Control - Ankara Central & East|ANK_A|LTAA
-LTAA-C|Ankara Control - Ankara Central|ANK_C|LTAA-C
-LTAA-E|Ankara Control - Ankara East|ANK_E|LTAA-E
-LTAA-N|Ankara Control - Ankara North|ANK_N|LTAA-N
-LTAA-S|Ankara Control - Ankara South|ANK_S|LTAA-S
-LTAA-EN|Ankara Control - Ankara East North|ANK_EN|LTAA-EN
-LTAA-ES|Ankara Control - Ankara East South|ANK_ES|LTAA-ES
 LTBB|Istanbul||LTBB
-LTBB-W|Ankara Control - Istanbul|ANK_W|LTBB
-LTBB-WN|Ankara Control - Istanbul West North|ANK_WN|LTBB-WN
-LTBB-WS|Ankara Control - Istanbul West South|ANK_WS|LTBB-WS
-LTBB-1|Ankara Control - Ankara Sector 1|ANK_1|LTBB-1
-LTBB-2|Ankara Control - Ankara Sector 2|ANK_2|LTBB-2
-LTBB-3|Ankara Control - Ankara Sector 3|ANK_3|LTBB-3
-LTBB-4|Ankara Control - Ankara Sector 4|ANK_4|LTBB-4
-LTBB-5|Ankara Control - Ankara Sector 5|ANK_5|LTBB-5
-LTBB-6|Ankara Control - Ankara Sector 6|ANK_6|LTBB-6
-LTAA-7|Ankara Control - Ankara Sector 7|ANK_7|LTAA-7
-LTAA-8|Ankara Control - Ankara Sector 8|ANK_8|LTAA-8
-LTAA-9|Ankara Control - Ankara Sector 9|ANK_9|LTAA-9
-LTAA-10|Ankara Control - Ankara Sector 10|ANK_10|LTAA-10
-LTAA-11|Ankara Control - Ankara Sector 11|ANK_11|LTAA-11
-LTAA-12|Ankara Control - Ankara Sector 12|ANK_12|LTAA-12
-LTAA-13|Ankara Control - Ankara Sector 13|ANK_13|LTAA-13
-LTAA-14|Ankara Control - Ankara Sector 14|ANK_14|LTAA-14
-LTAA-15|Ankara Control - Ankara Sector 15|ANK_15|LTAA-15
-LTAA-16|Ankara Control - Ankara Sector 16|ANK_16|LTAA-16
-LTAA-17|Ankara Control - Ankara Sector 17|ANK_17|LTAA-17
-LTAA-18|Ankara Control - Ankara Sector 18|ANK_18|LTAA-18
-LTAA-19|Ankara Control - Ankara Sector 19|ANK_19|LTAA-19
-LTXX|Ankara Control - Ankara|ANK|LTXX
+LTXX|Ankara Control|ANK|LTXX
+LTAA-A|Ankara Central & East|ANK_A|LTAA
+LTAA-C|Ankara Central|ANK_C|LTAA-C
+LTAA-E|Ankara East|ANK_E|LTAA-E
+LTAA-N|Ankara North|ANK_N|LTAA-N
+LTAA-S|Ankara South|ANK_S|LTAA-S
+LTAA-EN|Ankara East North|ANK_EN|LTAA-EN
+LTAA-ES|Ankara East South|ANK_ES|LTAA-ES
+LTBB-W|Ankara West|ANK_W|LTBB
+LTBB-WN|Ankara West North|ANK_WN|LTBB-WN
+LTBB-WS|Ankara West South|ANK_WS|LTBB-WS
+LTBB-1|Ankara (Sector 1)|ANK_1|LTBB-1
+LTBB-2|Ankara (Sector 2)|ANK_2|LTBB-2
+LTBB-3|Ankara (Sector 3)|ANK_3|LTBB-3
+LTBB-4|Ankara (Sector 4)|ANK_4|LTBB-4
+LTBB-5|Ankara (Sector 5)|ANK_5|LTBB-5
+LTBB-6|Ankara (Sector 6)|ANK_6|LTBB-6
+LTAA-7|Ankara (Sector 7)|ANK_7|LTAA-7
+LTAA-8|Ankara (Sector 8)|ANK_8|LTAA-8
+LTAA-9|Ankara (Sector 9)|ANK_9|LTAA-9
+LTAA-10|Ankara (Sector 10)|ANK_10|LTAA-10
+LTAA-11|Ankara (Sector 11)|ANK_11|LTAA-11
+LTAA-12|Ankara (Sector 12)|ANK_12|LTAA-12
+LTAA-13|Ankara (Sector 13)|ANK_13|LTAA-13
+LTAA-14|Ankara (Sector 14)|ANK_14|LTAA-14
+LTAA-15|Ankara (Sector 15)|ANK_15|LTAA-15
+LTAA-16|Ankara (Sector 16)|ANK_16|LTAA-16
+LTAA-17|Ankara (Sector 17)|ANK_17|LTAA-17
+LTAA-18|Ankara (Sector 18)|ANK_18|LTAA-18
+LTAA-19|Ankara (Sector 19)|ANK_19|LTAA-19
 LUUU|Chisinau|LUKK|LUUU
 LWSS|Skopje||LWSS
 LYBA|Beograd||LYBA

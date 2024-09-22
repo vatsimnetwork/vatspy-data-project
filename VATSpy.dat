@@ -17925,6 +17925,9 @@ ANAU|Nauru||ANAU
 AYPM|Port Moresby||AYPM
 BGGL|Nuuk||BGGL
 BIRD|Reykjavik||BIRD
+BIRD|Reykjavik|BIRD_S1|BIRD
+BIRD|Reykjavik|BIRD_S2|BIRD
+BIRD|Reykjavik|BIRD_S3|BIRD
 BIRD-E|Reykjavik ACC (East) - Reykjavik|BIRD_E|BIRD-E
 BIRD-E|Reykjavik ACC (East) - Reykjavik|BIRD_E1|BIRD-E
 BIRD-E|Reykjavik ACC (East) - Reykjavik|BIRD_E2|BIRD-E

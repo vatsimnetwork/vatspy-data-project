@@ -18075,6 +18075,7 @@ EKDK-E|Kobenhavn (East)|EKDK_I|EKDK-E
 EKDK-E|Kobenhavn (East)|EKDK_B|EKDK-E
 EKDK-E|Kobenhavn (East)|EKDK_C|EKDK-E
 EKDK-E|Kobenhavn (East)|EKDK_A|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_OE|EKDK-E
 EKDK-W|Kobenhavn (West)|EKDK_V|EKDK-W
 EKDK-W|Kobenhavn (West)|EKDK_N|EKDK-W
 EKDK-W|Kobenhavn (West)|EKDK_L|EKDK-W
@@ -18086,17 +18087,17 @@ ENBD-S|Bodø ACC (South) - Polaris|ENBD_S|ENBD-S
 ENBD-19|Bodø ACC - Polaris|ENBD_19|ENBD-19
 ENOB|Bodo Oceanic||ENOB
 ENOR|Polaris||ENOR
-ENOR-SC|Polaris South-Central|ENOR_SC|ENOR-SC
-ENOR-S|Polaris South|ENOR_S|ENOR-S
+ENOR-SC|Polaris (South-Central)|ENOR_SC|ENOR-SC
+ENOR-S|Polaris (South)|ENOR_S|ENOR-S
 ENOS|Oslo ACC - Polaris||ENOS
 ENOS-1|Oslo ACC (Sector 1) - Polaris|ENOS_1|ENOS-1
 ENOS-4|Oslo ACC (Sector 4) - Polaris|ENOS_4|ENOS-4
 ENOS-8|Oslo ACC (Sector 8) - Polaris|ENOS_8|ENOS-8
-ENRC-N|Bodo RTC North - Polaris|ENRC_N|ENBD
-ENRC-S|Bodo RTC South - Polaris|ENRC_S|ENOR-S
+ENRC-N|Bodo RTC North|ENRC_N|ENBD
+ENRC-S|Bodo RTC South|ENRC_S|ENOR-S
 ENSV|Stavanger ACC - Polaris||ENSV
-ENSV-W|Stavanger West ACC - Polaris|ENSV_W|ENSV-W
-ENSV-E|Stavanger East ACC - Polaris|ENSV_E|ENSV-E
+ENSV-W|Stavanger ACC (West) - Polaris|ENSV_W|ENSV-W
+ENSV-E|Stavanger ACC (East) - Polaris|ENSV_E|ENSV-E
 EPWW|Warszawa|EPWA|EPWW
 EPWW-N|Warszawa|EPWW-N|EPWW
 EPWW-S|Warszawa|EPWW-S|EPWW

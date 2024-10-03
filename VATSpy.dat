@@ -18684,6 +18684,7 @@ WMFC|Kuala Lumpur||WMFC
 WSJC|Singapore||WSJC
 YARA|Brisbane (Arafura) 133.7* (125.7)|BN-ARA|YARA
 YARL|Brisbane (Armidale) 130.9|BN-ARL|YARL
+YASH|Brisbane (Ashmore) 133.4* (123.85)|BN-ASH|YASH
 YASP|Melbourne (Alice Springs) 128.85|ML-ASP|YASP
 YASW|Melbourne (Alice Springs West) 131.8* (128.85)|ML-ASW|YASW
 YAUG|Melbourne (Augusta) 127.05* (123.05)|ML-AUG|YAUG
@@ -18701,6 +18702,7 @@ YELW|Melbourne (Eildon Weir) 123.75|ML-ELW|YELW
 YESP|Melbourne (Esperance) 123.95* (128.85)|ML-ESP|YESP
 YFLD|Brisbane Radio (Flinders) 132.85* (124.65)|BN-FLD|YFLD
 YFOR|Melbourne (Forrest) 132.7* (128.85)|ML-FOR|YFOR
+YFOW|Melbourne (Forrest West) 131.7* (128.85)|ML-FOW|YFOW
 YGEL|Melbourne (Geraldton) 134.2* (133.9)|ML-GEL|YGEL
 YGOL|Brisbane (Gold Coast) 130.4* (134.2)|BN-GOL|YGOL
 YGTH|Melbourne (Griffith) 122.75* (134.325)|ML-GTH|YGTH
@@ -18717,7 +18719,7 @@ YISA|Brisbane (Isa) 125.7|BN-ISA|YISA
 YJAR|Melbourne (Jarrah) 120.3* (133.9)|ML-JAR|YJAR
 YKAT|Melbourne (Katomba) 133.5* (134.325)|ML-KAT|YKAT
 YKEN|Brisbane (Kennedy) 120.15|BN-KEN|YKEN
-YKIY|Brisbane (Kimberley) 133.4* (133.2)|BN-KIY|YKIY
+YKIY|Brisbane (Kimberley) 133.4* (123.85)|BN-KIY|YKIY
 YKPL|Brisbane (Keppel) 125.9* (134.2)|BN-KPL|YKPL
 YLEA|Melbourne (Leeman) 122.4* (133.9)|ML-LEA|YLEA
 YMDE|Brisbane (Mudgee) 133.0* (130.9)|BN-MDE|YMDE
@@ -18741,7 +18743,8 @@ YSTR|Brisbane (Sturt) 134.4* (133.2)|BN-STR|YSTR
 YSWY|Brisbane (Swampy) 133.2* (120.15)|BN-SWY|YSWY
 YTBD|Melbourne (Tailem Bend) 123.05|ML-TBD|YTBD
 YTBP|Brisbane (Tabletop) 120.55* (120.15)|BN-TBP|YTBP
-YTRT|Brisbane (Territory) 133.2|BN-TRT|YTRT
+YTRT|Brisbane (Territory) 123.85|BN-TRT|YTRT
+YTRS|Brisbane (Territory South) 133.2* (123.85)|BN-ASH|YASH
 YTSN|Brisbane Radio (Tasman) 124.65|BN-TSN|YTSN
 YWAR|Melbourne (Warburton) 124.9* (128.85)|ML-WAR|YWAR
 YWEG|Brisbane (Warrego) 132.45* (125.7)|BN-WEG|YWEG

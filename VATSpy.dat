@@ -1365,7 +1365,7 @@ EDGM|Mosbach-Lohrbach|49.4|9.116667||EDGG|0
 EDGP|Oppenheim|49.841|8.375833||EDGG|0
 EDGQ|Schameder|51.000128|8.306823||EDGG|0
 EDGR|Giessen-Reiskirchen|50.566845|8.8698||EDGG|0
-EDGS|Siegerland|50.875|8.083333||EDGG|0
+EDGS|Siegerland|50.707275|8.076422||EDGG|0
 EDGT|Bottenhorn|50.795205|8.458514||EDGG|0
 EDGU|Unterschuepf|49.515578|9.66831||EDGG|0
 EDGW|Wolfhagen "Graner Berg"|51.30704|9.175305||EDGG|0
@@ -8238,7 +8238,7 @@ LPIN|Espinho|40.966666|-8.65||LPPC|0
 LPJF|Leiria|39.777833|-8.820333||LPPC|0
 LPLA|Lajes|38.761842|-27.090797||LPPO|0
 LPLZ|Lousa|40.142166|-8.24||LPPC|0
-LPMA|Funchal-S. Catarina|32.68306|-16.76639|LPFU|LPPC|0
+LPMA|Funchal-S. Catarina|32.694167|-16.778056|LPFU|LPPC|0
 LPMI|Mirandela|41.468833|-7.223333||LPPC|0
 LPMN|Amendoeira - Montemor-O-Novo|38.71138889|-8.28333333||LPPC|0
 LPMR|Monte Real|39.828385|-8.887375||LPPC|0
@@ -18136,18 +18136,17 @@ LFRR-N|Brest North||LFRR-N
 LFRR-E|Brest East (Covers West LFFF FL295+)||LFRR-E
 LFUM|Marseille Upper||LFMM
 LGGG|Athinai||LGGG
-LGGG|Athinai-Above FL325|LGGG_U|LGGG
-LGGG-RDS|Athinai-Rodos sector|LGGG_RDS|LGGG-RDS
-LGGG-KRK|Athinai-Kerkira sector|LGGG_KRK|LGGG-KRK
-LGGG-MIL|Athinai-Milos sector|LGGG_MIL|LGGG-MIL
-LGGG-KFN|Athinai-Kefallinia sector|LGGG_KFN|LGGG-KFN
-LGGG-PLH|Athinai-Paleochora sector|LGGG_PLH|LGGG-PLH
-LGGG-KAV|Athinai-Kavos sector|LGGG_KAV|LGGG-KAV
-LGGG-SIT|Athinai-Sitia sector|LGGG_SIT|LGGG-SIT
-LGMD|Makedonia||LGMD
-LGMD-W|Makedonia-Skopelos sector|LGMD_W|LGMD-W
-LGMD-LMO|Makedonia-Limnos sector|LGMD_LMO|LGMD-LMO
-LGMD-KVL|Makedonia-Kavala sector|LGMD_KVL|LGMD-KVL
+LGGG|Athinai ACC (Above FL325) - Athinai|LGGG_U|LGGG
+LGGG-RDS|Athinai ACC (Rodos) - Athinai|LGGG_RDS|LGGG-RDS
+LGGG-KRK|Athinai ACC (Kerkira) - Athinai|LGGG_KRK|LGGG-KRK
+LGGG-MIL|Athinai ACC (Milos) - Athinai|LGGG_MIL|LGGG-MIL
+LGGG-KFN|Athinai ACC (Kefallinia) - Athinai|LGGG_KFN|LGGG-KFN
+LGGG-PLH|Athinai ACC (Paleochora) - Athinai|LGGG_PLH|LGGG-PLH
+LGGG-KAV|Athinai ACC (Kavos) - Athinai|LGGG_KAV|LGGG-KAV
+LGGG-SIT|Athinai ACC (Sitia) - Athinai|LGGG_SIT|LGGG-SIT
+LGMD-W|Makedonia ACC (West) - Athinai|LGMD_W|LGMD-W
+LGMD-LMO|Makedonia ACC (Limnos) - Athinai|LGMD_LMO|LGMD-LMO
+LGMD-KVL|Makedonia ACC (Kavala) - Athinai|LGMD_KVL|LGMD-KVL
 LHCC|Budapest||LHCC
 LIBB|Brindisi ACC - Brindisi||LIBB
 LIMM-ES|Milano ACC ES - Milano|LIMM_ES|LIMM-ES
@@ -18308,10 +18307,10 @@ ORBB-S|Baghdad South||ORBB-N
 OSTT|Damascus|OSDI|OSTT
 OYSC|Sanaa||OYSC
 PAZA|Anchorage||PAZA
-PAZA|Anchorage|ANC|PAZA-D
-PAZA|Anchorage Oceanic - Pacific|ZAN_10|PAZA-P
-PAZA|Anchorage Oceanic - Pacific|ZAN_11|PAZA-P
-PAZA|Anchorage Oceanic - Arctic|ZAN_64|PAZA-A
+PAZA-D|Anchorage|ANC|PAZA-D
+PAZA-P|Anchorage Oceanic - Pacific|ZAN_10|PAZA-P
+PAZA-P|Anchorage Oceanic - Pacific|ZAN_11|PAZA-P
+PAZA-A|Anchorage Oceanic - Arctic|ZAN_64|PAZA-A
 PGZU|Guam|GU|PGZU
 PGZU|Guam|GUM|PGZU
 PGZU|Guam|GUAM|PGZU
@@ -18379,7 +18378,7 @@ UACN|Astana||UACN
 UAII|Shymkent||UAII
 UATT|Aktyubinsk||UATT
 UBBA|Baku|UBBB|UBBA
-UBBA-S|Baku South|UBBA-S|UBBA-S
+UBBA-S|Baku South|UBBA_S|UBBA-S
 UCFM|Bishkek||UCFM
 UCFO|Osh||UCFO
 UDDD|Yerevan|UGEE|UDDD
@@ -18652,7 +18651,7 @@ RU-ESC|Siberia Control|UNKL,UNNT,UIII
 RU-WSC|Western Siberia Control|USTV,USSV
 RU-CEN|Asia-Center|UATT,UACN,UAAA,UTAK,UTAA,UTAT,UTAV,UTSD,UTTR,UAII,UCFO,UTDD,UCFM
 RU-NWC|North Western Russia Control|ULLL,UMKK
-RU-SC|Caucasus-Radar|URRV,UGGG,UDDD,UBBA,UBBA-S
+RU-SC|Caucasus-Radar|URRV,UGGG,UDDD,UBBA
 SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
 SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS
 SAM-S|South America Control South|SUEO,SGFA,SAEF,SARR,SACF,SAMF,SAVF

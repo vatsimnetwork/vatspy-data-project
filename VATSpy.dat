@@ -18116,8 +18116,10 @@ FVHF|Harare||FVHF
 FWLL|Lilongwe||FWLL
 FYWH|Windhoek||FYWH
 FZZA|Kinshasa||FZZA
-GCCC|Canarias||GCCC
+GCCC-ALL|Canarias|GCCC_ALL|GCCC-ALL
 GCCC-R6|Canarias|GCCC_R6|GCCC-R6
+GCCC-RES|Canarias (South East Sector)|GCCC_RES|GCCC-RES
+GCCC-RW3|Canarias (North West Sector)|GCCC_RW3|GCCC-RW3
 GCCO|Canarias Oceanic||GCCO
 GLRB|Roberts||GLRB
 GMMM|Casablanca||GMMM
@@ -18185,17 +18187,29 @@ LCCC-S1|Nicosia-South1|LCCC_S1|LCCC-S1
 LCCC-W|Nicosia-West|LCCC_W|LCCC-W
 LDZO|Zagreb||LDZO
 LECB|Barcelona|LEBL|LECB
-LECB-W|Barcelona West|LECB_RW|LECB-W
-LECB-E|Barcelona East|LECB_RE|LECB-E
-LECB-S|Barcelona South|LECB_RS|LECB-S
-LECB-N|Barcelona North|LECB_RN|LECB-N
+LECB-W|Barcelona (Combined West)|LECB_RW|LECB-W
+LECB-E|Barcelona (Combined East)|LECB_RE|LECB-E
+LECB-S|Barcelona (Combined South)|LECB_RS|LECB-S
+LECB-N|Barcelona (Combined North)|LECB_RN|LECB-N
+LECB-PPI|Barcelona (North East Sector)|LECB_PPI|LECB-PPI
+LECB-LLI|Barcelona (Levante Sector)|LECB_LLI|LECB-LLI
+LECB-CCC|Barcelona (Central Sector)|LECB_CCC|LECB-CCC
+LECB-VNI|Barcelona (Verso North Sector)|LECB_VNI|LECB-VNI
+LECB-MVS|Barcelona (Mediterraneo Sector)|LECB_MVS|LECB-MVS
 LECL|Valencia (FL245-)||LECL
 LECM|Madrid|LEMD|LECM
-LECM-ALL|Madrid|LECM_ALL|LECM-ALL
+LECM-ALL|Madrid (Combined LECM+LECS)|LECM_ALL|LECM-ALL
 LECM-R1|Madrid|LECM_R1|LECM-R1
+LECM-SAI|Madrid (Santiago-Asturias Sector)|LECM_SAI|LECM-SAI
+LECM-BDP|Madrid|LECM_BDP (Bilbao-Pamplona Sector)|LECM-BDP
 LECM-R2|Madrid|LECM_R2|LECM-R2
+LECM-ZMI|Madrid|LECM_ZMI (Zamora Sector)|LECM-ZMI
+LECM-TLI|Madrid|LECM_TLI (Toledo Sector)|LECM-TLI
+LECM-CZI|Madrid (Castejon-Zaragoza Sector) |LECM_CZI|LECM-CZI
 LECP|Palma (FL245-)|LEPA|LECP
 LECS|Sevilla||LECS
+LECS-NCS|Sevilla (East)|LECS_NCS|LECS-NCS
+LECS-SM2|Sevilla (West)|LECS_SM2|LECS-SM2
 LFBB|Bordeaux||LFBB
 LFEE|Reims (Covers North-East LFFF FL295+)||LFEE
 LFEE-N|Reims North (Covers North-East LFFF FL295+)||LFEE-N

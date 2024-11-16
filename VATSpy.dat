@@ -18118,8 +18118,8 @@ FYWH|Windhoek||FYWH
 FZZA|Kinshasa||FZZA
 GCCC|Canarias||GCCC
 GCCC-R6|Canarias|GCCC_R6|GCCC-R6
-GCCC-RES|Canarias (South East Sector)|GCCC_RES|GCCC-RES
-GCCC-RW3|Canarias (North West Sector)|GCCC_RW3|GCCC-RW3
+GCCC-RES|Canarias (South East Sector) - Canarias|GCCC_RES|GCCC-RES
+GCCC-RW3|Canarias (North West Sector) - Canarias|GCCC_RW3|GCCC-RW3
 GCCO|Canarias Oceanic||GCCO
 GLRB|Roberts||GLRB
 GMMM|Casablanca||GMMM
@@ -18187,29 +18187,29 @@ LCCC-S1|Nicosia-South1|LCCC_S1|LCCC-S1
 LCCC-W|Nicosia-West|LCCC_W|LCCC-W
 LDZO|Zagreb||LDZO
 LECB|Barcelona|LEBL|LECB
-LECB-W|Barcelona (Combined West)|LECB_RW|LECB-W
-LECB-E|Barcelona (Combined East)|LECB_RE|LECB-E
-LECB-S|Barcelona (Combined South)|LECB_RS|LECB-S
-LECB-N|Barcelona (Combined North)|LECB_RN|LECB-N
-LECB-PPI|Barcelona (North East Sector)|LECB_PPI|LECB-PPI
-LECB-LLI|Barcelona (Levante Sector)|LECB_LLI|LECB-LLI
-LECB-CCC|Barcelona (Central Sector)|LECB_CCC|LECB-CCC
-LECB-VNI|Barcelona (Verso North Sector)|LECB_VNI|LECB-VNI
-LECB-MVS|Barcelona (Mediterraneo Sector)|LECB_MVS|LECB-MVS
+LECB-W|Barcelona (Combined West) - Barcelona|LECB_RW|LECB-W
+LECB-E|Barcelona (Combined East) - Barcelona|LECB_RE|LECB-E
+LECB-S|Barcelona (Combined South) - Barcelona|LECB_RS|LECB-S
+LECB-N|Barcelona (Combined North) - Barcelona|LECB_RN|LECB-N
+LECB-PPI|Barcelona (North East Sector) - Barcelona|LECB_PPI|LECB-PPI
+LECB-LLI|Barcelona (Levante Sector) - Barcelona|LECB_LLI|LECB-LLI
+LECB-CCC|Barcelona (Central Sector) - Barcelona|LECB_CCC|LECB-CCC
+LECB-VNI|Barcelona (Verso North Sector) - Barcelona|LECB_VNI|LECB-VNI
+LECB-MVS|Barcelona (Mediterraneo Sector) - Barcelona|LECB_MVS|LECB-MVS
 LECL|Valencia (FL245-)||LECL
 LECM|Madrid|LEMD|LECM
-LECM-ALL|Madrid (Combined LECM+LECS)|LECM_ALL|LECM-ALL
+LECM-ALL|Madrid (Combined LECM+LECS) - Madrid|LECM_ALL|LECM-ALL
 LECM-R1|Madrid|LECM_R1|LECM-R1
-LECM-SAI|Madrid (Santiago-Asturias Sector)|LECM_SAI|LECM-SAI
-LECM-BDP|Madrid (Bilbao-Pamplona Sector)|LECM_BDP|LECM-BDP
+LECM-SAI|Madrid (Santiago-Asturias Sector) - Madrid|LECM_SAI|LECM-SAI
+LECM-BDP|Madrid (Bilbao-Pamplona Sector) - Madrid|LECM_BDP|LECM-BDP
 LECM-R2|Madrid|LECM_R2|LECM-R2
-LECM-ZMI|Madrid (Zamora Sector)|LECM_ZMI|LECM-ZMI
-LECM-TLI|Madrid (Toledo Sector)|LECM_TLI|LECM-TLI
-LECM-CZI|Madrid (Castejon-Zaragoza Sector)|LECM_CZI|LECM-CZI
+LECM-ZMI|Madrid (Zamora Sector) - Madrid|LECM_ZMI|LECM-ZMI
+LECM-TLI|Madrid (Toledo Sector) - Madrid|LECM_TLI|LECM-TLI
+LECM-CZI|Madrid (Castejon-Zaragoza Sector) - Madrid|LECM_CZI|LECM-CZI
 LECP|Palma (FL245-)|LEPA|LECP
 LECS|Sevilla||LECS
-LECS-NCS|Sevilla (East)|LECS_NCS|LECS-NCS
-LECS-SM2|Sevilla (West)|LECS_SM2|LECS-SM2
+LECS-NCS|Sevilla (East) - Sevilla|LECS_NCS|LECS-NCS
+LECS-SM2|Sevilla (West) - Sevilla|LECS_SM2|LECS-SM2
 LFBB|Bordeaux||LFBB
 LFEE|Reims (Covers North-East LFFF FL295+)||LFEE
 LFEE-N|Reims North (Covers North-East LFFF FL295+)||LFEE-N

@@ -18511,6 +18511,11 @@ UMKK|Kaliningrad||UMKK
 UMMV|Minsk|UMMM|UMMV
 UNKL|Krasnoyarsk||UNKL
 UNNT|Novosibirsk||UNNT
+UNNT-N|Novosibirsk ACC Sector North - Novosibirsk|UNNT_N|UNNT-N
+UNNT-W|Novosibirsk ACC Sector West - Novosibirsk|UNNT_N|UNNT-N
+UNNT-S|Novosibirsk ACC Sector South - Novosibirsk|UNNT_N|UNNT-N
+UNNT-E|Novosibirsk ACC Sector East - Novosibirsk|UNNT_N|UNNT-N
+UNNT-C|Novosibirsk ACC Sector Center - Novosibirsk|UNNT_N|UNNT-N
 URRV|Rostov||URRV
 USSV|Yekaterinburg ACC - Ural||USSV
 USTV|Tyumen||USTV

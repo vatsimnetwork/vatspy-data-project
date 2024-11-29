@@ -17765,6 +17765,7 @@ ZSOF|Hefei Xinqiao|31.987384|116.976634||ZSHA|0
 ZSPD|Shanghai Pudong|31.142333|121.790844||ZSHA|0
 ZSQD|Qingdao Jiaodong|36.366526|120.098729||ZSHA|0
 ZSQZ|Quanzhou Jinjiang|24.799411|118.591113||ZSHA|0
+ZSRJ|Ganzhou Ruijin|25.96|116.08||ZSHA|0
 ZSRZ|Rizhao Shanzihe|35.404764|119.323218||ZSHA|0
 ZSSH|Huai'an Lianshui|33.777701|119.147299||ZSHA|0
 ZSSM|Sanming Shaxian|26.427323|117.834513||ZSHA|0
@@ -18650,57 +18651,57 @@ YWOL|Melbourne (Wollongong) 125.0* (129.8)|ML-WOL|YWOL
 YWON|Melbourne (Wonthaggi) 135.3* (134.325)|ML-WON|YWON
 YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
 YYWE|Melbourne (Yarrowee) 134.325|ML-YWE|YYWE
-ZBPE|Beijing||ZBPE
-ZBAA|Beijing ACC - Beijing||ZBAA
-ZBAA-N|Beijing ACC North High Sector - Beijing|ZBAA_N|ZBAA-N
-ZBAA-S|Beijing ACC South High Sector - Beijing|ZBAA_S|ZBAA-S
-ZBAA-W|Beijing ACC West High Sector - Beijing|ZBAA_W|ZBAA-W
-ZBAA-C|Beijing ACC Central Sector - Beijing|ZBAA_C|ZBAA-C
-ZBHH|Hohhot ACC - Beijing|ZBHH|ZBHH
-ZHCC|Zhengzhou ACC - Wuhan||ZHCC
-ZHHH|Wuhan ACC - Wuhan||ZHHH
-ZHWH|Wuhan||ZHWH
-ZGHA|Changsha ACC - Guangzhou||ZGHA
-ZGNN|Nanning ACC - Guangzhou||ZGNN
-ZGGG|Guangzhou ACC - Guangzhou||ZGGG
-ZGZU|Guangzhou|ZGZU|ZGZU
-ZJSA|Sanya||ZJSA
-ZJSY-L|Sanya ACC Land Sector - Sanya|ZJSY_L|ZJSY-L
-ZJSY-O|Sanya ACC Oceanic Sector - Sanya|ZJSY_O|ZJSY-O
+ZBPE|Beijing FIR - Beijing||ZBPE
+ZBAA|Beijing ACC - Beijing FIR - Beijing||ZBAA
+ZBAA-N|Beijing ACC North High Sector - Beijing FIR - Beijing|ZBAA_N|ZBAA-N
+ZBAA-S|Beijing ACC South High Sector - Beijing FIR - Beijing|ZBAA_S|ZBAA-S
+ZBAA-W|Beijing ACC West High Sector - Beijing FIR - Beijing|ZBAA_W|ZBAA-W
+ZBAA-C|Beijing ACC Central Sector - Beijing FIR - Beijing|ZBAA_C|ZBAA-C
+ZBHH|Hohhot ACC - Beijing FIR - Hohhot||ZBHH
+ZHCC|Zhengzhou ACC - Wuhan FIR - Zhengzhou||ZHCC
+ZHHH|Wuhan ACC - Wuhan FIR - Wuhan||ZHHH
+ZHWH|Wuhan FIR - Wuhan||ZHWH
+ZGHA|Changsha ACC - Guangzhou FIR - Changsha||ZGHA
+ZGNN|Nanning ACC - Guangzhou FIR - Nanning||ZGNN
+ZGGG|Guangzhou ACC - Guangzhou FIR - Guangzhou||ZGGG
+ZGZU|Guangzhou FIR - Guangzhou||ZGZU
+ZJSA|Sanya FIR - Sanya||ZJSA
+ZJSY-L|Sanya ACC Land Sector - Sanya FIR - Sanya|ZJSY_L|ZJSY-L
+ZJSY-O|Sanya ACC Oceanic Sector - Sanya FIR - Sanya|ZJSY_O|ZJSY-O
 ZKKP|Pyongyang||ZKKP
-ZLHW|Lanzhou||ZLHW
-ZLLL|Lanzhou ACC - Lanzhou|ZLLL|ZLLL
-ZLXY|Xi'an ACC - Lanzhou||ZLXY
-ZULS|Lhasa ACC - Kunming||ZULS
-ZPKM|Kunming||ZPKM
-ZSHA|Shanghai|ZSHA|ZSHA
-ZSSS|Shanghai ACC - Shanghai||ZSSS
-ZSSS-N|Shanghai ACC North High Sector - Shanghai|ZSSS_N|ZSSS-N
-ZSSS-S|Shanghai ACC South High Sector - Shanghai|ZSSS_S|ZSSS-S
-ZSSS-W|Shanghai ACC West High Sector - Shanghai|ZSSS_W|ZSSS-W
-ZSSS-C|Shanghai ACC Central High Sector - Shanghai|ZSSS_C|ZSSS-C
-ZSQD|Qingdao ACC - Shanghai||ZSQD
-ZSJN|Jinan ACC - Shanghai||ZSJN
-ZSOF|Hefei ACC - Shanghai||ZSOF
-ZSCN|Nanchang ACC - Shanghai||ZSCN
-ZSAM|Xiamen ACC - Shanghai||ZSAM
-ZUUU|Chengdu ACC - Kunming||ZUUU
-ZUGY|Guiyang ACC - Kunming||ZUGY
-ZPPP|Kunming ACC - Kunming||ZPPP
-ZWUQ|Urumqi|ZWUQ|ZWUQ
-ZWWW-N|Urumqi ACC North Sector- Urumqi|ZWWW_N|ZWWW-N
-ZWWW-S|Urumqi ACC South Sector- Urumqi|ZWWW_S|ZWWW-S
-ZYSH|Shenyang||ZYSH
-ZYTX|Shenyang ACC - Shenyang||ZYTX
-ZYHB|Harbin ACC - Shenyang||ZYHB
-ZYTL|Dalian ACC - Shenyang||ZYTL
-ZMUB|Ulaanbaatar||ZMUB
-ZMUB-A|Ulaanbaatar ACC Altai Sector - Ulaanbaatar|ZMUB_A|ZMUB-A
-ZMUB-B|Ulaanbaatar ACC Bayan Sector - Ulaanbaatar|ZMUB_B|ZMUB-B
-ZMUB-C|Ulaanbaatar ACC Central Sector - Ulaanbaatar|ZMUB_C|ZMUB-C
-ZMUB-D|Ulaanbaatar ACC Dornod Sector - Ulaanbaatar|ZMUB_D|ZMUB-D
-ZMUB-G|Ulaanbaatar ACC Gobi Sector - Ulaanbaatar|ZMUB_G|ZMUB-G
-ZMUB-M|Ulaanbaatar ACC Muren Sector - Ulaanbaatar|ZMUB_M|ZMUB-M
+ZLHW|Lanzhou FIR - Lanzhou||ZLHW
+ZLLL|Lanzhou ACC - Lanzhou FIR - Lanzhou|ZLLL|ZLLL
+ZLXY|Xi'an ACC - Lanzhou FIR - Xi'an||ZLXY
+ZULS|Lhasa ACC - Kunming FIR - Lhasa||ZULS
+ZPKM|Kunming FIR - Kunming||ZPKM
+ZSHA|Shanghai FIR - Shanghai FIR - Shanghai||ZSHA
+ZSSS|Shanghai ACC - Shanghai FIR - Shanghai||ZSSS
+ZSSS-N|Shanghai ACC North High Sector - Shanghai FIR - Shanghai|ZSSS_N|ZSSS-N
+ZSSS-S|Shanghai ACC South High Sector - Shanghai FIR - Shanghai|ZSSS_S|ZSSS-S
+ZSSS-W|Shanghai ACC West High Sector - Shanghai FIR - Shanghai|ZSSS_W|ZSSS-W
+ZSSS-C|Shanghai ACC Central High Sector - Shanghai FIR - Shanghai|ZSSS_C|ZSSS-C
+ZSQD|Qingdao ACC - Shanghai FIR - Qingdao||ZSQD
+ZSJN|Jinan ACC - Shanghai FIR - Jinan||ZSJN
+ZSOF|Hefei ACC - Shanghai FIR - Hefei||ZSOF
+ZSCN|Nanchang ACC - Shanghai FIR - Nanchang||ZSCN
+ZSAM|Xiamen ACC - Shanghai FIR - Xiamen||ZSAM
+ZUUU|Chengdu ACC - Kunming FIR - Chengdu||ZUUU
+ZUGY|Guiyang ACC - Kunming FIR - Guiyang||ZUGY
+ZPPP|Kunming ACC - Kunming FIR - Kunming||ZPPP
+ZWUQ|Urumqi FIR - Urumqi||ZWUQ
+ZWWW-N|Urumqi ACC North Sector- Urumqi FIR - Urumqi|ZWWW_N|ZWWW-N
+ZWWW-S|Urumqi ACC South Sector- Urumqi FIR - Urumqi|ZWWW_S|ZWWW-S
+ZYSH|Shenyang FIR - Shenyang||ZYSH
+ZYTX|Shenyang ACC - Shenyang FIR - Shenyang||ZYTX
+ZYHB|Harbin ACC - Shenyang FIR - Harbin||ZYHB
+ZYTL|Dalian ACC - Shenyang FIR - Dalian||ZYTL
+ZMUB|Ulaanbaatar FIR - Ulaanbaatar||ZMUB
+ZMUB-A|Ulaanbaatar ACC Altai Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_A|ZMUB-A
+ZMUB-B|Ulaanbaatar ACC Bayan Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_B|ZMUB-B
+ZMUB-C|Ulaanbaatar ACC Central Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_C|ZMUB-C
+ZMUB-D|Ulaanbaatar ACC Dornod Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_D|ZMUB-D
+ZMUB-G|Ulaanbaatar ACC Gobi Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_G|ZMUB-G
+ZMUB-M|Ulaanbaatar ACC Muren Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_M|ZMUB-M
 
 [UIRs]
 ADR_U|Adria Radar Upper|LJLA,LDZO,LQSB,LYBA,LWSS,LAAA

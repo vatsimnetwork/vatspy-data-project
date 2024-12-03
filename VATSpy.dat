@@ -18202,9 +18202,9 @@ LFEE-N|Reims North (Covers North-East LFFF FL295+)||LFEE-N
 LFEE-S|Reims South||LFEE-S
 LFFF|Paris|LFPG|LFFF
 LFMM|Marseille||LFMM
-LFMM-N|Marseille North||LFMM-N
-LFMM-E|Marseille East||LFMM-E
-LFMM-NE|Marseille North East||LFMM-NE
+LFMM-N|Marseille North|LFMM_N|LFMM-N
+LFMM-E|Marseille East|LFMM_E|LFMM-E
+LFMM-NE|Marseille North East|LFMM_NE|LFMM-NE
 LFRR|Brest||LFRR
 LFRR-N|Brest North||LFRR-N
 LFRR-E|Brest East (Covers West LFFF FL295+)||LFRR-E

@@ -12668,7 +12668,6 @@ TVSM|Mustique|12.88519|-61.1871||TTZP|0
 TVSU|Union Island|12.598611|-61.414722|UNI|TTZP|0
 TVSV|E.T. Joshua|13.144444|-61.213889||TTZP|0
 TXKF|L F Wade Intl|32.364042|-64.678703|BDA|KZNY-BDA|0
-UA0D|Chirchik|41.518|69.576||UTTR|0 ; io
 UAAA|Almaty|43.351667|77.04||UAAA|0
 UAAH|Balkhash|46.893|75.005||UAAA|0 ; io
 UAAL|Usharal|46.190833|80.831111||UAAA|0
@@ -18511,6 +18510,13 @@ ULLL-WK|Sankt-Peterburg ACC, sectors Kotlas, Vologda - Peterburg|ULLL_WK|ULLL-WK
 UMKK|Kaliningrad||UMKK
 UMMV|Minsk|UMMM|UMMV
 UNKL|Krasnoyarsk||UNKL
+UNKL-N|Krasnoyarsk ACC Sector North - Krasnoyarsk|UNKL_N|UNKL-N
+UNKL-N1|Krasnoyarsk ACC Sector North 1 - Krasnoyarsk|UNKL_N1|UNKL-N1
+UNKL-N2|Krasnoyarsk ACC Sector North 2 - Krasnoyarsk|UNKL_N2|UNKL-N2
+UNKL-S|Krasnoyarsk ACC Sector South - Krasnoyarsk|UNKL_S|UNKL-S
+UNKL-S1|Krasnoyarsk ACC Sector South 1 - Krasnoyarsk|UNKL_S1|UNKL-S1
+UNKL-S2|Krasnoyarsk ACC Sector South 2 - Krasnoyarsk|UNKL_S2|UNKL-S2
+UNKL-S3|Krasnoyarsk ACC Sector South 3 - Krasnoyarsk|UNKL_S3|UNKL-S3
 UNNT|Novosibirsk||UNNT
 URRV|Rostov||URRV
 USSV|Yekaterinburg ACC - Ural||USSV

@@ -18264,6 +18264,8 @@ LPPO-TMA|Santa Maria Radar|LPPO|LPPO-TMA
 LPAM|Lisboa Military||LPPC
 LQSB|Sarajevo|LQSA|LQSB
 LRBB|Bucharest||LRBB
+LRBB-A|Bucharest|LRBB_A|LRBB-A
+LRBB-N|Bucharest|LRBB_N|LRBB-N
 LSAS|Swiss Radar - Switzerland||LSAS
 LSAG|Swiss Radar (Geneva ACC) - Switzerland||LSAG
 LSAZ|Swiss Radar (Zurich ACC) - Switzerland||LSAZ
@@ -18299,7 +18301,7 @@ LTAA-16|Ankara (Sector 16)|ANK_16|LTAA-16
 LTAA-17|Ankara (Sector 17)|ANK_17|LTAA-17
 LTAA-18|Ankara (Sector 18)|ANK_18|LTAA-18
 LTAA-19|Ankara (Sector 19)|ANK_19|LTAA-19
-LUUU|Chisinau|LUKK|LUUU
+LUUU|Chisinau||LUUU
 LWSS|Skopje||LWSS
 LYBA|Beograd||LYBA
 LZBB|Bratislava||LZBB
@@ -18794,7 +18796,6 @@ GULF_E|Gulf Control|OBBB,OIIX,OKAC,OMAE,OOMM,ORBB
 GULF_W|Gulf Control|HECC,OEJD,OJAC,OLBB,OSTT,OYSC
 LFUP|France Control|LFMM,LFFF,LFEE,LFBB,LFRR
 LIUP|Italy Radar|LIMM,LIBB,LIRR,LIPP
-LRUB|Black Sea West Control|LBSR,LRBB,LUUU
 PRC|Beijing Control|ZBPE,ZGZU,ZJSA,ZLHW,ZPKM,ZSHA,ZWUQ,ZYSH
 RU-ERC|Eastern Russia Control|UEEE,UHHH,UHMM
 RU-WRC|Western Russia Control|UMMV,UUWV,UWWW

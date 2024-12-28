@@ -13927,6 +13927,7 @@ WAQQ|Juwata|3.326667|117.569444||WAAF|0
 WAQT|Kalimarau|2.153333|117.430833||WAAF|0
 WAQU|Long Layu|3.610833|115.699167||WAAF|0
 WARA|Abdulrachman Saleh|-7.929444|112.711944||WAAF|0
+WARD|Dhoho|-7.760379|111.952364||WAAF|0
 WARE|Noto Hadinegoro|-8.243333|113.696111||WAAF|0
 WARI|Iswahyudi|-7.610000|111.433333||WAAF|0
 WARP|Pagerungan|-6.956667|115.932500||WAAF|0
@@ -18619,15 +18620,32 @@ VVHN|Hanoi||VVHN
 VVHM|Ho Chi Minh||VVHM
 VYYF|Yangon||VYYF
 WAAF|Ujung Pandang||WAAF
-WAAF-B|Ujung Pandang (Bali)|WAAF_B|WAAF-B
-WAAF-W|Ujung Pandang (West)|WAAF_W|WAAF-W
-WAAF-E|Ujung Pandang (East)|WAAF_E|WAAF-E
+WAAF-BI|Ujung Pandang (Bali)|UBLI|WAAF-BI
+WAAF-SY|Ujung Pandang (Surabaya)|USBY|WAAF-SY
+WAAF-NA|Ujung Pandang (Nusa Tenggara)|UNSA|WAAF-NA
+WAAF-MS|Ujung Pandang (Makassar)|UMKS|WAAF-MS
+WAAF-BN|Ujung Pandang (Balikpapan)|UBPN|WAAF-BN
+WAAF-PN|Ujung Pandang (Pangkalan Bun)|UPKN|WAAF-PN
+WAAF-MO|Ujung Pandang (Manado)|UMNO|WAAF-MO
+WAAF-AN|Ujung Pandang (Manado)|UAMN|WAAF-AN
+WAAF-PA|Ujung Pandang (Papua)|UPUA|WAAF-PA
 WBFC|Kota Kinabalu||WBFC
 WBGG|Kuching||WBGG
 WIIF|Jakarta||WIIF
-WIIF-N|Jakarta (North)|WIIF_N|WIIF-N
-WIIF-W|Jakarta (West)|WIIF_W|WIIF-W
-WIIF-E|Jakarta (East)|WIIF_E|WIIF-E
+WIIF-JT|Jakarta (Jakarta)|UJKT|WIIF-JT
+WIIF-PP|Jakarta (Pangkalpinang)|UPKP|WIIF-PP
+WIIF-PU|Jakarta (Pekanbaru)|UPKU|WIIF-PU
+WIIF-PB|Jakarta (Palembang)|UPLB|WIIF-PB
+WIIF-MN|Jakarta (Medan)|UMDN|WIIF-MN
+WIIF-IS|Jakarta (Upper Indian Ocean)|UIOS|WIIF-IS
+WIIF-BC|Jakarta (Banda Aceh)|UBAC|WIIF-BC
+WIIF-SG|Jakarta (Semarang)|USMG|WIIF-SG
+WIIF-JG|Jakarta (Yogyakarta)|UJOG|WIIF-JG
+WIIF-BD|Jakarta (Bandung)|UBND|WIIF-BD
+WIIF-PK|Jakarta (Pontianak)|UPNK|WIIF-PK
+WIIF-NA|Jakarta (Natuna)|UNTA|WIIF-NA
+WIIF-TG|Jakarta (Tanjungpinang)|UTPG|WIIF-TG
+WIIF-TN|Jakarta (Tanjung Pandan)|UTPN|WIIF-TN
 WMFC|Kuala Lumpur||WMFC
 WSJC|Singapore||WSJC
 YARA|Brisbane (Arafura) 133.7* (125.7)|BN-ARA|YARA

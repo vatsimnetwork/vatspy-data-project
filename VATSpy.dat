@@ -143,9 +143,8 @@ India|VA|Control
 India|VE|Control
 India|VI|Control
 India|VO|Control
-Indonesia|WA|Control
-Indonesia|WI|Control
-Indonesia|WR|
+Indonesia|WA|Radar
+Indonesia|WI|Radar
 Iran|TE|Radar
 Iran|OI|Radar
 Iraq|OR|Radar
@@ -13927,6 +13926,7 @@ WAQQ|Juwata|3.326667|117.569444||WAAF|0
 WAQT|Kalimarau|2.153333|117.430833||WAAF|0
 WAQU|Long Layu|3.610833|115.699167||WAAF|0
 WARA|Abdulrachman Saleh|-7.929444|112.711944||WAAF|0
+WARD|Dhoho|-7.760379|111.952364||WAAF|0
 WARE|Noto Hadinegoro|-8.243333|113.696111||WAAF|0
 WARI|Iswahyudi|-7.610000|111.433333||WAAF|0
 WARP|Pagerungan|-6.956667|115.932500||WAAF|0
@@ -18647,15 +18647,32 @@ VVHN|Hanoi||VVHN
 VVHM|Ho Chi Minh||VVHM
 VYYF|Yangon||VYYF
 WAAF|Ujung Pandang||WAAF
-WAAF-B|Ujung Pandang (Bali)|WAAF_B|WAAF-B
-WAAF-W|Ujung Pandang (West)|WAAF_W|WAAF-W
-WAAF-E|Ujung Pandang (East)|WAAF_E|WAAF-E
+WAAF-BI|Ujung Pandang (Bali)|WAAF_BI|WAAF-BI
+WAAF-SY|Ujung Pandang (Surabaya)|WAAF_SY|WAAF-SY
+WAAF-NA|Ujung Pandang (Nusa Tenggara)|WAAF_NA|WAAF-NA
+WAAF-MS|Ujung Pandang (Makassar)|WAAF_MS|WAAF-MS
+WAAF-BN|Ujung Pandang (Balikpapan)|WAAF_BN|WAAF-BN
+WAAF-PN|Ujung Pandang (Pangkalan Bun)|WAAF_PN|WAAF-PN
+WAAF-MO|Ujung Pandang (Manado)|WAAF_MO|WAAF-MO
+WAAF-AN|Ujung Pandang (Manado)|WAAF_AN|WAAF-AN
+WAAF-PA|Ujung Pandang (Papua)|WAAF_PA|WAAF-PA
 WBFC|Kota Kinabalu||WBFC
 WBGG|Kuching||WBGG
 WIIF|Jakarta||WIIF
-WIIF-N|Jakarta (North)|WIIF_N|WIIF-N
-WIIF-W|Jakarta (West)|WIIF_W|WIIF-W
-WIIF-E|Jakarta (East)|WIIF_E|WIIF-E
+WIIF-JT|Jakarta (Jakarta)|WIIF_JT|WIIF-JT
+WIIF-PP|Jakarta (Pangkalpinang)|WIIF_PP|WIIF-PP
+WIIF-PU|Jakarta (Pekanbaru)|WIIF_PU|WIIF-PU
+WIIF-PB|Jakarta (Palembang)|WIIF_PB|WIIF-PB
+WIIF-MN|Jakarta (Medan)|WIIF_MN|WIIF-MN
+WIIF-IS|Jakarta (Upper Indian Ocean)|WIIF_IS|WIIF-IS
+WIIF-BC|Jakarta (Banda Aceh)|WIIF_BC|WIIF-BC
+WIIF-SG|Jakarta (Semarang)|WIIF_SG|WIIF-SG
+WIIF-JG|Jakarta (Yogyakarta)|WIIF_JG|WIIF-JG
+WIIF-BD|Jakarta (Bandung)|WIIF_BD|WIIF-BD
+WIIF-PK|Jakarta (Pontianak)|WIIF_PK|WIIF-PK
+WIIF-NA|Jakarta (Natuna)|WIIF_NA|WIIF-NA
+WIIF-TG|Jakarta (Tanjungpinang)|WIIF_TG|WIIF-TG
+WIIF-TN|Jakarta (Tanjung Pandan)|WIIF_TN|WIIF-TN
 WMFC|Kuala Lumpur||WMFC
 WSJC|Singapore||WSJC
 YARA|Brisbane (Arafura) 133.7* (125.7)|BN-ARA|YARA

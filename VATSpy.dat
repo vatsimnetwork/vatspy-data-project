@@ -18029,7 +18029,7 @@ EGTT-W|London ACC (West) - London|LON_23|EGTT-W
 EGTT-W|London ACC (West) - London|LON_8|EGTT-W
 EGTT-W|London ACC (West) - London|LON_WX|EGTT-W
 EGTT-W|London ACC (West) - London|LON_9|EGTT-W
-EGVV|Swanwick Military|EGVV|EGVV
+EGVV|Swanwick Military||EGVV
 EGYP|Mount Pleasant (Monte Agradable)|ISLAND|EGYP
 EHAA|Amsterdam||EHAA
 EHMC|Dutch Mil (Up to FL245)||EHAA
@@ -18074,11 +18074,11 @@ ENSV-W|Stavanger ACC (West) - Polaris|ENSV_10|ENSV-W
 ENSV-E|Stavanger ACC (East) - Polaris|ENSV_E|ENSV-E
 ENSV-E|Stavanger ACC (East) - Polaris|ENSV_13|ENSV-E
 EPWW|Warszawa|EPWA|EPWW
-EPWW-N|Warszawa|EPWW-N|EPWW
-EPWW-S|Warszawa|EPWW-S|EPWW
-EPWW-W|Warszawa|EPWW-W|EPWW
-EPWW-SW|Warszawa (if West offline)|EPWW-SW|EPWW
-EPWW-NW|Warszawa (if West offline)|EPWW-NW|EPWW
+EPWW-N|Warszawa|EPWW_N|EPWW-N
+EPWW-S|Warszawa|EPWW_S|EPWW-S
+EPWW-W|Warszawa|EPWW_W|EPWW-W
+EPWW-SW|Warszawa (if West offline)|EPWW_SW|EPWW-SW
+EPWW-NW|Warszawa (if West offline)|EPWW_NW|EPWW-NW
 ESMM|Malmo ACC - Sweden||ESMM
 ESMM-5|Malmo ACC (5) - Sweden|ESMM_5|ESMM-5
 ESMM-7|Malmo ACC (7) - Sweden|ESMM_7|ESMM-7
@@ -18205,16 +18205,16 @@ LECS-NCS|Sevilla (East) - Sevilla|LECS_NCS|LECS-NCS
 LECS-SM2|Sevilla (West) - Sevilla|LECS_SM2|LECS-SM2
 LFBB|Bordeaux||LFBB
 LFEE|Reims (Covers North-East LFFF FL295+)||LFEE
-LFEE-N|Reims North (Covers North-East LFFF FL295+)||LFEE-N
-LFEE-S|Reims South||LFEE-S
+LFEE-N|Reims North (Covers North-East LFFF FL295+)|LFEE_N|LFEE-N
+LFEE-S|Reims South|LFEE_S|LFEE-S
 LFFF|Paris|LFPG|LFFF
 LFMM|Marseille||LFMM
 LFMM-N|Marseille North|LFMM_N|LFMM-N
 LFMM-E|Marseille East|LFMM_E|LFMM-E
 LFMM-NE|Marseille North East|LFMM_NE|LFMM-NE
 LFRR|Brest||LFRR
-LFRR-N|Brest North||LFRR-N
-LFRR-E|Brest East (Covers West LFFF FL295+)||LFRR-E
+LFRR-N|Brest North|LFRR_N|LFRR-N
+LFRR-E|Brest East (Covers West LFFF FL295+)|LFRR_E|LFRR-E
 LFUM|Marseille Upper||LFMM
 LGGG|Athinai||LGGG
 LGGG|Athinai ACC (Above FL325) - Athinai|LGGG_U|LGGG
@@ -18329,7 +18329,7 @@ MMFO|Mazatlan|MZT|MMZT
 MPZL|Panama||MPZL
 MTEG|Port-Au-Prince||MTEG
 MUFH|Havana|HAV|MUFH
-NAT|Shanwick & Gander|NAT|NAT
+NAT|Shanwick & Gander||NAT
 NCRG|Rarotonga||NCRG
 NFFF|Nadi Oceanic||NFFF
 NFFN|Nadi||NFFN
@@ -18393,8 +18393,8 @@ OPLR|Lahore (Islamabad)|ISB|OPLR
 OPLR|Lahore|OPLR-S|OPLR
 OPLR|Lahore|OPLR-W|OPLR
 ORBB|Baghdad||ORBB
-ORBB-N|Baghdad North||ORBB-N
-ORBB-S|Baghdad South||ORBB-N
+ORBB-N|Baghdad North|ORBB_N|ORBB-N
+ORBB-S|Baghdad South|ORBB_S|ORBB-S
 OSTT|Damascus|OSDI|OSTT
 OYSC|Sanaa||OYSC
 PAZA|Anchorage||PAZA
@@ -18469,12 +18469,12 @@ RJBG-W|Kobe ACC N53 Sector (Up to FL335) - Kobe|RJBG_53|RJBG-W
 RJBG-W|Kobe ACC N54 Sector (Up to FL335) - Kobe|RJBG_54|RJBG-W
 RJBG-S|Kobe ACC N55 Sector (Up to FL335) - Kobe|RJBG_55|RJBG-S
 RKRR|Incheon ACC - Incheon||RKRR
-RKRR-N|Incheon ACC (North) - Incheon||RKRR-N
-RKRR-S|Incheon ACC (South) - Incheon||RKRR-S
+RKRR-N|Incheon ACC (North) - Incheon|RKRR_N|RKRR-N
+RKRR-S|Incheon ACC (South) - Incheon|RKRR_S|RKRR-S
 RKDA|Daegu ACC - Incheon||RKDA
-RKDA-W|Daegu ACC (West) - Incheon||RKDA
-RKDA-E|Daegu ACC (East) - Incheon||RKDA
-RKDA-C|Daegu ACC (Central) - Incheon||RKDA
+RKDA-W|Daegu ACC (West) - Incheon|RKDA_W|RKDA-W
+RKDA-E|Daegu ACC (East) - Incheon|RKDA_E|RKDA-E
+RKDA-C|Daegu ACC (Central) - Incheon|RKDA_C|RKDA-C
 RPHI|Manila|MNL|RPHI
 SACF|Cordoba||SACF
 SACO|Cordoba TMA - Cordoba||SACO
@@ -18529,7 +18529,7 @@ UCFO|Osh||UCFO
 UDDD|Yerevan|UGEE|UDDD
 UEEE|Yakutsk||UEEE
 UGGG|Tbilisi||UGGG
-UHHH|Khabarovsk|UHHH|UHHH
+UHHH|Khabarovsk||UHHH
 UHHH-1|Khabarovsk ACC Sector 1 - Khabarovsk|UHHH_1|UHHH-1
 UHHH-2|Khabarovsk ACC Sector 2 - Khabarovsk|UHHH_2|UHHH-2
 UHHH-3|Khabarovsk ACC Sector 3 - Khabarovsk|UHHH_3|UHHH-3
@@ -18552,7 +18552,7 @@ UKDV|Dnipro||UKDV
 UKLV|Lviv|UKLL|UKLV
 UKOV|Odesa|UKOO|UKOV
 UKR|Ukraine||UKR
-ULLL|Sankt-Peterburg ACC - Peterburg|ULLL|ULLL
+ULLL|Sankt-Peterburg ACC - Peterburg||ULLL
 ULLL-AM|Sankt-Peterburg ACC, sectors Arkhangelsk, Murmansk, Naryan-Mar, Oceanic - Peterburg|ULLL_AM|ULLL-AM
 ULLL-AR|Sankt-Peterburg ACC, sector Arkhangelsk - Peterburg|ULLL_AR|ULLL-AR
 ULLL-MO|Sankt-Peterburg ACC, sector Oceanic - Peterburg|ULLL_MO|ULLL-MO
@@ -18768,7 +18768,7 @@ ZJSY-L|Sanya ACC Land Sector - Sanya FIR - Sanya|ZJSY_L|ZJSY-L
 ZJSY-O|Sanya ACC Oceanic Sector - Sanya FIR - Sanya|ZJSY_O|ZJSY-O
 ZKKP|Pyongyang||ZKKP
 ZLHW|Lanzhou FIR - Lanzhou||ZLHW
-ZLLL|Lanzhou ACC - Lanzhou FIR - Lanzhou|ZLLL|ZLLL
+ZLLL|Lanzhou ACC - Lanzhou FIR - Lanzhou||ZLLL
 ZLXY|Xi'an ACC - Lanzhou FIR - Xi'an||ZLXY
 ZULS|Lhasa ACC - Kunming FIR - Lhasa||ZULS
 ZPKM|Kunming FIR - Kunming||ZPKM

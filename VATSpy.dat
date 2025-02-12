@@ -18695,52 +18695,52 @@ YASP|Melbourne (Alice Springs) 128.85|ML-ASP|YASP
 YASW|Melbourne (Alice Springs West) 131.8* (128.85)|ML-ASW|YASW
 YAUG|Melbourne (Augusta) 127.05* (123.05)|ML-AUG|YAUG
 YBAR|Brisbane (Barra) 123.8* (120.15)|BN-BAR|YBAR
-YBIK|Melbourne (Bindook) 129.8|ML-BIK|YBIK
+YBIK|Melbourne (Bindook) 129.8* (128.4)|ML-BIK|YBIK
 YBKE|Melbourne (Bourke) 128.2* (128.85)|ML-BKE|YBKE
-YBLA|Melbourne (Benalla) 132.2* (123.75)|ML-BLA|YBLA
+YBLA|Melbourne (Benalla) 132.2|ML-BLA|YBLA
 YBUR|Brisbane (Burnett) 123.0* (134.2)|BN-BUR|YBUR
 YCNK|Brisbane (Cessnock) 123.4* (130.9)|BN-CNK|YCNK
 YCOL|Brisbane Radio (Coral) 133.15* (124.65)|BN-COL|YCOL
-YCRS|Melbourne (Cross) 135.8* (133.9)|ML-CRS|YCRS
+YCRS|Melbourne (Cross) 135.8* (118.2)|ML-CRS|YCRS
 YCVN|Brisbane (Carnarvon) 133.8* (125.7)|BN-CVN|YCVN
 YDOS|Brisbane (Downs) 135.6* (134.2)|BN-DOS|YDOS
-YELW|Melbourne (Eildon Weir) 123.75|ML-ELW|YELW
+YELW|Melbourne (Eildon Weir) 123.75* (132.2)|ML-ELW|YELW
 YESP|Melbourne (Esperance) 123.95* (128.85)|ML-ESP|YESP
 YFLD|Brisbane Radio (Flinders) 132.85* (124.65)|BN-FLD|YFLD
 YFOR|Melbourne (Forrest) 132.7* (128.85)|ML-FOR|YFOR
-YGEL|Melbourne (Geraldton) 134.2* (133.9)|ML-GEL|YGEL
+YGEL|Melbourne (Geraldton) 134.2* (118.2)|ML-GEL|YGEL
 YGOL|Brisbane (Gold Coast) 130.4* (134.2)|BN-GOL|YGOL
-YGTH|Melbourne (Griffith) 122.75* (134.325)|ML-GTH|YGTH
-YGUN|Melbourne (Gundagai) 128.4* (129.8)|ML-GUN|YGUN
-YGVE|Melbourne (Grove) 133.8* (133.9)|ML-GVE|YGVE
+YGTH|Melbourne (Griffith) 122.75* (132.6)|ML-GTH|YGTH
+YGUN|Melbourne (Gundagai) 128.4|ML-GUN|YGUN
+YGVE|Melbourne (Grove) 133.8* (118.2)|ML-GVE|YGVE
 YHUO|Melbourne (Huon) 122.6|ML-HUO|YHUO
 YHWE|Brisbane (Howe) 124.95|BN-HWE|YHWE
-YHYD|Melbourne (Hyden) 118.2* (133.9)|ML-HYD|YHYD
+YHYD|Melbourne (Hyden) 118.2|ML-HYD|YHYD
 YIND|Brisbane Radio (Indian) 129.25|ML-IND|YIND
 YINE|Brisbane Radio (Indian East) 123.65* (129.25)|ML-INE|YINE
 YINL|Brisbane (Inverell) 134.2|BN-INL|YINL
 YINS|Brisbane Radio (Indian South) 123.2* (129.25)|ML-INS|YINS
 YISA|Brisbane (Isa) 125.7|BN-ISA|YISA
-YJAR|Melbourne (Jarrah) 120.3* (133.9)|ML-JAR|YJAR
-YKAT|Melbourne (Katomba) 133.5* (134.325)|ML-KAT|YKAT
+YJAR|Melbourne (Jarrah) 120.3* (118.2)|ML-JAR|YJAR
+YKAT|Melbourne (Katoomba) 133.5* (128.4)|ML-KAT|YKAT
 YKEN|Brisbane (Kennedy) 120.15|BN-KEN|YKEN
 YKIY|Brisbane (Kimberley) 133.4* (123.85)|BN-KIY|YKIY
 YKPL|Brisbane (Keppel) 125.9* (134.2)|BN-KPL|YKPL
-YLEA|Melbourne (Leeman) 122.4* (133.9)|ML-LEA|YLEA
+YLEA|Melbourne (Leeman) 122.4* (118.2)|ML-LEA|YLEA
 YMDE|Brisbane (Mudgee) 133.0* (130.9)|BN-MDE|YMDE
 YMEK|Melbourne (Meekatharra) 132.0* (134.0)|ML-MEK|YMEK
 YMLD|Brisbane (Maitland) 132.35* (130.9)|BN-MLD|YMLD
 YMNN|Brisbane (Manning) 130.1* (130.9)|BN-MNN|YMNN
 YMTK|Melbourne (Mount) 133.7* (134.0)|ML-MTK|YMTK
-YMUN|Melbourne (Mungo) 132.6* (134.325)|ML-MUN|YMUN
+YMUN|Melbourne (Mungo) 132.6|ML-MUN|YMUN
 YMZI|Melbourne (Menzies) 134.3* (134.0)|ML-MZI|YMZI
 YNEW|Melbourne (Newman) 125.4* (134.0)|ML-NEW|YNEW
 YNSA|Brisbane (Noosa) 124.1* (134.2)|BN-NSA|YNSA
 YOCN|Brisbane (Ocean) 128.6* (130.9)|BN-OCN|YOCN
 YOLW|Melbourne (Onslow) 134.0|ML-OLW|YOLW
-YOXL|Melbourne (Oxley) 128.5* (134.325)|ML-OXL|YOXL
+YOXL|Melbourne (Oxley) 128.5* (132.6)|ML-OXL|YOXL
 YPAR|Melbourne (Paraburdoo) 133.5* (134.0)|ML-PAR|YPAR
-YPIY|Melbourne (Pingelly) 133.9|ML-PIY|YPIY
+YPIY|Melbourne (Pingelly) 133.9* (118.2)|ML-PIY|YPIY
 YPOT|Melbourne (Port) 127.0* (134.0)|ML-POT|YPOT
 YSDY|Brisbane (Straddy) 134.3* (134.2)|BN-SDY|YSDY
 YSNO|Melbourne (Snowy) 124.0* (123.75)|ML-SNO|YSNO
@@ -18753,10 +18753,10 @@ YTRS|Brisbane (Territory South) 133.2* (123.85)|BN-ASH|YASH
 YTSN|Brisbane Radio (Tasman) 124.65|BN-TSN|YTSN
 YWAR|Melbourne (Warburton) 124.9* (128.85)|ML-WAR|YWAR
 YWEG|Brisbane (Warrego) 132.45* (125.7)|BN-WEG|YWEG
-YWOL|Melbourne (Wollongong) 125.0* (129.8)|ML-WOL|YWOL
-YWON|Melbourne (Wonthaggi) 135.3* (134.325)|ML-WON|YWON
+YWOL|Melbourne (Wollongong) 125.0|ML-WOL|YWOL
+YWON|Melbourne (Wonthaggi) 135.3* (122.6)|ML-WON|YWON
 YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
-YYWE|Melbourne (Yarrowee) 134.325|ML-YWE|YYWE
+YYWE|Melbourne (Yarrowee) 134.325* (132.6)|ML-YWE|YYWE
 ZBPE|Beijing FIR - Beijing||ZBPE
 ZBAA|Beijing ACC - Beijing FIR - Beijing||ZBAA
 ZBAA-N|Beijing ACC North High Sector - Beijing FIR - Beijing|ZBAA_N|ZBAA-N

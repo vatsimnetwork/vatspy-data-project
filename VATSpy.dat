@@ -2206,18 +2206,19 @@ ELLX|Luxembourg|49.623333|6.204444||EBBU|0
 ELNT|Noertrange|49.981111|5.917778||EBBU|0
 ELUS|Useldange|49.767778|5.9675||EBBU|0
 ENAE|Ostre Aera|61.258333|11.67||ENOS|0
-ENAH|Al Hallingdal Hospital (Helipad)|60.629953|8.56698||ENOS|0
+ENAH|Al/Hallingdal Hospital (Helipad)|60.629953|8.56698||ENOS|0
 ENAL|Alesund/Vigra|62.5625|6.119722||ENBD|0
-ENAN|Andoya/Andenes|69.2925|16.144167||ENBD|0
-ENAR|Arendal Soerlandet Hospital(Helipad)|58.467481|8.754017||ENOS|0
+ENAN|Andoeya/Andenes|69.2925|16.144167||ENBD|0
+ENAR|Arendal/Soerlandet Hospital(Helipad)|58.467481|8.754017||ENOS|0
 ENAS|Ny-Alesund/Hamnerabben|78.91667|11.93306||ENOB|0
 ENAT|Alta|69.976111|23.371667||ENBD|0
 ENAX|Aalesund Hospital (Helipad)|62.462948|6.31243||ENBD|0
 ENBA|Barentsburg/Heerodden (Heliport)|78.101111|14.193056||ENOB|0
 ENBB|Boeverbru (Airstrip)|60.636945|10.677225||ENOS|0
 ENBE|Balder A (Offshore Helideck)|59.190217|2.3875||ENSV|0
-ENBG|Groenneviksoeren (Heliport)|60.379867|5.346088||ENSV|0
-ENBI|Sandviken (Helipad)|60.40929|5.3171||ENSV|0
+ENBG|Bergen/Groenneviksoeren (Heliport)|60.379867|5.346088||ENSV|0
+ENBH|Bergen/Haakonsven (Heliport)|60.336563611111|5.2278811111111||ENSV|0
+ENBI|Bergen/Sandviken (Helipad)|60.40929|5.3171||ENSV|0
 ENBJ|Bjornoya|74.51667|19.01639||ENOB|0
 ENBL|Forde/Bringeland|61.391197|5.756881||ENSV|0
 ENBM|Voss/Bomoen|60.64972|6.5||ENSV|0
@@ -2226,10 +2227,10 @@ ENBO|Bodo|67.269167|14.365278||ENBD|0
 ENBR|Bergen/Flesland|60.293522|5.218086||ENSV|0
 ENBS|Batsfjord|70.600278|29.6925||ENBD|0
 ENBV|Berlevag|70.871667|29.034167||ENBD|0
-ENBX|Bergen Haukeland Hospital (Helipad)|60.37313|5.358264||ENSV|0
+ENBX|Bergen/Haukeland Hospital (Helipad)|60.37313|5.358264||ENSV|0
 ENCN|Kristiansand/Kjevik|58.2|8.083333||ENOS|0
 ENDB|Dombas/Brunshagen (Helipad)|62.068875|9.121209||ENBD|0
-ENDH|Drammen Vestre Viken Hospital (Helipad)|59.742167|10.191833||ENOS|0
+ENDH|Drammen/Vestre Viken Hospital (Helipad)|59.742167|10.191833||ENOS|0
 ENDI|Geilo/Dagali|60.416689|8.512805||ENOS|0
 ENDO|Dokka/Tomlevold|60.833611|9.914444||ENOS|0
 ENDP|Draupner (Offshore Helideck)|58.188159|2.471119||ENSV|0
@@ -2237,60 +2238,59 @@ ENDR|Draugen (Offshore Helideck)|64.352778|7.780833||ENBD|0
 ENDU|Bardufoss|69.055833|18.540278||ENBD|0
 ENEG|Honefoss/Eggemoen|60.216667|10.316667||ENOS|0
 ENEH|Egersund Hospital (Helideck)|58.46464|6.017733||ENSV|0
-ENEL|Elverum Innlandet Hospital (Helipad)|60.873167|11.567833||ENOS|0
-ENEN|Engeloy/Gradussan|67.967222|14.9925||ENBD|0
+ENEL|Elverum/Innlandet Hospital (Helipad)|60.873167|11.567833||ENOS|0
+ENEN|Engeloey/Gradussan|67.967222|14.9925||ENBD|0
 ENEV|Harstad-Narvik/Evenes|68.488889|16.678333||ENBD|0
-ENFA|Froya/Flatval|63.700263|8.758907||ENBD|0
+ENFA|Froeya/Flatval|63.700263|8.758907||ENBD|0
 ENFB|Statfjord B (Offshore Helideck)|61.206389|1.828889||ENSV|0
-ENFD|Forde Central Hospital (Helipad)|61.456285|5.89043||ENSV|0
+ENFD|Foerde/Central Hospital (Helipad)|61.456285|5.89043||ENSV|0
 ENFG|Fagernes/Leirin|61|9.283333||ENOS|0
 ENFJ|Fedje/Hoegden (Heliport)|60.765729|4.733032||ENSV|0
-ENFL|Floro|61.583611|5.024722||ENSV|0
+ENFL|Floroe|61.583611|5.024722||ENSV|0
 ENFY|Fyresdal|59.202781|8.08763||ENOS|0
 ENGA|Gullfaks A (Offshore Helideck)|61.175556|2.1875||ENSV|0
 ENGC|Gullfaks C (Offshore Helideck)|61.214444|2.272222||ENSV|0
-ENGJ|Gjovik Innlandet Hospital (Helipad)|60.803786|10.679215||ENOS|0
+ENGJ|Gjoevik/Innlandet Hospital (Helipad)|60.803786|10.679215||ENOS|0
 ENGK|Arendal/Gullknapp|58.518426|8.707746||ENOS|0
 ENGM|Oslo/Gardermoen|60.2|11.083333||ENOS|0
 ENGN|Grimsmoen|62.116971|10.109808||ENBD|0
-ENGS|Snasa/Groenoera|64.182957|12.170191||ENBD|0
+ENGS|Snaasaa/Groenoera|64.182957|12.170191||ENBD|0
 ENHA|Hamar/Stafsberg|60.833167|11.066667||ENOS|0
-ENHD|Haugesund/Karmoy|59.343333|5.2125||ENSV|0
+ENHD|Haugesund/Karmoey|59.343333|5.2125||ENSV|0
 ENHE|Heidrun A (Offshore Helideck)|65.325556|7.315833||ENBD|0
 ENHF|Hammerfest|70.66667|23.66639||ENBD|0
-ENHH|Harstad University Hosptial (Helipad)|68.795751|16.525442||ENBD|0
+ENHH|Harstad/University Hosptial (Helipad)|68.795751|16.525442||ENBD|0
 ENHK|Hasvik|70.486667|22.139722||ENBD|0
-ENHM|Heimdal (Offshore Helideck)|59.57359|2.227174||ENSV|0
 ENHO|Hopen|76.508056|25.014167||ENOB|0
 ENHR|Harstad/Stangnes (Helipad)|68.7796|16.59549||ENBD|0
 ENHS|Hokksund|59.766667|9.916667||ENOS|0
 ENHT|Hattfjelldal|65.594692|13.986393||ENBD|0
-ENHV|Honningsvag/Valan|71.01667|25.98306||ENBD|0
-ENHX|Haugesund Helse Fonna Hospital (Helipad)|59.408762|5.279547||ENSV|0
+ENHV|Honningsvaag/Valan|71.01667|25.98306||ENBD|0
+ENHX|Haugesund/Helse Fonna Hospital (Helipad)|59.408762|5.279547||ENSV|0
 ENIS|Isfjord|78.061302|13.622623||ENOB|0
 ENJA|Jan Mayen|70.943889|-8.651389||BIRD|0
-ENJB|Tonsberg/Jarlsberg|59.283333|10.366667||ENOS|0
+ENJB|Toensberg/Jarlsberg|59.283333|10.366667||ENOS|0
 ENJS|Johan Sverdrup (Helideck)|58.835278|2.545556||ENSV|0
 ENKA|Kautokeino|69|23.03306||ENBD|0
 ENKB|Kristiansund/Kvernberget|63.111944|7.826111||ENBD|0
-ENKH|Kristiansand Soerlandet Hospital (Helipad)|58.16413|7.98179||ENOS|0
-ENKJ|Lillestrom/Kjeller|59.966667|11.033333||ENOS|0
+ENKH|Kristiansand/Soerlandet Hospital (Helipad)|58.16413|7.98179||ENOS|0
+ENKJ|Lillestroem/Kjeller|59.966667|11.033333||ENOS|0
 ENKL|Gol/Klanten|60.791094|9.048735|GLL|ENOS|0
-ENKR|Kirkenes/Hoybuktmoen|69.725|29.887778||ENBD|0
-ENKS|Kristiansund Helse Moere Og Romsdal Hospital (Helipad)|63.107626|7.723464||ENBD|0
+ENKR|Kirkenes/Hoeybuktmoen|69.725|29.887778||ENBD|0
+ENKS|Kristiansund/Helse Moere Og Romsdal Hospital (Helipad)|63.107626|7.723464||ENBD|0
 ENLA|Ula (Offshore Helideck)|57.110461|2.844626||ENSV|0
 ENLB|Bjorli|62.235021|8.245162||ENBD|0
 ENLE|Ekofisk L (Offshore Helideck)|56.544167|3.225278||ENSV|0
 ENLG|Stryn/Langset (Helipad)|61.89909|6.61915||ENSV|0
-ENLH|Lillehammer Innlandet Hospital (Helipad)|61.11325|10.472139||ENOS|0
+ENLH|Lillehammer/Innlandet Hospital (Helipad)|61.11325|10.472139||ENOS|0
 ENLI|Farsund/Lista|58.100278|6.625||ENSV|0
 ENLK|Leknes|68.15|13.61639||ENBD|0
 ENLU|Lunde|59.29778|9.132962||ENOS|0
 ENLV|Elvenes|68.871086|17.983908||ENBD|0
-ENLX|Lorenskog/Akershus University Hospital (Helipad)|59.93214|10.986885||ENOS|0
+ENLX|Loerenskog/Akershus University Hospital (Helipad)|59.93214|10.986885||ENOS|0
 ENMH|Mehamn|71.03306|27.83306||ENBD|0
-ENMK|Mosjoen/Helgeland Hospital (Helipad)|65.83178|13.21172||ENBD|0
-ENML|Molde/Aro|62.744722|7.2625||ENBD|0
+ENMK|Mosjoeen/Helgeland Hospital (Helipad)|65.83178|13.21172||ENBD|0
+ENML|Molde/Aaro|62.744722|7.2625||ENBD|0
 ENMO|Meraker/Oeyan (Airstrip)|63.37137|11.81261||ENBD|0
 ENMP|Molde/Helse Moere og Romsdal Hospital (Helipad)|62.73711|7.1354||ENBD|0
 ENMS|Mosjoen/Kjaerstad|65.783611|13.215278||ENBD|0
@@ -2304,9 +2304,9 @@ ENNO|Notodden|59.565533|9.212289||ENOS|0
 ENOA|Oseberg A (Offshore Helideck)|60.491389|2.825556||ENSV|0
 ENOC|Oseberg C (Offshore Helideck)|60.607778|2.774444||ENSV|0
 ENOE|Troll Airfield Antartica|-71.9572222|2.46666||FAJO|0
-ENOL|Orland|63.699167|9.603889||ENBD|0
+ENOL|Oerland|63.699167|9.603889||ENBD|0
 ENOP|Oppdal/Fagerhaug|62.651667|9.855||ENBD|0
-ENOV|Orsta-Volda/Hovden|62.18306|6.06639||ENBD|0
+ENOV|Oersta-Volda/Hovden|62.18306|6.06639||ENBD|0
 ENPY|Pyramiden|78.652222|16.337365||ENOB|0
 ENQA|Troll A (Offshore Helideck)|60.645|3.724722||ENSV|0
 ENQB|Troll B (Offshore Helideck)|60.773889|3.501389||ENSV|0
@@ -2316,7 +2316,7 @@ ENQE|Oseberg East (Offshore Helideck)|60.7|2.933611||ENSV|0
 ENQF|Veslefrikk A (Offshore Helideck)|60.782192|2.896166||ENSV|0
 ENQG|Gullfaks B (Offshore Helideck)|61.2025|2.199444||ENSV|0
 ENQJ|Gjoa (Offshore Helideck)|61.331667|3.895||ENSV|0
-ENQK|Kvitebjorn (Offshore Helideck)|61.083333|2.5||ENSV|0
+ENQK|Kvitebjoern (Offshore Helideck)|61.083333|2.5||ENSV|0
 ENQL|Martin Linge B (Offshore Helideck)|60.498333|2.073333||ENSV|0
 ENQM|Martin Linge A (Offshore Helideck)|60.5075|2.014722||ENSV|0
 ENQO|Oseberg South (Offshore Helideck)|60.39243|2.795461||ENSV|0
@@ -2324,25 +2324,25 @@ ENQR|Snorre B (Offshore Helideck)|61.525|2.209722||ENSV|0
 ENQS|Statfjord C (Offshore Helideck)|61.296111|1.900833||ENSV|0
 ENQV|Visund A (Offshore Helideck)|61.369722|2.457222||ENSV|0
 ENQW|Valemon (Offshore Helideck)|61.04|2.336667||ENSV|0
-ENRA|Mo I Rana/Rossvoll|66.36667|14.3||ENBD|0
+ENRA|Mo I Rana/Roessvoll|66.36667|14.3||ENBD|0
 ENRE|Landsorkje/Rena (Airfield)|61.186389|11.374167||ENOS|0
 ENRG|Rognan (Airstrip)|67.098333|15.411111||ENBD|0
 ENRH|Oslo/University Hospital Rikshospitalet (Helipad)|59.94847|10.716151||ENOS|0
 ENRI|Ringebu/Frya|61.545298|10.064143||ENOS|0
 ENRK|Rakkestad/Aastorp|59.397534|11.346712||ENOS|0
-ENRM|Rorvik/Ryum|64.83306|11.15||ENBD|0
-ENRO|Roros|62.578889|11.345||ENBD|0
-ENRS|Rost|67.51667|12.09972||ENBD|0
-ENRT|Rosten (Heliport)|63.368131|10.374019||ENBD|0
+ENRM|Roervik/Ryum|64.83306|11.15||ENBD|0
+ENRO|Roeros|62.578889|11.345||ENBD|0
+ENRS|Roest|67.51667|12.09972||ENBD|0
+ENRT|Trondheim/Rosten (Heliport)|63.368131|10.374019||ENBD|0
 ENRV|Reinsvoll|60.672887|10.566512||ENOS|0
-ENRX|Honefoss Ringerike Hospital (Helipad)|60.149167|10.255278||ENOS|0
+ENRX|Hoenefoss Ringerike Hospital (Helipad)|60.149167|10.255278||ENOS|0
 ENRY|Rygge|59.366667|10.783333||ENOS|0
 ENSB|Svalbard/Longyear|78.246111|15.465556||ENOB|0
 ENSC|Suldal/Sand (Helipad)|59.48359|6.27233||ENSV|0
 ENSD|Sandane/Anda|61.83306|6.11639||ENSV|0
 ENSE|Snorre A (Offshore Helideck)|61.448889|2.1425||ENSV|0
 ENSF|Statfjord A (Offshore Helideck)|61.255278|1.852222||ENSV|0
-ENSG|Sogndal/Haukasen|61.156111|7.137778||ENSV|0
+ENSG|Sogndal/Haukaasen|61.156111|7.137778||ENSV|0
 ENSH|Svolvaer/Helle|68.25|14.66639||ENBD|0
 ENSI|Soendre Ski Gaard (Airstrip)|59.707089|10.881743||ENOS|0
 ENSJ|Sandnessjoen/Helgeland Hospital (Helipad)|66.01785|12.616||ENBD|0
@@ -2350,20 +2350,20 @@ ENSK|Storkmarknes/Skagen|68.58306|15.01639||ENBD|0
 ENSL|Sleipner A (Offshore Helideck)|58.366667|1.906944||ENSV|0
 ENSM|Elverum/Starmoen|60.866667|11.666667||ENOS|0
 ENSN|Skien/Geiteryggen|59.183333|9.566667||ENOS|0
-ENSO|Stord/Sorstokken|59.792778|5.339722||ENSV|0
+ENSO|Stord/Soerstokken|59.792778|5.339722||ENSV|0
 ENSP|Sarpsborg/Oestfold Hospital Kalnes (Helipad)|59.318861|11.023661||ENOS|0
-ENSR|Sorkjosen|69.786667|20.959722||ENBD|0
-ENSS|Vardo/Svartnes|70.355392|31.044889||ENBD|0
-ENST|Sandnessjoen/Stokka|65.959714|12.472217||ENBD|0
-ENSU|Sunndalsora/Vinnu|62.656944|8.681389||ENBD|0
+ENSR|Soerkjosen|69.786667|20.959722||ENBD|0
+ENSS|Varde/Svartnes|70.355392|31.044889||ENBD|0
+ENST|Sandnessjoeen/Stokka|65.959714|12.472217||ENBD|0
+ENSU|Sunndalsoera/Vinnu|62.656944|8.681389||ENBD|0
 ENSX|Stavanger/University Hospital (Helipad)|58.952101|5.73092||ENSV|0
-ENTC|Tromso/Langnes|69.681389|18.917778||ENBD|0
+ENTC|Tromsoe/Langnes|69.681389|18.917778||ENBD|0
 ENTE|Skien/Telemark Hospital (Helipad)|59.190741|9.593277||ENOS|0
-ENTH|Tonsberg/Vestfold Hospital (Helipad)|59.273233|10.416294||ENOS|0
+ENTH|Toensberg/Vestfold Hospital (Helipad)|59.273233|10.416294||ENOS|0
 ENTO|Sandefjord/Torp|59.186634|10.258624||ENOS|0
 ENTR|Trondheim/St. Olavs University Hospital (Helipad)|63.4199|10.385778||ENOS|0
 ENTS|Trysil/Saeteraasen|61.23|12.266667||ENOS|0
-ENTU|Tromso/University Hospital (Helipad)|69.68392|18.98471||ENOS|0
+ENTU|Tromsoe/University Hospital (Helipad)|69.68392|18.98471||ENOS|0
 ENTY|Tynset (Airstrip)|62.257112|10.668886||ENBD|0
 ENTX|Talarud (Helipad)|59.803883333333|10.840680555556||ENOS|0
 ENUA|Aasgard A (Offshore Helideck)|65.064144|6.725689||ENBD|0
@@ -2380,7 +2380,7 @@ ENUN|Aasta Hansteen (Offshore Helideck)|67.068889|7.097222||ENBD|0
 ENUR|Heidrun B (Offshore Helideck)|65.343463|7.367173||ENBD|0
 ENUS|Skarv (Offshore Helideck)|65.699722|7.650833||ENBD|0
 ENVA|Trondheim/Vaernes|63.4575|10.939872||ENBD|0
-ENVD|Vadso|70.06667|29.85||ENBD|0
+ENVD|Vadsoe|70.06667|29.85||ENBD|0
 ENVE|Valle/Aaraksoeyene|59.030751|7.554714||ENOS|0
 ENVR|Vaeroey (Heliport)|67.654551|12.72704||ENBD|0
 ENVS|Verdal/Slottelid (Helipad)|63.80021|11.53358||ENBD|0
@@ -2388,9 +2388,9 @@ ENWA|Alvheim (Offshore Helideck)|59.566667|1.991667||ENSV|0
 ENWE|Edvard Grieg (Offshore Helideck)|58.8425|2.247222||ENSV|0
 ENWF|Valhall Flanke Vest (Helideck)|56.251506|3.348728||ENSV|0
 ENWG|Gudrun (Offshore Helideck)|58.845|1.743333||ENSV|0
+ENWH|Hod B (Offshore Helideck)|56.180277777778|3.4636111111111||ENSV|0
 ENWI|Ivar Aasen (Offshore Helideck)|58.922222|2.197778||ENSV|0
 ENWK|Gina Krog (Offshore Helideck)|58.571389|1.695278||ENSV|0
-ENWR|Randgrid (Offshore Helideck)|58.583333|1.732778||ENSV|0
 ENWS|Eldfisk S (Offshore Helideck)|56.373611|3.262778||ENSV|0
 ENWV|Valhall PH (Offshore Helideck)|56.274722|3.393333||ENSV|0
 ENWY|Yme Inspirer (Offshore Helideck)|57.815833|4.535555||ENSV|0
@@ -2403,7 +2403,6 @@ ENXL|Eldfisk A (Offshore Helideck)|56.376111|3.264444||ENSV|0
 ENXM|Embla (Offshore Helideck)|56.3325|3.246944||ENSV|0
 ENXO|Ringhorne (Offshore Helideck)|59.266667|2.45||ENSV|0
 ENXR|Tambar (Offshore Helideck)|56.983333|2.958333||ENSV|0
-ENXT|Tor (Offshore Helideck)|56.641389|3.325556||ENSV|0
 ENXW|Grane (Offshore Helideck)|59.165|2.486667||ENSV|0
 ENXZ|Sleipner B (Offshore Helideck)|58.416667|1.716667||ENSV|0
 ENYY|Levanger/Helse Nord-Troendelag Hospital (Helipad)|63.741972|11.286746||ENBD|0

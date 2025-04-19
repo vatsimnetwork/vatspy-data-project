@@ -250,7 +250,7 @@ Slovakia|LZ|Radar
 Slovenia|LJ|Control
 Solomon Islands|AG|
 Somalia|HC|Radio
-South Africa|FA|Control
+South Africa|FA|Area
 South Korea|RK|Control
 Spain|GC|Control
 Spain|GE|Control
@@ -18090,11 +18090,21 @@ ESOS-3|Stockholm ACC (3) - Sweden|ESOS_3|ESOS-3
 ESSR|Stockholm RTC - Sweden||ESOS
 EVRR|Riga||EVRR
 EYVL|Vilnius||EYVL
-FACA|Cape Town||FACA
-FACA-E|Cape Town ACC (East) - Cape Town|FACA_E|FACA-E
-FACA-W|Cape Town ACC (West) - Cape Town|FACA_W|FACA-W
+FACA|Cape Town Area||FACA
+FACA-E|Cape Town Area (East)|FACA_E|FACA-E
+FACA-W|Cape Town Area (West)|FACA_W|FACA-W
 FAJO|Johannesburg Oceanic||FAJO
-FAJA|Johannesburg||FAJA
+FAJA|Johannesburg Area||FAJA
+FAJA-N|Johannesburg Area (North)|FAJA_N|FAJA-N
+FAJA-S|Johannesburg Area (South)|FAJA_S|FAJA-S
+FAJA-NW|Johannesburg Area (Sector 2)|FAJA_NW|FAJA-NW
+FAJA-NE|Johannesburg Area (Sector 1)|FAJA_NE|FAJA-NE
+FAJA_NE|Lowveld Information|FAJA_MIL|FAJA-NE
+FAJA-SW|Johannesburg Area (Sector 4)|FAJA_SW|FAJA-SW
+FAJA-SE|Johannesburg Area (Sector 3)|FAJA_SE|FAJA-SE
+FAJA-W|Johannesburg Area (West)|FAJA_W|FAJA-W
+FAJA-E|Johannesburg Area (East)|FAJA_E|FAJA-E
+FAJA-C|Johannesburg Area (Central)|FAJA_C|FAJA-C
 FASA|South Africa||FASA
 FBGR|Gaborone||FBGR
 FCCC|Brazzaville||FCCC

@@ -18222,8 +18222,8 @@ LECB-W|Barcelona (Combined West) - Barcelona|LECB_RW|LECB-W
 LECB-E|Barcelona (Combined East) - Barcelona|LECB_RE|LECB-E
 LECB-S|Barcelona (Combined South) - Barcelona|LECB_RS|LECB-S
 LECB-N|Barcelona (Combined North) - Barcelona|LECB_RN|LECB-N
-LECB-N|Barcelona (FL305-) - Barcelona|LECB_DDI|LECB-N
-LECB-N|Barcelona (FL305-) - Barcelona|LECB_XAL|LECB-N
+LECB-TMA|Barcelona (FL305-) - Barcelona|LECB_DDI|LECB-TMA
+LECB-TMA|Barcelona (FL305-) - Barcelona|LECB_XAL|LECB-TMA
 LECB-PPI|Barcelona (North East Sector) - Barcelona|LECB_PPI|LECB-PPI
 LECB-LLI|Barcelona (Levante Sector) - Barcelona|LECB_LLI|LECB-LLI
 LECB-CCC|Barcelona (Central Sector) - Barcelona|LECB_CCC|LECB-CCC

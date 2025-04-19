@@ -10678,7 +10678,7 @@ RPUZ|Bagabag Community Airport|16.619098|121.25235||RPHI|0
 RPVA|Daniel Z. Romualdez Principal Airport (Class 1)|11.231389|125.025||RPHI|0
 RPVB|Bacolod Principal Airport (Class 1)|10.776604|123.019102|BCD|RPHI|0
 RPVC|Calbayog Principal Airport Class 2|12.076982|124.547796|CYP|RPHI|0
-RPVD|Dumaguete–Sibulan|9.3|123.29972||RPHI|0
+RPVD|Dumaguete–Sibulan|9.3341388888889|123.302||RPHI|0
 RPVE|Godofredo P. Ramos Principal Airport (Class 2)|11.926259|121.957375|MPH|RPHI|0
 RPVF|Catarman|12.48306|124.63306||RPHI|0
 RPVG|Guiuan|11.03306|126.73306||RPHI|0
@@ -18520,6 +18520,7 @@ RKDA-W|Daegu ACC (West) - Incheon|RKDA_W|RKDA-W
 RKDA-E|Daegu ACC (East) - Incheon|RKDA_E|RKDA-E
 RKDA-C|Daegu ACC (Central) - Incheon|RKDA_C|RKDA-C
 RPHI|Manila|MNL|RPHI
+RPHI-C|Manila|MNL_C|RPHI-C
 SACF|Cordoba||SACF
 SACO|Cordoba TMA - Cordoba||SACO
 SAEF|Ezeiza||SAEF

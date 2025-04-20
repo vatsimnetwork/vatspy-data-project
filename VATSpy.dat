@@ -14367,7 +14367,7 @@ YALO|Altona|-37.834444|144.808333||YELW|0
 YALR|Aileron|-22.653056|133.347222||YASP|0
 YALX|Alexandria Stn|-19.066667|136.699722||YISA|0
 YALY|Alderley|-22.494167|139.662222||YISA|0
-YAMB|Amberley|-27.640556|152.711944|AM|YINL|0
+YAMB|Amberley|-27.640556|152.711944|AMB|YINL|0
 YAMC|Aramac|-22.959444|145.2525||YISA|0
 YAMJ|Ampilatwatja|-21.655|135.229722||YASP|0
 YAMK|Andamooka|-30.437778|137.137222||YASP|0
@@ -14443,6 +14443,7 @@ YBAA|Baroalba|-12.826667|132.82||YTRT|0
 YBAB|Baralaba|-24.186667|149.845||YISA|0
 YBAD|Baradine|-30.955|149.091667||YARL|0
 YBAF|Brisbane-Archerfield|-27.570278|153.008056|AF|YINL|0
+YBAF|Brisbane-Archerfield|-27.570278|153.008056|AF-N|YINL|0
 YBAH|Bauhinia Downs Hs|-16.299722|135.466389||YISA|0
 YBAI|Bandiana|-36.116389|147||YELW|0
 YBAK|Brooklands Air Park|-35.328889|139.435||YTBD|0
@@ -16002,6 +16003,7 @@ YMLV|Moyle River|-14.083056|129.899722||YTRT|0
 YMLX|Milurie Hs|-27.583333|121.783056||YOLW|0
 YMMA|Mamadawerre|-12.266389|133.616667||YISA|0
 YMMB|Melbourne-Moorabbin|-37.975833|145.102222|MB|YELW|0
+YMMB|Melbourne-Moorabbin|-37.975833|145.102222|MB-W|YELW|0
 YMMD|Dixalea-Mcmaster Field|-23.953611|150.271944||YINL|0
 YMMH|Mount Mulgrave Hs|-16.383333|143.983333||YKEN|0
 YMMI|Murrin Murrin|-28.705278|121.890556||YOLW|0
@@ -16404,6 +16406,7 @@ YPIX|Pia|-27.191667|116.291389||YOLW|0
 YPJI|Perenjori|-29.433056|116.283056||YPIY|0
 YPJN|Pantijan|-15.9525|125.053611||YTRT|0
 YPJT|Perth-Jandakot|-32.0975|115.881111|JT|YPIY|0
+YPJT|Perth-Jandakot|-32.0975|115.881111|JT-C|YPIY|0
 YPKA|Karratha|-20.712222|116.773333|KA|YOLW|0
 YPKE|Peake|-28.25|135.899722||YASP|0
 YPKG|Kalgoorlie-Boulder|-30.789444|121.461667||YOLW|0
@@ -16450,6 +16453,7 @@ YPOT|Portsmith|-16.95|145.758056||YKEN|0
 YPPA|Palparara|-24.816667|141.466389||YISA|0
 YPPD|Port Hedland|-20.377778|118.626389||YOLW|0
 YPPF|Adelaide-Parafield|-34.793333|138.633056|PF|YTBD|0
+YPPF|Adelaide-Parafield|-34.793333|138.633056|PF-W|YTBD|0
 YPPH|Perth|-31.940278|115.966944|PH|YPIY|0
 YPPH|Perth|-31.940278|115.966944|PH-E|YPIY|0
 YPPK|Pleasant Park|-36.716667|141.449722||YYWE|0
@@ -16640,6 +16644,7 @@ YSAY|Sand Cay|-15.908333|146.798333||YKEN|0
 YSBE|Sunbury East|-37.53|144.748333||YELW|0
 YSBH|Sadies Beach Helipad|-10.576944|142.231944||YISA|0
 YSBK|Sydney-Bankstown|-33.924444|150.988333|BK|YBIK|0
+YSBK|Sydney-Bankstown|-33.924444|150.988333|BK-C|YBIK|0
 YSBO|Stanbroke|-21.566667|139.716389||YISA|0
 YSBY|Seabuoy|-20.43|116.714167||YOLW|0
 YSCA|Scotia Sanctuary|-33.205|141.166944||YASP|0
@@ -16755,7 +16760,7 @@ YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY|YBIK|0
 YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-D|YBIK|0
 YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-DE|YBIK|0
 YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-E|YBIK|0
-YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-S|YBIK|0
+YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-N|YBIK|0
 YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-C|YBIK|0
 YSTA|St Arnaud|-36.636667|143.185833||YYWE|0
 YSTB|Strathburn|-14.483333|142.833056||YISA|0
@@ -16775,6 +16780,7 @@ YSTR|Strathearn|-31.75|140.333333||YASP|0
 YSTS|St Albans|-37.75|144.8||YELW|0
 YSTT|Santa Teresa Mission|-24.1175|134.389722||YASP|0
 YSTW|Tamworth|-31.083889|150.846667|TW|YARL|0
+YSTW|Tamworth|-31.083889|150.846667|TW-S|YARL|0
 YSUD|Sudbury Reef|-17.049722|146.233333||YKEN|0
 YSUJ|Supplejack Downs|-19.266389|129.949722||YTRT|0
 YSUM|Summerhill Road Helipad|-35.267778|138.92||YTBD|0
@@ -18726,52 +18732,52 @@ YASP|Melbourne (Alice Springs) 128.85|ML-ASP|YASP
 YASW|Melbourne (Alice Springs West) 131.8* (128.85)|ML-ASW|YASW
 YAUG|Melbourne (Augusta) 127.05* (123.05)|ML-AUG|YAUG
 YBAR|Brisbane (Barra) 123.8* (120.15)|BN-BAR|YBAR
-YBIK|Melbourne (Bindook) 129.8|ML-BIK|YBIK
+YBIK|Melbourne (Bindook) 129.8* (128.4)|ML-BIK|YBIK
 YBKE|Melbourne (Bourke) 128.2* (128.85)|ML-BKE|YBKE
-YBLA|Melbourne (Benalla) 132.2* (123.75)|ML-BLA|YBLA
+YBLA|Melbourne (Benalla) 132.2|ML-BLA|YBLA
 YBUR|Brisbane (Burnett) 123.0* (134.2)|BN-BUR|YBUR
 YCNK|Brisbane (Cessnock) 123.4* (130.9)|BN-CNK|YCNK
 YCOL|Brisbane Radio (Coral) 133.15* (124.65)|BN-COL|YCOL
-YCRS|Melbourne (Cross) 135.8* (133.9)|ML-CRS|YCRS
+YCRS|Melbourne (Cross) 135.8* (118.2)|ML-CRS|YCRS
 YCVN|Brisbane (Carnarvon) 133.8* (125.7)|BN-CVN|YCVN
 YDOS|Brisbane (Downs) 135.6* (134.2)|BN-DOS|YDOS
-YELW|Melbourne (Eildon Weir) 123.75|ML-ELW|YELW
+YELW|Melbourne (Eildon Weir) 123.75* (132.2)|ML-ELW|YELW
 YESP|Melbourne (Esperance) 123.95* (128.85)|ML-ESP|YESP
 YFLD|Brisbane Radio (Flinders) 132.85* (124.65)|BN-FLD|YFLD
 YFOR|Melbourne (Forrest) 132.7* (128.85)|ML-FOR|YFOR
-YGEL|Melbourne (Geraldton) 134.2* (133.9)|ML-GEL|YGEL
+YGEL|Melbourne (Geraldton) 134.2* (118.2)|ML-GEL|YGEL
 YGOL|Brisbane (Gold Coast) 130.4* (134.2)|BN-GOL|YGOL
-YGTH|Melbourne (Griffith) 122.75* (134.325)|ML-GTH|YGTH
-YGUN|Melbourne (Gundagai) 128.4* (129.8)|ML-GUN|YGUN
-YGVE|Melbourne (Grove) 133.8* (133.9)|ML-GVE|YGVE
+YGTH|Melbourne (Griffith) 122.75* (132.6)|ML-GTH|YGTH
+YGUN|Melbourne (Gundagai) 128.4|ML-GUN|YGUN
+YGVE|Melbourne (Grove) 133.8* (118.2)|ML-GVE|YGVE
 YHUO|Melbourne (Huon) 122.6|ML-HUO|YHUO
 YHWE|Brisbane (Howe) 124.95|BN-HWE|YHWE
-YHYD|Melbourne (Hyden) 118.2* (133.9)|ML-HYD|YHYD
+YHYD|Melbourne (Hyden) 118.2|ML-HYD|YHYD
 YIND|Brisbane Radio (Indian) 129.25|ML-IND|YIND
 YINE|Brisbane Radio (Indian East) 123.65* (129.25)|ML-INE|YINE
 YINL|Brisbane (Inverell) 134.2|BN-INL|YINL
 YINS|Brisbane Radio (Indian South) 123.2* (129.25)|ML-INS|YINS
 YISA|Brisbane (Isa) 125.7|BN-ISA|YISA
-YJAR|Melbourne (Jarrah) 120.3* (133.9)|ML-JAR|YJAR
-YKAT|Melbourne (Katomba) 133.5* (134.325)|ML-KAT|YKAT
+YJAR|Melbourne (Jarrah) 120.3* (118.2)|ML-JAR|YJAR
+YKAT|Melbourne (Katoomba) 133.5* (128.4)|ML-KAT|YKAT
 YKEN|Brisbane (Kennedy) 120.15|BN-KEN|YKEN
-YKIY|Brisbane (Kimberley) 133.4* (133.2)|BN-KIY|YKIY
+YKIY|Brisbane (Kimberley) 133.4* (123.85)|BN-KIY|YKIY
 YKPL|Brisbane (Keppel) 125.9* (134.2)|BN-KPL|YKPL
-YLEA|Melbourne (Leeman) 122.4* (133.9)|ML-LEA|YLEA
+YLEA|Melbourne (Leeman) 122.4* (118.2)|ML-LEA|YLEA
 YMDE|Brisbane (Mudgee) 133.0* (130.9)|BN-MDE|YMDE
 YMEK|Melbourne (Meekatharra) 132.0* (134.0)|ML-MEK|YMEK
 YMLD|Brisbane (Maitland) 132.35* (130.9)|BN-MLD|YMLD
 YMNN|Brisbane (Manning) 130.1* (130.9)|BN-MNN|YMNN
 YMTK|Melbourne (Mount) 133.7* (134.0)|ML-MTK|YMTK
-YMUN|Melbourne (Mungo) 132.6* (134.325)|ML-MUN|YMUN
+YMUN|Melbourne (Mungo) 132.6|ML-MUN|YMUN
 YMZI|Melbourne (Menzies) 134.3* (134.0)|ML-MZI|YMZI
 YNEW|Melbourne (Newman) 125.4* (134.0)|ML-NEW|YNEW
 YNSA|Brisbane (Noosa) 124.1* (134.2)|BN-NSA|YNSA
 YOCN|Brisbane (Ocean) 128.6* (130.9)|BN-OCN|YOCN
 YOLW|Melbourne (Onslow) 134.0|ML-OLW|YOLW
-YOXL|Melbourne (Oxley) 128.5* (134.325)|ML-OXL|YOXL
+YOXL|Melbourne (Oxley) 128.5* (132.6)|ML-OXL|YOXL
 YPAR|Melbourne (Paraburdoo) 133.5* (134.0)|ML-PAR|YPAR
-YPIY|Melbourne (Pingelly) 133.9|ML-PIY|YPIY
+YPIY|Melbourne (Pingelly) 133.9* (118.2)|ML-PIY|YPIY
 YPOT|Melbourne (Port) 127.0* (134.0)|ML-POT|YPOT
 YSDY|Brisbane (Straddy) 134.3* (134.2)|BN-SDY|YSDY
 YSNO|Melbourne (Snowy) 124.0* (123.75)|ML-SNO|YSNO
@@ -18779,14 +18785,15 @@ YSTR|Brisbane (Sturt) 134.4* (133.2)|BN-STR|YSTR
 YSWY|Brisbane (Swampy) 133.2* (120.15)|BN-SWY|YSWY
 YTBD|Melbourne (Tailem Bend) 123.05|ML-TBD|YTBD
 YTBP|Brisbane (Tabletop) 120.55* (120.15)|BN-TBP|YTBP
-YTRT|Brisbane (Territory) 133.2|BN-TRT|YTRT
+YTRT|Brisbane (Territory) 123.85|BN-TRT|YTRT
+YTRS|Brisbane (Territory South) 133.2* (123.85)|BN-ASH|YASH
 YTSN|Brisbane Radio (Tasman) 124.65|BN-TSN|YTSN
 YWAR|Melbourne (Warburton) 124.9* (128.85)|ML-WAR|YWAR
 YWEG|Brisbane (Warrego) 132.45* (125.7)|BN-WEG|YWEG
-YWOL|Melbourne (Wollongong) 125.0* (129.8)|ML-WOL|YWOL
-YWON|Melbourne (Wonthaggi) 135.3* (134.325)|ML-WON|YWON
+YWOL|Melbourne (Wollongong) 125.0|ML-WOL|YWOL
+YWON|Melbourne (Wonthaggi) 135.3* (122.6)|ML-WON|YWON
 YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
-YYWE|Melbourne (Yarrowee) 134.325|ML-YWE|YYWE
+YYWE|Melbourne (Yarrowee) 134.325* (132.6)|ML-YWE|YYWE
 ZBPE|Beijing FIR - Beijing||ZBPE
 ZBAA|Beijing ACC - Beijing FIR - Beijing||ZBAA
 ZBAA-N|Beijing ACC North High Sector - Beijing FIR - Beijing|ZBAA_N|ZBAA-N

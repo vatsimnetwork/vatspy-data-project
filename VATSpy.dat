@@ -147,7 +147,7 @@ Indonesia|WA|Radar
 Indonesia|WI|Radar
 Iran|TE|Radar
 Iran|OI|Radar
-Iraq|OR|Radar
+Iraq|OR|Control
 Ireland|EI|Control
 Israel|LL|Control
 Italy|LI|Radar
@@ -18583,8 +18583,8 @@ UHMM-S|Magadan ACC Sector South - Magadan|UHMM_S|UHMM-S
 UHMM-N|Magadan ACC Sector North - Magadan|UHMM_N|UHMM-N
 UHMM-N1|Magadan ACC Sector North-1 - Magadan|UHMM_N1|UHMM-N1
 UHMM-N2|Magadan ACC Sector North-2 - Magadan|UHMM_N2|UHMM-N2
-UHMM-K1|Magadan ACC Sector Kamchatka - Magadan|UHMM_K1|UHMM-K1
-UHMM-K2|Magadan ACC Sector Kamchatka-1 - Magadan|UHMM_K2|UHMM-K2
+UHMM-K1|Magadan ACC Sector Kamchatka-1 - Magadan|UHMM_K1|UHMM-K1
+UHMM-K2|Magadan ACC Sector Kamchatka-2 - Magadan|UHMM_K2|UHMM-K2
 UHMM-O|Magadan ACC Sector Oceanic - Magadan|UHMM_O|UHMM-O
 UIII|Irkutsk||UIII
 UIII-N|Irkutsk ACC Sector North - Irkutsk|UIII_N|UIII-N

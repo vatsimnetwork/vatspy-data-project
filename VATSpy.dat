@@ -18676,12 +18676,21 @@ VANP-UAC|Nagpur (Upper) ACC - Mumbai|VANP_UAC|VANP-UAC
 VANP|Nagpur ACC - Mumbai||VANP
 VCCF|Colombo||VCCF
 VDPF|Phnom Penh||VDPF
-VEBN|Varanasi||VEBN
+VEBN|Varanasi ACC - Kolkata||VEBN
+VECC-E|Kolkata (East) ACC - Kolkata|VECC_E|VECC-E
+VECC-N|Kolkata (North) ACC - Kolkata|VECC_N|VECC-N
+VECC-W|Kolkata (West) ACC - Kolkata|VECC_W|VECC-W
 VECC|Kolkata ACC - Kolkata||VECC
-VECC-B|Kolkata (Bhubneshwar) ACC - Kolkata||VECC-B
-VECC-R|Kolkata (Raipur) ACC - Kolkata||VECC-R
+VECF-OC|Oceanic Sector - Kolkata|VECF_OC|VECF-OC
+VECF-UAC|Upper Area Control - Kolkata|VECF_UAC|VECF-UAC
+VECF-UBN|Upper Varanasi Sector - Kolkata|VECF_UBN|VECF-UBN
+VECF-UBS|Upper Bhubaneswar Sector - Kolkata|VECF_UBS|VECF-UBS
+VECF-UGT|Upper Guwahati Sector - Kolkata|VECF_UGT|VECF-UGT
+VECF-UKE|Upper Kolkata (East) Sector - Kolkata|VECF_UKE|VECF-UKE
+VECF-UKN|Upper Kolkata (North) Sector - Kolkata|VECF_UKN|VECF-UKN
+VECF-UKW|Upper Kolkata (West) Sector - Kolkata|VECF_UKW|VECF-UKW
+VECF-URP|Upper Raipur Sector - Kolkata|VECF_URP|VECF-URP
 VECF|Kolkata||VECF
-VECX|Kolkata Oceanic||VECX
 VEGF|Guwahati||VEGF
 VGFR|Dhaka||VGFR
 VHHK|Hong Kong|HKG|VHHK

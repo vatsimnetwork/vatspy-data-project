@@ -18666,11 +18666,14 @@ UWWW-SW|Samara ACC sector Saratov - Samara|UWWW_SW|UWWW-SW
 UWWW-SE|Samara ACC sector Orenburg - Samara|UWWW_SE|UWWW-SE
 UWWW-W|Samara ACC sector West - Samara|UWWW_W|UWWW-W
 UWWW-E|Samara ACC samara East - Samara|UWWW_E|UWWW-E
-VAAH|Ahmedabad||VAAH
+VAAH|Ahmedabad ACC - Mumbai||VAAH
+VABB-U5|Mumbai (U5) ACC - Mumbai|VABB_U5|VABB-U5
 VABB|Mumbai ACC - Mumbai||VABB
+VABF-OC|Oceanic Sector - Mumbai|VABF_OC|VABF-OC 
+VABF-UAC|Upper Area Control - Mumbai|VABF_UAC|VABF-UAC 
 VABF|Mumbai||VABF
-VABX|Mumbai Oceanic||VABX
-VANP|Nagpur||VANP
+VANP-UAC|Nagpur (Upper) ACC - Mumbai|VANP_UAC|VANP-UAC
+VANP|Nagpur ACC - Mumbai||VANP
 VCCF|Colombo||VCCF
 VDPF|Phnom Penh||VDPF
 VEBN|Varanasi||VEBN

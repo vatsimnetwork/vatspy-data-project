@@ -18200,6 +18200,9 @@ KZSE|Seattle|SEA|KZSE
 KZTL|Atlanta|ATL|KZTL
 LAAA|Tirana||LAAA
 LBSR|Sofia||LBSR
+LBSR-E|Sofia (East Sector) - Sofia|LBSR_E|LBSR-E
+LBSR-V|Sofia (Varna Sector) - Sofia|LBSR_V|LBSR-V
+LBSR-B|Sofia (Black Sea Sector) - Sofia|LBSR_B|LBSR-B
 LCCC|Nicosia||LCCC
 LCCC-E|Nicosia-East|LCCC_E|LCCC-E
 LCCC-S2|Nicosia-South2|LCCC_S2|LCCC-S2

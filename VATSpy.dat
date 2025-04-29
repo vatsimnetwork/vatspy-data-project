@@ -18710,14 +18710,23 @@ VILK|Lucknow ACC - Delhi||VILK
 VIUX|Udhampur ACC - Delhi||VIUX
 VLVT|Vientiane||VLVT
 VNSM|Kathmandu||VNSM
-VOBL|Bengaluru||VOBL
-VOCI|Cochin||VOCI
-VOHS|Shamshabad (Hyderabad)||VOHS
+VOBG|Bengaluru (HAL) ACC - Chennai||VOBG
+VOBL|Bengaluru ACC - Chennai||VOBL
+VOCI|Cochin ACC - Chennai||VOCI
+VOHS|Hyderabad ACC - Chennai||VOHS
+VOMF-OC|Oceanic Sector - Chennai|VOMF_OC|VOMF-OC
+VOMF-UAC|Upper Area Control - Chennai|VOMF_UAC|VOMF-UAC
+VOMF-UBL|Upper Bengaluru Sector - Chennai|VOMF_UBL|VOMF-UBL
+VOMF-UBW|Upper Bengaluru (West) Sector - Chennai|VOMF_UBW|VOMF-UBW
+VOMF-UHS|Upper Hyderabad Sector - Chennai|VOMF_UHS|VOMF-UHS
+VOMF-UML|Upper Mangaluru Sector - Chennai|VOMF_UML|VOMF-UML
+VOMF-UMM|Upper Chennai Sector - Chennai|VOMF_UMM|VOMF-UMM
+VOMF-UTV|Upper Thiruvananthapuram Sector - Chennai|VOMF_UTV|VOMF-UTV
 VOMF|Chennai||VOMF
-VOML|Mangalore||VOML
+VOML|Mangaluru ACC - Chennai||VOML
+VOMM-S|Chennai (South) ACC - Chennai|VOMM_S|VOMM-S
 VOMM|Chennai ACC - Chennai||VOMM
-VOMX|Chennai Oceanic||VOMX
-VOTV|Trivandrum||VOTV
+VOTV|Thiruvananthapuram ACC - Chennai||VOTV
 VRMF|Male||VRMF
 VTBB|Bangkok||VTBB
 VVCL|Mekong|VCL|VVCL

@@ -18506,6 +18506,12 @@ RKDA-E|Daegu ACC (East) - Incheon|RKDA_E|RKDA-E
 RKDA-C|Daegu ACC (Central) - Incheon|RKDA_C|RKDA-C
 RPHI|Manila|MNL|RPHI
 RPHI-C|Manila|MNL_C|RPHI-C
+RPHI-N|Manila|MNL_N|RPHI-N
+RPHI-S|Manila|MNL_S|RPHI-S
+MNL-CN|Manila|MNL_CN|MNL-CN
+MNL-CE|Manila|MNL_CE|MNL-CE
+MNL-CS|Manila|MNL_CS|MNL-CS
+MNL-CW|Manila|MNL_CW|MNL-CW
 SACF|Cordoba||SACF
 SACO|Cordoba TMA - Cordoba||SACO
 SAEF|Ezeiza||SAEF

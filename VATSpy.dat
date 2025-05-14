@@ -195,7 +195,7 @@ New Caledonia|NW|
 New Zealand|NZ|Control
 Nicaragua|MN|
 Niger|DR|
-Nigeria|DN|
+Nigeria|DN|Control
 North Korea|ZK|
 North Macedonia|LW|Radar
 Norway|EN|Control
@@ -17945,6 +17945,8 @@ DGAC|Accra||DGAC
 DGAO|Accra Oceanic||DGAO
 DIII|Abidjan||DIII
 DNKK|Kano||DNKK
+DNKK-W|Kano (West)|DNKK_W|DNKK-W
+DNMM|Lagos||DNMM
 DRRR|Niamey||DRRR
 DTTC|Tunis||DTTC
 EBBU|Brussels||EBBU

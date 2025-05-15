@@ -18123,7 +18123,17 @@ FACA|Cape Town||FACA
 FACA-E|Cape Town ACC (East) - Cape Town|FACA_E|FACA-E
 FACA-W|Cape Town ACC (West) - Cape Town|FACA_W|FACA-W
 FAJO|Johannesburg Oceanic||FAJO
-FAJA|Johannesburg||FAJA
+FAJA|Johannesburg ACC (Bandbox) - Johannesburg||FAJA
+FAJA-N|Johannesburg ACC (North) - Johannesburg|FAJA_N|FAJA-N
+FAJA-S|Johannesburg ACC (South) - Johannesburg|FAJA_S|FAJA-S
+FAJA-NW|Johannesburg ACC (Sector 2) - Johannesburg|FAJA_NW|FAJA-NW
+FAJA-NE|Johannesburg ACC (Sector 1) - Johannesburg|FAJA_NE|FAJA-NE
+FAJA_NE|Johannesburg ACC (Sector 1) - Johannesburg|FAJA_MIL|FAJA-NE
+FAJA-SW|Johannesburg ACC (Sector 4) - Johannesburg|FAJA_SW|FAJA-SW
+FAJA-SE|Johannesburg ACC (Sector 3) - Johannesburg|FAJA_SE|FAJA-SE
+FAJA-W|Johannesburg ACC (West - Johannesburg|FAJA_W|FAJA-W
+FAJA-E|Johannesburg ACC (East) - Johannesburg|FAJA_E|FAJA-E
+FAJA-C|Johannesburg ACC (Central) - Johannesburg|FAJA_C|FAJA-C
 FASA|South Africa||FASA
 FBGR|Gaborone||FBGR
 FCCC|Brazzaville||FCCC
@@ -18298,8 +18308,8 @@ LOVV-E|Wien|LOVV_E|LOVV-E
 LOVV-W|Wien|LOVV_W|LOVV-W
 LOVV|Wien||LOVV
 LPPC|Lisboa||LPPC
-LPPC-D|Lisboa - DEMOS+VERAM Sector|LPPC_D|LPPC-D
-LPPC-W|Lisboa - WEST COMBINED|LPPC_W|LPPC-W
+LPPC-W|Lisboa - WEST Sector|LPPC_W|LPPC-W
+LPPC-O|Lisboa - WEST EXPANDED|LPPC_O|LPPC-O
 LPPC-E|Lisboa - EAST COMBINED|LPPC_E|LPPC-E
 LPPC-I|Lisboa - MADEIRA Sector|LPPC_I|LPPC-I
 LPPC-N|Lisboa - NORTH Sector|LPPC_N|LPPC-N
@@ -18512,6 +18522,12 @@ RKDA-E|Daegu ACC (East) - Incheon|RKDA_E|RKDA-E
 RKDA-C|Daegu ACC (Central) - Incheon|RKDA_C|RKDA-C
 RPHI|Manila|MNL|RPHI
 RPHI-C|Manila|MNL_C|RPHI-C
+RPHI-N|Manila|MNL_N|RPHI-N
+RPHI-S|Manila|MNL_S|RPHI-S
+MNL-CN|Manila|MNL_CN|MNL-CN
+MNL-CE|Manila|MNL_CE|MNL-CE
+MNL-CS|Manila|MNL_CS|MNL-CS
+MNL-CW|Manila|MNL_CW|MNL-CW
 SACF|Cordoba||SACF
 SACO|Cordoba TMA - Cordoba||SACO
 SAEF|Ezeiza||SAEF

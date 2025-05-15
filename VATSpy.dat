@@ -18235,7 +18235,7 @@ LECP|Palma (FL245-)|LEPA|LECP
 LECS|Sevilla||LECS
 LECS-NCS|Sevilla (East) - Sevilla|LECS_NCS|LECS-NCS
 LECS-SM2|Sevilla (West) - Sevilla|LECS_SM2|LECS-SM2
-LFBB|Bordeaux||LFBB
+LFBB|Bordeaux|LFBB|LFBB
 LFEE|Reims (Covers North-East LFFF FL295+)||LFEE
 LFEE-N|Reims North (Covers North-East LFFF FL295+)|LFEE_N|LFEE-N
 LFEE-S|Reims South|LFEE_S|LFEE-S
@@ -18250,11 +18250,11 @@ PAR-AOML|Paris Control|PAR_AOML|PAR-AOML
 PAR-DOGS|Paris Control|PAR_DOGS|PAR-DOGS
 PAR-LMH|Paris Control|PAR_LMHJ|PAR-LMH
 PAR-LMHJ|Paris Control|PAR_LMHJ|PAR-LMHJ
-LFMM|Marseille||LFMM
+LFMM|Marseille|LFMM|LFMM
 LFMM-N|Marseille North|LFMM_N|LFMM-N
 LFMM-E|Marseille East|LFMM_E|LFMM-E
 LFMM-NE|Marseille North East|LFMM_NE|LFMM-NE
-LFRR|Brest||LFRR
+LFRR|Brest|LFRR|LFRR
 LFRR-N|Brest North|LFRR_N|LFRR-N
 LFRR-E|Brest East (Covers West LFFF FL295+)|LFRR_E|LFRR-E
 LFUM|Marseille Upper||LFMM

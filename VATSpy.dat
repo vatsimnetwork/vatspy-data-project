@@ -18665,7 +18665,12 @@ UNNT-E|Novosibirsk ACC Sector East - Novosibirsk|UNNT_E|UNNT-E
 UNNT-C|Novosibirsk ACC Sector Center - Novosibirsk|UNNT_C|UNNT-C
 URRV|Rostov||URRV
 USSV|Yekaterinburg ACC - Ural||USSV
-USTV|Tyumen||USTV
+USTV|Tyumen ACC - Tyumen||USTV
+USTV-N|Tyumen ACC Sector North - Tyumen|USTV_N|USTV-N
+USTV-W|Tyumen ACC Sector West - Tyumen|USTV_W|USTV-W
+USTV-S|Tyumen ACC Sector South - Tyumen|USTV_S|USTV-S
+USTV-E|Tyumen ACC Sector East - Tyumen|USTV_E|USTV-E
+USTV-C|Tyumen ACC Sector Center - Tyumen|USTV_C|USTV-C
 UTAA|Ashgabat||UTAA
 UTAK|Turkmenbashi||UTAK
 UTAT|Dashoguz||UTAT

@@ -195,7 +195,7 @@ New Caledonia|NW|
 New Zealand|NZ|Control
 Nicaragua|MN|
 Niger|DR|
-Nigeria|DN|
+Nigeria|DN|Control
 North Korea|ZK|
 North Macedonia|LW|Radar
 Norway|EN|Control
@@ -3434,7 +3434,7 @@ FLSG|Sinazongwe|-17.211111|27.483333||FLFI|0
 FLSH|Shiwangandu|-11.2|31.733333||FLFI|0
 FLSI|Sun International|-17.921389|25.866111||FLFI|0
 FLSJ|Sakeji|-11.216667|24.316667||FLFI|0
-FLSK|Simon Mwansa Kapwepwe International|12.961667, 28.516667||FLFI|0
+FLSK|Simon Mwansa Kapwepwe International|-12.961667|28.516667||FLFI|0
 FLSN|Senanga|-16.1|23.26639||FLFI|0
 FLSO|Southdowns/Kitwe|-12.9|28.15|KIW|FLFI|0
 FLSP|Sheply|-13.805|29.0875||FLFI|0
@@ -8323,36 +8323,36 @@ LQTZ|Tuzla|44.458667|18.724667||LQSB|0
 LQVI|Kenan Jusufbasic - Visoko|44.025|18.120833||LQSB|0
 LRAR|Arad|46.17655|21.262022||LRBB|0
 LRBA|Gradistea|44.225|26.121389||LRBB|0
-LRBC|Bacau|46.521944|26.910278||LRBB|0
-LRBM|Baia|47.65825|23.466219||LRBB|0
-LRBN|Bistrita/Bistrita|47.158333|24.551667||LRBB|0
+LRBC|Bacau/George Enescu|46.521944|26.910278||LRBB|0
+LRBM|Baia Mare|47.65825|23.466219||LRBB|0
+LRBN|Bistrita|47.158333|24.551667||LRBB|0
 LRBO|Bobocu (MIL)|45.216389|26.978611||LRBB|0
 LRBS|Bucuresti-Baneasa|44.503483|26.103594||LRBB|0
 LRBV|Brasov-Ghimbav|45.706111|25.523333||LRBB|0
 LRCB|Arad/Charlie-Bravo Siria|46.271667|21.606111||LRBB|0
 LRCD|Magura|45.737183|24.165208||LRBB|0
 LRCJ|Dezmir|46.779166|23.711944||LRBB|0
-LRCK|Kogalniceanu|44.362114|28.488453||LRBB|0
-LRCL|Cluj-Napoca|46.785092|23.686119||LRBB|0
+LRCK|Constanta/Kogalniceanu|44.362114|28.488453||LRBB|0
+LRCL|Cluj-Napoca/Avram Iancu|46.785092|23.686119||LRBB|0
 LRCN|Clinceni|44.358333|25.930556||LRBB|0
 LRCS|Caransebes|45.420278|22.252222||LRBB|0
 LRCT|Campia Turzii|46.5025|23.886111||LRBB|0
 LRCV|Craiova|44.318144|23.888533||LRBB|0
-LRDV|Deva/Saulesti - Constantin Manolache|45.866389|22.966111||LRBB|0
+LRDV|Deva/Saulesti|45.866389|22.966111||LRBB|0
 LRFT|Fetesti (MIL)|44.392222|27.726667||LRBB|0
 LRHR|Remetea|46.819166|25.411666||LRBB|0
 LRIA|Iasi|47.178758|27.620044||LRBB|0
 LROD|Oradea|47.025322|21.902408||LRBB|0
 LROP|Bucuresti-Otopeni|44.570992|26.085119||LRBB|0
 LRPT|Pitesti/Geamana|44.8175|24.897778||LRBB|0
-LRPW|Ploiesti/Gheorghe Valentin Bibescu - Ploiesti|44.923611|25.963333||LRBB|0
+LRPW|Ploiesti/GV Bibescu|44.923611|25.963333||LRBB|0
 LRSB|Sibiu|45.7858|24.091183||LRBB|0
-LRSM|Satu|47.703414|22.885606||LRBB|0
-LRSP|Brasov/Sanpetru|45.721111|25.633611||LRBB|0
+LRSM|Satu Mare|47.703414|22.885606||LRBB|0
+LRSP|Brasov/Sinpetru|45.721111|25.633611||LRBB|0
 LRSV|Suceava|47.687478|26.354025||LRBB|0
 LRTC|Tulcea|45.062875|28.714447||LRBB|0
-LRTM|Targu-Mures Vidrasau|46.467714|24.412525||LRBB|0
-LRTR|Timisoara|45.809833|21.337872||LRBB|0
+LRTM|Targu-Mures Transilvania|46.467714|24.412525||LRBB|0
+LRTR|Timisoara/Traian Vuia|45.809833|21.337872||LRBB|0
 LRTZ|Tuzla|43.984167|28.609722||LRBB|0
 LSEA|Gstaad-Inn Grund|46.429068|7.270833||LSAS|0
 LSEC|Collombey-Muraz|46.268566|6.959721||LSAS|0
@@ -17945,6 +17945,8 @@ DGAC|Accra||DGAC
 DGAO|Accra Oceanic||DGAO
 DIII|Abidjan||DIII
 DNKK|Kano||DNKK
+DNKK-W|Kano (West)|DNKK_W|DNKK-W
+DNMM|Lagos||DNMM
 DRRR|Niamey||DRRR
 DTTC|Tunis||DTTC
 EBBU|Brussels||EBBU
@@ -18121,7 +18123,17 @@ FACA|Cape Town||FACA
 FACA-E|Cape Town ACC (East) - Cape Town|FACA_E|FACA-E
 FACA-W|Cape Town ACC (West) - Cape Town|FACA_W|FACA-W
 FAJO|Johannesburg Oceanic||FAJO
-FAJA|Johannesburg||FAJA
+FAJA|Johannesburg ACC (Bandbox) - Johannesburg||FAJA
+FAJA-N|Johannesburg ACC (North) - Johannesburg|FAJA_N|FAJA-N
+FAJA-S|Johannesburg ACC (South) - Johannesburg|FAJA_S|FAJA-S
+FAJA-NW|Johannesburg ACC (Sector 2) - Johannesburg|FAJA_NW|FAJA-NW
+FAJA-NE|Johannesburg ACC (Sector 1) - Johannesburg|FAJA_NE|FAJA-NE
+FAJA_NE|Johannesburg ACC (Sector 1) - Johannesburg|FAJA_MIL|FAJA-NE
+FAJA-SW|Johannesburg ACC (Sector 4) - Johannesburg|FAJA_SW|FAJA-SW
+FAJA-SE|Johannesburg ACC (Sector 3) - Johannesburg|FAJA_SE|FAJA-SE
+FAJA-W|Johannesburg ACC (West - Johannesburg|FAJA_W|FAJA-W
+FAJA-E|Johannesburg ACC (East) - Johannesburg|FAJA_E|FAJA-E
+FAJA-C|Johannesburg ACC (Central) - Johannesburg|FAJA_C|FAJA-C
 FASA|South Africa||FASA
 FBGR|Gaborone||FBGR
 FCCC|Brazzaville||FCCC
@@ -18138,8 +18150,11 @@ FYWH|Windhoek||FYWH
 FZZA|Kinshasa||FZZA
 GCCC|Canarias||GCCC
 GCCC-R6|Canarias|GCCC_R6|GCCC-R6
-GCCC-RES|Canarias (South East Sector) - Canarias|GCCC_RES|GCCC-RES
+GCCC-RES|Canarias (South East Sector Combined) - Canarias|GCCC_RES|GCCC-RES
 GCCC-RW3|Canarias (North West Sector) - Canarias|GCCC_RW3|GCCC-RW3
+GCCC-RC2|Canarias (Central Sector) - Canarias|GCCC_RC2|GCCC-RC2
+GCCC-RCW|Canarias (Central West Sector) - Canarias|GCCC_RCW|GCCC-RCW
+GCCC-RNE|Canarias (North East Sector) - Canarias|GCCC_RNE|GCCC-RNE
 GCCO|Canarias Oceanic||GCCO
 GLRB|Roberts||GLRB
 GMMM|Casablanca||GMMM
@@ -18293,8 +18308,8 @@ LOVV-E|Wien|LOVV_E|LOVV-E
 LOVV-W|Wien|LOVV_W|LOVV-W
 LOVV|Wien||LOVV
 LPPC|Lisboa||LPPC
-LPPC-D|Lisboa - DEMOS+VERAM Sector|LPPC_D|LPPC-D
-LPPC-W|Lisboa - WEST COMBINED|LPPC_W|LPPC-W
+LPPC-W|Lisboa - WEST Sector|LPPC_W|LPPC-W
+LPPC-O|Lisboa - WEST EXPANDED|LPPC_O|LPPC-O
 LPPC-E|Lisboa - EAST COMBINED|LPPC_E|LPPC-E
 LPPC-I|Lisboa - MADEIRA Sector|LPPC_I|LPPC-I
 LPPC-N|Lisboa - NORTH Sector|LPPC_N|LPPC-N
@@ -18304,9 +18319,10 @@ LPPO|Santa Maria|LPAZ|LPPO
 LPPO-TMA|Santa Maria Radar|LPPO|LPPO-TMA
 LPAM|Lisboa Military||LPPC
 LQSB|Sarajevo|LQSA|LQSB
-LRBB|Bucharest||LRBB
-LRBB-A|Bucharest|LRBB_A|LRBB-A
-LRBB-N|Bucharest|LRBB_N|LRBB-N
+LRBB|Bucuresti ACC (KONEL) - Bucharest||LRBB
+LRBB-A|Bucuresti ACC (DINAR) - Bucharest|LRBB_A|LRBB-A
+LRBB-B|Bucuresti ACC (BUDMO) - Bucharest|LRBB_B|LRBB-B
+LRBB-N|Bucuresti ACC (BANAP) - Bucharest|LRBB_N|LRBB-N
 LSAS|Swiss Radar - Switzerland||LSAS
 LSAG|Swiss Radar (Geneva ACC) - Switzerland||LSAG
 LSAZ|Swiss Radar (Zurich ACC) - Switzerland||LSAZ
@@ -18506,6 +18522,12 @@ RKDA-E|Daegu ACC (East) - Incheon|RKDA_E|RKDA-E
 RKDA-C|Daegu ACC (Central) - Incheon|RKDA_C|RKDA-C
 RPHI|Manila|MNL|RPHI
 RPHI-C|Manila|MNL_C|RPHI-C
+RPHI-N|Manila|MNL_N|RPHI-N
+RPHI-S|Manila|MNL_S|RPHI-S
+MNL-CN|Manila|MNL_CN|MNL-CN
+MNL-CE|Manila|MNL_CE|MNL-CE
+MNL-CS|Manila|MNL_CS|MNL-CS
+MNL-CW|Manila|MNL_CW|MNL-CW
 SACF|Cordoba||SACF
 SACO|Cordoba TMA - Cordoba||SACO
 SAEF|Ezeiza||SAEF
@@ -18529,7 +18551,7 @@ SBAZ|Amazonico (Completo) - Amazonico||SBAZ
 SBAZ-W|Amazonico (Combinado Oeste) - Amazonico|SBAZ_W|SBAZ-W
 SBAZ-C|Amazonico (Combinado Central) - Amazonico|SBAZ_C|SBAZ-C
 SBAZ-E|Amazonico (Combinado Leste) - Amazonico|SBAZ_E|SBAZ-E
-SBAZ-CW|Amazonico (Supercombinado Centro-Oeste) - Amazonico||SBAZ_CW|SBAZ-CW
+SBAZ-CW|Amazonico (Supercombinado Centro-Oeste) - Amazonico|SBAZ_CW|SBAZ-CW
 SBAZ-CE|Amazonico (Supercombinado Centro-Leste) - Amazonico|SBAZ_CE|SBAZ-CE
 SBBS|Brasilia (Completo) - Brasilia||SBBS
 SBCW|Curitiba (Completo) - Curitiba||SBCW

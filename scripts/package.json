@@ -1,0 +1,8 @@
+{
+  "name": "vatspy-helpers",
+  "packageManager": "yarn@4.9.1",
+  "type": "module",
+  "dependencies": {
+    "ajv": "^8.17.1"
+  }
+}

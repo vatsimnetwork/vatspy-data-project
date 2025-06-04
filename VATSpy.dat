@@ -18100,11 +18100,11 @@ ENSV-W|Stavanger ACC (West) - Polaris|ENSV_10|ENSV-W
 ENSV-E|Stavanger ACC (East) - Polaris|ENSV_E|ENSV-E
 ENSV-E|Stavanger ACC (East) - Polaris|ENSV_13|ENSV-E
 EPWW|Warszawa|EPWA|EPWW
-EPWW-N|Warszawa|EPWW-N|EPWW
-EPWW-S|Warszawa|EPWW-S|EPWW
-EPWW-W|Warszawa|EPWW-W|EPWW
-EPWW-SW|Warszawa (if West offline)|EPWW-SW|EPWW
-EPWW-NW|Warszawa (if West offline)|EPWW-NW|EPWW
+EPWW-N|Warszawa|EPWW-N|EPWW-N
+EPWW-S|Warszawa|EPWW-S|EPWW-S
+EPWW-W|Warszawa|EPWW-W|EPWW-W
+EPWW-SW|Warszawa (if West offline)|EPWW-SW|EPWW-SW
+EPWW-NW|Warszawa (if West offline)|EPWW-NW|EPWW-NW
 ESAA|Sweden||ESAA
 ESMM|Malmo ACC - Sweden||ESMM
 ESMM-5|Malmo ACC (5) - Sweden|ESMM_5|ESMM-5
@@ -18119,6 +18119,7 @@ ESOS-K|Stockholm ACC (K) - Sweden|ESOS_K|ESOS-K
 ESSR|Stockholm RTC - Sweden||ESAA
 EVRR|Riga||EVRR
 EYVL|Vilnius||EYVL
+EYVL-E|Vilnius|EYVL-E|EYVL-E
 FACA|Cape Town||FACA
 FACA-E|Cape Town ACC (East) - Cape Town|FACA_E|FACA-E
 FACA-W|Cape Town ACC (West) - Cape Town|FACA_W|FACA-W

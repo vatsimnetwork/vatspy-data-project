@@ -18649,6 +18649,9 @@ ULLL-KT|Sankt-Peterburg ACC, sector Kotlas - Peterburg|ULLL_KT|ULLL-KT
 ULLL-WK|Sankt-Peterburg ACC, sectors Kotlas, Vologda - Peterburg|ULLL_WK|ULLL-WK
 UMKK|Kaliningrad||UMKK
 UMMV|Minsk|UMMM|UMMV
+UMMV-N|Minsk ACC sector North|UMMV_N|UMMV-N
+UMMV-S|Minsk ACC sector South|UMMV_S|UMMV-S
+UMMV-W|Minsk ACC sector West|UMMV_W|UMMV-W
 UNKL|Krasnoyarsk||UNKL
 UNKL-N|Krasnoyarsk ACC Sector North - Krasnoyarsk|UNKL_N|UNKL-N
 UNKL-N1|Krasnoyarsk ACC Sector North 1 - Krasnoyarsk|UNKL_N1|UNKL-N1

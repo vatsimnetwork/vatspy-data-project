@@ -18671,6 +18671,12 @@ UNNT-E|Novosibirsk ACC Sector East - Novosibirsk|UNNT_E|UNNT-E
 UNNT-C|Novosibirsk ACC Sector Center - Novosibirsk|UNNT_C|UNNT-C
 URRV|Rostov||URRV
 USSV|Yekaterinburg ACC - Ural||USSV
+USSV-W|Yekaterinburg ACC Sector West - Ural|USSV_W|USSV-W
+USSV-E|Yekaterinburg ACC Sector East - Ural|USSV_E|USSV-E
+USSV-N|Yekaterinburg ACC Sector North - Ural|USSV_N|USSV-N 
+USSV-C|Yekaterinburg ACC Sector Center - Ural|USSV_C|USSV-C 
+USSV-S|Yekaterinburg ACC Sector South - Ural|USSV_S|USSV-S
+USSV-P|Yekaterinburg ACC Sector Perm - Ural|USSV_P|USSV-P
 USTV|Tyumen||USTV
 UTAA|Ashgabat||UTAA
 UTAK|Turkmenbashi||UTAK

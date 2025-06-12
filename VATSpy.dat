@@ -18683,11 +18683,16 @@ URRV|Rostov||URRV
 USSV|Yekaterinburg ACC - Ural||USSV
 USSV-W|Yekaterinburg ACC Sector West - Ural|USSV_W|USSV-W
 USSV-E|Yekaterinburg ACC Sector East - Ural|USSV_E|USSV-E
-USSV-N|Yekaterinburg ACC Sector North - Ural|USSV_N|USSV-N 
-USSV-C|Yekaterinburg ACC Sector Center - Ural|USSV_C|USSV-C 
+USSV-N|Yekaterinburg ACC Sector North - Ural|USSV_N|USSV-N
+USSV-C|Yekaterinburg ACC Sector Center - Ural|USSV_C|USSV-C
 USSV-S|Yekaterinburg ACC Sector South - Ural|USSV_S|USSV-S
 USSV-P|Yekaterinburg ACC Sector Perm - Ural|USSV_P|USSV-P
-USTV|Tyumen||USTV
+USTV|Tyumen ACC - Tyumen||USTV
+USTV-N|Tyumen ACC Sector North - Tyumen|USTV_N|USTV-N
+USTV-W|Tyumen ACC Sector West - Tyumen|USTV_W|USTV-W
+USTV-S|Tyumen ACC Sector South - Tyumen|USTV_S|USTV-S
+USTV-E|Tyumen ACC Sector East - Tyumen|USTV_E|USTV-E
+USTV-C|Tyumen ACC Sector Center - Tyumen|USTV_C|USTV-C
 UTAA|Ashgabat||UTAA
 UTAK|Turkmenbashi||UTAK
 UTAT|Dashoguz||UTAT

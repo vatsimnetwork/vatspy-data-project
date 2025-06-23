@@ -113,7 +113,7 @@ Estonia|EE|Control
 Eswatini|FD|
 Ethiopia|HA|Radar
 Falkland Islands (Islas Malvinas)|SF|
-Fiji-Tonga|NF|
+Fiji-Tonga|NF|Control
 Finland|EF|Control
 France|LF|Control
 French Guyana|SO|
@@ -191,7 +191,7 @@ Namibia|FY|
 Nauru|AN|
 Nepal|VN|Control
 Netherlands|EH|Radar
-New Caledonia|NW|
+New Caledonia|NW|Control
 New Zealand|NZ|Control
 Nicaragua|MN|
 Niger|DR|
@@ -203,7 +203,7 @@ Oman|OO|Control
 Pakistan|OP|Control
 Palestine|LV|
 Panama|MP|
-Papua New Guinea|AY|
+Papua New Guinea|AY|Control
 Paraguay|SG|
 Peru|SP|Control
 Philippines|RP|Control
@@ -314,7 +314,7 @@ USA|PO|
 USA|PP|
 USA|PT|
 USA|PW|
-Vanuatu|NV|
+Vanuatu|NV|Centre
 Venezuela|SV|
 Vietnam|VV|Control
 Virgin Islands (British)|TU|
@@ -9455,6 +9455,9 @@ NVVF|Futuna Island|-19.516389|170.231944||NVVV|0
 NVVI|Ipota|-18.856333|169.283||NVVV|0
 NVVV|Bauerfield Efate|-17.703889|168.312222||NVVV|0
 NVVW|Tanna|-19.459667|169.2255||NVVV|0
+NWHT|Dumbea CHT|-22.208611|166.452778||NWHT|0
+NWHN|Kone CHN|-21.098611|164.888333||NWHN|0
+NWHH|Noumea Meridien|-22.312222|166.4483330||NWHH|0
 NWWA|Tiga|-21.096|167.803833||NWWW|0
 NWWB|Bourail Poe|-21.609722|165.397778||NWWW|0
 NWWC|Wala|-19.721167|163.6635||NWWW|0
@@ -9471,8 +9474,8 @@ NWWR|La Roche Ile Mare|-21.48306|168.03306||NWWW|0
 NWWT|La Foa Oua Tom|-21.819722|165.860833||NWWW|0
 NWWU|Touho|-20.79|166.2595||NWWW|0
 NWWV|Ouloup Ile Ouvea|-20.64972|166.58306||NWWW|0
-NWWW|La Tontouta Nlle-Caledonie|-22.016389|166.216111||NWWW|0
-NWWW|La Tontouta Nlle-Caledonie|-22.016389|166.216111|NWWW-T|NWWW|0
+NWWW|Noumea La Tontouta|-22.016389|166.216111||NWWW|0
+NWWW|Noumea La Tontouta|-22.016389|166.216111|NWWW-T|NWWW|0
 NWWX|Canala|-21.522833|165.975667||NWWW|0
 NZAA|Auckland|-37.019217|174.770674|AKL|NZAA|0
 NZAH|Taharoa Iron Sands|-43.894186|171.747975||NZAA|0
@@ -16805,6 +16808,7 @@ YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-D|YBIK|0
 YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-DE|YBIK|0
 YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-E|YBIK|0
 YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-N|YBIK|0
+YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-W|YBIK|0
 YSSY|Sydney-Kingsford Smith|-33.946111|151.177222|SY-C|YBIK|0
 YSTA|St Arnaud|-36.636667|143.185833||YYWE|0
 YSTB|Strathburn|-14.483333|142.833056||YISA|0
@@ -18956,7 +18960,7 @@ YFOR|Melbourne (Forrest) 132.7* (128.85)|ML-FOR|YFOR
 YGEL|Melbourne (Geraldton) 134.2* (118.2)|ML-GEL|YGEL
 YGOL|Brisbane (Gold Coast) 130.4* (134.2)|BN-GOL|YGOL
 YGTH|Melbourne (Griffith) 122.75* (132.6)|ML-GTH|YGTH
-YGUN|Melbourne (Dog on a tucker box) 128.4|ML-GUN|YGUN
+YGUN|Melbourne (Gundagai) 128.4|ML-GUN|YGUN
 YGVE|Melbourne (Grove) 133.8* (118.2)|ML-GVE|YGVE
 YHUO|Melbourne (Huon) 122.6|ML-HUO|YHUO
 YHWE|Brisbane (Howe) 124.95|BN-HWE|YHWE

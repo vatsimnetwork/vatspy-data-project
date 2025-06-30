@@ -18320,6 +18320,16 @@ LECS|Sevilla||LECS
 LECS-NCS|Sevilla (East) - Sevilla|LECS_NCS|LECS-NCS
 LECS-SM2|Sevilla (West) - Sevilla|LECS_SM2|LECS-SM2
 LFBB|Bordeaux||LFBB
+LFBB-UN|Bordeaux|LFBB_UN|LFBB-UN
+LFBB-US|Bordeaux|LFBB_US|LFBB-US
+LFBB-H|Bordeaux|LFBB_H|LFBB-H
+LFBB-N|Bordeaux|LFBB_N|LFBB-N
+LFBB-Z|Bordeaux|LFBB_N|LFBB-Z
+LFBB-X|Bordeaux|LFBB_N|LFBB-X
+LFBB-P|Bordeaux|LFBB_P|LFBB-P
+LFBB-R|Bordeaux|LFBB_R|LFBB-R
+LFBB-L|Bordeaux|LFBB_L|LFBB-L
+LFBB-T|Bordeaux|LFBB_T|LFBB-T
 LFEE|Reims (Covers North-East LFFF FL295+)||LFEE
 LFEE-N|Reims North (Covers North-East LFFF FL295+)|LFEE_N|LFEE-N
 LFEE-S|Reims South|LFEE_S|LFEE-S

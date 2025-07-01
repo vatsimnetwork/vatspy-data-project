@@ -18912,6 +18912,12 @@ VTBB-5N|Bangkok ACC (Sector 5N) - Bangkok|VTBB_5N|VTBB-5N
 VTBB-5S|Bangkok ACC (Sector 5S) - Bangkok|VTBB_5S|VTBB-5S
 VTBB-6N|Bangkok ACC (Sector 6N) - Bangkok|VTBB_6N|VTBB-6N
 VTBB-6S|Bangkok ACC (Sector 6S) - Bangkok|VTBB_6S|VTBB-6S
+VTBB-N|Bangkok ACC (Sectors 1N-6N) - Bangkok|VTBB_N|VTBB-N
+VTBB-S|Bangkok ACC (Sectors 1S-6S) - Bangkok|VTBB_S|VTBB-S
+VTBB-NW|Bangkok ACC (Sectors 1N/3N/4N) - Bangkok|VTBB_NW|VTBB-NW
+VTBB-NE|Bangkok ACC (Sector 2N/5N/6N) - Bangkok|VTBB_NE|VTBB-NE
+VTBB-SW|Bangkok ACC (Sectors 1S-4S) - Bangkok|VTBB_SW|VTBB-SW
+VTBB-SE|Bangkok ACC (Sectors 5S-6S) - Bangkok|VTBB_SE|VTBB-SE
 VVCL|Mekong|VCL|VVCL
 VVHN|Hanoi||VVHN
 VVHM|Ho Chi Minh||VVHM

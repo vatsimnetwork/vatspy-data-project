@@ -250,7 +250,7 @@ Slovakia|LZ|Radar
 Slovenia|LJ|Control
 Solomon Islands|AG|
 Somalia|HC|Radio
-South Africa|FA|Control
+South Africa|FA|Area
 South Korea|RK|Control
 Spain|GC|Control
 Spain|GE|Control
@@ -18183,7 +18183,7 @@ ESSR|Stockholm RTC - Sweden||ESAA
 EVRR|Riga||EVRR
 EYVL|Vilnius||EYVL
 EYVL-E|Vilnius|EYVL-E|EYVL-E
-FACA|Cape Town||FACA
+FACA|Cape Town (Bandbox) - Cape Town||FACA
 FACA-E|Cape Town ACC (East) - Cape Town|FACA_E|FACA-E
 FACA-W|Cape Town ACC (West) - Cape Town|FACA_W|FACA-W
 FAJO|Johannesburg Oceanic||FAJO
@@ -18192,12 +18192,12 @@ FAJA-N|Johannesburg ACC (North) - Johannesburg|FAJA_N|FAJA-N
 FAJA-S|Johannesburg ACC (South) - Johannesburg|FAJA_S|FAJA-S
 FAJA-NW|Johannesburg ACC (Sector 2) - Johannesburg|FAJA_NW|FAJA-NW
 FAJA-NE|Johannesburg ACC (Sector 1) - Johannesburg|FAJA_NE|FAJA-NE
-FAJA_NE|Johannesburg ACC (Sector 1) - Johannesburg|FAJA_MIL|FAJA-NE
 FAJA-SW|Johannesburg ACC (Sector 4) - Johannesburg|FAJA_SW|FAJA-SW
 FAJA-SE|Johannesburg ACC (Sector 3) - Johannesburg|FAJA_SE|FAJA-SE
-FAJA-W|Johannesburg ACC (West - Johannesburg|FAJA_W|FAJA-W
+FAJA-W|Johannesburg ACC (West) - Johannesburg|FAJA_W|FAJA-W
 FAJA-E|Johannesburg ACC (East) - Johannesburg|FAJA_E|FAJA-E
 FAJA-C|Johannesburg ACC (Central) - Johannesburg|FAJA_C|FAJA-C
+FAMR|Lowveld Military Airspace Sector (SFC-FL195) - Lowveld Information|FAMR|FAMR
 FASA|South Africa||FASA
 FBGR|Gaborone||FBGR
 FCCC|Brazzaville||FCCC

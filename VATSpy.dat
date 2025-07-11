@@ -18900,7 +18900,25 @@ VOMM-S|Chennai (South) ACC - Chennai|VOMM_S|VOMM-S
 VOMM|Chennai ACC - Chennai||VOMM
 VOTV|Thiruvananthapuram ACC - Chennai||VOTV
 VRMF|Male||VRMF
-VTBB|Bangkok||VTBB
+VTBB|Bangkok ACC - Bangkok||VTBB
+VTBB-1N|Bangkok ACC (Sector 1N) - Bangkok|VTBB_1N|VTBB-1N
+VTBB-1S|Bangkok ACC (Sector 1S) - Bangkok|VTBB_1S|VTBB-1S
+VTBB-2N|Bangkok ACC (Sector 2N) - Bangkok|VTBB_2N|VTBB-2N
+VTBB-2S|Bangkok ACC (Sector 2S) - Bangkok|VTBB_2S|VTBB-2S
+VTBB-3N|Bangkok ACC (Sector 3N) - Bangkok|VTBB_3N|VTBB-3N
+VTBB-3S|Bangkok ACC (Sector 3S) - Bangkok|VTBB_3S|VTBB-3S
+VTBB-4N|Bangkok ACC (Sector 4N) - Bangkok|VTBB_4N|VTBB-4N
+VTBB-4S|Bangkok ACC (Sector 4S) - Bangkok|VTBB_4S|VTBB-4S
+VTBB-5N|Bangkok ACC (Sector 5N) - Bangkok|VTBB_5N|VTBB-5N
+VTBB-5S|Bangkok ACC (Sector 5S) - Bangkok|VTBB_5S|VTBB-5S
+VTBB-6N|Bangkok ACC (Sector 6N) - Bangkok|VTBB_6N|VTBB-6N
+VTBB-6S|Bangkok ACC (Sector 6S) - Bangkok|VTBB_6S|VTBB-6S
+VTBB-N|Bangkok ACC (Sectors 1N-6N) - Bangkok|VTBB_N|VTBB-N
+VTBB-S|Bangkok ACC (Sectors 1S-6S) - Bangkok|VTBB_S|VTBB-S
+VTBB-NW|Bangkok ACC (Sectors 1N/3N/4N) - Bangkok|VTBB_NW|VTBB-NW
+VTBB-NE|Bangkok ACC (Sectors 2N/5N/6N) - Bangkok|VTBB_NE|VTBB-NE
+VTBB-SW|Bangkok ACC (Sectors 1S-4S) - Bangkok|VTBB_SW|VTBB-SW
+VTBB-SE|Bangkok ACC (Sectors 5S-6S) - Bangkok|VTBB_SE|VTBB-SE
 VVCL|Mekong|VCL|VVCL
 VVHN|Hanoi||VVHN
 VVHM|Ho Chi Minh||VVHM

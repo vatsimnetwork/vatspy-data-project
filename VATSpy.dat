@@ -18495,11 +18495,11 @@ OEJD-N|Jeddah North|OEJD_N|OEJD-N
 OEJD-NE|Jeddah North-East|OEJD_NE|OEJD-NE
 OEJD-E|Jeddah East|OEJD_E|OEJD-E
 OEJD-SE|Jeddah South-East|OEJD_SE|OEJD-SE
-OERD|Riyadh||OERD
+OERD|Riyadh (From FL345)||OERD
 OERK|Riyadh Terminal||OERK
-OERD-E|Riyadh East|OERD_E|OERD-E
-OERD-NE|Riyadh North-East|OERD_NE|OERD-NE
-OERD-N|Riyadh North|OERD_N|OERD-N
+OERD-E|Riyadh East (From FL345)|OERD_E|OERD-E
+OERD-NE|Riyadh North-East (From FL345)|OERD_NE|OERD-NE
+OERD-N|Riyadh North (From FL345)|OERD_N|OERD-N
 OIIX|Tehran|TEH|OIIX
 OTDF|Doha||OTDF
 OTDF-N|Doha (North SFC-FL245)|OTDF_N|OTDF_N

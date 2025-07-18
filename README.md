@@ -9,7 +9,7 @@ We have chosen GitHub to be the core of this project so far, as it allows for co
 ## Approved contributors
 
 To contribute to this dataset, you'll need approval from a local or facility staff member.<br>
-You can find a list of current approved contributors [here](https://docs.google.com/spreadsheets/u/4/d/e/2PACX-1vRHzHhKz4icslNkd3I6mF1Mp_6gan4muRcWZb8fCYL8_S0C6GDpG409xQGTNPAXLPupEWWws3euNK7O/pubhtml?gid=0).
+You can find a list of current approved contributors [here](https://docs.google.com/spreadsheets/u/4/d/e/2PACX-1vRHzHhKz4icslNkd3I6mF1Mp_6gan4muRcWZb8fCYL8_S0C6GDpG409xQGTmPAXLPupEWWws3euNK7O/pubhtml?gid=0).
 
 ### If you are a staff member
 

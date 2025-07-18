@@ -22,6 +22,7 @@ Please include the following information in your email:
 - **VATSIM ID:**
 - **Name:**
 - **Region/FIR:**
+- **Staff role**
 
 ### If you are not a staff member
 

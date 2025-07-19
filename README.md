@@ -70,7 +70,7 @@ This file uses the GeoJSON format as defined in [RFC7946](https://datatracker.ie
 
 - Adrian Bjerke - Data Management Team
 - Danila Rodichkin - Data Management Team
-- Tom Kilpatrick - Data Management Team
+- Tom Kilpatrick - Data Project Reviewer
 
 ## Credits
 

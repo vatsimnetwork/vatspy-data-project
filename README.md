@@ -41,7 +41,7 @@ The email they send should include:
 - **Your Region/FIR:**
 - **VATSIM ID + name of staff member sending the request:**
 
-> [!Note]
+> [!IMPORTANT]
 >- The **Name** you provide will be published on the contributor list.
 >- Approved contributor status lasts **2 years** unless otherwise specified. After this, a new request must be sent.
 >- Contributors on the list may be tagged in issues or pull requests for their attention or input.

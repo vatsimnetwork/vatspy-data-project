@@ -4,16 +4,21 @@ VAT-Spy is an Air Traffic and ATC Display client that was designed by Ross Carls
 
 ## How Do I Submit Updates?
 
-We have chosen GitHub to be the core of this project so far, as it allows for collaboration on the project and near real-time updates to VAT-Spy data once a pull request has been pushed to the live data. Updates to data should be made directly by submitting a PR through GitHub. Updates on GitHub that will be merged will be those that either come from verified GitHub accounts belonging to Regions, Divisions, or FIRs/ARTCCs or that have been explicitly authorized by a staff account.
+Data updates are submitted by creating Pull Requests (PRs) directly to this GitHub repository. You can create a pull request at any time, but it won't be merged until you are an approved contributor or an approved contributor explicitly approves your changes within the PR. Please refer to the section below to learn how to gain contributor status or how to contribute as a non-approved user.
 
 ## Approved contributors
 
-To contribute to this dataset, you'll need approval from a local or facility staff member.<br>
+To contribute to this dataset, you'll need approval from a local or facility staff member.
+
 You can find a list of current approved contributors [here](https://docs.google.com/spreadsheets/u/4/d/e/2PACX-1vRHzHhKz4icslNkd3I6mF1Mp_6gan4muRcWZb8fCYL8_S0C6GDpG409xQGTmPAXLPupEWWws3euNK7O/pubhtml?gid=0).
+
+> [!Note]
+> A common contributor database is shared between this project and the [SimAware TRACON Project](https://github.com/vatsimnetwork/simaware-tracon-project).
+> If you have approval to contribute to one project, you are approved to contribute to either.
 
 ### If you are a staff member
 
-Email your request to vatspy-data-project (at) vatsim.net.  
+Email your request to vatspy-data-project (at) vatsim.net.
 If you're using a personal email (e.g., Gmail), we'll need additional proof of your staff status.
 
 Please include the following information in your email:
@@ -36,11 +41,11 @@ The email they send should include:
 - **Your Region/FIR:**
 - **VATSIM ID + name of staff member sending the request:**
 
-> [!Note]
->* The **Name** you provide will be published on the contributor list.
->* Approved contributor status lasts **2 years** unless otherwise specified. After this, a new request must be sent.
->* Contributors on the list may be tagged in issues or pull requests for their attention or input.
->* Non-approved users can still contribute if an approved user comments on their pull request, confirming they approve the changes.
+> [!IMPORTANT]
+>- The **Name** you provide will be published on the contributor list.
+>- Approved contributor status lasts **2 years** unless otherwise specified. After this, a new request must be sent.
+>- Contributors on the list may be tagged in issues or pull requests for their attention or input.
+>- Non-approved users can still contribute if an approved user comments on their pull request, confirming they approve the changes.
 
 ## Submission Guidelines
 To ensure timely processing and avoid last-minute issues, please keep the following guidelines in mind:
@@ -53,21 +58,22 @@ While we usually aim to get everything resolved and merged for each AIRAC, these
 
 ### Included Sectors
 
-Since the introduction of VATSpy version 1.4.0, a significant change has been implemented concerning the handling of sub-sectors. Previously, there was a strict policy in place aimed at reducing clutter on the map by limiting the inclusion of sub-sectors in the dataset.
+Since VATSpy version 1.4.0, our approach to sub-sectors has changed. While we used to strictly limit them to reduce map clutter, we now accept sub-sectors that offer clear benefits to the FIR.
 
-Currently, we are open to accepting sub-sectors that offer clear benefits to the VACC. If you wish to propose the addition of new sub-sectors, we kindly request that you provide an explanation for why these additions are necessary and how they would be advantageous. It's important to note that this is not an open invitation to include every single sub-sector within your FIR at this time.
+If you wish to propose adding new sub-sectors, please explain why they are necessary and how they would be advantageous.
 
 ### Boundaries.geojson
 
 This file uses the GeoJSON format as defined in [RFC7946](https://datatracker.ietf.org/doc/html/rfc7946). At the end of each cycle a FIRBoundaries.dat will be generated and included in the release, for testing in vat-spy [a converter](https://github.com/NelisV/vatspy-geojson/releases/latest) can be used.
 
-## Who's on the VAT-Spy Client Data Update Project Team?
+## Who's currently on the VAT-Spy Client Data Update Project Team?
 
-- Niels Voogd - Data Management Team
 - Adrian Bjerke - Data Management Team
 - Danila Rodichkin - Data Management Team
+- Tom Kilpatrick - Data Project Reviewer
 
 ## Credits
 
 - Ross Carlson - Developer, VAT-Spy
 - Néstor Pérez - Previous Project Leader
+- Niels Voogd - Data Management Team

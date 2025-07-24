@@ -18896,8 +18896,8 @@ LECM|Madrid|LEMD|LECM
 LECM-ALL|Madrid (Combined LECM+LECS) - Madrid|LECM_ALL|LECM-ALL
 LECM-R1|Madrid|LECM_R1|LECM-R1
 LECM-SAI|Madrid (Santiago-Asturias Sector) - Madrid|LECM_SAI|LECM-SAI
-LECM-SAO|Madrid (Covers Above FL345 Santiago-Asturias Sector) - Madrid|LECM_SAO|LECM-SAO
-LECM-SAS|Madrid (Covers up to FL345 Santiago-Asturias Sector) - Madrid|LECM_SAS|LECM-SAS
+LECM-SAO|Madrid (Covers Above FL345) - Madrid|LECM_SAO|LECM-SAO
+LECM-SAS|Madrid (Covers up to FL345) - Madrid|LECM_SAS|LECM-SAS
 LECM-BDP|Madrid (Bilbao-Pamplona Sector) - Madrid|LECM_BDP|LECM-BDP
 LECM-BLU|Madrid (Covers Above FL345 Bilbao Sector) - Madrid|LECM_BLU|LECM-BLU
 LECM-PAU|Madrid (Covers Above FL345 Pamplona Sector) - Madrid|LECM_PAU|LECM-PAU

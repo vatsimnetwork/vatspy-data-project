@@ -18226,11 +18226,18 @@ LECM|Madrid|LEMD|LECM
 LECM-ALL|Madrid (Combined LECM+LECS) - Madrid|LECM_ALL|LECM-ALL
 LECM-R1|Madrid|LECM_R1|LECM-R1
 LECM-SAI|Madrid (Santiago-Asturias Sector) - Madrid|LECM_SAI|LECM-SAI
+LECM-SAO|Madrid (Covers Above FL345 Santiago-Asturias Sector) - Madrid|LECM_SAO|LECM-SAO
+LECM-SAS|Madrid (Covers up to FL345 Santiago-Asturias Sector) - Madrid|LECM_SAS|LECM-SAS
 LECM-BDP|Madrid (Bilbao-Pamplona Sector) - Madrid|LECM_BDP|LECM-BDP
+LECM-BLU|Madrid (Covers Above FL345 Bilbao Sector) - Madrid|LECM_BLU|LECM-BLU
+LECM-PAU|Madrid (Covers Above FL345 Pamplona Sector) - Madrid|LECM_PAU|LECM-PAU
 LECM-R2|Madrid|LECM_R2|LECM-R2
 LECM-ZMI|Madrid (Zamora Sector) - Madrid|LECM_ZMI|LECM-ZMI
+LECM-ZMU|Madrid (Covers Above FL345 Zamora Sector) - Madrid|LECM_ZMU|LECM-ZMU
 LECM-TLI|Madrid (Toledo Sector) - Madrid|LECM_TLI|LECM-TLI
+LECM-TLU|Madrid (Covers Above FL345 Toledo Sector) - Madrid|LECM_TLU|LECM-TLU
 LECM-CZI|Madrid (Castejon-Zaragoza Sector) - Madrid|LECM_CZI|LECM-CZI
+LECM-CJU|Madrid (Covers Above FL345 Castejon Sector) - Madrid|LECM_CJU|LECM-CJU
 LECP|Palma (FL245-)|LEPA|LECP
 LECS|Sevilla||LECS
 LECS-NCS|Sevilla (East) - Sevilla|LECS_NCS|LECS-NCS

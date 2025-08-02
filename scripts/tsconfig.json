@@ -9,6 +9,7 @@
     "declarationMap": false,
     "sourceMap": true,
     "esModuleInterop": true,
+    "allowImportingTsExtensions": true,
     "skipLibCheck": true,
     "removeComments": false,
     "outDir": "dist",

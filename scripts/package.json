@@ -5,15 +5,16 @@
     "node": ">22"
   },
   "scripts": {
-    "validate-schema": "node --experimental-strip-types bin/validate-schema.ts"
+    "validate-schema": "node --experimental-strip-types bin/validate-schema.ts",
+    "validate-dat": "node --experimental-strip-types bin/validate-dat.ts"
   },
   "dependencies": {
     "ajv": "^8.17.1"
   },
   "devDependencies": {
-    "@types/node": "^24.0.14",
+    "@types/node": "^24.1.0",
     "tsc": "^2.0.4",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.2"
   },
   "packageManager": "yarn@4.9.2"
 }

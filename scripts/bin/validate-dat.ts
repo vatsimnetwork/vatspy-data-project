@@ -1,18 +1,91 @@
 import {fileURLToPath} from 'url';
 import {readFileSync} from 'fs';
 import {join} from 'path';
-import Ajv from "ajv/dist/2020.js";
+import {parseDatFile} from "../utils/index.ts";
 
 const path = fileURLToPath(new URL(import.meta.url).toString());
-const schema = JSON.parse(readFileSync(join(path, '../../../schema.json'), 'utf-8'))
+const dat = readFileSync(join(path, '../../../VATSpy.dat'), 'utf-8')
 const boundaries = JSON.parse(readFileSync(join(path, '../../../Boundaries.geojson'), 'utf-8'))
 
-const ajv = new Ajv()
+const parsedDat = parseDatFile({
+    sections: {
+        countries: {
+            title: 'Countries',
+            children: {
+                country: true,
+                code: true,
+                callsign: true,
+            },
+        },
+        airports: {
+            title: 'Airports',
+            children: {
+                icao: true,
+                name: true,
+                lat: true,
+                lon: true,
+                iata: true,
+                fir: true,
+                isPseudo: true,
+            },
+        },
+        firs: {
+            title: 'FIRs',
+            children: {
+                icao: true,
+                name: true,
+                callsign: true,
+                boundary: true,
+            },
+        },
+        uirs: {
+            title: 'UIRs',
+            children: {
+                icao: true,
+                name: true,
+                firs: true,
+            },
+        },
+        idl: {
+            title: 'IDL',
+            children: {
+                first: true,
+                last: true,
+            }
+        }
+    },
+    dat,
+});
 
-const validate = ajv.compile(schema)
+for (const country of parsedDat.countries) {
+    if(!country.country || !country.code || country.code.length !== 2) throw new Error(`Country ${country.code} validation failed`);
+    if(country.callsign === undefined) throw new Error(`Country ${country.code} is missing callsign (should be at least empty)`);
+}
 
-const valid = validate(boundaries)
-if (!valid) throw validate.errors;
+for (const airport of parsedDat.airports) {
+    if(!airport.name || !airport.icao || !airport.fir) throw new Error(`Airport ${airport.icao} validation failed`)
+    if(airport.icao.length !== 4) throw new Error(`Airport ${airport.icao} ICAO should be 4-length`)
+    if(airport.fir.length !== 4) throw new Error(`Airport ${airport.icao} FIR should be 4-length`)
 
-console.info('Schema is valid');
+    if(!airport.lat || isNaN(Number(airport.lat))) throw new Error(`Airport ${airport.icao} lat is invalid`)
+    if(!airport.lon || isNaN(Number(airport.lon))) throw new Error(`Airport ${airport.icao} lon is invalid`)
+    if(airport.isPseudo !== '1' && airport.isPseudo !== '0') throw new Error(`Airport ${airport.isPseudo} should be 0 or 1`)
+}
 
+for (const fir of parsedDat.firs) {
+    if(!fir.icao || !fir.name || !fir.boundary) throw new Error(`Fir ${fir.icao} validation failed`)
+    const boundary = boundaries.features.find((x: any) => x.properties.id === fir.boundary)
+    if(!boundary) throw new Error(`Fir ${fir.icao} boundary was not found`)
+}
+
+for (const fir of parsedDat.uirs) {
+    if(!fir.icao || !fir.name || !fir.firs) throw new Error(`UIR ${fir.icao} validation failed`)
+    const firs = fir.firs.split(',')
+    const missing = firs.filter(x => !parsedDat.firs.some(y => y.icao === x))
+    if(missing.length) throw new Error(`${missing} for UIR ${fir.icao} missing in FIRs`)
+}
+
+for (const idl of parsedDat.idl) {
+    if(!idl.first || !idl.last) throw new Error(`IDL validation failed`)
+    if(isNaN(Number(idl.first)) || isNaN(Number(idl.last))) throw new Error(`IDL coordinates validation failed`)
+}

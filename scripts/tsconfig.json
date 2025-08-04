@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "allowJs": false,
+    "strict": true,
+    "declaration": true,
+    "declarationMap": false,
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "allowImportingTsExtensions": true,
+    "skipLibCheck": true,
+    "removeComments": false,
+    "outDir": "dist",
+    "declarationDir": "dist",
+    "types": [
+      "@types/node"
+    ],
+    "baseUrl": "."
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

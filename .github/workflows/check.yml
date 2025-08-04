@@ -37,3 +37,19 @@ jobs:
         shell: sh
         working-directory: ./scripts
         run: yarn validate-schema
+  validate-contributor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22.x
+      - name: Install deps
+        shell: sh
+        working-directory: ./scripts
+        run: yarn
+      - name: Check Boundaries.geojson
+        shell: sh
+        working-directory: ./scripts
+        run: yarn check-contributor --login="${{ github.actor }}" --fail-when-missing

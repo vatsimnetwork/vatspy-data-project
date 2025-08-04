@@ -40,7 +40,7 @@ jobs:
         shell: bash
         working-directory: ./scripts
         run: |
-          OUTPUT=$(yarn check-contributor --login="Adrian2k")
+          OUTPUT=$(yarn check-contributor --login="${{ github.event.pull_request.user.login }}")
           echo "result<<EOF" >> $GITHUB_OUTPUT
           echo "$OUTPUT" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT

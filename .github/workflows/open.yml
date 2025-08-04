@@ -2,8 +2,8 @@ name: Data check
 
 on:
   pull_request:
-#    types: [opened]
-    branches: [master]
+    #    types: [opened]
+    branches: [ master ]
 
 jobs:
   comment-on-pr:
@@ -55,7 +55,7 @@ jobs:
             const pr = context.issue.number;
             const msg = result !== "not found"
               ? result
-              : `❌ Github login ${github.event.pull_request.user.login} was not found in [contributor list](https://docs.google.com/spreadsheets/u/4/d/e/2PACX-1vRHzHhKz4icslNkd3I6mF1Mp_6gan4muRcWZb8fCYL8_S0C6GDpG409xQGTmPAXLPupEWWws3euNK7O/pubhtml?gid=0). Please read [Readme](https://github.com/vatsimnetwork/vatspy-data-project?tab=readme-ov-file#approved-contributors) to learn more.`;
+              : `❌ Github login ${context.payload.pull_request.user.login} was not found in [contributor list](https://docs.google.com/spreadsheets/u/4/d/e/2PACX-1vRHzHhKz4icslNkd3I6mF1Mp_6gan4muRcWZb8fCYL8_S0C6GDpG409xQGTmPAXLPupEWWws3euNK7O/pubhtml?gid=0). Please read [Readme](https://github.com/vatsimnetwork/vatspy-data-project?tab=readme-ov-file#approved-contributors) to learn more.\n\nKeep in mind: this message will not update automatically. Please, re-run `validate-contributor` job when this will be solved.`;
             await github.rest.issues.createComment({
               issue_number: pr,
               owner: context.repo.owner,

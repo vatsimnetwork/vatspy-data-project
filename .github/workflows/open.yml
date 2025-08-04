@@ -19,5 +19,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: `Validate data: ${url}\n\nFor controllers data testing: https://docs.vatsim-radar.com/contributing/debug.html`
+              body: `Validate data: ${url}\n\nFor controllers data testing visit https://docs.vatsim-radar.com/contributing/debug.html`
             })

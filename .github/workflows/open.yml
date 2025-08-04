@@ -51,7 +51,7 @@ jobs:
       - uses: actions/github-script@v7
         with:
           script: |
-            const result = "${{ needs.validate-contributor.outputs.result }}";
+            const result = "${{ needs.contributor-data.outputs.result }}";
             const pr = context.issue.number;
             const msg = result !== "not found"
               ? result

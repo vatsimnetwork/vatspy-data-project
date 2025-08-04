@@ -1,0 +1,23 @@
+name: Data check
+
+on:
+  pull_request:
+#    types: [opened]
+    branches: [master]
+
+jobs:
+  comment-on-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment on PR
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prNumber = context.issue.number;
+            const url = `https://vatsim-radar.com/data/vatspy/${prNumber}/compare`;
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: "Validate data: ${url}\n\nFor controllers data testing: https://docs.vatsim-radar.com/contributing/debug.html"
+            })

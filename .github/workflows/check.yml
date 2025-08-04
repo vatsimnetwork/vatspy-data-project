@@ -1,0 +1,41 @@
+name: Data check
+
+on:
+  pull_request:
+    branches: [master]
+
+jobs:
+  check-dat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22.x
+      - name: Move to scripts
+        shell: sh
+        run: cd scripts
+      - name: Install deps
+        shell: sh
+        run: yarn
+      - name: Check VATSpy.dat
+        shell: sh
+        run: yarn validate-dat
+  check-geojson:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22.x
+      - name: Move to scripts
+        shell: sh
+        run: cd scripts
+      - name: Install deps
+        shell: sh
+        run: yarn
+      - name: Check Boundaries.geojson
+        shell: sh
+        run: yarn validate-schema

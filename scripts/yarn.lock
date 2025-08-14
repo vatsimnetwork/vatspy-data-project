@@ -5,22 +5,21 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"@fast-csv/format@npm:5.0.2":
-  version: 5.0.2
-  resolution: "@fast-csv/format@npm:5.0.2"
+"@fast-csv/format@npm:5.0.5":
+  version: 5.0.5
+  resolution: "@fast-csv/format@npm:5.0.5"
   dependencies:
     lodash.escaperegexp: "npm:^4.1.2"
     lodash.isboolean: "npm:^3.0.3"
-    lodash.isequal: "npm:^4.5.0"
     lodash.isfunction: "npm:^3.0.9"
     lodash.isnil: "npm:^4.0.0"
-  checksum: 10c0/dd31e0d6809a4e8e77e24927da35357aa49018965cbee9040a49af66d3dd0adbcdb4b516f1b2092523ea8d410e17ae55ed3cedeb51743d6869d0476def73f5b9
+  checksum: 10c0/9c61b61799e8f07380eaf67dd93204b3787b1cce73efad761a5b6bc43e58d37e6672ed96c19ce189dd525a5280a700247636d3bc6d3118a33b6209748d72ea4b
   languageName: node
   linkType: hard
 
-"@fast-csv/parse@npm:5.0.2":
-  version: 5.0.2
-  resolution: "@fast-csv/parse@npm:5.0.2"
+"@fast-csv/parse@npm:5.0.5":
+  version: 5.0.5
+  resolution: "@fast-csv/parse@npm:5.0.5"
   dependencies:
     lodash.escaperegexp: "npm:^4.1.2"
     lodash.groupby: "npm:^4.6.0"
@@ -28,16 +27,23 @@ __metadata:
     lodash.isnil: "npm:^4.0.0"
     lodash.isundefined: "npm:^3.0.1"
     lodash.uniq: "npm:^4.5.0"
-  checksum: 10c0/191d5e8f60468700d1b14a799c08c6aeae56da0a4e215c979e08079f767b1487028bc95a02e1deb01d9812ecbba0b628ebc4697c20142e73b7951924c568c06e
+  checksum: 10c0/849610401684e8dc0ed4375b38e514a8fcdc590cd73283688c0ab0f2ca793f29baf1ba4d0a5c189621125635bc2cc3d2083bd0ef56ff3615bd3e7c0f43fe49ec
   languageName: node
   linkType: hard
 
-"@types/node@npm:^24.1.0":
-  version: 24.1.0
-  resolution: "@types/node@npm:24.1.0"
+"@types/geojson@npm:^0":
+  version: 0.0.32
+  resolution: "@types/geojson@npm:0.0.32"
+  checksum: 10c0/fb2ad12adf99589a9683eff3de46cc83e8efe88e81be113b3f7592cec7fa511e1572b8a93889a8f60a63ee1d887184e67d0c4a70a77ca30c1831a925bebc9915
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:^24.2.1":
+  version: 24.2.1
+  resolution: "@types/node@npm:24.2.1"
   dependencies:
-    undici-types: "npm:~7.8.0"
-  checksum: 10c0/6c4686bc144f6ce7bffd4cadc3e1196e2217c1da4c639c637213719c8a3ee58b6c596b994befcbffeacd9d9eb0c3bff6529d2bc27da5d1cb9d58b1da0056f9f4
+    undici-types: "npm:~7.10.0"
+  checksum: 10c0/439a3c7edf88a298e0c92e46f670234070b892589c3b06e82cc86c47a7e1cf220f4a4b4736ec6ac7e4b9e1c40d7b6d443a1e22f99dd17f13f9dd15de3b32011b
   languageName: node
   linkType: hard
 
@@ -69,13 +75,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fast-csv@npm:^5.0.2":
-  version: 5.0.2
-  resolution: "fast-csv@npm:5.0.2"
+"fast-csv@npm:^5.0.5":
+  version: 5.0.5
+  resolution: "fast-csv@npm:5.0.5"
   dependencies:
-    "@fast-csv/format": "npm:5.0.2"
-    "@fast-csv/parse": "npm:5.0.2"
-  checksum: 10c0/73a1c4f82df10179ca08030f4a03de0283df43c1f6ac6d5ca5508b087eeda0d87d5a47a9599df4c9627a6d611ca608b61cfb37fba93ba75cb6debf14398e34be
+    "@fast-csv/format": "npm:5.0.5"
+    "@fast-csv/parse": "npm:5.0.5"
+  checksum: 10c0/d2ad0028544443a484be63537a8c4ac678a3b223e9b6029a56291db7d1c44323529b3d00c9fe28bc48cc93ef68b2cd15a2ee15426abb558a8b5cc2736c61c63f
   languageName: node
   linkType: hard
 
@@ -90,6 +96,13 @@ __metadata:
   version: 3.0.6
   resolution: "fast-uri@npm:3.0.6"
   checksum: 10c0/74a513c2af0584448aee71ce56005185f81239eab7a2343110e5bad50c39ad4fb19c5a6f99783ead1cac7ccaf3461a6034fda89fffa2b30b6d99b9f21c2f9d29
+  languageName: node
+  linkType: hard
+
+"geojson@npm:^0.5.0":
+  version: 0.5.0
+  resolution: "geojson@npm:0.5.0"
+  checksum: 10c0/d7fd376c201933dea1307b7c08032f249f73b9399d6287211f6a523d0efa9260caf2a38319f55075682d53dc4cb4c52b9f9c845f2fd03bef9832903f16177ab0
   languageName: node
   linkType: hard
 
@@ -118,13 +131,6 @@ __metadata:
   version: 3.0.3
   resolution: "lodash.isboolean@npm:3.0.3"
   checksum: 10c0/0aac604c1ef7e72f9a6b798e5b676606042401dd58e49f051df3cc1e3adb497b3d7695635a5cbec4ae5f66456b951fdabe7d6b387055f13267cde521f10ec7f7
-  languageName: node
-  linkType: hard
-
-"lodash.isequal@npm:^4.5.0":
-  version: 4.5.0
-  resolution: "lodash.isequal@npm:4.5.0"
-  checksum: 10c0/dfdb2356db19631a4b445d5f37868a095e2402292d59539a987f134a8778c62a2810c2452d11ae9e6dcac71fc9de40a6fedcb20e2952a15b431ad8b29e50e28f
   languageName: node
   linkType: hard
 
@@ -192,10 +198,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"undici-types@npm:~7.8.0":
-  version: 7.8.0
-  resolution: "undici-types@npm:7.8.0"
-  checksum: 10c0/9d9d246d1dc32f318d46116efe3cfca5a72d4f16828febc1918d94e58f6ffcf39c158aa28bf5b4fc52f410446bc7858f35151367bd7a49f21746cab6497b709b
+"undici-types@npm:~7.10.0":
+  version: 7.10.0
+  resolution: "undici-types@npm:7.10.0"
+  checksum: 10c0/8b00ce50e235fe3cc601307f148b5e8fb427092ee3b23e8118ec0a5d7f68eca8cee468c8fc9f15cbb2cf2a3797945ebceb1cbd9732306a1d00e0a9b6afa0f635
   languageName: node
   linkType: hard
 
@@ -203,11 +209,13 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "vatspy-helpers@workspace:."
   dependencies:
-    "@types/node": "npm:^24.1.0"
+    "@types/geojson": "npm:^0"
+    "@types/node": "npm:^24.2.1"
     ajv: "npm:^8.17.1"
     csv-parse: "npm:^6.1.0"
     csv-parser: "npm:^3.2.0"
-    fast-csv: "npm:^5.0.2"
+    fast-csv: "npm:^5.0.5"
+    geojson: "npm:^0.5.0"
     tsc: "npm:^2.0.4"
     typescript: "npm:^5.9.2"
   languageName: unknown

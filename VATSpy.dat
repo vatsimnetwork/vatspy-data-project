@@ -19320,7 +19320,7 @@ LECS|Sevilla||LECS
 LECS-NCS|Sevilla (East) - Sevilla|LECS_NCS|LECS-NCS
 LECS-SM2|Sevilla (West) - Sevilla|LECS_SM2|LECS-SM2
 LFBB|Bordeaux||LFBB
-LFBB-UN|Bordeaux|LFBB_UN|LFBB-UN
+;LFBB-UN|Bordeaux|LFBB_UN|LFBB-UN
 LFBB-US|Bordeaux|LFBB_US|LFBB-US
 LFBB-H|Bordeaux|LFBB_H|LFBB-H
 LFBB-N|Bordeaux|LFBB_N|LFBB-N

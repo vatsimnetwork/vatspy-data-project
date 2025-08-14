@@ -1,14 +1,19 @@
 name: Data check
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened]
-    branches: [ master ]
+
+permissions:
+  contents: read
 
 jobs:
   comment-on-pr:
     runs-on: ubuntu-latest
-    permissions: write-all
+    permissions:
+      pull-requests: write
+      issues: write
+      contents: read
     steps:
       - name: Comment on PR
         uses: actions/github-script@v7
@@ -48,7 +53,10 @@ jobs:
   contributor-comment:
     runs-on: ubuntu-latest
     needs: contributor-data
-    permissions: write-all
+    permissions:
+      pull-requests: write
+      issues: write
+      contents: read
     steps:
       - uses: actions/github-script@v7
         with:

@@ -1,0 +1,26 @@
+{
+  "name": "vatspy-helpers",
+  "type": "module",
+  "engines": {
+    "node": ">22"
+  },
+  "scripts": {
+    "validate-schema": "node --experimental-strip-types bin/validate-schema.ts",
+    "validate-dat": "node --experimental-strip-types bin/validate-dat.ts",
+    "check-contributor": "node --experimental-strip-types bin/contributor.ts"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "csv-parse": "^6.1.0",
+    "csv-parser": "^3.2.0",
+    "fast-csv": "^5.0.5"
+  },
+  "devDependencies": {
+    "@types/geojson": "^0",
+    "@types/node": "^24.2.1",
+    "geojson": "^0.5.0",
+    "tsc": "^2.0.4",
+    "typescript": "^5.9.2"
+  },
+  "packageManager": "yarn@4.9.2"
+}

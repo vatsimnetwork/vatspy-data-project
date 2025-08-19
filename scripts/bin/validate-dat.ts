@@ -1,7 +1,7 @@
 import {fileURLToPath} from 'url';
 import {readFileSync} from 'fs';
 import {join} from 'path';
-import {parseDatFile} from "../utils/index.ts";
+import {isValidCoordinates, parseDatFile} from "../utils/index.ts";
 
 const path = fileURLToPath(new URL(import.meta.url).toString());
 const dat = readFileSync(join(path, '../../../VATSpy.dat'), 'utf-8')
@@ -83,8 +83,10 @@ for (const airport of parsedDat.airports) {
     if (airport.icao.length !== 4) throw new Error(`Airport ${airport.icao} ICAO should be 4-length`)
     if (airport.fir.length !== 4) throw new Error(`Airport ${airport.icao} FIR should be 4-length`)
 
-    if (!airport.lat || isNaN(Number(airport.lat))) throw new Error(`Airport ${airport.icao} lat is invalid`)
-    if (!airport.lon || isNaN(Number(airport.lon))) throw new Error(`Airport ${airport.icao} lon is invalid`)
+    if (!airport.lat) throw new Error(`Airport ${airport.icao} lat is missing`)
+    if (!airport.lon) throw new Error(`Airport ${airport.icao} lon is missing`)
+    if (!isValidCoordinates([Number(airport.lon), Number(airport.lat)])) throw new Error(`Airport ${airport.icao} coordinates are invalid`)
+
     if (airport.isPseudo !== '1' && airport.isPseudo !== '0') throw new Error(`Airport ${airport.isPseudo} should be 0 or 1`)
 
     const valid = count('airport-icao', airport.icao, false)
@@ -102,8 +104,8 @@ for (const fir of parsedDat.firs) {
     const boundary = boundaries.features.find((x: any) => x.properties.id === fir.boundary)
     if (!boundary) throw new Error(`Fir ${fir.icao} boundary was not found`)
 
-    if(fir.callsign)
-    count('fir-callsign-and-icao', fir.callsign + fir.icao)
+    if (fir.callsign)
+        count('fir-callsign-and-icao', fir.callsign + fir.icao)
     else count('fir-icao', fir.icao)
 }
 

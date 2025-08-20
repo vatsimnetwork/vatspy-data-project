@@ -44,3 +44,16 @@ export function parseDatFile<S extends Record<string, { title: string; children:
 
     return result;
 }
+
+export function isValidCoordinates([lon, lat]: unknown[]): boolean {
+    if (typeof lat !== "number" || typeof lon !== "number") return false;
+    if (!Number.isFinite(lat) || !Number.isFinite(lon)) return false;
+
+    const isLatValid = lat >= -90 && lat <= 90;
+    const isLonValid = lon >= -180 && lon <= 180;
+
+    if(!isLatValid) console.log('!lat')
+    if(!isLonValid) console.log('!lon')
+
+    return isLatValid && isLonValid;
+}

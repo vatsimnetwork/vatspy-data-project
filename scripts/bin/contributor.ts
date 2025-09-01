@@ -30,7 +30,7 @@ const result = parse<{
     skip_empty_lines: true,
 })
 
-const user = result.find(x => x.username === login);
+const user = result.find(x => x.username.toLowerCase() === login?.toLowerCase());
 
 if (!user) {
     if (failWhenMissing) throw new Error(`Contributor with login ${login} was not found`)

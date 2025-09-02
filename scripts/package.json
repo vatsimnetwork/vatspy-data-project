@@ -16,11 +16,11 @@
     "fast-csv": "^5.0.5"
   },
   "devDependencies": {
-    "@types/geojson": "^0",
-    "@types/node": "^24.2.1",
+    "@types/geojson": "^7946.0.16",
+    "@types/node": "^24.3.0",
     "geojson": "^0.5.0",
     "tsc": "^2.0.4",
     "typescript": "^5.9.2"
   },
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.9.4"
 }

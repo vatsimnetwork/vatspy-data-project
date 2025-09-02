@@ -52,4 +52,4 @@ jobs:
       - name: Check Boundaries.geojson
         shell: sh
         working-directory: ./scripts
-        run: yarn check-contributor --login="${{ github.actor }}" --failWhenMissing
+        run: yarn check-contributor --login="${{ github.event.pull_request.user.login }}" --failWhenMissing

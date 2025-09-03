@@ -20125,7 +20125,7 @@ YISA|Brisbane (Isa) 125.7|BN-ISA|YISA
 YJAR|Melbourne (Jarrah) 120.3* (118.2)|ML-JAR|YJAR
 YKAT|Melbourne (Katoomba) 133.5* (128.4)|ML-KAT|YKAT
 YKEN|Brisbane (Kennedy) 120.15|BN-KEN|YKEN
-YKIY|Brisbane (Kimberley) 133.4* (132.1)|BN-KIY|YKIY
+YKIY|Brisbane (Kimberley) 133.4* (123.85)|BN-KIY|YKIY
 YKPL|Brisbane (Keppel) 125.9|BN-KPL|YKPL
 YLEA|Melbourne (Leeman) 122.4* (118.2)|ML-LEA|YLEA
 YMDE|Brisbane (Mudgee) 133.0* (130.9)|BN-MDE|YMDE
@@ -20145,7 +20145,7 @@ YPIY|Melbourne (Pingelly) 133.9* (118.2)|ML-PIY|YPIY
 YPOT|Melbourne (Port) 127.0* (134.0)|ML-POT|YPOT
 YSDY|Brisbane (Straddy) 134.3* (134.2)|BN-SDY|YSDY
 YSNO|Melbourne (Snowy) 124.0* (125.0)|ML-SNO|YSNO
-YSTR|Brisbane (Sturt) 134.4* (133.2)|BN-STR|YSTR
+YSTR|Brisbane (Sturt) 134.4* (125.7)|BN-STR|YSTR
 YSWY|Brisbane (Swampy) 133.2* (125.9)|BN-SWY|YSWY
 YTBD|Melbourne (Tailem Bend) 123.05|ML-TBD|YTBD
 YTBP|Brisbane (Tabletop) 120.55* (120.15)|BN-TBP|YTBP

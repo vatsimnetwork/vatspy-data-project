@@ -9162,10 +9162,10 @@ LZTR|Boleraz/Stefan Banic|48.453611|17.526389||LZBB|0
 LZTT|Tatry|49.073611|20.241111||LZBB|0
 LZZI|Zilina|49.233326|18.613611||LZBB|0
 MBAC|Ambergris Cay International|21.300633|-71.64115||KZMA|0
-MBGT|JAGS McCartney. Turks and Caicos|21.444444|-71.142222|GDT|KZMO|0
+MBGT|JAGS McCartney. Turks and Caicos|21.444444|-71.142222|GDT|KZMA|0
 MBNC|North Caicos International|21.917486|-71.939658||KZMA|0
 MBPI|Pine Cay|21.9|-72.1|PIC|KZMA|0
-MBPV|Providenciales. Turks and Caicos|21.773611|-72.265833|PLS|KZMO|0
+MBPV|Providenciales. Turks and Caicos|21.773611|-72.265833|PLS|KZMA|0
 MBSC|South Caicos International|21.515839|-71.529075|XSC|KZMA|0
 MBSY|Salt Cay|21.334569|-71.199569|SLX|KZMA|0
 MDAB|Arroyo Barril|19.2|-69.433333||MDCS|0
@@ -9725,63 +9725,63 @@ MUVT|Las Tunas|20.987222|-76.935833||MUFH|0
 MWCB|Gerrard Smith Intl|19.68691|-79.88279||MKJK|0
 MWCL|Little Cayman|19.6666|-80.09971||MKJK|0
 MWCR|Owen Roberts|19.292436|-81.359189||MKJK|0
-MYAB|Mangrove Cay. North Andros|24.287667|-77.684417|MAY|KZMO|0
-MYAF|Andros Town. North Andros|24.697972|-77.795667|ASD|KZMO|0
-MYAG|Castaway Cay. Abaco|26.090556|-77.539972||KZMO|0
-MYAK|Congo Town. North Andros|24.158805|-77.59|TZN|KZMO|0
-MYAM|Marsh Harbour. Abaco|26.511417|-77.083528|MHH|KZMO|0
-MYAN|San Andros. North Andros|25.053833|-78.049278|SAQ|KZMO|0
-MYAO|Moore's Island. Abaco|26.317917|-77.562306||KZMO|0
-MYAP|Spring Point. Acklins|22.441889|-73.970806|AXP|KZMO|0
-MYAS|Sandy Point. Abaco|26.004722|-77.395528||KZMO|0
-MYAT|Treasure Cay. Abaco|26.745333|-77.391|TCB|KZMO|0
-MYAW|Walkers Cay. Abaco|27.260417|-78.402222|WKR|KZMO|0
-MYAX|Spanish Cay|26.950278|-77.543611||KZMO|0
-MYBC|Chub Cay. Berry Islands|25.417167|-77.880694|CCZ|KZMO|0
-MYBG|Great Harbour Cay. Berry Islands|25.738389|-77.840278|GHC|KZMO|0
-MYBO|Ocean Cay. Bimini|25.422917|-79.209472||KZMO|0
-MYBS|South Bimini. Bimini|25.699972|-79.265222|BIM|KZMO|0
-MYBT|Cistern Cay. Berry Islands|25.779667|-77.885611||KZMO|0
-MYBW|Big Whale Cay. Berry Islands|25.402|-77.788417||KZMO|0
-MYBX|Little Whale Cay. Berry Islands|25.449583|-77.7595||KZMO|0
-MYCA|Arthur's Town. Cat Island|24.629694|-75.674417|ATC|KZMO|0
-MYCB|New Bight. Cat Island|24.315306|-75.452556|TBI|KZMO|0
-MYCC|North Cay. Bimini|25.555278|-79.276056||KZMO|0
-MYCH|Hawks Nest. Cat Island|24.154194|-75.520278||KZMO|0
-MYCI|Colonel Hill. Crooked Island|22.745389|-74.1825|CRI|KZMO|0
-MYCP|Pitts Town. Crooked Island|22.829722|-74.346417|PWN|KZMO|0
-MYCX|Cutlass Bay. Cat Island|24.149139|-75.398056||KZMO|0
-MYCZ|Autec Heliport. North Andros|24.7095|-77.772639||KZMO|0
-MYEB|Black Point. Exuma|24.089278|-76.397917||KZMO|0
-MYEF|Exuma International Airport. Exuma|23.5625|-75.877556|GGT|KZMO|0
-MYEG|George Town. Exuma|23.466556|-75.781722||KZMO|0
-MYEH|North Eleuthera. Eleuthera|25.475611|-76.681333|ELH|KZMO|0
-MYEL|Lee Stocking Island. Exuma|23.775583|-76.103722||KZMO|0
-MYEM|Governor's Harbour. Eleuthera|25.284694|-76.330972|GHB|KZMO|0
-MYEN|Norman's Cay. Exuma|24.594306|-76.820083|NMC|KZMO|0
-MYER|Rock Sound. Eleuthera|24.895028|-76.176278|RSD|KZMO|0
-MYES|Staniel Cay. Exuma|24.169667|-76.439278|TYM|KZMO|0
-MYEY|Hog Cay. Exuma|23.397417|-75.497083||KZMO|0
-MYGD|Deep Water Cay. Grand Bahama|26.632528|-77.921972||KZMO|0
-MYGF|Freeport. Grand Bahama|26.558778|-78.695444|FPO|KZMO|0
-MYGM|Grand Bahama Aux. Grand Bahama|26.631833|-78.359833||KZMO|0
-MYGW|West End. Grand Bahama|26.686778|-78.978972|WTD|KZMO|0
-MYIG|Inagua Airport. Inagua|20.974972|-73.666917|IGA|KZMO|0
-MYLD|Deadman's Cay. Long Island|23.178722|-75.093667|LGI|KZMO|0
-MYLM|Cape Santa Maria. Long Island|23.648889|-75.323333||KZMO|0
-MYLR|Long Island. Long Island|23.011194|-74.905889||KZMO|0
-MYLS|Stella Maris. Long Island|23.583|-75.269|SML|KZMO|0
-MYMM|Mayaguana. Mayaguana|22.380556|-73.011139||KZMO|0
-MYNN|Nassau. New Providence|25.040278|-77.470278|NAS|KZMO|0
-MYRD|Duncan Cay. Ragged Island|22.181861|-75.729333|DCT|KZMO|0
-MYRP|Port Nelson. Rum Cay|23.683444|-74.83625||KZMO|0
-MYSM|San Salvador. San Salvador|24.063139|-74.523611|ZSA|KZMO|0
-MYXA|Fowl Cay. Exuma|24.270722|-76.540972||KZMO|0
-MYXC|Hog Cay. Long Island|23.601139|-75.339111||KZMO|0
-MYXD|Leaf Cay. Exuma|24.149417|-76.472917||KZMO|0
-MYXF|Little Darby Island. Exuma|23.857917|-76.222917||KZMO|0
-MYXH|Sampson Cay. Exuma|24.216278|-76.478583||KZMO|0
-MYXI|Scotland Cay. Abaco|26.641944|-77.067472||KZMO|0
+MYAB|Mangrove Cay. North Andros|24.287667|-77.684417|MAY|KZMA|0
+MYAF|Andros Town. North Andros|24.697972|-77.795667|ASD|KZMA|0
+MYAG|Castaway Cay. Abaco|26.090556|-77.539972||KZMA|0
+MYAK|Congo Town. North Andros|24.158805|-77.59|TZN|KZMA|0
+MYAM|Marsh Harbour. Abaco|26.511417|-77.083528|MHH|KZMA|0
+MYAN|San Andros. North Andros|25.053833|-78.049278|SAQ|KZMA|0
+MYAO|Moore's Island. Abaco|26.317917|-77.562306||KZMA|0
+MYAP|Spring Point. Acklins|22.441889|-73.970806|AXP|KZMA|0
+MYAS|Sandy Point. Abaco|26.004722|-77.395528||KZMA|0
+MYAT|Treasure Cay. Abaco|26.745333|-77.391|TCB|KZMA|0
+MYAW|Walkers Cay. Abaco|27.260417|-78.402222|WKR|KZMA|0
+MYAX|Spanish Cay|26.950278|-77.543611||KZMA|0
+MYBC|Chub Cay. Berry Islands|25.417167|-77.880694|CCZ|KZMA|0
+MYBG|Great Harbour Cay. Berry Islands|25.738389|-77.840278|GHC|KZMA|0
+MYBO|Ocean Cay. Bimini|25.422917|-79.209472||KZMA|0
+MYBS|South Bimini. Bimini|25.699972|-79.265222|BIM|KZMA|0
+MYBT|Cistern Cay. Berry Islands|25.779667|-77.885611||KZMA|0
+MYBW|Big Whale Cay. Berry Islands|25.402|-77.788417||KZMA|0
+MYBX|Little Whale Cay. Berry Islands|25.449583|-77.7595||KZMA|0
+MYCA|Arthur's Town. Cat Island|24.629694|-75.674417|ATC|KZMA|0
+MYCB|New Bight. Cat Island|24.315306|-75.452556|TBI|KZMA|0
+MYCC|North Cay. Bimini|25.555278|-79.276056||KZMA|0
+MYCH|Hawks Nest. Cat Island|24.154194|-75.520278||KZMA|0
+MYCI|Colonel Hill. Crooked Island|22.745389|-74.1825|CRI|KZMA|0
+MYCP|Pitts Town. Crooked Island|22.829722|-74.346417|PWN|KZMA|0
+MYCX|Cutlass Bay. Cat Island|24.149139|-75.398056||KZMA|0
+MYCZ|Autec Heliport. North Andros|24.7095|-77.772639||KZMA|0
+MYEB|Black Point. Exuma|24.089278|-76.397917||KZMA|0
+MYEF|Exuma International Airport. Exuma|23.5625|-75.877556|GGT|KZMA|0
+MYEG|George Town. Exuma|23.466556|-75.781722||KZMA|0
+MYEH|North Eleuthera. Eleuthera|25.475611|-76.681333|ELH|KZMA|0
+MYEL|Lee Stocking Island. Exuma|23.775583|-76.103722||KZMA|0
+MYEM|Governor's Harbour. Eleuthera|25.284694|-76.330972|GHB|KZMA|0
+MYEN|Norman's Cay. Exuma|24.594306|-76.820083|NMC|KZMA|0
+MYER|Rock Sound. Eleuthera|24.895028|-76.176278|RSD|KZMA|0
+MYES|Staniel Cay. Exuma|24.169667|-76.439278|TYM|KZMA|0
+MYEY|Hog Cay. Exuma|23.397417|-75.497083||KZMA|0
+MYGD|Deep Water Cay. Grand Bahama|26.632528|-77.921972||KZMA|0
+MYGF|Freeport. Grand Bahama|26.558778|-78.695444|FPO|KZMA|0
+MYGM|Grand Bahama Aux. Grand Bahama|26.631833|-78.359833||KZMA|0
+MYGW|West End. Grand Bahama|26.686778|-78.978972|WTD|KZMA|0
+MYIG|Inagua Airport. Inagua|20.974972|-73.666917|IGA|KZMA|0
+MYLD|Deadman's Cay. Long Island|23.178722|-75.093667|LGI|KZMA|0
+MYLM|Cape Santa Maria. Long Island|23.648889|-75.323333||KZMA|0
+MYLR|Long Island. Long Island|23.011194|-74.905889||KZMA|0
+MYLS|Stella Maris. Long Island|23.583|-75.269|SML|KZMA|0
+MYMM|Mayaguana. Mayaguana|22.380556|-73.011139||KZMA|0
+MYNN|Nassau. New Providence|25.040278|-77.470278|NAS|KZMA|0
+MYRD|Duncan Cay. Ragged Island|22.181861|-75.729333|DCT|KZMA|0
+MYRP|Port Nelson. Rum Cay|23.683444|-74.83625||KZMA|0
+MYSM|San Salvador. San Salvador|24.063139|-74.523611|ZSA|KZMA|0
+MYXA|Fowl Cay. Exuma|24.270722|-76.540972||KZMA|0
+MYXC|Hog Cay. Long Island|23.601139|-75.339111||KZMA|0
+MYXD|Leaf Cay. Exuma|24.149417|-76.472917||KZMA|0
+MYXF|Little Darby Island. Exuma|23.857917|-76.222917||KZMA|0
+MYXH|Sampson Cay. Exuma|24.216278|-76.478583||KZMA|0
+MYXI|Scotland Cay. Abaco|26.641944|-77.067472||KZMA|0
 MZBA|Belize Aquaculture Ltd Airstrip|16.651167|-88.376||MHCC|0
 MZBB|Blackbird Caye Airstrip|17.320833|-87.8||MHCC|0
 MZBC|Blue Creek Agricultural Airstrip|17.901667|-88.969444||MHCC|0

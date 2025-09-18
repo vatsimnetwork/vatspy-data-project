@@ -19637,8 +19637,8 @@ ORBB|Baghdad|ORBB_N|ORBB
 ORBB-S|Baghdad South|ORBB_S|ORBB-S
 ORBB-S|Baghdad Upper South|ORBB_V|ORBB-S
 ORBB-W|Baghdad West|ORBB_W|ORBB-W
-ORBB-K|Baghdad Kirkuk|ORBB_1|ORBB-1
-ORBB-C|Baghdad Central|ORBB_2|ORBB-2
+ORBB-K|Baghdad Kirkuk (Below FL345)|ORBB_1|ORBB-1
+ORBB-C|Baghdad Central (Below FL345)|ORBB_2|ORBB-2
 OSTT|Damascus (OLBB FL195-FL460)|OSTT|OSTT
 OTDF|Doha||OTDF
 OTDF-N|Doha (North SFC-FL245)|OTDF_N|OTDF-N
@@ -20282,3 +20282,4 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -45.0|-172.5
 -52.0|-180.0
 -90.0|-180.0
+

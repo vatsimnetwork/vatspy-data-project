@@ -19212,7 +19212,7 @@ ESOS-1|Stockholm ACC (1) - Sweden|ESOS_1|ESOS-1
 ESOS-9|Stockholm ACC (9) - Sweden|ESOS_9|ESOS-9
 ESOS-K|Stockholm ACC (K) - Sweden|ESOS_K|ESOS-K
 ESOS-N|Stockholm ACC (N) - Sweden|ESOS_N|ESOS-N
-ESSR|Stockholm RTC - Sweden||ESAA
+ESSR|RTC Stockholm - Sweden||ESOS
 EVRR|Riga||EVRR
 EYVL|Vilnius||EYVL
 EYVL-E|Vilnius|EYVL-E|EYVL-E
@@ -20277,4 +20277,5 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -15.0|-172.5
 -45.0|-172.5
 -52.0|-180.0
+
 -90.0|-180.0

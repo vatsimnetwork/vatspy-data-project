@@ -18516,16 +18516,16 @@ GCCC-RW3|Canarias (North West Sector) - Canarias|GCCC_RW3|GCCC-RW3
 GCCO|Canarias Oceanic||GCCO
 GLRB|Roberts||GLRB
 GMAC|Agadir||GMAC
-GMAC_O|Agadir Oceanic Sector|GMAC_O|GMAC-O
-GMAC-ON|Agadir Oceanic North Sector|GMAC_ON|GMAC-ON
-GMAC-OS|Agadir|Oceanic South Sector|GMAC_OS|GMAC-ON
-GMAC-W|Agadir West Sector|GMAC_W|GMAC-W
-GMAC-WS|Agadir Oceanic South West Sector|GMAC_WS|GMAC-WS
-GMAC-WN|Agadir North West Sector|GMAC_WN|GMAC-WN
+GMAC_O|Agadir Oceanic|GMAC_O|GMAC-O
+GMAC-ON|Agadir Oceanic North|GMAC_ON|GMAC-ON
+GMAC-OS|Agadir|Oceanic South|GMAC_OS|GMAC-OS
+GMAC-W|Agadir West|GMAC_W|GMAC-W
+GMAC-WS|Agadir Oceanic South West|GMAC_WS|GMAC-WS
+GMAC-WN|Agadir North West|GMAC_WN|GMAC-WN
 GMMM|Casablanca||GMMM
-GMMM-S|Casablanca South Sector|GMMM_S|GMMM-S
-GMMM-N|Casablanca North Sector|GMMM_N|GMMM-N
-GMMM-E|Casablanca East Sector|GMMM_E|GMMM-E
+GMMM-S|Casablanca South|GMMM_S|GMMM-S
+GMMM-N|Casablanca North|GMMM_N|GMMM-N
+GMMM-E|Casablanca East|GMMM_E|GMMM-E
 GOOC|Dakar Oceanic||GOOC
 GOOO|Dakar||GOOO
 GVSC|Sal Oceanic||GVSC
@@ -19564,4 +19564,5 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -45.0|-172.5
 -52.0|-180.0
 -90.0|-180.0
+
 

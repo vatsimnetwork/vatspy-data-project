@@ -18526,6 +18526,7 @@ GMMM|Casablanca||GMMM
 GMMM-S|Casablanca South|GMMM_S|GMMM-S
 GMMM-N|Casablanca North|GMMM_N|GMMM-N
 GMMM-E|Casablanca East|GMMM_E|GMMM-E
+GMMM-NE|Casablanca North East|GMMM_NE|GMMM-NE
 GOOC|Dakar Oceanic||GOOC
 GOOO|Dakar||GOOO
 GVSC|Sal Oceanic||GVSC
@@ -19564,6 +19565,7 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -45.0|-172.5
 -52.0|-180.0
 -90.0|-180.0
+
 
 
 

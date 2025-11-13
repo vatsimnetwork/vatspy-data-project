@@ -319,6 +319,7 @@ USA|PW|
 Vanuatu|NV|Centre
 Venezuela|SV|
 Vietnam|VV|Control
+Vietnam|XV|Radar
 Virgin Islands (British)|TU|
 Virgin Islands (US)|TI|
 Wallis and Futuna|NL|
@@ -19281,7 +19282,7 @@ VABF-UAC|Upper Area Control - Mumbai|VABF_UAC|VABF-UAC
 VANP|Nagpur ACC - Mumbai||VANP
 VANP-UAC|Nagpur (Upper) ACC - Mumbai|VANP_UAC|VANP-UAC
 VCCF|Colombo||VCCF
-VCL|Mekong|VCL|VCL
+XVCL|Mekong|VCL|XVCL
 VDPF|Phnom Penh||VDPF
 VEBN|Varanasi ACC - Kolkata||VEBN
 VECC|Kolkata ACC - Kolkata||VECC

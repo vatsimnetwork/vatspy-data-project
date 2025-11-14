@@ -18424,19 +18424,20 @@ EHML|Bandbox CRC (Military)||EHAA
 EIDW|Dublin ACC (Up to FL245) - Dublin||EIDW
 EISN|Shannon ACC - Shannon||EISN
 EISN-L|Shannon ACC (Up to FL245) - Shannon|EISN_LS|EISN-L
-EKDK|Kobenhavn||EKDK
-EKDK-E|Kobenhavn (East)|EKDK_E|EKDK-E
-EKDK-E|Kobenhavn (East)|EKDK_D|EKDK-E
-EKDK-E|Kobenhavn (East)|EKDK_I|EKDK-E
+EKDK|Kobenhavn ACC||EKDK
+EKDK-E|Kobenhavn (East)|EKDK_A|EKDK-E
 EKDK-E|Kobenhavn (East)|EKDK_B|EKDK-E
 EKDK-E|Kobenhavn (East)|EKDK_C|EKDK-E
-EKDK-E|Kobenhavn (East)|EKDK_A|EKDK-E
-EKDK-E|Kobenhavn (East)|EKDK_OE|EKDK-E
-EKDK-UN|Kobenhavn (Sector UN)|EKDK_UN|EKDK-UN
+EKDK-E|Kobenhavn (East)|EKDK_D|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_E|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_I|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_UA|EKDK-E
+EKDK-E|Kobenhavn (East)|EKDK_UC|EKDK-E
+EKDK-L|Kobenhavn (West Low)|EKDK_L|EKDK-L
 EKDK-W|Kobenhavn (West)|EKDK_V|EKDK-W
 EKDK-W|Kobenhavn (West)|EKDK_N|EKDK-W
-EKDK-W|Kobenhavn (West)|EKDK_L|EKDK-W
-EKDK-W|Kobenhavn (West)|EKDK_S|EKDK-W
+EKDK-W|Kobenhavn ACC|EKDK_UN|EKDK
+EKDK-W|Kobenhavn ACC|EKDK_UV|EKDK
 ENBD|Bodo ACC - Polaris||ENBD
 ENBD-19|Bodø ACC - Polaris|ENBD_19|ENBD-19
 ENBD-C|Bodø ACC (Central) - Polaris|ENBD_C|ENBD-C
@@ -19578,3 +19579,4 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -45.0|-172.5
 -52.0|-180.0
 -90.0|-180.0
+

@@ -19065,8 +19065,8 @@ MNL-S|Manila South Combined|MNL_S|MNL-S
 MNL-NW|Manila Northwest ACC|MNL_NW|MNL-NW
 MNL-NE|Manila Oceanic|MNL_NE|MNL-NE
 MNL-SE|Manila Southeast ACC|MNL_SE|MNL-SE
-MNL-S|Manila South ACC|MNL_S|MNL-S
-MNL-SW|Manila West ACC|MNL_SW|MNL-SW
+MNL-SW|Manila Southwest ACC|MNL_SW|MNL-SW
+MNL-W|Manila West ACC|MNL_W|MNL-W
 SACF|Cordoba||SACF
 SACO|Cordoba TMA - Cordoba||SACO
 SAEF|Ezeiza||SAEF
@@ -19583,5 +19583,6 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -45.0|-172.5
 -52.0|-180.0
 -90.0|-180.0
+
 
 

@@ -18847,7 +18847,6 @@ OPLR|Lahore (Islamabad)|ISB|OPLR
 OPLR|Lahore|OPLR-S|OPLR
 OPLR|Lahore|OPLR-W|OPLR
 ORBB|Baghdad||ORBB
-ORBB-N|Baghdad North|ORBB_N|ORBB-N
 ORBB-S|Baghdad South|ORBB_S|ORBB-S
 OSTT|Damascus|OSDI|OSTT
 OTDF|Doha||OTDF
@@ -19515,4 +19514,5 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -45.0|-172.5
 -52.0|-180.0
 -90.0|-180.0
+
 

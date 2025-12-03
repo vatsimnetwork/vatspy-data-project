@@ -185,7 +185,7 @@ Moldova|LU|Control
 Mongolia|ZM|Control
 Montserrat|TR|
 Morocco|GM|Radar
-Mozambique|FQ|
+Mozambique|FQ|Control
 Myanmar|VY|Control
 Namibia|FY|Radar
 Nauru|AN|
@@ -18439,6 +18439,7 @@ FLFI|Lusaka||FLFI
 FMMM|Antananarivo||FMMM
 FNAN|Luanda||FNAN
 FQBE|Beira||FQBE
+FQMA|Maputo||FQMA
 FSSS|Seychelles||FSSS
 FTTT|N'Djamena||FTTT
 FVHF|Harare||FVHF
@@ -18456,7 +18457,18 @@ GCCC-RW3|Canarias (North West Sector) - Canarias|GCCC_RW3|GCCC-RW3
 GCCO|Canarias Oceanic||GCCO
 GLRB|Roberts||GLRB
 GMAC|Agadir||GMAC
+GMAC_O|Agadir Oceanic|GMAC_O|GMAC-O
+GMAC-ON|Agadir Oceanic North|GMAC_ON|GMAC-ON
+GMAC-OS|Agadir Oceanic South|GMAC_OS|GMAC-OS
+GMAC-W|Agadir West|GMAC_W|GMAC-W
+GMAC-WS|Agadir Oceanic South West|GMAC_WS|GMAC-WS
+GMAC-WN|Agadir North West|GMAC_WN|GMAC-WN
+GMMM|Casablanca|GMMM_ALL|GMMM-ALL
 GMMM|Casablanca||GMMM
+GMMM-S|Casablanca South|GMMM_S|GMMM-S
+GMMM-N|Casablanca North|GMMM_N|GMMM-N
+GMMM-E|Casablanca East|GMMM_E|GMMM-E
+GMMM-NE|Casablanca North East|GMMM_NE|GMMM-NE
 GOOC|Dakar Oceanic||GOOC
 GOOO|Dakar||GOOO
 GVSC|Sal Oceanic||GVSC
@@ -18848,7 +18860,6 @@ OPLR|Lahore (Islamabad)|ISB|OPLR
 OPLR|Lahore|OPLR-S|OPLR
 OPLR|Lahore|OPLR-W|OPLR
 ORBB|Baghdad||ORBB
-ORBB-N|Baghdad North|ORBB_N|ORBB-N
 ORBB-S|Baghdad South|ORBB_S|ORBB-S
 OSTT|Damascus|OSDI|OSTT
 OTDF|Doha||OTDF
@@ -19516,4 +19527,5 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -45.0|-172.5
 -52.0|-180.0
 -90.0|-180.0
+
 

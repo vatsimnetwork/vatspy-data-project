@@ -7,6 +7,7 @@
   "scripts": {
     "validate-schema": "node --experimental-strip-types bin/validate-schema.ts",
     "validate-dat": "node --experimental-strip-types bin/validate-dat.ts",
+    "reformat": "node --experimental-strip-types bin/reformat.ts",
     "check-contributor": "node --experimental-strip-types bin/contributor.ts"
   },
   "dependencies": {
@@ -17,10 +18,10 @@
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
-    "@types/node": "^24.3.0",
+    "@types/node": "^25.0.3",
     "geojson": "^0.5.0",
     "tsc": "^2.0.4",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.3"
   },
-  "packageManager": "yarn@4.9.4"
+  "packageManager": "yarn@4.12.0"
 }

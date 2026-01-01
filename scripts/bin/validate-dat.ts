@@ -102,9 +102,15 @@ for (const airport of parsedDat.airports) {
         count('airport-iata', airport.iata)
 }
 
+const featureIds = new Set();
+
+for(const feature of boundaries.features) {
+    featureIds.add(feature.properties.id);
+}
+
 for (const fir of parsedDat.firs) {
     if (!fir.icao || !fir.name || !fir.boundary) throw new Error(`Fir ${fir.icao} validation failed`)
-    const boundary = boundaries.features.find((x: any) => x.properties.id === fir.boundary)
+    const boundary = featureIds.has(fir.boundary)
     if (!boundary) throw new Error(`Fir ${fir.icao} boundary was not found`)
 
     if (fir.callsign)

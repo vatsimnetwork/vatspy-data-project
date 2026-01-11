@@ -18278,15 +18278,15 @@ EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_TEG|EDMM-ZUG
 EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_TRU|EDMM-ZUG
 EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_WLD|EDMM-ZUG
 EDWW|Bremen||EDWW
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_A|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_H|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_E|EDWW-A
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_F|EDWW-B
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_B|EDWW-B
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_K|EDWW-B
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_M|EDWW-B
-EDWW-S|Bremen ACC (Ems) - Bremen|EDWW_R|EDWW-S
-EDWW-S|Bremen ACC (Ems) - Bremen|EDWW_S|EDWW-S
+EDWW-ALR|Bremen ACC (Aller) - Bremen|EDWW_ALR|EDWW-ALR
+EDWW-ALR|Bremen ACC (Aller) - Bremen|EDWW_HEI|EDWW-ALR
+EDWW-ALR|Bremen ACC (Aller) - Bremen|EDWW_EID|EDWW-ALR
+EDWW-FLG|Bremen ACC (Flaeming) - Bremen|EDWW_FLG|EDWW-FLG
+EDWW-BOR|Bremen ACC (Boerde) - Bremen|EDWW_BOR|EDWW-BOR
+EDWW-MAR|Bremen ACC (Mark) - Bremen|EDWW_MAR|EDWW-MAR
+EDWW-MRZ|Bremen ACC (Mueritz) - Bremen|EDWW_MRZ|EDWW-MRZ
+EDWW-EMS|Bremen ACC (Ems) - Bremen|EDWW_HRZ|EDWW-EMS
+EDWW-EMS|Bremen ACC (Ems) - Bremen|EDWW_EMS|EDWW-EMS
 EDWW-W|Bremen ACC (West) - Bremen|EDWW_W|EDWW-W
 EDXX|Langen Information - FIS only|EDXX_FIS|EDXX
 EETT|Tallinn||EETT
@@ -19538,4 +19538,5 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -15.0|-172.5
 -45.0|-172.5
 -52.0|-180.0
+
 -90.0|-180.0

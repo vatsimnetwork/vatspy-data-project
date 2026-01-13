@@ -19355,7 +19355,7 @@ YASP|Melbourne (Alice Springs) 128.85|ML-ASP|YASP
 YASW|Melbourne (Alice Springs West) 131.8* (128.85)|ML-ASW|YASW
 YAUG|Melbourne (Augusta) 127.05* (123.05)|ML-AUG|YAUG
 YBAR|Brisbane (Barra) 123.8* (120.15)|BN-BAR|YBAR
-YBIK|Melbourne (Bindook) 129.8* (128.4)|ML-BIK|YBIK
+YBIK|Melbourne (Bindook) 129.8* (133.15)|ML-BIK|YBIK
 YBKE|Melbourne (Bourke) 128.2* (128.85)|ML-BKE|YBKE
 YBLA|Melbourne (Benalla) 132.2|ML-BLA|YBLA
 YBUR|Brisbane (Burnett) 123.0* (134.2)|BN-BUR|YBUR
@@ -19371,7 +19371,7 @@ YFOR|Melbourne (Forrest) 132.7* (128.85)|ML-FOR|YFOR
 YGEL|Melbourne (Geraldton) 134.2* (118.2)|ML-GEL|YGEL
 YGOL|Brisbane (Gold Coast) 130.4* (134.2)|BN-GOL|YGOL
 YGTH|Melbourne (Griffith) 122.75* (132.6)|ML-GTH|YGTH
-YGUN|Melbourne (Gundagai) 128.4|ML-GUN|YGUN
+YGUN|Melbourne (Gundagai) 133.15|ML-GUN|YGUN
 YGVE|Melbourne (Grove) 133.8* (118.2)|ML-GVE|YGVE
 YHUO|Melbourne (Huon) 122.6|ML-HUO|YHUO
 YHWE|Brisbane (Howe) 124.95|BN-HWE|YHWE
@@ -19382,7 +19382,7 @@ YINL|Brisbane (Inverell) 134.2|BN-INL|YINL
 YINS|Brisbane Radio (Indian South) 123.2* (129.25)|ML-INS|YINS
 YISA|Brisbane (Isa) 125.7|BN-ISA|YISA
 YJAR|Melbourne (Jarrah) 120.3* (118.2)|ML-JAR|YJAR
-YKAT|Melbourne (Katoomba) 133.5* (128.4)|ML-KAT|YKAT
+YKAT|Melbourne (Katoomba) 133.5* (133.15)|ML-KAT|YKAT
 YKEN|Brisbane (Kennedy) 120.15|BN-KEN|YKEN
 YKIY|Brisbane (Kimberley) 133.4* (123.85)|BN-KIY|YKIY
 YKPL|Brisbane (Keppel) 125.9|BN-KPL|YKPL

@@ -1,0 +1,31 @@
+name: Notify CCAMS Server on release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get App token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.REPO_CCAMS_APP_ID }}
+          private-key: ${{ secrets.REPO_CCAMS_PRIVATE_KEY }}
+          owner: kusterjs
+          repositories: CCAMS-server
+
+      - name: Dispatch to CCAMS Server
+        run: |
+          curl -X POST \
+            -H "Authorization: Bearer ${{ steps.app-token.outputs.token }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/kusterjs/CCAMS-server/dispatches \
+            -d '{
+              "event_type": "dispatch-vatspy-data-release",
+              "client_payload": {
+                "repository": "'"${{ github.repository }}"'",
+                "tag": "'"${{ github.event.release.tag_name }}"'"
+              }
+            }'

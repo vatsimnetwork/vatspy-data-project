@@ -51,7 +51,7 @@ for (let i = 0; i < boundariesFile.length; i++) {
             }
         }
 
-        boundariesFile.splice(targetIndex, 0, line);
+        boundariesFile.splice(targetIndex, 0, origLine);
         indexes.splice(targetIndex, 0, json.properties!.id);
 
         console.log(`changed ${json.properties!.id} index from ${i} to ${targetIndex}`)

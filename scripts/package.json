@@ -6,6 +6,7 @@
   },
   "scripts": {
     "validate-schema": "node --experimental-strip-types bin/validate-schema.ts",
+    "reorder-schema": "node --experimental-strip-types bin/reorder-schema.ts",
     "validate-dat": "node --experimental-strip-types bin/validate-dat.ts",
     "reformat": "node --experimental-strip-types bin/reformat.ts",
     "check-contributor": "node --experimental-strip-types bin/contributor.ts"
@@ -18,7 +19,7 @@
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
-    "@types/node": "^25.0.3",
+    "@types/node": "^25.0.9",
     "geojson": "^0.5.0",
     "tsc": "^2.0.4",
     "typescript": "^5.9.3"

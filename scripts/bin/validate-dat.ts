@@ -1,7 +1,7 @@
 import {fileURLToPath} from 'url';
 import {readFileSync} from 'fs';
 import {join} from 'path';
-import {isValidCoordinates, parseDatFile} from "../utils/index.ts";
+import {isValidCoordinates, parseDatFile, validateAlphabetPosition} from "../utils/index.ts";
 
 const path = fileURLToPath(new URL(import.meta.url).toString());
 const dat = readFileSync(join(path, '../../../VATSpy.dat'), 'utf-8')
@@ -76,6 +76,7 @@ for (const country of parsedDat.countries) {
     if (country.callsign === undefined) throw new Error(`Country ${country.code} is missing callsign (should be at least empty)`);
 
     count('countries', country.code)
+    validateAlphabetPosition('countries', country.country)
 }
 
 for (const airport of parsedDat.airports) {
@@ -95,27 +96,38 @@ for (const airport of parsedDat.airports) {
         throw new Error(`Airport ${airport.icao} is duplicated`)
     }
 
+    validateAlphabetPosition('airport', airport.icao)
+
     if (airport.iata)
         count('airport-iata', airport.iata)
 }
 
+const featureIds = new Set();
+
+for(const feature of boundaries.features) {
+    featureIds.add(feature.properties.id);
+}
+
 for (const fir of parsedDat.firs) {
     if (!fir.icao || !fir.name || !fir.boundary) throw new Error(`Fir ${fir.icao} validation failed`)
-    const boundary = boundaries.features.find((x: any) => x.properties.id === fir.boundary)
+    const boundary = featureIds.has(fir.boundary)
     if (!boundary) throw new Error(`Fir ${fir.icao} boundary was not found`)
 
     if (fir.callsign)
         count('fir-callsign-and-icao', fir.callsign + fir.icao)
     else count('fir-icao', fir.icao)
+
+    validateAlphabetPosition('fir', fir.icao)
 }
 
-for (const fir of parsedDat.uirs) {
-    if (!fir.icao || !fir.name || !fir.firs) throw new Error(`UIR ${fir.icao} validation failed`)
-    const firs = fir.firs.split(',')
+for (const uir of parsedDat.uirs) {
+    if (!uir.icao || !uir.name || !uir.firs) throw new Error(`UIR ${uir.icao} validation failed`)
+    const firs = uir.firs.split(',')
     const missing = firs.filter(x => !parsedDat.firs.some(y => y.icao === x))
-    if (missing.length) throw new Error(`${missing} for UIR ${fir.icao} missing in FIRs`)
+    if (missing.length) throw new Error(`${missing} for UIR ${uir.icao} missing in FIRs`)
 
-    count('uir', fir.icao)
+    count('uir', uir.icao)
+    validateAlphabetPosition('uir', uir.icao)
 }
 
 for (const idl of parsedDat.idl) {

@@ -2,7 +2,7 @@ import {fileURLToPath} from 'url';
 import {readFileSync} from 'fs';
 import {join} from 'path';
 import Ajv from "ajv/dist/2020.js";
-import {isValidCoordinates, parseDatFile} from "../utils/index.ts";
+import {isValidCoordinates, parseDatFile, validateAlphabetPosition} from "../utils/index.ts";
 import type {FeatureCollection, MultiPolygon} from 'geojson'
 
 const path = fileURLToPath(new URL(import.meta.url).toString());
@@ -42,6 +42,7 @@ for (const fir of parsedDat.firs) {
 }
 
 for (const boundary of boundaries.features) {
+    validateAlphabetPosition('boundary', boundary.properties.id)
     if (!datBoundaries.has(boundary.properties.id)) throw new Error(`Definition is missing in .dat file for ${boundary.properties.id}`)
 
     for (const root of boundary.geometry.coordinates) {

@@ -265,7 +265,6 @@ Switzerland|LS|Radar
 Syria|OS|Radar
 Taiwan|RC|Control
 Tajikistan-Turkmenistan|UT|
-Uzbekistan|UZ|
 Tanzania|HT|
 Thailand|VT|Control
 Togo|DX|
@@ -316,6 +315,7 @@ USA|PO|
 USA|PP|
 USA|PT|
 USA|PW|
+Uzbekistan|UZ|
 Vanuatu|NV|Centre
 Venezuela|SV|
 Vietnam|VV|Control
@@ -18449,12 +18449,12 @@ FWLL|Lilongwe||FWLL
 FYWF|Windhoek||FYWF
 FZZA|Kinshasa||FZZA
 GCCC|Canarias||GCCC
+GCCC-NEL|Canarias (-FL285) - Canarias|GCCC_NEL|GCCC-NEL
 GCCC-R6|Canarias|GCCC_R6|GCCC-R6
 GCCC-RC2|Canarias (Central Sector) - Canarias|GCCC_RC2|GCCC-RC2
 GCCC-RCW|Canarias (Central West Sector) - Canarias|GCCC_RCW|GCCC-RCW
 GCCC-RES|Canarias (South East Sector Combined) - Canarias|GCCC_RES|GCCC-RES
 GCCC-RNE|Canarias (North East Sector) - Canarias|GCCC_RNE|GCCC-RNE
-GCCC-NEL|Canarias (-FL285) - Canarias|GCCC_NEL|GCCC-NEL
 GCCC-RW3|Canarias (North West Sector) - Canarias|GCCC_RW3|GCCC-RW3
 GCCO|Canarias Oceanic||GCCO
 GLRB|Roberts||GLRB
@@ -18463,14 +18463,14 @@ GMAC_O|Agadir Oceanic|GMAC_O|GMAC-O
 GMAC-ON|Agadir Oceanic North|GMAC_ON|GMAC-ON
 GMAC-OS|Agadir Oceanic South|GMAC_OS|GMAC-OS
 GMAC-W|Agadir West|GMAC_W|GMAC-W
-GMAC-WS|Agadir Oceanic South West|GMAC_WS|GMAC-WS
 GMAC-WN|Agadir North West|GMAC_WN|GMAC-WN
-GMMM-ALL|Casablanca|GMMM_ALL|GMMM-ALL
+GMAC-WS|Agadir Oceanic South West|GMAC_WS|GMAC-WS
 GMMM|Casablanca||GMMM
-GMMM-S|Casablanca South|GMMM_S|GMMM-S
-GMMM-N|Casablanca North|GMMM_N|GMMM-N
+GMMM-ALL|Casablanca|GMMM_ALL|GMMM-ALL
 GMMM-E|Casablanca East|GMMM_E|GMMM-E
+GMMM-N|Casablanca North|GMMM_N|GMMM-N
 GMMM-NE|Casablanca North East|GMMM_NE|GMMM-NE
+GMMM-S|Casablanca South|GMMM_S|GMMM-S
 GOOC|Dakar Oceanic||GOOC
 GOOO|Dakar||GOOO
 GVSC|Sal Oceanic||GVSC
@@ -18522,7 +18522,6 @@ KZLA|Los Angeles|LAX|KZLA
 KZLA|Los Angeles|LA|KZLA
 KZLC|Salt Lake City|SLC|KZLC
 KZMA|Miami|MIA|KZMA
-KZMA-OCN|Miami|ZMO|KZMA-OCN
 KZMA-N|Miami|ZMA|KZMA-N
 KZMA-N|Miami|MIA_N|KZMA-N
 KZMA-N|Miami|MIA_N1|KZMA-N
@@ -18534,6 +18533,7 @@ KZMA-N|Miami|MIA_N6|KZMA-N
 KZMA-N|Miami|MIA_N7|KZMA-N
 KZMA-N|Miami|MIA_N8|KZMA-N
 KZMA-N|Miami|MIA_N9|KZMA-N
+KZMA-OCN|Miami|ZMO|KZMA-OCN
 KZME|Memphis|MEM|KZME
 KZMP|Minneapolis|MSP|KZMP
 KZNY|New York|NY|KZNY
@@ -18585,9 +18585,9 @@ LECM-ZMI|Madrid (Zamora Sector) - Madrid|LECM_ZMI|LECM-ZMI
 LECM-ZMU|Madrid (Covers Above FL345 Zamora Sector) - Madrid|LECM_ZMU|LECM-ZMU
 LECP|Palma (FL245-)|LEPA|LECP
 LECS|Sevilla||LECS
+LECS-CEN|Sevilla (FL305-) - Sevilla|LECS_CEN|LECS-CEN
 LECS-NCS|Sevilla (East) - Sevilla|LECS_NCS|LECS-NCS
 LECS-SM2|Sevilla (West) - Sevilla|LECS_SM2|LECS-SM2
-LECS-CEN|Sevilla (FL305-) - Sevilla|LECS_CEN|LECS-CEN
 LFBB|Bordeaux||LFBB
 LFBB-H|Bordeaux ACC (FL195+) - Bordeaux|LFBB_H|LFBB-H
 LFBB-L|Bordeaux ACC (FL195+) - Bordeaux|LFBB_L|LFBB-L
@@ -18663,11 +18663,11 @@ LFFF-OPKZ|Paris|PAR_OT|LFFF-OPKZ
 LFFF-RPAE|Paris|PAR_RPAE|LFFF-RPAE
 LFFF-RPAW|Paris|PAR_RPAW|LFFF-RPAW
 LFMM|Marseille||LFMM
-LFMM-RAE|Marseille|LFMM_E|LFMM-MME
-LFMM-RAW|Marseille|LFMM_EU|LFMM-MEU
-LFMM-RAE|Marseille|LFMM_RAE|LFMM-MRAE
-LFMM-RAW|Marseille|LFMM_RAW|LFMM-MRAW
 LFMM|Marseille|LFMM_U|LFMM
+LFMM-RAE|Marseille|LFMM_E|LFMM-MME
+LFMM-RAE|Marseille|LFMM_RAE|LFMM-MRAE
+LFMM-RAW|Marseille|LFMM_EU|LFMM-MEU
+LFMM-RAW|Marseille|LFMM_RAW|LFMM-MRAW
 LFMM-RAW|Marseille|LFMM_W|LFMM-MMW
 LFMM-RAW|Marseille|LFMM_WU|LFMM-MWU
 LFRR|Brest||LFRR
@@ -19070,31 +19070,31 @@ SPIM|Lima|LIM|SPIM
 SUEO|Montevideo||SUEO
 SVZM|Maiquetia||SVZM
 SYGC|Georgetown||SYGC
+TEH-1|Tehran 1|TEH_1|TEH-1
 TEH-1E|Tehran 1 East|TEH_1E|TEH-1E
 TEH-1N|Tehran 1 North|TEH_1N|TEH-1N
 TEH-1W|Tehran 1 West|TEH_1W|TEH-1W
+TEH-2|Tehran 2|TEH_2|TEH-2
 TEH-2E|Tehran 2 East|TEH_2E|TEH-2E
 TEH-2W|Tehran 2 West|TEH_2W|TEH-2W
+TEH-3|Tehran 3|TEH_3|TEH-3
 TEH-3N|Tehran 3 North|TEH_3N|TEH-3N
 TEH-3S|Tehran 3 South|TEH_3S|TEH-3S
+TEH-4|Tehran 4|TEH_4|TEH-4
 TEH-4E|Tehran 4 East|TEH_4E|TEH-4E
 TEH-4S|Tehran 4 South|TEH_4S|TEH-4S
 TEH-4W|Tehran 4 West|TEH_4W|TEH-4W
+TEH-5|Tehran 5|TEH_5|TEH-5
 TEH-5E|Tehran 5 East|TEH_5E|TEH-5E
 TEH-5W|Tehran 5 West|TEH_5W|TEH-5W
+TEH-6|Tehran 6|TEH_6|TEH-6
 TEH-6E|Tehran 6 East|TEH_6E|TEH-6E
 TEH-6W|Tehran 6 West|TEH_6W|TEH-6W
 TEH-7|Tehran 7|TEH_7|TEH-7
-TEH-1|Tehran 1|TEH_1|TEH-1
-TEH-2|Tehran 2|TEH_2|TEH-2
-TEH-3|Tehran 3|TEH_3|TEH-3
-TEH-4|Tehran 4|TEH_4|TEH-4
-TEH-5|Tehran 5|TEH_5|TEH-5
-TEH-6|Tehran 6|TEH_6|TEH-6
-TEH-W|Tehran West|TEH_W|TEH-W
 TEH-E|Tehran East|TEH_E|TEH-E
 TEH-N|Tehran North|TEH_N|TEH-N
 TEH-S|Tehran South|TEH_S|TEH-S
+TEH-W|Tehran West|TEH_W|TEH-W
 TJZS|San Juan|SJU|TJZS
 TNCF|Curaçao||TNCF
 TTZO|Piarco Oceanic||TTZO
@@ -19224,7 +19224,6 @@ VABF-UAC|Upper Area Control - Mumbai|VABF_UAC|VABF-UAC
 VANP|Nagpur ACC - Mumbai||VANP
 VANP-UAC|Nagpur (Upper) ACC - Mumbai|VANP_UAC|VANP-UAC
 VCCF|Colombo||VCCF
-XVCL|Mekong|VCL|XVCL
 VDPF|Phnom Penh||VDPF
 VEBN|Varanasi ACC - Kolkata||VEBN
 VECC|Kolkata ACC - Kolkata||VECC
@@ -19343,6 +19342,7 @@ WIIF-TG|Jakarta (Tanjungpinang)|WIIF_TG|WIIF-TG
 WIIF-TN|Jakarta (Tanjung Pandan)|WIIF_TN|WIIF-TN
 WMFC|Kuala Lumpur||WMFC
 WSJC|Singapore||WSJC
+XVCL|Mekong|VCL|XVCL
 YARA|Brisbane (Arafura) 133.7* (125.7)|BN-ARA|YARA
 YARL|Brisbane (Armidale) 130.9|BN-ARL|YARL
 YASH|Brisbane (Ashmore) 133.4* (123.85)|BN-ASH|YASH

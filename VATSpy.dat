@@ -18331,7 +18331,7 @@ EGTT-E|London TMA East (Up to FL245) - London|LTC_ES|EGTT-E
 EGTT-E|London TMA East (Up to FL245) - London|LTC_ER|EGTT-E
 EGTT-H|London ACC (Worthing) - London|LON_H|EGTT-H
 EGTT-H|London ACC (Worthing) - London|LON_SF|EGTT-H
-EGTT-H|London ACC (Worthing) - London|LON_SH|EGTT-H
+EGTT-H|London ACC (Worthing) - London|LON_HW|EGTT-H
 EGTT-M|London ACC (Daventry) - London|LON_M|EGTT-M
 EGTT-M|London ACC (Daventry) - London|LON_ME|EGTT-M
 EGTT-M|London ACC (Daventry) - London|LON_ML|EGTT-M
@@ -19541,4 +19541,5 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -45.0|-172.5
 -52.0|-180.0
 -90.0|-180.0
+
 

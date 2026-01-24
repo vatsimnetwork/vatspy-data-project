@@ -7692,7 +7692,7 @@ LECJ|Castejon De Los Monegros|41.608611|-0.217778||LECB|0
 LECN|Castellon (Private)|40.000278|0.025556|CDT|LECB|0
 LECO|La Coruna|43.302061|-8.377256||LECM|0
 LECT|El Castano|39.008889|-4.388333||LECM|0
-LECU|Madrid/Cuatro Vientos|40.370556|-3.785278||LECM|0
+LECU|Madrid/Cuatro Vientos|40.370556|-3.785278|LEVS|LECM|0
 LECV|Madrid-Colmenar|40.64972|-3.73306||LECM|0
 LEDA|Lleida/Alguaire|41.728056|0.535278||LECB|0
 LEEM|El Manantio|38.780556|-6.988889||LECM|0
@@ -18273,15 +18273,33 @@ EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_TEG|EDMM-ZUG
 EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_TRU|EDMM-ZUG
 EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_WLD|EDMM-ZUG
 EDWW|Bremen||EDWW
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_A|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_H|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_E|EDWW-A
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_F|EDWW-B
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_B|EDWW-B
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_K|EDWW-B
-EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_M|EDWW-B
-EDWW-S|Bremen ACC (Ems) - Bremen|EDWW_R|EDWW-S
-EDWW-S|Bremen ACC (Ems) - Bremen|EDWW_S|EDWW-S
+EDWW-ALR|Bremen ACC (Aller) - Bremen|EDWW_ALR|EDWW-ALR
+EDWW-ALR|Bremen ACC (Aller) - Bremen|EDWW_AL1|EDWW-ALR
+EDWW-ALR|Bremen ACC (Aller) - Bremen|EDWW_AL2|EDWW-ALR
+EDWW-ALR|Bremen ACC (Aller) - Bremen|EDWW_HEI|EDWW-ALR
+EDWW-ALR|Bremen ACC (Aller) - Bremen|EDWW_HE1|EDWW-ALR
+EDWW-ALR|Bremen ACC (Aller) - Bremen|EDWW_HE2|EDWW-ALR
+EDWW-ALR|Bremen ACC (Aller) - Bremen|EDWW_EID|EDWW-ALR
+EDWW-ALR|Bremen ACC (Aller) - Bremen|EDWW_EI1|EDWW-ALR
+EDWW-ALR|Bremen ACC (Aller) - Bremen|EDWW_EI2|EDWW-ALR
+EDWW-FLG|Bremen ACC (Flaeming) - Bremen|EDWW_FLG|EDWW-FLG
+EDWW-FLG|Bremen ACC (Flaeming) - Bremen|EDWW_FL1|EDWW-FLG
+EDWW-FLG|Bremen ACC (Flaeming) - Bremen|EDWW_FL2|EDWW-FLG
+EDWW-BOR|Bremen ACC (Boerde) - Bremen|EDWW_BOR|EDWW-BOR
+EDWW-BOR|Bremen ACC (Boerde) - Bremen|EDWW_BO1|EDWW-BOR
+EDWW-BOR|Bremen ACC (Boerde) - Bremen|EDWW_BO2|EDWW-BOR
+EDWW-MAR|Bremen ACC (Mark) - Bremen|EDWW_MAR|EDWW-MAR
+EDWW-MAR|Bremen ACC (Mark) - Bremen|EDWW_MA1|EDWW-MAR
+EDWW-MAR|Bremen ACC (Mark) - Bremen|EDWW_MA2|EDWW-MAR
+EDWW-MRZ|Bremen ACC (Mueritz) - Bremen|EDWW_MRZ|EDWW-MRZ
+EDWW-MRZ|Bremen ACC (Mueritz) - Bremen|EDWW_MR1|EDWW-MRZ
+EDWW-MRZ|Bremen ACC (Mueritz) - Bremen|EDWW_MR2|EDWW-MRZ
+EDWW-EMS|Bremen ACC (Ems) - Bremen|EDWW_HRZ|EDWW-EMS
+EDWW-EMS|Bremen ACC (Ems) - Bremen|EDWW_HR1|EDWW-EMS
+EDWW-EMS|Bremen ACC (Ems) - Bremen|EDWW_HR2|EDWW-EMS
+EDWW-EMS|Bremen ACC (Ems) - Bremen|EDWW_EMS|EDWW-EMS
+EDWW-EMS|Bremen ACC (Ems) - Bremen|EDWW_EM1|EDWW-EMS
+EDWW-EMS|Bremen ACC (Ems) - Bremen|EDWW_EM2|EDWW-EMS
 EDWW-W|Bremen ACC (West) - Bremen|EDWW_W|EDWW-W
 EDXX|Langen Information - FIS only|EDXX_FIS|EDXX
 EETT|Tallinn||EETT
@@ -19485,8 +19503,8 @@ CARI|Caribbean Control|MUFH,MKJK,MTEG,MDCS,TNCF,TJZS,TTZP
 CARW|Caribbean Control West|MUFH,MKJK,MTEG,TNCF
 EUC-EN|Eurocontrol|EPWW,LKAA,LZBB,LHCC
 EUC-ES|Eurocontrol|LIPP,LJLA,LDZO,LQSB,LIBB,LIRR,LMMM
-EUC-ME|Maastricht|EDWW-B,EDMM,EDGG-BAD,EDGG-DKB,EDGG-GIN,EDGG-RUD,LOVV
-EUC-MW|Maastricht|EDGG-PAH,EDWW-A,EHAA,EBBU
+EUC-ME|Maastricht|EDWW-BOR,EDMM,EDGG-BAD,EDGG-DKB,EDGG-GIN,EDGG-RUD,LOVV
+EUC-MW|Maastricht|EDGG-PAH,EDWW-ALR,EHAA,EBBU
 EUC-SE|Eurocontrol|LTAA,LTBB,LCCC
 EUC-SW|Eurocontrol|LRBB,LUUU,LBSR,LYBA,LGGG,LAAA,LWSS
 EUC-WN|Eurocontrol|LFBB,LFEE,LFMM,LFRR,LIMM,LSAS
@@ -19535,4 +19553,3 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -45.0|-172.5
 -52.0|-180.0
 -90.0|-180.0
-

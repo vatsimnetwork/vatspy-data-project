@@ -18342,6 +18342,9 @@ EGTT-E|London ACC (Clacton) - London|LON_EN|EGTT-E
 EGTT-E|London TMA East (Up to FL245) - London|LTC_E|EGTT-E
 EGTT-E|London TMA East (Up to FL245) - London|LTC_ES|EGTT-E
 EGTT-E|London TMA East (Up to FL245) - London|LTC_ER|EGTT-E
+EGTT-H|London ACC (Worthing) - London|LON_H|EGTT-H
+EGTT-H|London ACC (Worthing) - London|LON_SF|EGTT-H
+EGTT-H|London ACC (Worthing) - London|LON_HW|EGTT-H
 EGTT-M|London ACC (Daventry) - London|LON_M|EGTT-M
 EGTT-M|London ACC (Daventry) - London|LON_ME|EGTT-M
 EGTT-M|London ACC (Daventry) - London|LON_ML|EGTT-M
@@ -18353,9 +18356,8 @@ EGTT-NE|London ACC (North Sea) - London|LON_NE|EGTT-NE
 EGTT-NW|London ACC (Lakes) - London|LON_NW|EGTT-NW
 EGTT-NW|London ACC (Lakes) - London|LON_NU|EGTT-NW
 EGTT-S|London ACC (South) - London|LON_S|EGTT-S
-EGTT-S|London ACC (Worthing) - London|LON_SF|EGTT-S
-EGTT-S|London ACC (Worthing) - London|LON_SH|EGTT-S
 EGTT-S|London ACC (LUS) - London|LON_SU|EGTT-S
+EGTT-S|London ACC (LMS) - London|LON_SN|EGTT-S
 EGTT-SC|London ACC (South-Central) - London|LON_SC|EGTT-SC
 EGTT-W|London ACC (West) - London|LON_W|EGTT-W
 EGTT-W|London ACC (West) - London|LON_WH|EGTT-W

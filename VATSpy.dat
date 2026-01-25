@@ -19453,10 +19453,11 @@ YWON|Melbourne (Wonthaggi) 135.3* (122.6)|ML-WON|YWON
 YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
 YYWE|Melbourne (Yarrowee) 134.325* (132.6)|ML-YWE|YYWE
 ZBAA|Beijing ACC - Beijing FIR - Beijing||ZBAA
-ZBAA-C|Beijing ACC Central Sector - Beijing FIR - Beijing|ZBAA_C|ZBAA-C
+ZBAA-E|Beijing ACC East Sector - Beijing FIR - Beijing|ZBAA_C|ZBAA-C
 ZBAA-N|Beijing ACC North High Sector - Beijing FIR - Beijing|ZBAA_N|ZBAA-N
 ZBAA-S|Beijing ACC South High Sector - Beijing FIR - Beijing|ZBAA_S|ZBAA-S
-ZBAA-W|Beijing ACC West High Sector - Beijing FIR - Beijing|ZBAA_W|ZBAA-W
+ZBAA-W|Beijing ACC West Sector - Beijing FIR - Beijing|ZBAA_W|ZBAA-W
+ZBAA-SW|Beijing ACC Southwest Sector - Beijing FIR - Beijing|ZBAA_SW|ZBAA-SW
 ZBHH|Hohhot ACC - Beijing FIR - Hohhot||ZBHH
 ZBPE|Beijing FIR - Beijing||ZBPE
 ZGGG|Guangzhou ACC - Guangzhou FIR - Guangzhou||ZGGG

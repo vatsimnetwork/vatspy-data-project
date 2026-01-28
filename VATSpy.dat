@@ -19395,7 +19395,6 @@ YBLA|Melbourne (Benalla) 132.2|ML-BLA|YBLA
 YBUR|Brisbane (Burnett) 123.0* (134.2)|BN-BUR|YBUR
 YCNK|Brisbane (Cessnock) 123.4* (130.9)|BN-CNK|YCNK
 YCOL|Brisbane Radio (Coral) 133.15* (124.65)|BN-COL|YCOL
-YCRS|Melbourne (Cross) 135.8* (118.2)|ML-CRS|YCRS
 YCVN|Brisbane (Carnarvon) 133.8* (125.9)|BN-CVN|YCVN
 YDOS|Brisbane (Downs) 135.6* (134.2)|BN-DOS|YDOS
 YELW|Melbourne (Eildon Weir) 123.75* (132.2)|ML-ELW|YELW
@@ -19436,6 +19435,7 @@ YOXL|Melbourne (Oxley) 128.5* (132.6)|ML-OXL|YOXL
 YPAR|Melbourne (Paraburdoo) 133.5* (134.0)|ML-PAR|YPAR
 YPIY|Melbourne (Pingelly) 133.9* (118.2)|ML-PIY|YPIY
 YPOT|Melbourne (Port) 127.0* (134.0)|ML-POT|YPOT
+YSCR|Melbourne (Cross) 135.8* (118.2)|ML-SCR|YSCR
 YSDY|Brisbane (Straddy) 134.3* (134.2)|BN-SDY|YSDY
 YSNO|Melbourne (Snowy) 124.0* (125.0)|ML-SNO|YSNO
 YSTR|Brisbane (Sturt) 134.4* (125.7)|BN-STR|YSTR

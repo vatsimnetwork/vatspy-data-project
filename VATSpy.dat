@@ -18558,9 +18558,11 @@ KZJX-P|Jacksonville (Panhandle)|JAX_P|KZJX-P
 KZKC|Kansas City|MCI|KZKC
 KZKC-E|Kansas City (East)|MCI_E|KZKC-E
 KZKC-W|Kansas City (West)|MCI_W|KZKC-W
+KZKC-C|Kansas City (Central)|MCI_C|KZKC-C
 KZKC|Kansas City|KC|KZKC
 KZKC-E|Kansas City (East)|KC_E|KZKC-E
 KZKC-W|Kansas City (West)|KC_W|KZKC-W
+KZKC-C|Kansas City (Central)|MCI_C|KZKC-C
 KZLA|Los Angeles|LAX|KZLA
 KZLA|Los Angeles|LA|KZLA
 KZLC|Salt Lake City|SLC|KZLC

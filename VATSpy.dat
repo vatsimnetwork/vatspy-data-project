@@ -18245,8 +18245,8 @@ DAAA_SC|Algiers South Central|DAAA_SC|DAAA-SC
 DAAA_C|Algiers Central|DAAA_C|DAAA-C
 DAAA_W|Algiers West|DAAA_W|DAAA-W
 DAAA_E|Algiers East|DAAA_E|DAAA-E
-DAAA_SS|Algiers South Sector |DAAA_S|DAAA-S
-DAAA_SW|Algiers South West |DAAA_W|DAAA-W
+DAAA_SS|Algiers South Sector |DAAA_SS|DAAA-SS
+DAAA_SW|Algiers South West |DAAA_SW|DAAA-SW
 DAAA_SE|Algiers South East |DAAA_E|DAAA-E
 DGAC|Accra||DGAC
 DGAO|Accra Oceanic||DGAO
@@ -19584,3 +19584,4 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -52.0|-180.0
 
 -90.0|-180.0
+

@@ -17985,7 +17985,7 @@ ZLGL|Golog Maqin|34.418944|100.300907||ZLHW|0
 ZLGM|Golmud|36.399291|94.785314||ZLHW|0
 ZLGY|Guyuan Liupanshan|36.078831|106.216771||ZLHW|0
 ZLHB|Haibei Qilian|38.009244|100.645514||ZLHW|0
-ZLHX|Haixi Huatugou|38.198612|90.840403||ZLHW|0
+ZLHX|Haixi Mangya|38.198612|90.840403||ZLHW|0
 ZLHZ|Hanzhong Chenggu|33.133347|107.204095||ZLHW|0
 ZLIC|Yinchuan Hedong|38.320703|106.391976||ZLHW|0
 ZLJC|Jinchang Jinchuan|38.541677|102.347558||ZLHW|0
@@ -19461,10 +19461,11 @@ YWON|Melbourne (Wonthaggi) 135.3* (122.6)|ML-WON|YWON
 YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
 YYWE|Melbourne (Yarrowee) 134.325* (132.6)|ML-YWE|YYWE
 ZBAA|Beijing ACC - Beijing FIR - Beijing||ZBAA
-ZBAA-C|Beijing ACC Central Sector - Beijing FIR - Beijing|ZBAA_C|ZBAA-C
+ZBAA-E|Beijing ACC East Sector - Beijing FIR - Beijing|ZBAA_E|ZBAA-E
 ZBAA-N|Beijing ACC North High Sector - Beijing FIR - Beijing|ZBAA_N|ZBAA-N
 ZBAA-S|Beijing ACC South High Sector - Beijing FIR - Beijing|ZBAA_S|ZBAA-S
-ZBAA-W|Beijing ACC West High Sector - Beijing FIR - Beijing|ZBAA_W|ZBAA-W
+ZBAA-W|Beijing ACC West Sector - Beijing FIR - Beijing|ZBAA_W|ZBAA-W
+ZBAA-SW|Beijing ACC Southwest Sector - Beijing FIR - Beijing|ZBAA_SW|ZBAA-SW
 ZBHH|Hohhot ACC - Beijing FIR - Hohhot||ZBHH
 ZBPE|Beijing FIR - Beijing||ZBPE
 ZGGG|Guangzhou ACC - Guangzhou FIR - Guangzhou||ZGGG

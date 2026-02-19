@@ -18781,10 +18781,9 @@ LPPC-W|Lisboa - WEST Sector|LPPC_W|LPPC-W
 LPPO|Santa Maria|LPAZ|LPPO
 LPPO-TMA|Santa Maria Radar|LPPO|LPPO-TMA
 LQSB|Sarajevo|LQSA|LQSB
-LRBB|Bucuresti ACC (KONEL) - Bucharest||LRBB
-LRBB-A|Bucuresti ACC (DINAR) - Bucharest|LRBB_A|LRBB-A
-LRBB-B|Bucuresti ACC (BUDMO) - Bucharest|LRBB_B|LRBB-B
-LRBB-N|Bucuresti ACC (BANAP) - Bucharest|LRBB_N|LRBB-N
+LRBB|Bucuresti ACC (Bandbox Sector) - Bucharest||LRBB
+LRBB-E|Bucuresti ACC (East Sector) - Bucharest|LRBB_E|LRBB-E
+LRBB-W|Bucuresti ACC (West Sector) - Bucharest|LRBB_W|LRBB-W
 LSAG|Swiss Radar (Geneva ACC) - Switzerland||LSAG
 LSAS|Swiss Radar - Switzerland||LSAS
 LSAZ|Swiss Radar (Zurich ACC) - Switzerland||LSAZ

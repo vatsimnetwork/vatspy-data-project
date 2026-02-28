@@ -18213,7 +18213,7 @@ ADR-E|Adria Radar (East)|ADR_E|ADR-E
 ADR-W|Adria Radar (West)|ADR_W|ADR-W
 AGGG|Honiara||AGGG
 ANAU|Nauru||ANAU
-ANT|Antilles|ANT
+ANT|Antilles||ANT
 AYPM|Port Moresby||AYPM
 BAIRES|Baires TMA - Ezeiza||BAIRES
 BGGL|Nuuk||BGGL
@@ -19599,3 +19599,4 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -45.0|-172.5
 -52.0|-180.0
 -90.0|-180.0
+

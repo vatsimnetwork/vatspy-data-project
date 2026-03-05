@@ -18213,7 +18213,6 @@ ADR-E|Adria Radar (East)|ADR_E|ADR-E
 ADR-W|Adria Radar (West)|ADR_W|ADR-W
 AGGG|Honiara||AGGG
 ANAU|Nauru||ANAU
-ANT|Antilles||ANT
 AYPM|Port Moresby||AYPM
 BAIRES|Baires TMA - Ezeiza||BAIRES
 BGGL|Nuuk||BGGL
@@ -18850,6 +18849,7 @@ LUUU|Chisinau||LUUU
 LWSS|Skopje||LWSS
 LYBA|Beograd||LYBA
 LZBB|Bratislava||LZBB
+MDAT|Antilles|ANT|MDAT
 MDCS|Santo Domingo||MDCS
 MHCC|Cenamer||MHCC
 MKJK|Kingston||MKJK

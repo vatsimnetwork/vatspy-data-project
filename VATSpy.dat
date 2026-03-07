@@ -19064,18 +19064,21 @@ RKRR|Incheon ACC - Incheon||RKRR
 RKRR-N|Incheon ACC (North) - Incheon|RKRR_N|RKRR-N
 RKRR-S|Incheon ACC (South) - Incheon|RKRR_S|RKRR-S
 RPHI|Manila|MNL|RPHI
-RPHI-C|Manila Centeral Combined|MNL_C|RPHI-C
+RPHI-2|Manila South Combined|MNL_2|RPHI-2
+RPHI-C|Manila Central Combined|MNL_C|RPHI-C
 RPHI-CE|Manila Central East|MNL_CE|RPHI-CE
 RPHI-CN|Manila Central North|MNL_CN|RPHI-CN
 RPHI-CS|Manila Central South|MNL_CS|RPHI-CS
 RPHI-CW|Manila Central West|MNL_CW|RPHI-CW
 RPHI-N|Manila North Combined|MNL_N|RPHI-N
+RPHI-N1|Manila Central North Combined|MNL_N1|RPHI-N1
 RPHI-NE|Manila Oceanic|MNL_NE|RPHI-NE
-RPHI-NW|Manila Northwest ACC|MNL_NW|RPHI-NW
+RPHI-NW|Manila Northwest|MNL_NW|RPHI-NW
 RPHI-S|Manila South Combined|MNL_S|RPHI-S
-RPHI-SE|Manila Southeast ACC|MNL_SE|RPHI-SE
-RPHI-SW|Manila Southwest ACC|MNL_SW|RPHI-SW
-RPHI-W|Manila West ACC|MNL_W|RPHI-W
+RPHI-S1|Manila Central South Combined|MNL_S1|RPHI-S1
+RPHI-SE|Manila Southeast|MNL_SE|RPHI-SE
+RPHI-SW|Manila Southwest|MNL_SW|RPHI-SW
+RPHI-W|Manila West|MNL_W|RPHI-W
 SACF|Cordoba||SACF
 SACO|Cordoba TMA - Cordoba||SACO
 SAEF|Ezeiza||SAEF
@@ -19618,3 +19621,4 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -45.0|-172.5
 -52.0|-180.0
 -90.0|-180.0
+

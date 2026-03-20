@@ -11855,8 +11855,8 @@ SDAA|Araras|-22.336944444444|-47.358333333333||SBBS|0
 SDAD|Adamantina|-21.696111111111|-51.096388888889||SBCW|0
 SDAE|Sao Pedro|-22.583611111111|-47.896111111111||SBBS|0
 SDAG|Angra dos Reis|-22.975277777778|-44.307222222222||SBCW|0
-SDAI|Americana|-22.755277777778|-47.268055555556||SBBS|0
-SDAM|Amarais|-22.859166666667|-47.108055555556||SBBS|0
+SDAI|Americana|-22.755277777778|-47.268055555556||SBCW|0
+SDAM|Amarais|-22.859166666667|-47.108055555556||SBCW|0
 SDBB|Bebedouro|-20.900277777778|-48.473611111111||SBBS|0
 SDBK|Botucatu|-22.937777777778|-48.468055555556||SBCW|0
 SDBY|Bariri|-22.069166666667|-48.706388888889||SBBS|0
@@ -19693,6 +19693,18 @@ SBBS-NS|Brasilia (Supercombinado Norte-Sul) - Brasilia|SBBS_NS|SBBS-NS
 SBBS-NE|Brasilia (Supercombinado Norte-Leste) - Brasilia|SBBS_NE|SBBS-NE
 SBBS-SE|Brasilia (Supercombinado Sul-Leste) - Brasilia|SBBS_SE|SBBS-SE
 SBCW|Curitiba (Completo) - Curitiba||SBCW
+SBCW-C|Curitiba (Combinado Central) - Curitiba|SBCW_C|SBCW-C
+SBCW-W|Curitiba (Combinado Oeste) - Curitiba|SBCW_W|SBCW-W
+SBCW-E|Curitiba (Combinado Leste) - Curitiba|SBCW_E|SBCW-E
+SBCW-S|Curitiba (Combinado Sul) - Curitiba|SBCW_S|SBCW-S
+SBCW-CW|Curitiba (Supercombinado Centro-Oeste) - Curitiba|SBCW_CW|SBCW-CW
+SBCW-CS|Curitiba (Supercombinado Centro-Sul) - Curitiba|SBCW_CS|SBCW-CS
+SBCW-CE|Curitiba (Supercombinado Centro-Leste) - Curitiba|SBCW_CE|SBCW-CE
+SBCW-SW|Curitiba (Supercombinado Sul-Oeste) - Curitiba|SBCW_SW|SBCW-SW
+SBCW-SE|Curitiba (Supercombinado Sul-Leste) - Curitiba|SBCW_SE|SBCW-SE
+SBCW-CWE|Curitiba (Supercombinado Centro-Oeste-Leste) - Curitiba|SBCW_CWE|SBCW-CWE
+SBCW-CSW|Curitiba (Supercombinado Centro-Sul-Oeste) - Curitiba|SBCW_CSW|SBCW-CSW
+SBCW-CSE|Curitiba (Supercombinado Centro-Sul-Leste) - Curitiba|SBCW_CSE|SBCW-CSE
 SBRE|Recife (Completo) - Recife||SBRE
 SBRE-N|Recife (Combinado Norte) - Recife|SBRE_N|SBRE-N
 SBRE-S|Recife (Combinado Sul) - Recife|SBRE_S|SBRE-S

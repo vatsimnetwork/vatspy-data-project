@@ -18345,18 +18345,19 @@ EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
 EGGX|Shanwick Oceanic|EGGX|EGGX
 EGPX|Scottish|SCO|EGPX
-EGPX-A|Scottish TMA Antrim (Up to FL255) - Scottish|STC_A|EGPX-A
-EGPX-D|Scottish ACC (Deancross) - Scottish|SCO_D|EGPX-D
-EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC|EGPX-D
-EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC_W|EGPX-D
-EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC_E|EGPX-D
+EGPX-ANT|Scottish TMA Antrim (Up to FL255) - Scottish|SCL_ANT|EGPX-ANT
+EGPX-GTA|Scottish Antrim & TMA (Up to FL255) - Scottish|SCL_GTA|EGPX-GTA
+EGPX-BDS|Scottish ACC (Borders) - Scottish|SCO_BDS|EGPX-BDS
+EGPX-BDS|Scottish TMA (Up to FL255) - Scottish|SCL_TMA|EGPX-BDS
+EGPX-BDS|Scottish TMA (Up to FL255) - Scottish|SCL_GAL|EGPX-BDS
+EGPX-BDS|Scottish TMA (Up to FL255) - Scottish|SCL-TAL|EGPX-BDS
 EGPX-E|Scottish ACC (East) - Scottish|SCO_E|EGPX-E
 EGPX-N|Scottish ACC (North) - Scottish|SCO_N|EGPX-N
 EGPX-S|Scottish ACC (South) - Scottish|SCO_S|EGPX-S
 EGPX-S|Scottish ACC (Tay) - Scottish|SCL_TAY|EGPX-S
 EGPX-W|Scottish ACC (West) - Scottish|SCO_W|EGPX-W
 EGPX-W|Scottish ACC (Rathlin) - Scottish|SCO_R|EGPX-W
-EGPX-WD|Scottish ACC (West/Deancross) - Scottish|SCO_WD|EGPX-WD
+EGPX-WB|Scottish ACC (West/Borders) - Scottish|SCO_WB|EGPX-WB
 EGTL|London TMA (Up to FL195) - London|LTC|EGTL
 EGTL-N|London TMA North (Up to FL155) - London|LTC_N|EGTL-N
 EGTL-N|London TMA North (Up to FL155) - London|LTC_NE|EGTL-N

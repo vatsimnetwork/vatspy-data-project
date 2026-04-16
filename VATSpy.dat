@@ -18350,7 +18350,7 @@ EGPX-GTA|Scottish Antrim & TMA (Up to FL255) - Scottish|SCL_GTA|EGPX-GTA
 EGPX-BDS|Scottish ACC (Borders) - Scottish|SCO_BDS|EGPX-BDS
 EGPX-BDS|Scottish TMA (Up to FL255) - Scottish|SCL_TMA|EGPX-BDS
 EGPX-BDS|Scottish TMA (Up to FL255) - Scottish|SCL_GAL|EGPX-BDS
-EGPX-BDS|Scottish TMA (Up to FL255) - Scottish|SCL-TAL|EGPX-BDS
+EGPX-BDS|Scottish TMA (Up to FL255) - Scottish|SCL_TLA|EGPX-BDS
 EGPX-E|Scottish ACC (East) - Scottish|SCO_E|EGPX-E
 EGPX-N|Scottish ACC (North) - Scottish|SCO_N|EGPX-N
 EGPX-S|Scottish ACC (South) - Scottish|SCO_S|EGPX-S

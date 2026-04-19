@@ -18354,6 +18354,8 @@ EGPX-BDS|Scottish TMA (Up to FL255) - Scottish|SCL_TLA|EGPX-BDS
 EGPX-E|Scottish ACC (East) - Scottish|SCO_E|EGPX-E
 EGPX-N|Scottish ACC (North) - Scottish|SCO_N|EGPX-N
 EGPX-S|Scottish ACC (South) - Scottish|SCO_S|EGPX-S
+EGPX-S|Scottish ACC (South) - Scottish|SCO_HUM|EGPX-S
+EGPX-S|Scottish ACC (South) - Scottish|SCO_GRP|EGPX-S
 EGPX-S|Scottish ACC (Tay) - Scottish|SCL_TAY|EGPX-S
 EGPX-W|Scottish ACC (West) - Scottish|SCO_CEN|EGPX-W
 EGPX-W|Scottish ACC (Rathlin) - Scottish|SCO_RAT|EGPX-W

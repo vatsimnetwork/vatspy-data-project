@@ -4576,18 +4576,18 @@ HE76|Valkarkai|70.085583333333|170.92911666667||UHMM|0
 HEAL|Al Alamain Intl|30.924444|28.461333||HECC|0
 HEAR|El Arish Intl|31.073333|33.835833||HECC|0
 HEAT|Asyut Intl|27.046389|31.011944||HECC|0
-HEAX|Alexandria-Nouzha Intl|31.183903|29.948889||HECC|0
+HEAX|Alexandria Intl|30.917669|29.696408||HECC|0
 HEAZ|Almaza MIL|30.091783|31.360044||HECC|0
-HEBA|Borg El Arab Intl|30.917669|29.696408||HECC|0
 HEBL|Abu Simbel|22.375953|31.611722||HECC|0
+HEBR|Bernice|23.98888889|35.4575||HECC|0
 HEBS|Beni Suef EAF(HEBF)|29.208322|31.016556|HEBF|HECC|0
 HECA|Cairo Intl|30.121944|31.405556||HECC|0
-HECP|Capital/Intl|30.072222|31.833333||HECC|0
+HECP|Capital Intl|30.072222|31.833333||HECC|0
 HECW|Cairo West EAF|30.116362|30.915445||HECC|0
 HEDK|Dakhla|25.411608|29.003058||HECC|0
 HEEE|Malan Frein|29.811119|28.547694||HECC|0
 HEEM|Embada|30.074667|31.191333||HECC|0
-HEGN|Hurgada Intl|27.184167|33.800667||HECC|0
+HEGN|Hurghada Intl|27.184167|33.800667||HECC|0
 HEGO|El Gouna (HE0A)|27.366872|33.668158|HE0A|HECC|0
 HEGR|El Gora|31.068975|34.129194||HECC|0
 HEGS|Jiyanklis New MIL|30.819797|30.191211||HECC|0
@@ -4596,13 +4596,13 @@ HELX|Luxor Intl|25.671028|32.706583||HECC|0
 HEMA|Marsa Alam Intl|25.557111|34.582028||HECC|0
 HEMM|Mersa Matruh|31.325356|27.221689||HECC|0
 HEOC|October|29.812119|30.823356||HECC|0
-HEOW|Shark El Oweinat Intl|22.585672|28.716642||HECC|0
+HEOW|Shark El Oweinat|22.585672|28.716642||HECC|0
 HEPS|Port Said|31.279444|32.24||HECC|0
 HESC|St. Catherine Intl|28.685278|34.0625||HECC|0
 HESG|Suhag Intl|26.342778|31.742778|HMB|HECC|0
 HESH|Sharm El Sheikh Intl|27.977286|34.39495||HECC|0
 HESN|Aswan Intl|23.963889|32.821944||HECC|0
-HESX|Sphinx/Intl|30.108056|30.895833||HECC|0
+HESX|Sphinx Intl|30.108056|30.895833||HECC|0
 HETB|Taba Intl|29.587778|34.778056||HECC|0
 HETR|El Tor|28.209028|33.645517||HECC|0
 HEXX|Wadi Abu Rish EAF|28.975697|31.698939||HECC|0
@@ -18471,9 +18471,25 @@ ENSV-O|Stavanger Offshore ACC (Below FL85) - Polaris|ENSV_22|ENSV-O
 ENSV-W|Stavanger ACC (West) - Polaris|ENSV_W|ENSV-W
 ENSV-W|Stavanger ACC (West) - Polaris|ENSV_10|ENSV-W
 EPWW|Warszawa||EPWW
+EPWW|Warszawa ALL|EPWW_ALL|EPWW
+EPWW|Warszawa High|EPWW_ALH|EPWW
+EPWW-C|Warszawa|EPWW_C|EPWW-C
+EPWW-D|Warszawa|EPWW_D|EPWW-D
+EPWW-DBT|Warszawa|EPWW_DBT|EPWW-DBT
+EPWW-DFB|Warszawa|EPWW_DBF|EPWW-DBF
+EPWW-DT|Warszawa|EPWW_DT|EPWW-DT
+EPWW-DTC|Warszawa|EPWW_DTC|EPWW-DTC
+EPWW-F|Warszawa|EPWW_F|EPWW-F
 EPWW-G|Warszawa|EPWW_G|EPWW-G
+EPWW-FG|Warszawa|EPWW_FG|EPWW-FG
 EPWW-J|Warszawa|EPWW_J|EPWW-J
+EPWW-JR|Warszawa|EPWW_JR|EPWW-JR
+EPWW-NE|Warszawa|EPWW_NE|EPWW-NE
+EPWW-TM|Warszawa|EPWW_TM|EPWW-TM
+EPWW-TCJ|Warszawa|EPWW_TCJ|EPWW-TCJ
+EPWW-E|Warszawa|EPWW_E|EPWW-E
 EPWW-N|Warszawa|EPWW_N|EPWW-N
+EPWW-S|Warszawa|EPWW_S|EPWW-S
 ESAA|Sweden||ESAA
 ESMM|Malmo ACC - Sweden||ESMM
 ESMM-4|Malmo ACC (4) - Sweden|ESMM_4|ESMM-4
@@ -19102,31 +19118,43 @@ SAVC|Comodoro Rivadavia TMA - Comodoro Rivadavia||SAVC
 SAVF|Comodoro Rivadavia||SAVF
 SBAO|Atlantico (Completo) - Atlantico||SBAO
 SBAO-N|Atlantico (Supercombinado Norte) - Atlantico|SBAO_N|SBAO-N
-SBAO-NE|Atlantico (Combinado Nordeste) - Atlantico|SBAO_NE|SBAO-NE
-SBAO-NW|Atlantico (Combinado Noroeste) - Atlantico|SBAO_NW|SBAO-NW
 SBAO-S|Atlantico (Supercombinado Sul) - Atlantico|SBAO_S|SBAO-S
-SBAO-SE|Atlantico (Combinado Sudeste) - Atlantico|SBAO_SE|SBAO-SE
+SBAO-NW|Atlantico (Combinado Noroeste) - Atlantico|SBAO_NW|SBAO-NW
+SBAO-NE|Atlantico (Combinado Nordeste) - Atlantico|SBAO_NE|SBAO-NE
 SBAO-SW|Atlantico (Combinado Sudoeste) - Atlantico|SBAO_SW|SBAO-SW
+SBAO-SE|Atlantico (Combinado Sudeste) - Atlantico|SBAO_SE|SBAO-SE
 SBAZ|Amazonico (Completo) - Amazonico||SBAZ
-SBAZ-C|Amazonico (Combinado Central) - Amazonico|SBAZ_C|SBAZ-C
-SBAZ-CE|Amazonico (Supercombinado Centro-Leste) - Amazonico|SBAZ_CE|SBAZ-CE
 SBAZ-CW|Amazonico (Supercombinado Centro-Oeste) - Amazonico|SBAZ_CW|SBAZ-CW
-SBAZ-E|Amazonico (Combinado Leste) - Amazonico|SBAZ_E|SBAZ-E
+SBAZ-CE|Amazonico (Supercombinado Centro-Leste) - Amazonico|SBAZ_CE|SBAZ-CE
 SBAZ-W|Amazonico (Combinado Oeste) - Amazonico|SBAZ_W|SBAZ-W
+SBAZ-C|Amazonico (Combinado Central) - Amazonico|SBAZ_C|SBAZ-C
+SBAZ-E|Amazonico (Combinado Leste) - Amazonico|SBAZ_E|SBAZ-E
 SBBS|Brasilia (Completo) - Brasilia||SBBS
-SBBS-E|Brasilia (Combinado Leste) - Brasilia|SBBS_E|SBBS-E
-SBBS-N|Brasilia (Combinado Norte) - Brasilia|SBBS_N|SBBS-N
-SBBS-NE|Brasilia (Supercombinado Norte-Leste) - Brasilia|SBBS_NE|SBBS-NE
 SBBS-NS|Brasilia (Supercombinado Norte-Sul) - Brasilia|SBBS_NS|SBBS-NS
-SBBS-S|Brasilia (Combinado Sul) - Brasilia|SBBS_S|SBBS-S
+SBBS-NE|Brasilia (Supercombinado Norte-Leste) - Brasilia|SBBS_NE|SBBS-NE
 SBBS-SE|Brasilia (Supercombinado Sul-Leste) - Brasilia|SBBS_SE|SBBS-SE
+SBBS-N|Brasilia (Combinado Norte) - Brasilia|SBBS_N|SBBS-N
+SBBS-S|Brasilia (Combinado Sul) - Brasilia|SBBS_S|SBBS-S
+SBBS-E|Brasilia (Combinado Leste) - Brasilia|SBBS_E|SBBS-E
 SBCW|Curitiba (Completo) - Curitiba||SBCW
+SBCW-CWE|Curitiba (Supercombinado Centro-Oeste-Leste) - Curitiba|SBCW_CWE|SBCW-CWE
+SBCW-CSW|Curitiba (Supercombinado Centro-Sul-Oeste) - Curitiba|SBCW_CSW|SBCW-CSW
+SBCW-CSE|Curitiba (Supercombinado Centro-Sul-Leste) - Curitiba|SBCW_CSE|SBCW-CSE
+SBCW-CW|Curitiba (Supercombinado Centro-Oeste) - Curitiba|SBCW_CW|SBCW-CW
+SBCW-CS|Curitiba (Supercombinado Centro-Sul) - Curitiba|SBCW_CS|SBCW-CS
+SBCW-CE|Curitiba (Supercombinado Centro-Leste) - Curitiba|SBCW_CE|SBCW-CE
+SBCW-SW|Curitiba (Supercombinado Sul-Oeste) - Curitiba|SBCW_SW|SBCW-SW
+SBCW-SE|Curitiba (Supercombinado Sul-Leste) - Curitiba|SBCW_SE|SBCW-SE
+SBCW-C|Curitiba (Combinado Central) - Curitiba|SBCW_C|SBCW-C
+SBCW-W|Curitiba (Combinado Oeste) - Curitiba|SBCW_W|SBCW-W
+SBCW-E|Curitiba (Combinado Leste) - Curitiba|SBCW_E|SBCW-E
+SBCW-S|Curitiba (Combinado Sul) - Curitiba|SBCW_S|SBCW-S
 SBRE|Recife (Completo) - Recife||SBRE
-SBRE-N|Recife (Combinado Norte) - Recife|SBRE_N|SBRE-N
 SBRE-NS|Recife (Supercombinado Norte-Sul) - Recife|SBRE_NS|SBRE-NS
 SBRE-NW|Recife (Supercombinado Norte-Oeste) - Recife|SBRE_NW|SBRE-NW
-SBRE-S|Recife (Combinado Sul) - Recife|SBRE_S|SBRE-S
 SBRE-SW|Recife (Supercombinado Sul-Oeste) - Recife|SBRE_SW|SBRE-SW
+SBRE-N|Recife (Combinado Norte) - Recife|SBRE_N|SBRE-N
+SBRE-S|Recife (Combinado Sul) - Recife|SBRE_S|SBRE-S
 SBRE-W|Recife (Combinado Oeste) - Recife|SBRE_W|SBRE-W
 SCCZ|Punta Arenas||SCCZ
 SCEZ|Santiago||SCEZ

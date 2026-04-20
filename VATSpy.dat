@@ -18057,7 +18057,7 @@ ZSDY|Dongying Shengli|37.508460|118.789134||ZSHA|0
 ZSFY|Fuyang|32.882169|115.734224||ZSHA|0
 ZSFZ|Fuzhou Changle|25.934100|119.662432||ZSHA|0
 ZSGS|Jinggangshan|26.857715|114.737993||ZSHA|0
-ZSGZ|Ganzhou Huangjin|25.850157|114.950884||ZSHA|0
+ZSGZ|Ganzhou Huangjin|25.848389|114.779597||ZSHA|0
 ZSHC|Hangzhou Xiaoshan|30.228632|120.432376||ZSHA|0
 ZSHZ|Heze Mudan|35.214354|115.736845||ZSHA|0
 ZSJD|Jingdezhen Luojia|29.338084|117.175486||ZSHA|0
@@ -18110,6 +18110,7 @@ ZUCK|Chongqing Jiangbei|29.717113|106.639012||ZPKM|0
 ZUDA|Dazhou Jinya|31.047611|107.437111||ZPKM|0
 ZUDC|Daocheng Yading|29.323175|100.052875||ZPKM|0
 ZUDG|Daguo|30.197222|104.080277||ZPKM|0
+ZUDJ|Tongren Dejiang|28.138314|108.161500||ZPKM|0
 ZUDR|Rikaze Dingri|28.6025|86.8103||ZPKM|0
 ZUFM|Zigong Fengming|29.375930|104.625425||ZPKM|0
 ZUGH|Guanghan|30.948446|104.329870||ZPKM|0
@@ -18462,9 +18463,25 @@ ENSV-O|Stavanger Offshore ACC (Below FL85) - Polaris|ENSV_22|ENSV-O
 ENSV-W|Stavanger ACC (West) - Polaris|ENSV_W|ENSV-W
 ENSV-W|Stavanger ACC (West) - Polaris|ENSV_10|ENSV-W
 EPWW|Warszawa||EPWW
+EPWW|Warszawa ALL|EPWW_ALL|EPWW
+EPWW|Warszawa High|EPWW_ALH|EPWW
+EPWW-C|Warszawa|EPWW_C|EPWW-C
+EPWW-D|Warszawa|EPWW_D|EPWW-D
+EPWW-DBT|Warszawa|EPWW_DBT|EPWW-DBT
+EPWW-DFB|Warszawa|EPWW_DBF|EPWW-DBF
+EPWW-DT|Warszawa|EPWW_DT|EPWW-DT
+EPWW-DTC|Warszawa|EPWW_DTC|EPWW-DTC
+EPWW-F|Warszawa|EPWW_F|EPWW-F
 EPWW-G|Warszawa|EPWW_G|EPWW-G
+EPWW-FG|Warszawa|EPWW_FG|EPWW-FG
 EPWW-J|Warszawa|EPWW_J|EPWW-J
+EPWW-JR|Warszawa|EPWW_JR|EPWW-JR
+EPWW-NE|Warszawa|EPWW_NE|EPWW-NE
+EPWW-TM|Warszawa|EPWW_TM|EPWW-TM
+EPWW-TCJ|Warszawa|EPWW_TCJ|EPWW-TCJ
+EPWW-E|Warszawa|EPWW_E|EPWW-E
 EPWW-N|Warszawa|EPWW_N|EPWW-N
+EPWW-S|Warszawa|EPWW_S|EPWW-S
 ESAA|Sweden||ESAA
 ESMM|Malmo ACC - Sweden||ESMM
 ESMM-4|Malmo ACC (4) - Sweden|ESMM_4|ESMM-4
@@ -19093,31 +19110,43 @@ SAVC|Comodoro Rivadavia TMA - Comodoro Rivadavia||SAVC
 SAVF|Comodoro Rivadavia||SAVF
 SBAO|Atlantico (Completo) - Atlantico||SBAO
 SBAO-N|Atlantico (Supercombinado Norte) - Atlantico|SBAO_N|SBAO-N
-SBAO-NE|Atlantico (Combinado Nordeste) - Atlantico|SBAO_NE|SBAO-NE
-SBAO-NW|Atlantico (Combinado Noroeste) - Atlantico|SBAO_NW|SBAO-NW
 SBAO-S|Atlantico (Supercombinado Sul) - Atlantico|SBAO_S|SBAO-S
-SBAO-SE|Atlantico (Combinado Sudeste) - Atlantico|SBAO_SE|SBAO-SE
+SBAO-NW|Atlantico (Combinado Noroeste) - Atlantico|SBAO_NW|SBAO-NW
+SBAO-NE|Atlantico (Combinado Nordeste) - Atlantico|SBAO_NE|SBAO-NE
 SBAO-SW|Atlantico (Combinado Sudoeste) - Atlantico|SBAO_SW|SBAO-SW
+SBAO-SE|Atlantico (Combinado Sudeste) - Atlantico|SBAO_SE|SBAO-SE
 SBAZ|Amazonico (Completo) - Amazonico||SBAZ
-SBAZ-C|Amazonico (Combinado Central) - Amazonico|SBAZ_C|SBAZ-C
-SBAZ-CE|Amazonico (Supercombinado Centro-Leste) - Amazonico|SBAZ_CE|SBAZ-CE
 SBAZ-CW|Amazonico (Supercombinado Centro-Oeste) - Amazonico|SBAZ_CW|SBAZ-CW
-SBAZ-E|Amazonico (Combinado Leste) - Amazonico|SBAZ_E|SBAZ-E
+SBAZ-CE|Amazonico (Supercombinado Centro-Leste) - Amazonico|SBAZ_CE|SBAZ-CE
 SBAZ-W|Amazonico (Combinado Oeste) - Amazonico|SBAZ_W|SBAZ-W
+SBAZ-C|Amazonico (Combinado Central) - Amazonico|SBAZ_C|SBAZ-C
+SBAZ-E|Amazonico (Combinado Leste) - Amazonico|SBAZ_E|SBAZ-E
 SBBS|Brasilia (Completo) - Brasilia||SBBS
-SBBS-E|Brasilia (Combinado Leste) - Brasilia|SBBS_E|SBBS-E
-SBBS-N|Brasilia (Combinado Norte) - Brasilia|SBBS_N|SBBS-N
-SBBS-NE|Brasilia (Supercombinado Norte-Leste) - Brasilia|SBBS_NE|SBBS-NE
 SBBS-NS|Brasilia (Supercombinado Norte-Sul) - Brasilia|SBBS_NS|SBBS-NS
-SBBS-S|Brasilia (Combinado Sul) - Brasilia|SBBS_S|SBBS-S
+SBBS-NE|Brasilia (Supercombinado Norte-Leste) - Brasilia|SBBS_NE|SBBS-NE
 SBBS-SE|Brasilia (Supercombinado Sul-Leste) - Brasilia|SBBS_SE|SBBS-SE
+SBBS-N|Brasilia (Combinado Norte) - Brasilia|SBBS_N|SBBS-N
+SBBS-S|Brasilia (Combinado Sul) - Brasilia|SBBS_S|SBBS-S
+SBBS-E|Brasilia (Combinado Leste) - Brasilia|SBBS_E|SBBS-E
 SBCW|Curitiba (Completo) - Curitiba||SBCW
+SBCW-CWE|Curitiba (Supercombinado Centro-Oeste-Leste) - Curitiba|SBCW_CWE|SBCW-CWE
+SBCW-CSW|Curitiba (Supercombinado Centro-Sul-Oeste) - Curitiba|SBCW_CSW|SBCW-CSW
+SBCW-CSE|Curitiba (Supercombinado Centro-Sul-Leste) - Curitiba|SBCW_CSE|SBCW-CSE
+SBCW-CW|Curitiba (Supercombinado Centro-Oeste) - Curitiba|SBCW_CW|SBCW-CW
+SBCW-CS|Curitiba (Supercombinado Centro-Sul) - Curitiba|SBCW_CS|SBCW-CS
+SBCW-CE|Curitiba (Supercombinado Centro-Leste) - Curitiba|SBCW_CE|SBCW-CE
+SBCW-SW|Curitiba (Supercombinado Sul-Oeste) - Curitiba|SBCW_SW|SBCW-SW
+SBCW-SE|Curitiba (Supercombinado Sul-Leste) - Curitiba|SBCW_SE|SBCW-SE
+SBCW-C|Curitiba (Combinado Central) - Curitiba|SBCW_C|SBCW-C
+SBCW-W|Curitiba (Combinado Oeste) - Curitiba|SBCW_W|SBCW-W
+SBCW-E|Curitiba (Combinado Leste) - Curitiba|SBCW_E|SBCW-E
+SBCW-S|Curitiba (Combinado Sul) - Curitiba|SBCW_S|SBCW-S
 SBRE|Recife (Completo) - Recife||SBRE
-SBRE-N|Recife (Combinado Norte) - Recife|SBRE_N|SBRE-N
 SBRE-NS|Recife (Supercombinado Norte-Sul) - Recife|SBRE_NS|SBRE-NS
 SBRE-NW|Recife (Supercombinado Norte-Oeste) - Recife|SBRE_NW|SBRE-NW
-SBRE-S|Recife (Combinado Sul) - Recife|SBRE_S|SBRE-S
 SBRE-SW|Recife (Supercombinado Sul-Oeste) - Recife|SBRE_SW|SBRE-SW
+SBRE-N|Recife (Combinado Norte) - Recife|SBRE_N|SBRE-N
+SBRE-S|Recife (Combinado Sul) - Recife|SBRE_S|SBRE-S
 SBRE-W|Recife (Combinado Oeste) - Recife|SBRE_W|SBRE-W
 SCCZ|Punta Arenas||SCCZ
 SCEZ|Santiago||SCEZ

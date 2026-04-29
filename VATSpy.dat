@@ -18920,12 +18920,13 @@ NZZO|Auckland Radio - East|NZZO-E|NZZO
 NZZO|Auckland Radio - Tasman|NZZO-TSN|NZZT
 OAKX|Kabul||OAKX
 OBBB|Bahrain||OBBB
-OBBB-C|Bahrain Central|OBBB_C|OBBB-C
-OBBB-E|Bahrain East|OBBB_E|OBBB-E
-OBBB-N|Bahrain North|OBBB_N|OBBB-N
+OBBB-CH|Bahrain Central (FL295-FL345)|OBBB_CH|OBBB-CH
+OBBB-CL|Bahrain Central (Below FL295)|OBBB_CL|OBBB-CL
+OBBB-2|Bahrain East|OBBB_2|OBBB-2
+OBBB-E|Bahrain East (Below FL345)|OBBB_E|OBBB-E
+OBBB-3|Bahrain North|OBBB_3|OBBB-3
+OBBB-N|Bahrain North (FL245-FL345)|OBBB_N|OBBB-N
 OBBB-S|Bahrain South|OBBB_S|OBBB-S
-OBBB-2|Bahrain East (Higher)|OBBB_2|OBBB-2
-OBBB-3|Bahrain North (Higher)|OBBB_3|OBBB-3
 OEJD|Jeddah||OEJD
 OEJD-2|Jeddah|OEJD_2|OEJD-2
 OEJD-3|Jeddah|OEJD_3|OEJD-3

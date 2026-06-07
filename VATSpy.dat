@@ -19485,7 +19485,7 @@ WIIF-TN|Jakarta (Tanjung Pandan)|WIIF_TN|WIIF-TN
 WMFC|Kuala Lumpur||WMFC
 WSJC|Singapore||WSJC
 YARA|Brisbane (Arafura) 133.7* (125.7)|BN-ARA|YARA
-YARL|Brisbane (Armidale) 130.9* (121.15)|BN-ARL|YARL
+YARL|Brisbane (Armidale) 130.9|BN-ARL|YARL
 YASH|Brisbane (Ashmore) 133.4* (123.85)|BN-ASH|YASH
 YASP|Melbourne (Alice Springs) 128.85|ML-ASP|YASP
 YASW|Melbourne (Alice Springs West) 131.8* (128.85)|ML-ASW|YASW
@@ -19495,17 +19495,17 @@ YBIK|Melbourne (Bindook) 129.8* (133.15)|ML-BIK|YBIK
 YBKE|Melbourne (Bourke) 128.2* (128.85)|ML-BKE|YBKE
 YBLA|Melbourne (Benalla) 132.2|ML-BLA|YBLA
 YBUR|Brisbane (Burnett) 123.0* (134.2)|BN-BUR|YBUR
-YCNK|Brisbane (Cessnock) 123.4* (121.15)|BN-CNK|YCNK
+YCNK|Brisbane (Cessnock) 123.4* (130.9)|BN-CNK|YCNK
 YCOL|Brisbane Radio (Coral) 133.15* (124.65)|BN-COL|YCOL
 YCVN|Brisbane (Carnarvon) 133.8* (125.9)|BN-CVN|YCVN
 YDAL|Melbourne (Dally) 124.8* (118.2)|ML-DAL|YDAL
-YDEN|Brisbane (Denman) 134.15* (121.15)|BN-DEN|YDEN
+YDEN|Brisbane (Denman) 134.15* (130.9)|BN-DEN|YDEN
 YDOS|Brisbane (Downs) 135.6* (134.2)|BN-DOS|YDOS
 YELW|Melbourne (Eildon Weir) 123.75* (132.2)|ML-ELW|YELW
 YESP|Melbourne (Esperance) 123.95* (128.85)|ML-ESP|YESP
 YFLD|Brisbane Radio (Flinders) 132.85* (124.65)|BN-FLD|YFLD
 YFOR|Melbourne (Forrest) 132.7* (128.85)|ML-FOR|YFOR
-YGAH|Brisbane (Gunnedah) 121.15|BN-GAH|YGAH
+YGAH|Brisbane (Gunnedah) 121.15* (130.9)|BN-GAH|YGAH
 YGEL|Melbourne (Geraldton) 134.2* (118.2)|ML-GEL|YGEL
 YGOL|Brisbane (Gold Coast) 130.4* (134.2)|BN-GOL|YGOL
 YGTH|Melbourne (Griffith) 122.75* (132.6)|ML-GTH|YGTH
@@ -19526,11 +19526,11 @@ YKIY|Brisbane (Kimberley) 132.1* (123.85)|BN-KIY|YKIY
 YKPL|Brisbane (Keppel) 125.9|BN-KPL|YKPL
 YLEA|Melbourne (Leeman) 122.4* (118.2)|ML-LEA|YLEA
 YLEO|Melbourne (Leonora) 133.7* (134.0)|ML-LEO|YLEO
-YLIG|Brisbane (Lightning) 133.0* (121.15)|BN-LIG|YLIG
+YLIG|Brisbane (Lightning) 133.0* (130.9)|BN-LIG|YLIG
 YMEK|Melbourne (Meekatharra) 132.0* (134.0)|ML-MEK|YMEK
 YMLD|Brisbane (Maitland) 132.35* (130.1)|BN-MLD|YMLD
 YMNN|Brisbane (Manning) 130.1|BN-MNN|YMNN
-YMOR|Brisbane (Moree) 134.85* (121.15)|BN-MOR|YMOR
+YMOR|Brisbane (Moree) 134.85* (130.9)|BN-MOR|YMOR
 YMTK|Melbourne (Mount) 118.95* (134.0)|ML-MTK|YMTK
 YMUN|Melbourne (Mungo) 132.6|ML-MUN|YMUN
 YMZI|Melbourne (Menzies) 134.3* (134.0)|ML-MZI|YMZI
@@ -19542,7 +19542,7 @@ YOXL|Melbourne (Oxley) 128.5* (132.6)|ML-OXL|YOXL
 YPAR|Melbourne (Paraburdoo) 133.5* (134.0)|ML-PAR|YPAR
 YPIY|Melbourne (Pingelly) 133.9* (118.2)|ML-PIY|YPIY
 YPOT|Melbourne (Port) 127.0* (134.0)|ML-POT|YPOT
-YRYS|Brisbane (Rylstone) 119.7* (121.15)|BN-RYS|YRYS
+YRYS|Brisbane (Rylstone) 119.7* (130.9)|BN-RYS|YRYS
 YSCR|Melbourne (Cross) 135.8* (118.2)|ML-SCR|YSCR
 YSDY|Brisbane (Straddy) 134.3* (134.2)|BN-SDY|YSDY
 YSNO|Melbourne (Snowy) 124.0* (125.0)|ML-SNO|YSNO

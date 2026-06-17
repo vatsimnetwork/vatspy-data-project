@@ -8,7 +8,6 @@
     "validate-schema": "node --experimental-strip-types bin/validate-schema.ts",
     "reorder-schema": "node --experimental-strip-types bin/reorder-schema.ts",
     "validate-dat": "node --experimental-strip-types bin/validate-dat.ts",
-    "reformat": "node --experimental-strip-types bin/reformat.ts",
     "check-contributor": "node --experimental-strip-types bin/contributor.ts"
   },
   "dependencies": {

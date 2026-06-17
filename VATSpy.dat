@@ -18967,10 +18967,10 @@ OPLR|Lahore (Islamabad)|ISB|OPLR
 OPLR|Lahore|OPLR-S|OPLR
 OPLR|Lahore|OPLR-W|OPLR
 ORBB|Baghdad|ORBB|ORBB
-ORBB-N|Baghdad North|ORBB_N|ORBB-N
-ORBB-N|Baghdad North|ORBB_NU|ORBB-N
-ORBB-S|Baghdad South|ORBB_S|ORBB-S
-ORBB-S|Baghdad South|ORBB_SU|ORBB-S
+ORBB-N|Baghdad (North) - Baghdad|ORBB_N|ORBB-N
+ORBB-N|Baghdad (North) - Baghdad|ORBB_NU|ORBB-N
+ORBB-S|Baghdad (South) - Baghdad|ORBB_S|ORBB-S
+ORBB-S|Baghdad (South) Baghdad|ORBB_SU|ORBB-S
 OSTT|Damascus|OSDI|OSTT
 OTDF|Doha||OTDF
 OTDF-N|Doha (North SFC-FL245)|OTDF_N|OTDF-N

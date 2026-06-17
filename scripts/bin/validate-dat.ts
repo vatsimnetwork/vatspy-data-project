@@ -116,8 +116,6 @@ for (const fir of parsedDat.firs) {
     if (fir.callsign)
         count('fir-callsign-and-icao', fir.callsign + fir.icao)
     else count('fir-icao', fir.icao)
-
-    validateAlphabetPosition('fir', fir.icao)
 }
 
 for (const uir of parsedDat.uirs) {

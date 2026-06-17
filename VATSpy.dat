@@ -2549,6 +2549,7 @@ EHHV|Hilversum|52.191667|5.146667||EHAA|0
 EHKD|De Kooy NAS (Den Helder)|52.925|4.78||EHAA|0
 EHLE|Lelystad|52.46|5.526667||EHAA|0
 EHLW|Leeuwarden AB|53.225278|5.752528||EHAA|0
+EHMM|Middenmeer|52.815000|5.021111||EHAA|0
 EHMZ|Midden Zeeland (Middelburg)|51.511667|3.731667||EHAA|0
 EHOW|Oostwold|53.208611|7.032778||EHAA|0
 EHRD|Rotterdam|51.956667|4.436667||EHAA|0
@@ -8141,7 +8142,7 @@ LFPH|Chelles Le Pin|48.896667|2.606111||LFFF|0
 LFPK|Coulommiers Voisins|48.8375|3.014444||LFFF|0
 LFPL|Lognes|48.821944|2.622778||LFFF|0
 LFPM|Melun|48.605283|2.670781||LFFF|0
-LFPN|Toussus Le Noble|48.749756|2.111178||LFFF|0
+LFPN|Paris Saclay Versailles|48.749756|2.111178||LFFF|0
 LFPO|Paris-Orly|48.723281|2.379578||LFFF|0
 LFPP|Le Plessis Belleville|49.109167|2.736944||LFFF|0
 LFPQ|Fontenay Tresigny|48.706111|2.902778||LFFF|0
@@ -8709,6 +8710,7 @@ LLXM|Mari-B Oil-Rig|31.734722|34.291944||LLLL|0
 LLXT|Tamar Oil-Rig|31.7475|34.305||LLLL|0
 LLZM|Zofar Moah|30.552222|35.188889||LLLL|0
 LMML|Luqa|35.858611|14.478056||LMMM|0
+LNMC|Monaco Heliport|43.725556|7.419167||LFMM|0
 LOAA|Ottenschlag|48.417833|15.216667||LOVV|0
 LOAB|Dobersberg|48.920667|15.291333||LOVV|0
 LOAD|Voeltendorf|48.157|15.586333||LOVV|0
@@ -10516,7 +10518,7 @@ OREZ|Embassy Heliport|33.29674|44.3725||ORBB|0
 ORKK|Kirkuk|35.4695|44.349||ORBB|0
 ORMM|Basrah|30.549|47.662167||ORBB|0
 ORNI|Al Najaf|31.989833|44.404333||ORBB|0
-ORSU|Sulaymaniyah|35.560833|45.314667||ORBB|0
+ORSJ|Sulaymaniyah|35.560833|45.314667||ORBB|0
 ORWH|Washington Army Heliport|33.304617|44.403535||ORBB|0
 OSAP|Aleppo Intl|36.179722|37.226111||OSTT|0
 OSDI|Damascus Intl|33.410833|36.513333||OSTT|0
@@ -18175,6 +18177,7 @@ ZWKL|Korla Licheng|41.615245|86.142151||ZWUQ|0
 ZWKM|Kelamayi Guhai|45.465683|84.953191||ZWUQ|0
 ZWKN|Bu'erjin Kanas|48.222634|86.996560||ZWUQ|0
 ZWLK|Balikun Dahe|43.756111|93.138056||ZWUQ|0
+ZWLT|Bayinguoleng Luntai|41.583308|84.281742||ZWUQ|0
 ZWNL|Xinyuan Nalati|43.432276|83.376524||ZWUQ|0
 ZWQT|Qitai Jiangbulake|44.160556|89.558333||ZWUQ|0
 ZWRQ|Ruoqiang Loulan|38.974349|88.008889||ZWUQ|0
@@ -18647,6 +18650,7 @@ LAAA|Tirana||LAAA
 LBSR|Sofia||LBSR
 LBSR-B|Sofia (Black Sea Sector) - Sofia|LBSR_B|LBSR-B
 LBSR-E|Sofia (East Sector) - Sofia|LBSR_E|LBSR-E
+LBSR-S|Sofia (Sofia Sector) - Sofia|LBSR_S|LBSR-S
 LBSR-V|Sofia (Varna Sector) - Sofia|LBSR_V|LBSR-V
 LCCC|Nicosia||LCCC
 LCCC-E|Nicosia-East|LCCC_E|LCCC-E
@@ -18669,7 +18673,6 @@ LECB-VNI|Barcelona (Verso North Sector) - Barcelona|LECB_VNI|LECB-VNI
 LECB-W|Barcelona (Combined West) - Barcelona|LECB_RW|LECB-W
 LECL|Valencia (FL245-)||LECL
 LECM|Madrid|LEMD|LECM
-LECM-ALL|Madrid (Combined LECM+LECS) - Madrid|LECM_ALL|LECM-ALL
 LECM-BDP|Madrid (Bilbao-Pamplona Sector) - Madrid|LECM_BDP|LECM-BDP
 LECM-BLU|Madrid (Covers Above FL345 Bilbao Sector) - Madrid|LECM_BLU|LECM-BLU
 LECM-CJU|Madrid (Covers Above FL345 Castejon Sector) - Madrid|LECM_CJU|LECM-CJU
@@ -18723,6 +18726,7 @@ LFEE-N|Reims ACC (FL265+) - Reims|LFEE_UR|LFEE-N
 LFEE-N|Reims ACC (FL265+) - Reims|LFEE_XR|LFEE-N
 LFEE-N|Reims ACC (FL265+) - Reims|LFEE_YB|LFEE-N
 LFFF|Paris|PAR|LFFF
+LFFF-LOW|Paris|PAR_LOW|LFFF-LOW
 LFFF-AENB|Paris|PAR_AENB|LFFF-AENB
 LFFF-AENB|Paris|PAR_TNTB|LFFF-AENB
 LFFF-AENB|Paris|PAR_APTE|LFFF-AENB
@@ -18851,10 +18855,9 @@ LPPC-W|Lisboa - WEST Sector|LPPC_W|LPPC-W
 LPPO|Santa Maria|LPAZ|LPPO
 LPPO-TMA|Santa Maria Radar|LPPO|LPPO-TMA
 LQSB|Sarajevo|LQSA|LQSB
-LRBB|Bucuresti ACC (KONEL) - Bucharest||LRBB
-LRBB-A|Bucuresti ACC (DINAR) - Bucharest|LRBB_A|LRBB-A
-LRBB-B|Bucuresti ACC (BUDMO) - Bucharest|LRBB_B|LRBB-B
-LRBB-N|Bucuresti ACC (BANAP) - Bucharest|LRBB_N|LRBB-N
+LRBB|Bucuresti ACC (Bandbox Sector) - Bucharest||LRBB
+LRBB-E|Bucuresti ACC (East Sector) - Bucharest|LRBB_E|LRBB-E
+LRBB-W|Bucuresti ACC (West Sector) - Bucharest|LRBB_W|LRBB-W
 LSAG|Swiss Radar (Geneva ACC) - Switzerland||LSAG
 LSAS|Swiss Radar - Switzerland||LSAS
 LSAZ|Swiss Radar (Zurich ACC) - Switzerland||LSAZ
@@ -18928,10 +18931,14 @@ NZZO|Auckland Radio - East|NZZO-E|NZZO
 NZZO|Auckland Radio - Tasman|NZZO-TSN|NZZT
 OAKX|Kabul||OAKX
 OBBB|Bahrain||OBBB
-OBBB-C|Bahrain Central|OBBB_C|OBBB-C
-OBBB-E|Bahrain East|OBBB_E|OBBB-E
+OBBB-C|Bahrain Central|OBBB_CL|OBBB-C
+OBBB-C|Bahrain Central|OBBB_CH|OBBB-C
+OBBB-E|Bahrain East (FL245+)|OBBB_E|OBBB-E
+OBBB-E|Bahrain East (FL245+)|OBBB_2|OBBB-E
 OBBB-N|Bahrain North|OBBB_N|OBBB-N
-OBBB-S|Bahrain South|OBBB_S|OBBB-S
+OBBB-N|Bahrain North|OBBB_3|OBBB-N
+OBBB-S|Bahrain South|OBBB_E|OBBB-S
+OBBB-S|Bahrain South|OBBB_2|OBBB-S
 OEJD|Jeddah||OEJD
 OEJD-2|Jeddah|OEJD_2|OEJD-2
 OEJD-3|Jeddah|OEJD_3|OEJD-3
@@ -19486,6 +19493,7 @@ WMFC|Kuala Lumpur||WMFC
 WSJC|Singapore||WSJC
 YARA|Brisbane (Arafura) 133.7* (125.7)|BN-ARA|YARA
 YARL|Brisbane (Armidale) 130.9|BN-ARL|YARL
+YGAH|Brisbane (Gunnedah) 121.15|BN-GAH|YARL
 YASH|Brisbane (Ashmore) 133.4* (123.85)|BN-ASH|YASH
 YASP|Melbourne (Alice Springs) 128.85|ML-ASP|YASP
 YASW|Melbourne (Alice Springs West) 131.8* (128.85)|ML-ASW|YASW

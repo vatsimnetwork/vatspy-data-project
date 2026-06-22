@@ -10992,7 +10992,7 @@ RJFK|Kagoshima|31.803397|130.719408||RJBG|0
 RJFM|Miyazaki|31.877128|131.448447||RJBG|0
 RJFN|Nyutabaru|32.079569|131.454267||RJBG|0
 RJFO|Oita|33.479503|131.737125||RJBG|0
-RJFR|Kitakyushu|33.836306|130.947044||RJBG|0
+RJFR|Kitakyushu|33.845556|131.035||RJBG|0
 RJFS|Saga|33.149722|130.302222||RJBG|0
 RJFT|Kumamoto|32.837319|130.85505||RJBG|0
 RJFU|Nagasaki|32.916972|129.913447||RJBG|0
@@ -11050,7 +11050,7 @@ RJTC|Tachikawa|35.7|139.4||RJTG|0
 RJTE|Tateyama|34.98306|139.83306||RJTG|0
 RJTF|Chofu|35.66667|139.53306||RJTG|0
 RJTH|Hachijojima|33.114917|139.785469||RJTG|0
-RJTI|Tokyo Heliport|35.63306|139.84972||RJTG|0
+RJTI|Tokyo Heliport|35.636111|139.839444||RJTG|0
 RJTJ|Iruma|35.842106|139.410675||RJTG|0
 RJTK|Kisarazu|35.398281|139.909817||RJTG|0
 RJTL|Shimofusa|35.798239|140.013403||RJTG|0
@@ -11116,10 +11116,10 @@ RKTV|Chungju|37.06667|127.88306||RKDA|0
 RKTW|Woong Cheon|36.2|126.54972||RKRR|0
 RKTY|Yecheon Ab|36.631722|128.355056||RKDA|0
 RKXX|Nightmare Range|38.06667|127.34972||RKRR|0
-ROAH|Naha|26.195814|127.645869||RJBG|0
+ROAH|Naha|26.193333|127.639722||RJBG|0
 RODE|Iejima|26.71667|127.78306||RJBG|0
 RODN|Kadena|26.355686|127.767489||RJBG|0
-ROIG|Ishigakijima|24.344444|124.186944||RJDG|0
+ROIG|Ishigakijima|24.396389|124.245||RJDG|0
 ROKJ|Kumejima|26.363728|126.713689||RJBG|0
 ROKR|Kerama|26.168333|127.293333||RJBG|0
 ROMD|Minamidaitojima|25.849956|131.258311||RJDG|0
@@ -18987,118 +18987,118 @@ PHZH|Honolulu|HCF|PHZH
 RCAA|Taipei|TPE|RCAA
 RJBG|Kobe ACC - Kobe||RJBG
 RJBG-E|Kobe ACC East (Up to FL335) - Kobe|RJBG_E|RJBG-E
-RJBG-E|Kobe ACC N43 Sector (Up to FL335) - Kobe|RJBG_43|RJBG-E
-RJBG-E|Kobe ACC N43 Sector (Up to FL335) - Kobe|RJBG_B|RJBG-E
-RJBG-E|Kobe ACC N44 Sector (Up to FL335) - Kobe|RJBG_44|RJBG-E
-RJBG-E|Kobe ACC N44 Sector (Up to FL335) - Kobe|RJBG_D|RJBG-E
-RJBG-E|Kobe ACC N47 Sector (Up to FL335) - Kobe|RJBG_47|RJBG-E
-RJBG-E|Kobe ACC N47 Sector (Up to FL335) - Kobe|RJBG_F|RJBG-E
-RJBG-E|Kobe ACC N48 Sector (Up to FL335) - Kobe|RJBG_48|RJBG-E
-RJBG-E|Kobe ACC N48 Sector (Up to FL335) - Kobe|RJBG_48S|RJBG-E
-RJBG-E|Kobe ACC N48 Sector (Up to FL335) - Kobe|RJBG_H|RJBG-E
-RJBG-E|Kobe ACC N48 Sector (Up to FL335) - Kobe|RJBG_J|RJBG-E
-RJBG-E|Kobe ACC N49 Sector (Up to FL335) - Kobe|RJBG_49|RJBG-E
-RJBG-E|Kobe ACC N49 Sector (Up to FL335) - Kobe|RJBG_K|RJBG-E
 RJBG-N|Kobe ACC North (Up to FL335) - Kobe|RJBG_N|RJBG-N
 RJBG-S|Kobe ACC South (Up to FL335) - Kobe|RJBG_S|RJBG-S
-RJBG-S|Kobe ACC N55 Sector (Up to FL335) - Kobe|RJBG_55|RJBG-S
-RJBG-S|Kobe ACC N55 Sector (Up to FL335) - Kobe|RJBG_U|RJBG-S
 RJBG-W|Kobe ACC West (Up to FL335) - Kobe|RJBG_W|RJBG-W
-RJBG-W|Kobe ACC West (Up to FL335) - Kobe|RJBG_T|RJBG-W
-RJBG-W|Kobe ACC N50 Sector (Up to FL335) - Kobe|RJBG_50|RJBG-W
-RJBG-W|Kobe ACC N50 Sector (Up to FL335) - Kobe|RJBG_L|RJBG-W
-RJBG-W|Kobe ACC N51 Sector (Up to FL335) - Kobe|RJBG_51|RJBG-W
-RJBG-W|Kobe ACC N51 Sector (Up to FL335) - Kobe|RJBG_O|RJBG-W
-RJBG-W|Kobe ACC N52 Sector (Up to FL335) - Kobe|RJBG_52|RJBG-W
-RJBG-W|Kobe ACC N52 Sector (Up to FL335) - Kobe|RJBG_P|RJBG-W
-RJBG-W|Kobe ACC N53 Sector (Up to FL335) - Kobe|RJBG_53|RJBG-W
-RJBG-W|Kobe ACC N53 Sector (Up to FL335) - Kobe|RJBG_Q|RJBG-W
-RJBG-W|Kobe ACC N54 Sector (Up to FL335) - Kobe|RJBG_54|RJBG-W
-RJBG-W|Kobe ACC N54 Sector (Up to FL335) - Kobe|RJBG_R|RJBG-W
+RJBG-W|Kobe ACC West - Kobe|RJBG_T|RJBG-W
+RJBG-N43|Kobe ACC N43 Sector (Up to FL335) - Kobe|RJBG_43|RJBG-N43
+RJBG-N43|Kobe ACC N43 Sector (Up to FL335) - Kobe|RJBG_B|RJBG-N43
+RJBG-N44|Kobe ACC N44 Sector (Up to FL335) - Kobe|RJBG_44|RJBG-N44
+RJBG-N44|Kobe ACC N44 Sector (Up to FL335) - Kobe|RJBG_D|RJBG-N44
+RJBG-N47|Kobe ACC N47 Sector (Up to FL415) - Kobe|RJBG_47|RJBG-N47
+RJBG-N47|Kobe ACC N47 Sector (Up to FL415) - Kobe|RJBG_F|RJBG-N47
+RJBG-N48|Kobe ACC N48 Sector (Up to FL335) - Kobe|RJBG_48|RJBG-N48
+RJBG-N48|Kobe ACC N48 Sector (Up to FL335) - Kobe|RJBG_48S|RJBG-EN48
+RJBG-N48|Kobe ACC N48 Sector (Up to FL335) - Kobe|RJBG_H|RJBG-N48
+RJBG-N48|Kobe ACC N48 Sector (Up to FL335) - Kobe|RJBG_J|RJBG-N48
+RJBG-N49|Kobe ACC N49 Sector (Up to FL415) - Kobe|RJBG_49|RJBG-N49
+RJBG-N49|Kobe ACC N49 Sector (Up to FL415) - Kobe|RJBG_K|RJBG-N49
+RJBG-N50|Kobe ACC N50 Sector (Up to FL335) - Kobe|RJBG_50|RJBG-N50
+RJBG-N50|Kobe ACC N50 Sector (Up to FL335) - Kobe|RJBG_L|RJBG-N50
+RJBG-N51|Kobe ACC N51 Sector (Up to FL335) - Kobe|RJBG_51|RJBG-N51
+RJBG-N51|Kobe ACC N51 Sector (Up to FL335) - Kobe|RJBG_O|RJBG-N51
+RJBG-N52|Kobe ACC N52 Sector (Up to FL335) - Kobe|RJBG_52|RJBG-N52
+RJBG-N52|Kobe ACC N52 Sector (Up to FL335) - Kobe|RJBG_P|RJBG-N52
+RJBG-N53|Kobe ACC N53 Sector (Up to FL335) - Kobe|RJBG_53|RJBG-N53
+RJBG-N53|Kobe ACC N53 Sector (Up to FL335) - Kobe|RJBG_Q|RJBG-N53
+RJBG-N54|Kobe ACC N54 Sector (Up to FL335) - Kobe|RJBG_54|RJBG-N54
+RJBG-N54|Kobe ACC N54 Sector (Up to FL335) - Kobe|RJBG_R|RJBG-N54
+RJBG-N55|Kobe ACC N55 Sector (Up to FL335) - Kobe|RJBG_55|RJBG-N55
+RJBG-N55|Kobe ACC N55 Sector (Up to FL335) - Kobe|RJBG_U|RJBG-N55
 RJDG|Fukuoka ACC - Fukuoka||RJDG
 RJDG-C|Fukuoka ACC Central - Fukuoka|RJDG_C|RJDG-C
 RJDG-E|Fukuoka ACC East - Fukuoka|RJDG_E|RJDG-E
-RJDG-E|Fukuoka ACC F02 Sector - Fukuoka|RJDG_02|RJDG-E
-RJDG-E|Fukuoka ACC F02 Sector - Fukuoka|RJDG_F|RJDG-E
-RJDG-E|Fukuoka ACC F03 Sector - Fukuoka|RJDG_03|RJDG-E
-RJDG-E|Fukuoka ACC F03 Sector - Fukuoka|RJDG_H|RJDG-E
-RJDG-E|Fukuoka ACC F04 Sector - Fukuoka|RJDG_04|RJDG-E
-RJDG-E|Fukuoka ACC F04 Sector - Fukuoka|RJDG_J|RJDG-E
-RJDG-E|Fukuoka ACC F05 Sector - Fukuoka|RJDG_05|RJDG-E
-RJDG-E|Fukuoka ACC F05 Sector - Fukuoka|RJDG_K|RJDG-E
-RJDG-E|Fukuoka ACC F05 Sector - Fukuoka|RJDG_06|RJDG-E
-RJDG-E|Fukuoka ACC F05 Sector - Fukuoka|RJDG_L|RJDG-E
-RJDG-E|Fukuoka ACC F07 Sector - Fukuoka|RJDG_07|RJDG-E
-RJDG-E|Fukuoka ACC F07 Sector - Fukuoka|RJDG_O|RJDG-E
 RJDG-N|Fukuoka ACC North - Fukuoka|RJDG_N|RJDG-N
-RJDG-N|Fukuoka ACC F01 Sector - Fukuoka|RJDG_01|RJDG-N
-RJDG-N|Fukuoka ACC F01 Sector - Fukuoka|RJDG_01S|RJDG-N
-RJDG-N|Fukuoka ACC F01 Sector - Fukuoka|RJDG_B|RJDG-N
-RJDG-N|Fukuoka ACC F01 Sector - Fukuoka|RJDG_D|RJDG-N
-RJDG-S|Fukuoka ACC South - Fukuoka|RJDG_S|RJDG-S
-RJDG-S|Fukuoka ACC F15 Sector - Fukuoka|RJDG_15|RJDG-S
-RJDG-S|Fukuoka ACC F15 Sector - Fukuoka|RJDG_8|RJDG-S
-RJDG-S|Fukuoka ACC F16 Sector - Fukuoka|RJDG_16|RJDG-S
-RJDG-S|Fukuoka ACC F16 Sector - Fukuoka|RJDG_7|RJDG-S
-RJDG-S|Fukuoka ACC F17 Sector - Fukuoka|RJDG_17|RJDG-S
-RJDG-S|Fukuoka ACC F17 Sector - Fukuoka|RJDG_17S|RJDG-S
-RJDG-S|Fukuoka ACC F17 Sector - Fukuoka|RJDG_6|RJDG-S
-RJDG-S|Fukuoka ACC F17 Sector - Fukuoka|RJDG_5|RJDG-S
+RJDG-S|Fukuoka ACC South - Fukuoka Control|RJDG_S|RJDG-S
 RJDG-W|Fukuoka ACC West - Fukuoka|RJDG_W|RJDG-W
-RJDG-W|Fukuoka ACC F08 Sector - Fukuoka|RJDG_08|RJDG-W
-RJDG-W|Fukuoka ACC F08 Sector - Fukuoka|RJDG_08S|RJDG-W
-RJDG-W|Fukuoka ACC F08 Sector - Fukuoka|RJDG_P|RJDG-W
-RJDG-W|Fukuoka ACC F08 Sector - Fukuoka|RJDG_Q|RJDG-W
-RJDG-W|Fukuoka ACC F11 Sector - Fukuoka|RJDG_11|RJDG-W
-RJDG-W|Fukuoka ACC F11 Sector - Fukuoka|RJDG_V|RJDG-W
-RJDG-W|Fukuoka ACC F12 Sector - Fukuoka|RJDG_12|RJDG-W
-RJDG-W|Fukuoka ACC F12 Sector - Fukuoka|RJDG_X|RJDG-W
-RJDG-W|Fukuoka ACC F13 Sector - Fukuoka|RJDG_13|RJDG-W
-RJDG-W|Fukuoka ACC F13 Sector - Fukuoka|RJDG_Z|RJDG-W
-RJDG-W|Fukuoka ACC F14 Sector - Fukuoka|RJDG_14|RJDG-W
-RJDG-W|Fukuoka ACC F14 Sector - Fukuoka|RJDG_9|RJDG-W
-RJDG-W|Fukuoka ACC F19 Sector - Fukuoka|RJDG_19|RJDG-W
-RJDG-W|Fukuoka ACC F19 Sector - Fukuoka|RJDG_3|RJDG-W
-RJDG-W|Fukuoka ACC F20 Sector - Fukuoka|RJDG_20|RJDG-W
-RJDG-W|Fukuoka ACC F20 Sector - Fukuoka|RJDG_2|RJDG-W
-RJJJ|Fukuoka ACC - Tokyo||RJJJ
+RJDG-F01|Fukuoka ACC F01 Sector - Fukuoka|RJDG_01|RJDG-F01
+RJDG-F01|Fukuoka ACC F01 Sector - Fukuoka|RJDG_01S|RJDG-F01
+RJDG-F01|Fukuoka ACC F01 Sector - Fukuoka|RJDG_B|RJDG-F01
+RJDG-F01|Fukuoka ACC F01 Sector - Fukuoka|RJDG_D|RJDG-F01
+RJDG-F02|Fukuoka ACC F02 Sector - Fukuoka|RJDG_02|RJDG-F02
+RJDG-F02|Fukuoka ACC F02 Sector - Fukuoka|RJDG_F|RJDG-F02
+RJDG-F03|Fukuoka ACC F03 Sector - Fukuoka|RJDG_03|RJDG-F03
+RJDG-F03|Fukuoka ACC F03 Sector - Fukuoka|RJDG_H|RJDG-F03
+RJDG-F04|Fukuoka ACC F04 Sector - Fukuoka|RJDG_04|RJDG-F04
+RJDG-F04|Fukuoka ACC F04 Sector - Fukuoka|RJDG_J|RJDG-F04
+RJDG-F05|Fukuoka ACC F05 Sector - Fukuoka|RJDG_05|RJDG-F05
+RJDG-F05|Fukuoka ACC F05 Sector - Fukuoka|RJDG_K|RJDG-F05
+RJDG-F06|Fukuoka ACC F06 Sector - Fukuoka|RJDG_06|RJDG-F06
+RJDG-F06|Fukuoka ACC F06 Sector - Fukuoka|RJDG_L|RJDG-F06
+RJDG-F07|Fukuoka ACC F07 Sector - Fukuoka|RJDG_07|RJDG-F07
+RJDG-F07|Fukuoka ACC F07 Sector - Fukuoka|RJDG_O|RJDG-F07
+RJDG-F08|Fukuoka ACC F08 Sector - Fukuoka|RJDG_08|RJDG-F08
+RJDG-F08|Fukuoka ACC F08 Sector - Fukuoka|RJDG_08S|RJDG-F08
+RJDG-F08|Fukuoka ACC F08 Sector - Fukuoka|RJDG_P|RJDG-F08
+RJDG-F08|Fukuoka ACC F08 Sector - Fukuoka|RJDG_Q|RJDG-F08
+RJDG-F11|Fukuoka ACC F11 Sector - Fukuoka|RJDG_11|RJDG-F11
+RJDG-F11|Fukuoka ACC F11 Sector - Fukuoka|RJDG_V|RJDG-F11
+RJDG-F12|Fukuoka ACC F12 Sector - Fukuoka|RJDG_12|RJDG-F12
+RJDG-F12|Fukuoka ACC F12 Sector - Fukuoka|RJDG_X|RJDG-F12
+RJDG-F13|Fukuoka ACC F13 Sector - Fukuoka|RJDG_13|RJDG-F13
+RJDG-F13|Fukuoka ACC F13 Sector - Fukuoka|RJDG_Z|RJDG-F13
+RJDG-F14|Fukuoka ACC F14 Sector - Fukuoka|RJDG_14|RJDG-F14
+RJDG-F14|Fukuoka ACC F14 Sector - Fukuoka|RJDG_9|RJDG-F14
+RJDG-F15|Fukuoka ACC F15 Sector - Fukuoka|RJDG_15|RJDG-F15
+RJDG-F15|Fukuoka ACC F15 Sector - Fukuoka|RJDG_8|RJDG-F15
+RJDG-F16|Fukuoka ACC F16 Sector - Fukuoka|RJDG_16|RJDG-F16
+RJDG-F16|Fukuoka ACC F16 Sector - Fukuoka|RJDG_7|RJDG-F16
+RJDG-F17|Fukuoka ACC F17 Sector - Fukuoka|RJDG_17|RJDG-F17
+RJDG-F17|Fukuoka ACC F17 Sector - Fukuoka|RJDG_17S|RJDG-F17
+RJDG-F17|Fukuoka ACC F17 Sector - Fukuoka|RJDG_6|RJDG-F17
+RJDG-F17|Fukuoka ACC F17 Sector - Fukuoka|RJDG_5|RJDG-F17
+RJDG-F19|Fukuoka ACC F19 Sector - Fukuoka|RJDG_19|RJDG-F19
+RJDG-F19|Fukuoka ACC F19 Sector - Fukuoka|RJDG_3|RJDG-F19
+RJDG-F20|Fukuoka ACC F20 Sector - Fukuoka|RJDG_20|RJDG-F20
+RJDG-F20|Fukuoka ACC F20 Sector - Fukuoka|RJDG_2|RJDG-F20
+RJJJ|Tokyo - Tokyo Oceanic||RJJJ
 RJTG|Tokyo ACC - Tokyo||RJTG
 RJTG-E|Tokyo ACC East (Up to FL335) - Tokyo|RJTG_E|RJTG-E
-RJTG-E|Tokyo ACC T33 Sector (Up to FL335) - Tokyo|RJTG_33|RJTG-E
-RJTG-E|Tokyo ACC T33 Sector (Up to FL335) - Tokyo|RJTG_J|RJTG-E
-RJTG-E|Tokyo ACC T34 Sector (Up to FL335) - Tokyo|RJTG_34|RJTG-E
-RJTG-E|Tokyo ACC T34 Sector (Up to FL335) - Tokyo|RJTG_K|RJTG-E
-RJTG-E|Tokyo ACC T35 Sector (Up to FL335) - Tokyo|RJTG_35|RJTG-E
-RJTG-E|Tokyo ACC T35 Sector (Up to FL335) - Tokyo|RJTG_L|RJTG-E
-RJTG-E|Tokyo ACC T36 Sector (Up to FL335) - Tokyo|RJTG_36|RJTG-E
-RJTG-E|Tokyo ACC T36 Sector (Up to FL335) - Tokyo|RJTG_O|RJTG-E
 RJTG-N|Tokyo ACC North (Up to FL335) - Tokyo|RJTG_N|RJTG-N
-RJTG-N|Tokyo ACC T30 Sector (Up to FL335) - Tokyo|RJTG_30|RJTG-N
-RJTG-N|Tokyo ACC T30 Sector (Up to FL335) - Tokyo|RJTG_30S|RJTG-N
-RJTG-N|Tokyo ACC T30 Sector (Up to FL335) - Tokyo|RJTG_B|RJTG-N
-RJTG-N|Tokyo ACC T30 Sector (Up to FL335) - Tokyo|RJTG_D|RJTG-N
-RJTG-N|Tokyo ACC T31 Sector (Up to FL335) - Tokyo|RJTG_31|RJTG-N
-RJTG-N|Tokyo ACC T31 Sector (Up to FL335) - Tokyo|RJTG_F|RJTG-N
-RJTG-N|Tokyo ACC T32 Sector (Up to FL335) - Tokyo|RJTG_32|RJTG-N
-RJTG-N|Tokyo ACC T32 Sector (Up to FL335) - Tokyo|RJTG_H|RJTG-N
 RJTG-S|Tokyo ACC South (Up to FL335) - Tokyo|RJTG_S|RJTG-S
 RJTG-W|Tokyo ACC West (Up to FL335) - Tokyo|RJTG_W|RJTG-W
-RJTG-W|Tokyo ACC T25 Sector (Up to FL335) - Tokyo|RJTG_9|RJTG-W
-RJTG-W|Tokyo ACC T25 Sector (Up to FL335) - Tokyo|RJTG_25|RJTG-W
-RJTG-W|Tokyo ACC T38 Sector (Up to FL335) - Tokyo|RJTG_38|RJTG-W
-RJTG-W|Tokyo ACC T38 Sector (Up to FL335) - Tokyo|RJTG_Q|RJTG-W
-RJTG-W|Tokyo ACC T39 Sector (Up to FL335) - Tokyo|RJTG_39|RJTG-W
-RJTG-W|Tokyo ACC T39 Sector (Up to FL335) - Tokyo|RJTG_R|RJTG-W
-RJTG-W|Tokyo ACC T40 Sector (Up to FL335) - Tokyo|RJTG_40|RJTG-W
-RJTG-W|Tokyo ACC T40 Sector (Up to FL335) - Tokyo|RJTG_U|RJTG-W
-RJTG-W|Tokyo ACC T41 Sector (Up to FL335) - Tokyo|RJTG_41|RJTG-W
-RJTG-W|Tokyo ACC T41 Sector (Up to FL335) - Tokyo|RJTG_V|RJTG-W
-RJTG-W|Tokyo ACC T42 Sector (Up to FL335) - Tokyo|RJTG_42|RJTG-W
-RJTG-W|Tokyo ACC T42 Sector (Up to FL335) - Tokyo|RJTG_X|RJTG-W
-RJTG-W|Tokyo ACC T45 Sector (Up to FL335) - Tokyo|RJTG_45|RJTG-W
-RJTG-W|Tokyo ACC T45 Sector (Up to FL335) - Tokyo|RJTG_Y|RJTG-W
-RJTG-W|Tokyo ACC T46 Sector (Up to FL335) - Tokyo|RJTG_46|RJTG-W
-RJTG-W|Tokyo ACC T46 Sector (Up to FL335) - Tokyo|RJTG_Z|RJTG-W
+RJTG-T25|Tokyo ACC T25 Sector (Above FL275 / Up to FL415) - Tokyo|RJTG_9|RJTG-T25
+RJTG-T25|Tokyo ACC T25 Sector (Above FL275 / Up to FL415) - Tokyo|RJTG_25|RJTG-T25
+RJTG-T30|Tokyo ACC T30 Sector (Up to FL335) - Tokyo|RJTG_30|RJTG-T30
+RJTG-T30|Tokyo ACC T30 Sector (Up to FL335) - Tokyo|RJTG_30S|RJTG-T30
+RJTG-T30|Tokyo ACC T30 Sector (Up to FL335) - Tokyo|RJTG_B|RJTG-T30
+RJTG-T30|Tokyo ACC T30 Sector (Up to FL335) - Tokyo|RJTG_D|RJTG-T30
+RJTG-T31|Tokyo ACC T31 Sector (Up to FL375) - Tokyo|RJTG_31|RJTG-T31
+RJTG-T31|Tokyo ACC T31 Sector (Up to FL375) - Tokyo|RJTG_F|RJTG-T31
+RJTG-T32|Tokyo ACC T32 Sector (Up to FL335) - Tokyo|RJTG_32|RJTG-T32
+RJTG-T32|Tokyo ACC T32 Sector (Up to FL335) - Tokyo|RJTG_H|RJTG-T32
+RJTG-T33|Tokyo ACC T33 Sector (Up to FL335) - Tokyo|RJTG_33|RJTG-T33
+RJTG-T33|Tokyo ACC T33 Sector (Up to FL335) - Tokyo|RJTG_J|RJTG-T33
+RJTG-T34|Tokyo ACC T34 Sector (Up to FL335) - Tokyo|RJTG_34|RJTG-T34
+RJTG-T34|Tokyo ACC T34 Sector (Up to FL335) - Tokyo|RJTG_K|RJTG-T34
+RJTG-T35|Tokyo ACC T35 Sector (Up to FL335) - Tokyo|RJTG_35|RJTG-T35
+RJTG-T35|Tokyo ACC T35 Sector (Up to FL335) - Tokyo|RJTG_L|RJTG-T35
+RJTG-T36|Tokyo ACC T36 Sector (Up to FL335) - Tokyo|RJTG_36|RJTG-T36
+RJTG-T36|Tokyo ACC T36 Sector (Up to FL335) - Tokyo|RJTG_O|RJTG-T36
+RJTG-T38|Tokyo ACC T38 Sector (Up to FL335) - Tokyo|RJTG_38|RJTG-T38
+RJTG-T38|Tokyo ACC T38 Sector (Up to FL335) - Tokyo|RJTG_Q|RJTG-T38
+RJTG-T39|Tokyo ACC T39 Sector (Up to FL335) - Tokyo|RJTG_39|RJTG-T39
+RJTG-T39|Tokyo ACC T39 Sector (Up to FL335) - Tokyo|RJTG_R|RJTG-T39
+RJTG-T40|Tokyo ACC T40 Sector (Up to FL335) - Tokyo|RJTG_40|RJTG-T40
+RJTG-T40|Tokyo ACC T40 Sector (Up to FL335) - Tokyo|RJTG_U|RJTG-T40
+RJTG-T41|Tokyo ACC T41 Sector (Up to FL335) - Tokyo|RJTG_41|RJTG-T41
+RJTG-T41|Tokyo ACC T41 Sector (Up to FL335) - Tokyo|RJTG_V|RJTG-T41
+RJTG-T42|Tokyo ACC T42 Sector (Up to FL335) - Tokyo|RJTG_42|RJTG-T42
+RJTG-T42|Tokyo ACC T42 Sector (Up to FL335) - Tokyo|RJTG_X|RJTG-T42
+RJTG-T45|Tokyo ACC T45 Sector (Up to FL275) - Tokyo|RJTG_45|RJTG-T45
+RJTG-T45|Tokyo ACC T45 Sector (Up to FL275) - Tokyo|RJTG_Y|RJTG-T45
+RJTG-T46|Tokyo ACC T46 Sector (Up to FL335) - Tokyo|RJTG_46|RJTG-T46
+RJTG-T46|Tokyo ACC T46 Sector (Up to FL335) - Tokyo|RJTG_Z|RJTG-T46
 RKDA|Daegu ACC - Incheon||RKDA
 RKDA-C|Daegu ACC (Central) - Incheon|RKDA_C|RKDA-C
 RKDA-E|Daegu ACC (East) - Incheon|RKDA_E|RKDA-E

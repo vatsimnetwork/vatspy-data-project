@@ -159,7 +159,7 @@ Kazakhstan|UA|Control
 Kenya|HK|
 Kiribati-Tuvalu|NG|
 Kosovo|BK|
-Kuwait|OK|
+Kuwait|OK|Radar
 Kyrgyzstan|UC|
 Laos|VL|Control
 Latvia|EV|Control
@@ -18974,7 +18974,7 @@ ORBB|Baghdad|ORBB|ORBB
 ORBB-N|Baghdad (North) - Baghdad|ORBB_N|ORBB-N
 ORBB-N|Baghdad (North) - Baghdad|ORBB_NU|ORBB-N
 ORBB-S|Baghdad (South) - Baghdad|ORBB_S|ORBB-S
-ORBB-S|Baghdad (South) Baghdad|ORBB_SU|ORBB-S
+ORBB-S|Baghdad (South) - Baghdad|ORBB_SU|ORBB-S
 OSTT|Damascus|OSDI|OSTT
 OTDF|Doha||OTDF
 OTDF-N|Doha (North SFC-FL245)|OTDF_N|OTDF-N

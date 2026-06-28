@@ -19360,6 +19360,9 @@ UWWW-N|Samara ACC sector Kazan - Samara|UWWW_N|UWWW-N
 UWWW-SE|Samara ACC sector Orenburg - Samara|UWWW_SE|UWWW-SE
 UWWW-SW|Samara ACC sector Saratov - Samara|UWWW_SW|UWWW-SW
 UWWW-W|Samara ACC sector West - Samara|UWWW_W|UWWW-W
+UWWW-LG|Samara FSS sector Ulyanovsk - Ulyanovsk Information|UWWW_LG|UWWW-LG
+UWWW-KG|Samara FSS sector Kazan - Kazan Information|UWWW_KG|UWWW-KG
+UWWW-SG|Samara FSS sector Samara - Samara Control|UWWW_SG|UWWW-SG
 UZSD|Samarkand||UZSD
 UZTR|Tashkent||UZTR
 VAAH|Ahmedabad ACC - Mumbai||VAAH

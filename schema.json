@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/Jakub0408/vatspy-data-project/refs/heads/master/schema.json",
+  "$id": "https://raw.githubusercontent.com/vatsimnetwork/vatspy-data-project/refs/heads/master/schema.json",
   "title": "VATSpy boundaries",
   "type": "object",
   "properties": {

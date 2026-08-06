@@ -48,7 +48,7 @@ Benin|DB|
 Bermuda|TX|
 Bhutan|VQ|
 Bolivia|SL|Control
-Bosnia-Herzegovina|LQ|
+Bosnia-Herzegovina|LQ|Radar
 Botswana|FB|
 Brazil|SB|Center
 Brazil|SD|Center
@@ -93,7 +93,7 @@ Cook Islands|NC|Control
 Cook Islands|NI|
 Costa Rica|MR|
 Cote D'Ivoire|DI|
-Croatia|LD|Control
+Croatia|LD|Radar
 Cuba|MU|
 Cyprus|LC|Radar
 Czech Republic|LK|Radar
@@ -248,7 +248,7 @@ Seychelles|FS|
 Sierra Leone|GF|
 Singapore|WS|Radar
 Slovakia|LZ|Radar
-Slovenia|LJ|Control
+Slovenia|LJ|Radar
 Solomon Islands|AG|
 Somalia|HC|Radio
 South Africa|FA|Area
@@ -2598,6 +2598,7 @@ EIMP|Mullingar|53.453056|-7.241944||EISN|0
 EIMS|Mountshannon|52.930556|-8.424444||EISN|0
 EINC|Newcastle|53.072778|-6.036389||EISN|0
 EINN|Shannon|52.701944|-8.924722||EISN|0
+EINN|Munster|52.29|-8.71|MUNSTER|EISN|1
 EIRE|Abbeyfeale|52.396367|-9.3384||EISN|0
 EIRT|Rathcoole|52.105556|-8.983333||EISN|0
 EISG|Sligo|54.280278|-8.599167||EISN|0
@@ -19111,8 +19112,8 @@ RJTG-T38|Tokyo ACC T38 Sector (Up to FL335) - Tokyo|RJTG_38|RJTG-T38
 RJTG-T38|Tokyo ACC T38 Sector (Up to FL335) - Tokyo|RJTG_Q|RJTG-T38
 RJTG-T39|Tokyo ACC T39 Sector (Up to FL335) - Tokyo|RJTG_39|RJTG-T39
 RJTG-T39|Tokyo ACC T39 Sector (Up to FL335) - Tokyo|RJTG_R|RJTG-T39
-RJTG-T40|Tokyo ACC T40 Sector (Up to FL335) - Tokyo|RJTG_40|RJTG-T40
-RJTG-T40|Tokyo ACC T40 Sector (Up to FL335) - Tokyo|RJTG_U|RJTG-T40
+RJTG-T40|Tokyo ACC T40 Sector (Up to FL415) - Tokyo|RJTG_40|RJTG-T40
+RJTG-T40|Tokyo ACC T40 Sector (Up to FL415) - Tokyo|RJTG_U|RJTG-T40
 RJTG-T41|Tokyo ACC T41 Sector (Up to FL335) - Tokyo|RJTG_41|RJTG-T41
 RJTG-T41|Tokyo ACC T41 Sector (Up to FL335) - Tokyo|RJTG_V|RJTG-T41
 RJTG-T42|Tokyo ACC T42 Sector (Up to FL335) - Tokyo|RJTG_42|RJTG-T42

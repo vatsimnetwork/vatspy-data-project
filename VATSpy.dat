@@ -48,7 +48,7 @@ Benin|DB|
 Bermuda|TX|
 Bhutan|VQ|
 Bolivia|SL|Control
-Bosnia-Herzegovina|LQ|
+Bosnia-Herzegovina|LQ|Radar
 Botswana|FB|
 Brazil|SB|Center
 Brazil|SD|Center
@@ -93,7 +93,7 @@ Cook Islands|NC|Control
 Cook Islands|NI|
 Costa Rica|MR|
 Cote D'Ivoire|DI|
-Croatia|LD|Control
+Croatia|LD|Radar
 Cuba|MU|
 Cyprus|LC|Radar
 Czech Republic|LK|Radar
@@ -248,7 +248,7 @@ Seychelles|FS|
 Sierra Leone|GF|
 Singapore|WS|Radar
 Slovakia|LZ|Radar
-Slovenia|LJ|Control
+Slovenia|LJ|Radar
 Solomon Islands|AG|
 Somalia|HC|Radio
 South Africa|FA|Area

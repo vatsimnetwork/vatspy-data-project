@@ -18230,8 +18230,11 @@ ZYYK|Yingkou Lanqi|40.542243|122.359052||ZYSH|0
 ;ICAO|NAME|CALLSIGN PREFIX|FIR BOUNDARY
 ;dummy codes for Adria CTR
 ADR|Adria Radar||ADR
+ADR| Adria Radar (Upper FL335+)|ADR_U|ADR
 ADR-E|Adria Radar (East)|ADR_E|ADR-E
+ADR-E|Adria Radar (Upper East FL335+)|ADR_UE|ADR-E
 ADR-W|Adria Radar (West)|ADR_W|ADR-W
+ADR-W|Adria Radar (Upper West FL335+)|ADR_UW|ADR-W
 AGGG|Honiara||AGGG
 ANAU|Nauru||ANAU
 AYPM|Port Moresby||AYPM
@@ -18848,6 +18851,7 @@ LIRR-SU|Roma SU - Roma|LIRR_SU|LIRR-SU
 LIRR-TS|Roma TS - Roma|LIRR_TS|LIRR-TS
 LIRR-US|Roma US - Roma|LIRR_US|LIRR-US
 LJLA|Ljubljana||LJLA
+LJLA|Ljubljana Upper (FL335+)||LJLA_U|LJLA
 LKAA|Praha||LKAA
 LLGV|Hagav|HAGAV|LLLL
 LLLL|Tel Aviv|LLTA|LLLL

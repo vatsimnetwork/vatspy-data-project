@@ -18291,25 +18291,15 @@ EBBU|Brussels||EBBU
 EBUR|Brussels Upper||EBBU
 EDGG|Langen||EDGG
 EDGG-N|Langen Radar (North) - Langen|EDGG_N|EDGG-N
-EDGG-N|Langen Radar (North) - Langen|EDGG_N1|EDGG-N
 EDGG-N|Langen Radar (North) - Langen|EDGG_NH|EDGG-N
-EDGG-N|Langen Radar (North) - Langen|EDGG_NH1|EDGG-N
 EDGG-C|Langen Radar (Central) - Langen|EDGG_C|EDGG-C
-EDGG-C|Langen Radar (Central) - Langen|EDGG_C1|EDGG-C
 EDGG-C|Langen Radar (Central) - Langen|EDGG_CA|EDGG-C
-EDGG-C|Langen Radar (Central) - Langen|EDGG_CA1|EDGG-C
 EDGG-C|Langen Radar (Central) - Langen|EDGG_CH|EDGG-C
-EDGG-C|Langen Radar (Central) - Langen|EDGG_CH1|EDGG-C
 EDGG-S|Langen Radar (South) - Langen|EDGG_S|EDGG-S
-EDGG-S|Langen Radar (South) - Langen|EDGG_S1|EDGG-S
 EDGG-S|Langen Radar (South) - Langen|EDGG_SA|EDGG-S
-EDGG-S|Langen Radar (South) - Langen|EDGG_SA1|EDGG-S
 EDGG-S|Langen Radar (South) - Langen|EDGG_SH|EDGG-S
-EDGG-S|Langen Radar (South) - Langen|EDGG_SH1|EDGG-S
 EDGG-A|Langen Radar (Allendorf) - Langen|EDGG_A|EDGG-A
-EDGG-A|Langen Radar (Allendorf) - Langen|EDGG_A1|EDGG-A
 EDGG-A|Langen Radar (Allendorf) - Langen|EDGG_AH|EDGG-A
-EDGG-A|Langen Radar (Allendorf) - Langen|EDGG_AH1|EDGG-A
 EDGG-BAD|Langen Radar (Baden) - Langen|EDGG_BAD|EDGG-BAD
 EDGG-BAD|Langen Radar (Baden) - Langen|EDGG_BAH|EDGG-BAD
 EDGG-BAD|Langen Radar (Baden) - Langen|EDGG_LBU|EDGG-BAD
@@ -18342,7 +18332,6 @@ EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_T1U|EDGG-GIN
 EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_H1F|EDGG-GIN
 EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_S1G|EDGG-GIN
 EDGG-CS|Langen Radar (Central+South combined) - Langen|EDGG_CS|EDGG-CS
-EDGG-CS|Langen Radar (Central+South combined) - Langen|EDGG_CS1|EDGG-CS
 EDGG-PAH|Langen Radar (Pad High) - Langen|EDGG_PAD|EDGG-PAH
 EDGG-PAH|Langen Radar (Pad High) - Langen|EDGG_PAH|EDGG-PAH
 EDGG-PAH|Langen Radar (Pad High) - Langen|EDGG_P1D|EDGG-PAH

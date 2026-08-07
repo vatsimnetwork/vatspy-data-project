@@ -18230,8 +18230,11 @@ ZYYK|Yingkou Lanqi|40.542243|122.359052||ZYSH|0
 ;ICAO|NAME|CALLSIGN PREFIX|FIR BOUNDARY
 ;dummy codes for Adria CTR
 ADR|Adria Radar||ADR
+ADR|Adria Radar (Upper FL335+)|ADR_U|ADR
 ADR-E|Adria Radar (East)|ADR_E|ADR-E
+ADR-E|Adria Radar (Upper East FL335+)|ADR_UE|ADR-E
 ADR-W|Adria Radar (West)|ADR_W|ADR-W
+ADR-W|Adria Radar (Upper West FL335+)|ADR_UW|ADR-W
 AGGG|Honiara||AGGG
 ANAU|Nauru||ANAU
 AYPM|Port Moresby||AYPM
@@ -18698,6 +18701,15 @@ LCCC-S1|Nicosia-South1|LCCC_S1|LCCC-S1
 LCCC-S2|Nicosia-South2|LCCC_S2|LCCC-S2
 LCCC-W|Nicosia-West|LCCC_W|LCCC-W
 LDZO|Zagreb||LDZO
+LDZO-C|Zagreb Central|LDZO_C|LDZO-C
+LDZO-N|Zagreb North|LDZO_N|LDZO-N
+LDZO-S|Zagreb South|LDZO_S|LDZO-S
+LDZO-W|Zagreb West|LDZO_W|LDZO-W
+LDZO-U|Zagreb Upper (FL335+)|LDZO_U|LDZO
+LDZO-UC|Zagreb Upper Central (FL335+)|LDZO_UC|LDZO-C
+LDZO-UN|Zagreb Upper North (FL335+)|LDZO_UN|LDZO-N
+LDZO-US|Zagreb Upper South (FL335+)|LDZO_US|LDZO-S
+LDZO-UW|Zagreb Upper West (FL335+)|LDZO_UW|LDZO-W
 LECB|Barcelona|LEBL|LECB
 LECB-CCC|Barcelona (Central Sector) - Barcelona|LECB_CCC|LECB-CCC
 LECB-CVN|Barcelona (CCC+VNI Sector) - Barcelona|LECB_CVN|LECB-CVN
@@ -18868,6 +18880,7 @@ LIRR-SU|Roma SU - Roma|LIRR_SU|LIRR-SU
 LIRR-TS|Roma TS - Roma|LIRR_TS|LIRR-TS
 LIRR-US|Roma US - Roma|LIRR_US|LIRR-US
 LJLA|Ljubljana||LJLA
+LJLA|Ljubljana Upper (FL335+)|LJLA_U|LJLA
 LKAA|Praha||LKAA
 LLGV|Hagav|HAGAV|LLLL
 LLLL|Tel Aviv|LLTA|LLLL
@@ -18894,7 +18907,7 @@ LPPC-S|Lisboa - SOUTH Sector|LPPC_S|LPPC-S
 LPPC-W|Lisboa - WEST Sector|LPPC_W|LPPC-W
 LPPO|Santa Maria|LPAZ|LPPO
 LPPO-TMA|Santa Maria Radar|LPPO|LPPO-TMA
-LQSB|Sarajevo|LQSA|LQSB
+LQSB|Sarajevo|LQSB|LQSB
 LRBB|Bucuresti ACC (Bandbox Sector) - Bucharest||LRBB
 LRBB-E|Bucuresti ACC (East Sector) - Bucharest|LRBB_E|LRBB-E
 LRBB-W|Bucuresti ACC (West Sector) - Bucharest|LRBB_W|LRBB-W
@@ -19740,4 +19753,3 @@ SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
 -45.0|-172.5
 -52.0|-180.0
 -90.0|-180.0
-

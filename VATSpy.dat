@@ -18291,30 +18291,58 @@ DTTC-S|Tunis South|DTTC_S|DTTC-S
 EBBU|Brussels||EBBU
 EBUR|Brussels Upper||EBBU
 EDGG|Langen||EDGG
-EDGG-N|Langen Radar (Baden) - Langen|EDGG_N|EDGG-N
-EDGG-N|Langen Radar (Baden) - Langen|EDGG_NH|EDGG-N
-EDGG-C|Langen Radar (Baden) - Langen|EDGG_C|EDGG-C
-EDGG-C|Langen Radar (Baden) - Langen|EDGG_CA|EDGG-C
-EDGG-C|Langen Radar (Baden) - Langen|EDGG_CH|EDGG-C
-EDGG-S|Langen Radar (Baden) - Langen|EDGG_S|EDGG-S
-EDGG-S|Langen Radar (Baden) - Langen|EDGG_SA|EDGG-S
-EDGG-S|Langen Radar (Baden) - Langen|EDGG_SH|EDGG-S
-EDGG-A|Langen Radar (Baden) - Langen|EDGG_A|EDGG-A
-EDGG-A|Langen Radar (Baden) - Langen|EDGG_AH|EDGG-A
+EDGG-N|Langen Radar (North) - Langen|EDGG_N|EDGG-N
+EDGG-N|Langen Radar (North) - Langen|EDGG_NH|EDGG-N
+EDGG-C|Langen Radar (Central) - Langen|EDGG_C|EDGG-C
+EDGG-C|Langen Radar (Central) - Langen|EDGG_CA|EDGG-C
+EDGG-C|Langen Radar (Central) - Langen|EDGG_CH|EDGG-C
+EDGG-S|Langen Radar (South) - Langen|EDGG_S|EDGG-S
+EDGG-S|Langen Radar (South) - Langen|EDGG_SA|EDGG-S
+EDGG-S|Langen Radar (South) - Langen|EDGG_SH|EDGG-S
+EDGG-A|Langen Radar (Allendorf) - Langen|EDGG_A|EDGG-A
+EDGG-A|Langen Radar (Allendorf) - Langen|EDGG_AH|EDGG-A
 EDGG-BAD|Langen Radar (Baden) - Langen|EDGG_BAD|EDGG-BAD
 EDGG-BAD|Langen Radar (Baden) - Langen|EDGG_BAH|EDGG-BAD
+EDGG-BAD|Langen Radar (Baden) - Langen|EDGG_LBU|EDGG-BAD
+EDGG-BAD|Langen Radar (Baden) - Langen|EDGG_MAN|EDGG-BAD
+EDGG-BAD|Langen Radar (Baden) - Langen|EDGG_NKR|EDGG-BAD
+EDGG-BAD|Langen Radar (Baden) - Langen|EDGG_B1D|EDGG-BAD
+EDGG-BAD|Langen Radar (Baden) - Langen|EDGG_B1H|EDGG-BAD
+EDGG-BAD|Langen Radar (Baden) - Langen|EDGG_L1U|EDGG-BAD
+EDGG-BAD|Langen Radar (Baden) - Langen|EDGG_M1N|EDGG-BAD
+EDGG-BAD|Langen Radar (Baden) - Langen|EDGG_N1R|EDGG-BAD
 EDGG-DKB|Langen Radar (Dinkelsbuehl) - Langen|EDGG_DKB|EDGG-DKB
 EDGG-DKB|Langen Radar (Dinkelsbuehl) - Langen|EDGG_DKH|EDGG-DKB
+EDGG-DKB|Langen Radar (Dinkelsbuehl) - Langen|EDGG_KTG|EDGG-DKB
+EDGG-DKB|Langen Radar (Dinkelsbuehl) - Langen|EDGG_KNG|EDGG-DKB
+EDGG-DKB|Langen Radar (Dinkelsbuehl) - Langen|EDGG_PSA|EDGG-DKB
+EDGG-DKB|Langen Radar (Dinkelsbuehl) - Langen|EDGG_HAB|EDGG-DKB
+EDGG-DKB|Langen Radar (Dinkelsbuehl) - Langen|EDGG_D1B|EDGG-DKB
+EDGG-DKB|Langen Radar (Dinkelsbuehl) - Langen|EDGG_D1H|EDGG-DKB
+EDGG-DKB|Langen Radar (Dinkelsbuehl) - Langen|EDGG_K1G|EDGG-DKB
+EDGG-DKB|Langen Radar (Dinkelsbuehl) - Langen|EDGG_P1A|EDGG-DKB
+EDGG-DKB|Langen Radar (Dinkelsbuehl) - Langen|EDGG_H1B|EDGG-DKB
 EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_GIN|EDGG-GIN
 EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_GIH|EDGG-GIN
 EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_TAU|EDGG-GIN
 EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_HEF|EDGG-GIN
 EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_SIG|EDGG-GIN
-EDGG-CS|Langen Radar (Kitzingen) - Langen|EDGG_CS|EDGG-CS
+EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_G1N|EDGG-GIN
+EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_G1H|EDGG-GIN
+EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_T1U|EDGG-GIN
+EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_H1F|EDGG-GIN
+EDGG-GIN|Langen Radar (Giessen) - Langen|EDGG_S1G|EDGG-GIN
+EDGG-CS|Langen Radar (Central+South combined) - Langen|EDGG_CS|EDGG-CS
 EDGG-PAH|Langen Radar (Pad High) - Langen|EDGG_PAD|EDGG-PAH
 EDGG-PAH|Langen Radar (Pad High) - Langen|EDGG_PAH|EDGG-PAH
+EDGG-PAH|Langen Radar (Pad High) - Langen|EDGG_P1D|EDGG-PAH
+EDGG-PAH|Langen Radar (Pad High) - Langen|EDGG_P1H|EDGG-PAH
 EDGG-RUD|Langen Radar (Ruedesheim) - Langen|EDGG_RUD|EDGG-RUD
 EDGG-RUD|Langen Radar (Ruedesheim) - Langen|EDGG_RUH|EDGG-RUD
+EDGG-RUD|Langen Radar (Ruedesheim) - Langen|EDGG_KIR|EDGG-RUD
+EDGG-RUD|Langen Radar (Ruedesheim) - Langen|EDGG_R1D|EDGG-RUD
+EDGG-RUD|Langen Radar (Ruedesheim) - Langen|EDGG_R1H|EDGG-RUD
+EDGG-RUD|Langen Radar (Ruedesheim) - Langen|EDGG_K1R|EDGG-RUD
 EDGG-KL|Langen Radar (Köln Düsseldorf Approach) - Langen|EDGG_KL|EDGG-KL
 EDMM|Muenchen||EDMM
 EDMM-GER|Muenchen ACC (Gera) - Muenchen|EDMM_GER|EDMM-GER

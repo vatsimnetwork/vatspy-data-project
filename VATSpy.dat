@@ -18950,6 +18950,14 @@ LTXX|Ankara Control|ANK|LTXX
 LUUU|Chisinau||LUUU
 LWSS|Skopje||LWSS
 LYBA|Beograd||LYBA
+LYBA|KFOR Radar|KFOR_|KFOR
+LYBA-E|Beograd East|LYBA_E|LYBA-E
+LYBA-N|Beograd North|LYBA_N|LYBA-N
+LYBA-U|Beograd Upper (FL335+)|LYBA_U|LYBA
+LYBA-W|Beograd West|LYBA_W|LYBA-W
+LYBA-UE|Beograd East Upper (FL335+)|LYBA_UE|LYBA-E
+LYBA-UN|Beograd North Upper (FL335+)|LYBA_UN|LYBA-N
+LYBA-UW|Beograd West Upper (FL335+)|LYBA_UW|LYBA-W
 LZBB|Bratislava||LZBB
 MDCS|Santo Domingo||MDCS
 MHCC|Cenamer||MHCC

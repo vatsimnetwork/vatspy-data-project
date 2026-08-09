@@ -77,3 +77,17 @@ export function validateAlphabetPosition(key: string, value: string, throwOnErro
 
     return true
 }
+
+const counters: Record<string, Record<string, true>> = {}
+
+export function count(key: string, value: string, throwOnError = true) {
+    counters[key] ??= {}
+    if (counters[key][value]) {
+        if (throwOnError)
+            throw new Error(`Value ${value} in ${key} is duplicated`)
+        else return false
+    }
+
+    counters[key][value] = true
+    return true
+}

@@ -12,16 +12,16 @@
   },
   "dependencies": {
     "ajv": "^8.20.0",
-    "csv-parse": "^7.0.0",
+    "csv-parse": "^7.0.2",
     "csv-parser": "^3.2.1",
     "fast-csv": "^5.0.7"
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
-    "@types/node": "^25.9.3",
+    "@types/node": "^26.2.0",
     "geojson": "^0.5.0",
     "tsc": "^2.0.4",
-    "typescript": "^6.0.3"
+    "typescript": "^7.0.2"
   },
-  "packageManager": "yarn@4.17.0"
+  "packageManager": "yarn@4.18.0"
 }

@@ -1,7 +1,7 @@
 import {fileURLToPath} from 'url';
 import {readFileSync} from 'fs';
 import {join} from 'path';
-import {isValidCoordinates, parseDatFile, validateAlphabetPosition} from "../utils/index.ts";
+import {isValidCoordinates, parseDatFile, validateAlphabetPosition, count} from "../utils/index.ts";
 
 const path = fileURLToPath(new URL(import.meta.url).toString());
 const dat = readFileSync(join(path, '../../../VATSpy.dat'), 'utf-8')
@@ -56,20 +56,6 @@ const parsedDat = parseDatFile({
     },
     dat,
 });
-
-const counters: Record<string, Record<string, true>> = {}
-
-function count(key: string, value: string, throwOnError = true) {
-    counters[key] ??= {}
-    if (counters[key][value]) {
-        if (throwOnError)
-            throw new Error(`Value ${value} in ${key} is duplicated`)
-        else return false
-    }
-
-    counters[key][value] = true
-    return true
-}
 
 for (const country of parsedDat.countries) {
     if (!country.country || !country.code || country.code.length !== 2) throw new Error(`Country ${country.code} validation failed`);

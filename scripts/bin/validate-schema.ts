@@ -2,7 +2,7 @@ import {fileURLToPath} from 'url';
 import {readFileSync} from 'fs';
 import {join} from 'path';
 import Ajv from "ajv/dist/2020.js";
-import {isValidCoordinates, parseDatFile, validateAlphabetPosition} from "../utils/index.ts";
+import {count, isValidCoordinates, parseDatFile, validateAlphabetPosition} from "../utils/index.ts";
 import type {FeatureCollection, MultiPolygon} from 'geojson'
 
 const path = fileURLToPath(new URL(import.meta.url).toString());

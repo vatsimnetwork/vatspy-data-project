@@ -19628,12 +19628,12 @@ YWON|Melbourne (Wonthaggi) 135.3* (122.6)|ML-WON|YWON
 YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
 YYWE|Melbourne (Yarrowee) 134.325* (132.6)|ML-YWE|YYWE
 ZBAA|Beijing ACC - Beijing FIR - Beijing||ZBAA
-ZBAA-E|Beijing ACC East Sector - Beijing FIR - Beijing|ZBAA_E|ZBAA-E
-ZBAA-N|Beijing ACC North High Sector - Beijing FIR - Beijing|ZBAA_N|ZBAA-N
-ZBAA-S|Beijing ACC South High Sector - Beijing FIR - Beijing|ZBAA_S|ZBAA-S
-ZBAA-W|Beijing ACC West Sector - Beijing FIR - Beijing|ZBAA_W|ZBAA-W
-ZBAA-SW|Beijing ACC Southwest Sector - Beijing FIR - Beijing|ZBAA_SW|ZBAA-SW
+ZBAA-BJE|Beijing ACC East Sector - Beijing FIR - Beijing|ZBAA_E|ZBAA-BJE
+ZBAA-BJN|Beijing ACC North High Sector - Beijing FIR - Beijing|ZBAA_N|ZBAA-BJN
+ZBAA-BJS|Beijing ACC South High Sector - Beijing FIR - Beijing|ZBAA_S|ZBAA-BJS
+ZBAA-BJW|Beijing ACC West Sector - Beijing FIR - Beijing|ZBAA_W|ZBAA-BJW
 ZBHH|Hohhot ACC - Beijing FIR - Hohhot||ZBHH
+ZBHH-HHW|Hohhot ACC West Sector - Beijing FIR - Hohhot|ZBHH_W|ZBHH-HHW
 ZBPE|Beijing FIR - Beijing||ZBPE
 ZGGG|Guangzhou ACC - Guangzhou FIR - Guangzhou||ZGGG
 ZGHA|Changsha ACC - Guangzhou FIR - Changsha||ZGHA

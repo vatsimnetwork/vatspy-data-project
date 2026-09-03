@@ -19642,12 +19642,18 @@ YWON|Melbourne (Wonthaggi) 135.3* (122.6)|ML-WON|YWON
 YWRA|Melbourne (Woomera) 132.9* (128.85)|ML-WRA|YWRA
 YYWE|Melbourne (Yarrowee) 134.325* (132.6)|ML-YWE|YYWE
 ZBAA|Beijing ACC - Beijing FIR - Beijing||ZBAA
-ZBAA-E|Beijing ACC East Sector - Beijing FIR - Beijing|ZBAA_E|ZBAA-E
-ZBAA-N|Beijing ACC North High Sector - Beijing FIR - Beijing|ZBAA_N|ZBAA-N
-ZBAA-S|Beijing ACC South High Sector - Beijing FIR - Beijing|ZBAA_S|ZBAA-S
-ZBAA-W|Beijing ACC West Sector - Beijing FIR - Beijing|ZBAA_W|ZBAA-W
-ZBAA-SW|Beijing ACC Southwest Sector - Beijing FIR - Beijing|ZBAA_SW|ZBAA-SW
+ZBAA-BJE|Beijing ACC East Sector - Beijing FIR - Beijing|ZBAA_E|ZBAA-BJE
+ZBAA-BJE1|Beijing ACC East 1 Sector - Beijing FIR - Beijing|ZBAA_E1|ZBAA-BJE1
+ZBAA-BJE2|Beijing ACC East 2 Sector - Beijing FIR - Beijing|ZBAA_E2|ZBAA-BJE2
+ZBAA-BJN|Beijing ACC North High Sector - Beijing FIR - Beijing|ZBAA_N|ZBAA-BJN
+ZBAA-BJN1|Beijing ACC North High 1 Sector - Beijing FIR - Beijing|ZBAA_N1|ZBAA-BJN1
+ZBAA-BJS|Beijing ACC South High Sector - Beijing FIR - Beijing|ZBAA_S|ZBAA-BJS
+ZBAA-BJS1|Beijing ACC South High 1 Sector - Beijing FIR - Beijing|ZBAA_S1|ZBAA-BJS1
+ZBAA-BJW|Beijing ACC West Sector - Beijing FIR - Beijing|ZBAA_W|ZBAA-BJW
+ZBAA-BJW1|Beijing ACC West 1 Sector - Beijing FIR - Beijing|ZBAA_W1|ZBAA-BJW1
+ZBAA-BJW2|Beijing ACC West 2 Sector - Beijing FIR - Beijing|ZBAA_W2|ZBAA-BJW2
 ZBHH|Hohhot ACC - Beijing FIR - Hohhot||ZBHH
+ZBHH-HHW|Hohhot ACC West Sector - Beijing FIR - Hohhot|ZBHH_W|ZBHH-HHW
 ZBPE|Beijing FIR - Beijing||ZBPE
 ZGGG|Guangzhou ACC - Guangzhou FIR - Guangzhou||ZGGG
 ZGHA|Changsha ACC - Guangzhou FIR - Changsha||ZGHA

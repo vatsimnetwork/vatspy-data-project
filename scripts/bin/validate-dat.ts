@@ -90,7 +90,7 @@ for (const airport of parsedDat.airports) {
 
 const featureIds = new Set();
 
-for(const feature of boundaries.features) {
+for (const feature of boundaries.features) {
     featureIds.add(feature.properties.id);
 }
 
@@ -106,7 +106,8 @@ for (const fir of parsedDat.firs) {
 
 for (const uir of parsedDat.uirs) {
     if (!uir.icao || !uir.name || uir.firs === undefined) throw new Error(`UIR ${uir.icao} validation failed`)
-    const firs = uir.firs?.split(',')?.filter(x => x) ?? []
+    let firs = uir.firs?.split(',') ?? []
+    if (firs.length === 1 && firs[0] === '') firs = []
     const missing = firs.filter(x => !parsedDat.firs.some(y => y.icao === x))
     if (missing.length) throw new Error(`${missing} for UIR ${uir.icao} missing in FIRs`)
 

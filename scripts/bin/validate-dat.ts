@@ -106,7 +106,7 @@ for (const fir of parsedDat.firs) {
 
 for (const uir of parsedDat.uirs) {
     if (!uir.icao || !uir.name || uir.firs === undefined) throw new Error(`UIR ${uir.icao} validation failed`)
-    const firs = uir.firs?.split(',') ?? []
+    const firs = uir.firs?.split(',')?.filter(x => x) ?? []
     const missing = firs.filter(x => !parsedDat.firs.some(y => y.icao === x))
     if (missing.length) throw new Error(`${missing} for UIR ${uir.icao} missing in FIRs`)
 

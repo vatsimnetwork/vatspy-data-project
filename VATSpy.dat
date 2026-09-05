@@ -18642,7 +18642,6 @@ HRYR|Kigali||HRYR
 HSSS|Khartoum||HSSS
 HTDC|Dar-Es-Salaam||HTDC
 HUEC|Entebbe||HUEC
-KFOR|KFOR|KFOR|KFOR
 KZA1|San Francisco Oceanic|SF|KZAK
 KZA1|San Francisco Oceanic|SFR|KZAK
 KZA1|San Francisco Oceanic|SFRO|KZAK
@@ -18959,9 +18958,9 @@ LTBB-WS|Ankara West South|ANK_WS|LTBB-WS
 LTXX|Ankara Control|ANK|LTXX
 LUUU|Chisinau||LUUU
 LWSS|Skopje||LWSS
-LYBA|Beograd||LYBA
-LYBA|KFOR Radar|KFOR_|KFOR
+LYBA|Beograd|LYBA|LYBA
 LYBA-E|Beograd East|LYBA_E|LYBA-E
+LYBA-K|KFOR Radar|KFOR|KFOR
 LYBA-N|Beograd North|LYBA_N|LYBA-N
 LYBA-U|Beograd Upper (FL335+)|LYBA_U|LYBA
 LYBA-W|Beograd West|LYBA_W|LYBA-W

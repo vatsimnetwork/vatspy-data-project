@@ -38,6 +38,8 @@ export function parseDatFile<S extends Record<string, { title: string; children:
                 itemResult[key] = section;
             });
 
+            if(sections.length > keys.length) throw new Error(`Too many sections for ${item}`)
+
             result[section as keyof S].push(itemResult);
         }
     }

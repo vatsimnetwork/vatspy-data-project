@@ -18511,9 +18511,13 @@ ENOR-S|Polaris (South)|ENOR_S|ENOR-S
 ENOR-SC|Polaris (South-Central)|ENOR_SC|ENOR-SC
 ENOS|Oslo ACC - Polaris||ENOS
 ENOS-1|Oslo ACC (Sector 1) - Polaris|ENOS_1|ENOS-1
+ENOS-2|Oslo ACC (Sector 2) - Poaris|ENOS_2|ENOS-2
+ENOS-3|Oslo ACC (Sector 3) - Polaris|ENOS_3|ENOS-3
 ENOS-4|Oslo ACC (Sector 4) - Polaris|ENOS_4|ENOS-4
 ENOS-7|Oslo ACC (Sector 7) - Polaris|ENOS_7|ENOS-7
 ENOS-8|Oslo ACC (Sector 8) - Polaris|ENOS_8|ENOS-8
+ENOS-N|Oslo ACC (North) - Polaris|ENOS_N|ENOS-N
+ENOS-S|Oslo ACC (South) - Polaris|ENOS_S|ENOS-S
 ENRC-N|Bodo RTC North|ENRC_N|ENBD
 ENRC-S|Bodo RTC South|ENRC_S|ENOR-S
 ENSV|Stavanger ACC - Polaris||ENSV

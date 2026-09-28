@@ -2311,7 +2311,6 @@ EGAT|Sky Blu|-74.853889|-71.564167||SAVF|0
 EGBB|Birmingham|52.453856|-1.748028||EGTT|0
 EGBC|Cheltenham Heliport|51.916667|-2.05||EGTT|0
 EGBD|Derby|52.859722|-1.6175||EGTT|0
-EGBE|Coventry|52.369722|-1.479722||EGTT|0
 EGBF|Bedford|52.2325|-0.445556||EGTT|0
 EGBG|Leicester East|52.607778|-1.031944||EGTT|0
 EGBJ|Gloucester Staverton|51.894111|-2.167108||EGTT|0
@@ -18400,6 +18399,10 @@ EDWW-W|Bremen ACC (West) - Bremen|EDWW_W|EDWW-W
 EDXX|Langen Information - FIS only|EDXX_FIS|EDXX
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
+EFIN-C|Helsinki ACC (C)|EFIN_C|EFIN-C
+EFIN-H|Helsinki ACC (H)|EFIN_H|EFIN-H
+EFIN-J|Helsinki ACC (J)|EFIN_J|EFIN-J
+EFIN-V|Helsinki ACC (V)|EFIN_V|EFIN-V
 EGGX|Shanwick Oceanic|EGGX|EGGX
 EGPX|Scottish|SCO|EGPX
 EGPX|Scottish|SCL|EGPX
@@ -18511,9 +18514,13 @@ ENOR-S|Polaris (South)|ENOR_S|ENOR-S
 ENOR-SC|Polaris (South-Central)|ENOR_SC|ENOR-SC
 ENOS|Oslo ACC - Polaris||ENOS
 ENOS-1|Oslo ACC (Sector 1) - Polaris|ENOS_1|ENOS-1
+ENOS-2|Oslo ACC (Sector 2) - Poaris|ENOS_2|ENOS-2
+ENOS-3|Oslo ACC (Sector 3) - Polaris|ENOS_3|ENOS-3
 ENOS-4|Oslo ACC (Sector 4) - Polaris|ENOS_4|ENOS-4
 ENOS-7|Oslo ACC (Sector 7) - Polaris|ENOS_7|ENOS-7
 ENOS-8|Oslo ACC (Sector 8) - Polaris|ENOS_8|ENOS-8
+ENOS-N|Oslo ACC (North) - Polaris|ENOS_N|ENOS-N
+ENOS-S|Oslo ACC (South) - Polaris|ENOS_S|ENOS-S
 ENRC-N|Bodo RTC North|ENRC_N|ENBD
 ENRC-S|Bodo RTC South|ENRC_S|ENOR-S
 ENSV|Stavanger ACC - Polaris||ENSV

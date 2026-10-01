@@ -94,14 +94,20 @@ for (const feature of boundaries.features) {
     featureIds.add(feature.properties.id);
 }
 
+const callsigns = new Set<string>();
+
 for (const fir of parsedDat.firs) {
     if (!fir.icao || !fir.name || !fir.boundary) throw new Error(`Fir ${fir.icao} validation failed`)
     const boundary = featureIds.has(fir.boundary)
     if (!boundary) throw new Error(`Fir ${fir.icao} boundary was not found`)
 
-    if (fir.callsign)
+    if (fir.callsign) {
         count('fir-callsign-and-icao', fir.callsign + fir.icao)
+        callsigns.add(fir.callsign)
+    }
     else count('fir-icao', fir.icao)
+
+    callsigns.add(fir.icao)
 }
 
 for (const uir of parsedDat.uirs) {
@@ -110,6 +116,8 @@ for (const uir of parsedDat.uirs) {
     if (firs.length === 1 && firs[0] === '') firs = []
     const missing = firs.filter(x => !parsedDat.firs.some(y => y.icao === x))
     if (missing.length) throw new Error(`${missing} for UIR ${uir.icao} missing in FIRs`)
+
+    if(callsigns.has(uir.icao)) throw new Error(`Duplicate callsign for ${uir.icao} UIR`)
 
     count('uir', uir.icao)
     validateAlphabetPosition('uir', uir.icao)

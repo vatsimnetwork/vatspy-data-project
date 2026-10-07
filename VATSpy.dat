@@ -2311,7 +2311,6 @@ EGAT|Sky Blu|-74.853889|-71.564167||SAVF|0
 EGBB|Birmingham|52.453856|-1.748028||EGTT|0
 EGBC|Cheltenham Heliport|51.916667|-2.05||EGTT|0
 EGBD|Derby|52.859722|-1.6175||EGTT|0
-EGBE|Coventry|52.369722|-1.479722||EGTT|0
 EGBF|Bedford|52.2325|-0.445556||EGTT|0
 EGBG|Leicester East|52.607778|-1.031944||EGTT|0
 EGBJ|Gloucester Staverton|51.894111|-2.167108||EGTT|0
@@ -2340,6 +2339,7 @@ EGCV|Sleap|52.833889|-2.771667||EGTT|0
 EGCW|Welshpool|52.629167|-3.1525||EGTT|0
 EGDB|Plymouth|50.35|-4.11639||EGTT|0
 EGDI|Merryfield|50.9625|-2.935667||EGTT|0
+EGDK|RAF Keevil|51.312222|-2.113333||EGTT|0
 EGDM|RAF Boscombe Down|51.152167|-1.747333||EGTT|0
 EGDN|Netheravon|51.247222|-1.754167||EGTT|0
 EGDO|Predannack|50.002033|-5.231769||EGTT|0
@@ -2512,10 +2512,13 @@ EGTR|Elstree Aldenham|51.655556|-0.325278||EGTT|0
 EGTU|Dunkeswell|50.86|-3.234722||EGTT|0
 EGTW|Oaksey Park|51.631667|-2.013056||EGTT|0
 EGUB|RAF Benson|51.616333|-1.095833||EGTT|0
+EGUB|Benson & Odiham|51.616333|-1.095833|STHRN|EGTT|1
 EGUL|RAF Lakenheath|52.409167|0.562778||EGTT|0
 EGUN|RAF Mildenhall|52.360833|0.486944||EGTT|0
+EGUO|RAF Colerne|51.441078|-2.279081||EGTT|0
 EGUW|RAF Wattisham|52.127333|0.956||EGTT|0
 EGVA|RAF Fairford|51.68306|-1.78306||EGTT|0
+EGVI|RAF Chetwynd|52.813117|-2.406739||EGTT|0
 EGVL|Little Rissington|51.867089|-1.694189||EGTT|0
 EGVN|RAF Brize Norton|51.75|-1.583667||EGTT|0
 EGVO|RAF Odiham|51.234167|-0.942833||EGTT|0
@@ -4539,6 +4542,7 @@ HDAS|Ali Sabieh|11.147222|42.716389|AII|HAAA|0
 HDCH|Chabelley|11.516389|43.061667||HAAA|0
 HDTJ|Tadjourah|11.787222|42.9175|TDJ|HAAA|0
 HE0P|Al Rahmaniyah|31.043167|30.6645||HECC|0
+HE1F|Faid|30.33|32.267667||HECC|0
 HE11|Badr El Din (HEOB)|29.874406|27.940625|HEOB|HECC|0
 HE12|Inshas MIL (HE0C)|30.330286|31.441519|HE0C|HECC|0
 HE13|Wadi Al Jandali EAF (HE0D)|30.050389|31.839458|HE0D|HECC|0
@@ -4548,7 +4552,6 @@ HE16|Birma EAF (HE0G)|30.836564|30.935981|HE0G|HECC|0
 HE17|Bir Abu Rahal MIL (HE0H)|24.9943|33.500953|HE0H|HECC|0
 HE18|Habata MIL (HE0I)|31.107533|25.452131|HE0I|HECC|0
 HE19|As Sallum MIL (HE0J)|31.457307|25.283697|HE0J|HECC|0
-HE1F|Faid|30.33|32.267667||HECC|0
 HE20|Ras Jimsah New (HE0k)|27.835139|33.525769|HE0K|HECC|0
 HE21|Ras Shukhayr New (HE0L)|28.1966|33.20635|HE0L|HECC|0
 HE22|Baluza MIL (HE0M)|31.000175|32.552831|HE0M|HECC|0
@@ -6124,7 +6127,7 @@ KGUC|Gunnison-Crested Butte Rgnl|38.534333|-106.93175|GUC|KZDV|0
 KGUP|Gallup Muni NM|35.511058|-108.789308|GUP|KZAB|0
 KGUR|Camp Guernsey|42.25975|-104.728306|GUR|KZDV|0
 KGUS|Grissom AFB - Peru IN|40.648086|-86.152114|GUS|KZAU|0
-KGUY|Guymon OK|36.685072|-101.507781|GUY|KZKC|0
+KGUY|Guymon OK|36.685072|-101.507781||KZKC|0
 KGVE|Gordonsville Muni|38.155996|-78.16578|GVE|KZDC|0
 KGVL|Gainesville Gilmer Memorial GA|34.273458|-83.826814|GVL|KZTL|0
 KGVQ|Genesee County|43.03175|-78.169667|GVQ|KZOB|0
@@ -10418,7 +10421,7 @@ OJMS|Muwaffaq Salti|31.825833|36.782||OJAC|0
 OJPH|Prince Hassan Air Base|32.150139|37.158333||OJAC|0
 OKAJ|Ahmed Al Jaber Air Base|28.934917|47.791972|XIJ|OKAC|0
 OKAS|Ali Al Salem Air Base|29.346667|47.520556||OKAC|0
-OKKK|Kuwait Intl|29.226567|47.968928||OKAC|0
+OKKK|Kuwait Intl|29.226766666667|47.979952777778||OKAC|0
 OLBA|Beirut Intl|33.818967|35.489683||OLBB|0
 OLKA|Kleyate|34.586167|36.002833||OLBB|0
 OLRA|Rayak|33.851667|35.993||OLBB|0
@@ -10514,17 +10517,19 @@ OPTU|Turbat Intl|25.9861667|63.0301667||OPKR|0
 OPZB|Zhob|31.3583333|69.4638333||OPLR|0
 ORAA|Al Asad|33.785667|42.441167||ORBB|0
 ORBD|Balad Southeast|33.940167|44.3615||ORBB|0
-ORBI|Baghdad|33.23306|44.23306||ORBB|0
-ORBI|Baghdad|33.23306|44.23306|BGD|ORBB|1
-ORBI|Baghdad|33.23306|44.23306|ORBI|ORBB|1
-ORER|Erbil|36.238|43.946667||ORBB|0
+ORBI|Baghdad|33.2625|44.234444444444||ORBB|0
+ORBI|Baghdad|33.2625|44.234444444444|BGD|ORBB|1
+ORBI|Baghdad|33.2625|44.234444444444|ORBI|ORBB|1
+ORBM|Mosul|36.305833333333|43.1475|ORBM|ORBB|0
+ORER|Erbil|36.238055555556|43.946666666667||ORBB|0
 OREZ|Embassy Heliport|33.29674|44.3725||ORBB|0
-ORKK|Kirkuk|35.4695|44.349||ORBB|0
-ORKK|Kirkuk|35.4695|44.349|KIR|ORBB|1
-ORMM|Basrah|30.549|47.662167||ORBB|0
-ORNI|Al Najaf|31.989833|44.404333||ORBB|0
-ORNI|Al Najaf|31.989833|44.404333|ALI|ORBB|1
-ORSJ|Jalal Talabani|35.560556|45.314444||ORBB|0
+ORKK|Kirkuk|35.469444444444|44.348888888889||ORBB|0
+ORKK|Kirkuk|35.469444444444|44.348888888889|KIR|ORBB|1
+ORKK|Kirkuk|35.469444444444|44.348888888889|KRK|ORBB|1
+ORMM|Basrah|30.548888888889|47.661944444444||ORBB|0
+ORNI|Al Najaf|31.989836111111|44.404327777778||ORBB|0
+ORNI|Al Najaf|31.989836111111|44.404327777778|ALI|ORBB|1
+ORSJ|Jalal Talabani|35.560555555556|45.314444444444||ORBB|0
 ORWH|Washington Army Heliport|33.304617|44.403535||ORBB|0
 OSAP|Aleppo Intl|36.179722|37.226111||OSTT|0
 OSDI|Damascus Intl|33.410833|36.513333||OSTT|0
@@ -10993,7 +10998,8 @@ RJFA|Ashiya|33.881294|130.651792||RJBG|0
 RJFC|Yakushima|30.385578|130.6591||RJBG|0
 RJFE|Fukue|32.6664|128.832819||RJBG|0
 RJFF|Fukuoka|33.585942|130.450686||RJBG|0
-RJFG|Tanegashima|30.546675|130.950183||RJBG|0
+RJFG|Tanegashima|30.605|130.991667||RJBG|0
+RJFH|Nata Heliport|33.6775|130.390833||RJBG|0
 RJFK|Kagoshima|31.803397|130.719408||RJBG|0
 RJFM|Miyazaki|31.877128|131.448447||RJBG|0
 RJFN|Nyutabaru|32.079569|131.454267||RJBG|0
@@ -14096,7 +14102,7 @@ UTAA|Ashgabat|37.986582777778|58.358430833333||UTAA|0
 UTAE|Kerki|37.822221944444|65.135277777778||UTAV|0
 UTAK|Turkmenbashi|40.063296944444|53.007338888889||UTAK|0
 UTAM|Mary|37.621696944444|61.896385833333||UTAA|0
-UTAN|Balkanabat|54.204722222222|39.680555555556||UTAK|0
+UTAN|Balkanabat|39.680555555556|54.204722222222||UTAK|0
 UTAT|Dashoguz|41.759896944444|59.834393888889||UTAT|0
 UTAV|Turkmenabat|38.930741944444|63.563863888889||UTAV|0
 UTDD|Dushanbe|38.543333|68.825||UTDD|0
@@ -14428,8 +14434,8 @@ VHHX|Kai Tak|22.32861|114.194166||VHHK|0
 VHSK|Shek Kong AFB|22.436388888889|114.08055611111||VHHK|0
 VHSS|Sky Shuttle Heliport|22.288805555556|114.15233333333||VHHK|0
 VI00|Saifai|26.9202|79.06277||VIDF|0
-VI20|Bhilwara|28.0771|76.205||VIDF|0
 VI2B|Dr. Bhimrao Ambedkar Airstrip|28.90493|77.67752||VIDF|0
+VI20|Bhilwara|28.0771|76.205||VIDF|0
 VI40|Karnal|29.71466|77.03744||VIDF|0
 VI43|Suratgarh New|29.3878|73.9039||VIDF|0
 VI57|Thoise|34.6526|77.3758||VIDF|0
@@ -18400,6 +18406,10 @@ EDWW-W|Bremen ACC (West) - Bremen|EDWW_W|EDWW-W
 EDXX|Langen Information - FIS only|EDXX_FIS|EDXX
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
+EFIN-C|Helsinki ACC (C)|EFIN_C|EFIN-C
+EFIN-H|Helsinki ACC (H)|EFIN_H|EFIN-H
+EFIN-J|Helsinki ACC (J)|EFIN_J|EFIN-J
+EFIN-V|Helsinki ACC (V)|EFIN_V|EFIN-V
 EGGX|Shanwick Oceanic|EGGX|EGGX
 EGPX|Scottish|SCO|EGPX
 EGPX|Scottish|SCL|EGPX
@@ -18511,9 +18521,13 @@ ENOR-S|Polaris (South)|ENOR_S|ENOR-S
 ENOR-SC|Polaris (South-Central)|ENOR_SC|ENOR-SC
 ENOS|Oslo ACC - Polaris||ENOS
 ENOS-1|Oslo ACC (Sector 1) - Polaris|ENOS_1|ENOS-1
+ENOS-2|Oslo ACC (Sector 2) - Poaris|ENOS_2|ENOS-2
+ENOS-3|Oslo ACC (Sector 3) - Polaris|ENOS_3|ENOS-3
 ENOS-4|Oslo ACC (Sector 4) - Polaris|ENOS_4|ENOS-4
 ENOS-7|Oslo ACC (Sector 7) - Polaris|ENOS_7|ENOS-7
 ENOS-8|Oslo ACC (Sector 8) - Polaris|ENOS_8|ENOS-8
+ENOS-N|Oslo ACC (North) - Polaris|ENOS_N|ENOS-N
+ENOS-S|Oslo ACC (South) - Polaris|ENOS_S|ENOS-S
 ENRC-N|Bodo RTC North|ENRC_N|ENBD
 ENRC-S|Bodo RTC South|ENRC_S|ENOR-S
 ENSV|Stavanger ACC - Polaris||ENSV
@@ -18620,6 +18634,7 @@ GMMM-S|Casablanca South|GMMM_S|GMMM-S
 GMMM-SW|Casablanca South West|GMMM_SW|GMMM-SW
 GOOC|Dakar Oceanic||GOOC
 GOOO|Dakar||GOOO
+GYA|Guyanas Control|GUY|GUY
 GVSC|Sal Oceanic||GVSC
 HAAA|Addis Ababa||HAAA
 HBBA|Bujumbura||HBBA
@@ -19147,8 +19162,8 @@ RJTG-E|Tokyo ACC East (Up to FL335) - Tokyo|RJTG_E|RJTG-E
 RJTG-N|Tokyo ACC North (Up to FL335) - Tokyo|RJTG_N|RJTG-N
 RJTG-S|Tokyo ACC South (Up to FL335) - Tokyo|RJTG_S|RJTG-S
 RJTG-W|Tokyo ACC West (Up to FL335) - Tokyo|RJTG_W|RJTG-W
-RJTG-T25|Tokyo ACC T25 Sector (Above FL275 / Up to FL415) - Tokyo|RJTG_9|RJTG-T25
-RJTG-T25|Tokyo ACC T25 Sector (Above FL275 / Up to FL415) - Tokyo|RJTG_25|RJTG-T25
+RJTG-T25|Tokyo ACC T25 Sector (Above FL285 / Up to FL415) - Tokyo|RJTG_9|RJTG-T25
+RJTG-T25|Tokyo ACC T25 Sector (Above FL285 / Up to FL415) - Tokyo|RJTG_25|RJTG-T25
 RJTG-T30|Tokyo ACC T30 Sector (Up to FL335) - Tokyo|RJTG_30|RJTG-T30
 RJTG-T30|Tokyo ACC T30 Sector (Up to FL335) - Tokyo|RJTG_30S|RJTG-T30
 RJTG-T30|Tokyo ACC T30 Sector (Up to FL335) - Tokyo|RJTG_B|RJTG-T30
@@ -19422,14 +19437,47 @@ UTAV|Turkmenabat||UTAV
 UTDD|Dushanbe||UTDD
 UUWV|Moscow||UUWV
 UUWV-E|Moscow ACC sector Penza - Moscow|UUWV_E|UUWV-E
+UUWV-G1|Moscow ACC sector G1 - Moscow|UUWV_G1|UUWV-G1
+UUWV-G2|Moscow ACC sector G2 - Moscow|UUWV_G2|UUWV-G2
+UUWV-G3|Moscow ACC sector G3 - Moscow|UUWV_G3|UUWV-G3
+UUWV-G4|Moscow ACC sector G4 - Moscow|UUWV_G4|UUWV-G4
+UUWV-G5|Moscow ACC sector G5 - Moscow|UUWV_G5|UUWV-G5
+UUWV-K1|Moscow ACC sector K1 - Moscow|UUWV_K1|UUWV-K1
+UUWV-K2|Moscow ACC sector K2 - Moscow|UUWV_K2|UUWV-K2
+UUWV-K3|Moscow ACC sector K3 - Moscow|UUWV_K3|UUWV-K3
+UUWV-K4|Moscow ACC sector K4 - Moscow|UUWV_K4|UUWV-K4
 UUWV-N|Moscow ACC sector Combined North - Moscow|UUWV_N|UUWV-N
 UUWV-NE|Moscow ACC sector Gorky - Moscow|UUWV_NE|UUWV-NE
 UUWV-NW|Moscow ACC sector North - Moscow|UUWV_NW|UUWV-NW
+UUWV-P1|Moscow ACC sector P1 - Moscow|UUWV_P1|UUWV-P1
+UUWV-P2|Moscow ACC sector P2 - Moscow|UUWV_P2|UUWV-P2
+UUWV-P3|Moscow ACC sector P3 - Moscow|UUWV_P3|UUWV-P3
 UUWV-S|Moscow ACC sector Combined South - Moscow|UUWV_S|UUWV-S
+UUWV-S1|Moscow ACC sector S1 - Moscow|UUWV_S1|UUWV-S1
+UUWV-S2|Moscow ACC sector S2 - Moscow|UUWV_S2|UUWV-S2
+UUWV-S3|Moscow ACC sector S3 - Moscow|UUWV_S3|UUWV-S3
 UUWV-SE|Moscow ACC sectors Penza and Voronezh - Moscow|UUWV_SE|UUWV-SE
 UUWV-SW|Moscow ACC sector South-West - Moscow|UUWV_SW|UUWV-SW
+UUWV-T1|Moscow ACC sector T1 - Moscow|UUWV_T1|UUWV-T1
 UUWV-W|Moscow ACC sector West - Moscow|UUWV_W|UUWV-W
+UUWV-W1|Moscow ACC sector W1 - Moscow|UUWV_W1|UUWV-W1
+UUWV-W2|Moscow ACC sector W2 - Moscow|UUWV_W2|UUWV-W2
+UUWV-W3|Moscow ACC sector W3 - Moscow|UUWV_W3|UUWV-W3
+UUWV-W4|Moscow ACC sector W4 - Moscow|UUWV_W4|UUWV-W4
+UUWV-Z1|Moscow ACC sector Z1 - Moscow|UUWV_Z1|UUWV-Z1
+UUWV-Z2|Moscow ACC sector Z2 - Moscow|UUWV_Z2|UUWV-Z2
+UUWV-Z3|Moscow ACC sector Z3 - Moscow|UUWV_Z3|UUWV-Z3
 UWWW|Samara||UWWW
+UWWW-1|Samara ACC sector 1 - Samara|UWWW_1|UWWW-1
+UWWW-2|Samara ACC sector 2 - Samara|UWWW_2|UWWW-2
+UWWW-3|Samara ACC sector 3 - Samara|UWWW_3|UWWW-3
+UWWW-4|Samara ACC sector 4 - Samara|UWWW_4|UWWW-4
+UWWW-5|Samara ACC sector 5 - Samara|UWWW_5|UWWW-5
+UWWW-6|Samara ACC sector 6 - Samara|UWWW_6|UWWW-6
+UWWW-7|Samara ACC sector 7 - Samara|UWWW_7|UWWW-7
+UWWW-8|Samara ACC sector 8 - Samara|UWWW_8|UWWW-8
+UWWW-9|Samara ACC sector 9 - Samara|UWWW_9|UWWW-9
+UWWW-10|Samara ACC sector 10 - Samara|UWWW_10|UWWW-10
 UWWW-E|Samara ACC samara East - Samara|UWWW_E|UWWW-E
 UWWW-N|Samara ACC sector Kazan - Samara|UWWW_N|UWWW-N
 UWWW-SE|Samara ACC sector Orenburg - Samara|UWWW_SE|UWWW-SE
@@ -19649,60 +19697,116 @@ ZBAA|Beijing ACC - Beijing FIR - Beijing||ZBAA
 ZBAA-BJE|Beijing ACC East Sector - Beijing FIR - Beijing|ZBAA_E|ZBAA-BJE
 ZBAA-BJE1|Beijing ACC East 1 Sector - Beijing FIR - Beijing|ZBAA_E1|ZBAA-BJE1
 ZBAA-BJE2|Beijing ACC East 2 Sector - Beijing FIR - Beijing|ZBAA_E2|ZBAA-BJE2
-ZBAA-BJN|Beijing ACC North High Sector - Beijing FIR - Beijing|ZBAA_N|ZBAA-BJN
-ZBAA-BJN1|Beijing ACC North High 1 Sector - Beijing FIR - Beijing|ZBAA_N1|ZBAA-BJN1
-ZBAA-BJS|Beijing ACC South High Sector - Beijing FIR - Beijing|ZBAA_S|ZBAA-BJS
-ZBAA-BJS1|Beijing ACC South High 1 Sector - Beijing FIR - Beijing|ZBAA_S1|ZBAA-BJS1
+ZBAA-BJN|Beijing ACC North Sector - Beijing FIR - Beijing|ZBAA_N|ZBAA-BJN
+ZBAA-BJN1|Beijing ACC North 1 Sector - Beijing FIR - Beijing|ZBAA_N1|ZBAA-BJN1
+ZBAA-BJS|Beijing ACC South Sector - Beijing FIR - Beijing|ZBAA_S|ZBAA-BJS
+ZBAA-BJS1|Beijing ACC South 1 Sector - Beijing FIR - Beijing|ZBAA_S1|ZBAA-BJS1
 ZBAA-BJW|Beijing ACC West Sector - Beijing FIR - Beijing|ZBAA_W|ZBAA-BJW
 ZBAA-BJW1|Beijing ACC West 1 Sector - Beijing FIR - Beijing|ZBAA_W1|ZBAA-BJW1
 ZBAA-BJW2|Beijing ACC West 2 Sector - Beijing FIR - Beijing|ZBAA_W2|ZBAA-BJW2
 ZBHH|Hohhot ACC - Beijing FIR - Hohhot||ZBHH
 ZBHH-HHW|Hohhot ACC West Sector - Beijing FIR - Hohhot|ZBHH_W|ZBHH-HHW
-ZBPE|Beijing FIR - Beijing||ZBPE
 ZGGG|Guangzhou ACC - Guangzhou FIR - Guangzhou||ZGGG
+ZGGG-GZC|Guangzhou ACC Central Sector - Guangzhou FIR - Guangzhou|ZGGG_C|ZGGG-GZC
+ZGGG-GZC1|Guangzhou ACC Central 1 Sector - Guangzhou FIR - Guangzhou|ZGGG_C1|ZGGG-GZC1
+ZGGG-GZE|Guangzhou ACC East Sector - Guangzhou FIR - Guangzhou|ZGGG_E|ZGGG-GZE
+ZGGG-GZE1|Guangzhou ACC East 1 Sector - Guangzhou FIR - Guangzhou|ZGGG_E1|ZGGG-GZE1
+ZGGG-GZN|Guangzhou ACC North Sector - Guangzhou FIR - Guangzhou|ZGGG_N|ZGGG-GZN
+ZGGG-GZN1|Guangzhou ACC North 1 Sector - Guangzhou FIR - Guangzhou|ZGGG_N1|ZGGG-GZN1
+ZGGG-GZS|Guangzhou ACC South Sector - Guangzhou FIR - Guangzhou|ZGGG_S|ZGGG-GZS
+ZGGG-GZS1|Guangzhou ACC South 1 Sector - Guangzhou FIR - Guangzhou|ZGGG_S1|ZGGG-GZS1
+ZGGG-GZW|Guangzhou ACC West Sector - Guangzhou FIR - Guangzhou|ZGGG_W|ZGGG-GZW
+ZGGG-GZW1|Guangzhou ACC West 1 Sector - Guangzhou FIR - Guangzhou|ZGGG_W1|ZGGG-GZW1
 ZGHA|Changsha ACC - Guangzhou FIR - Changsha||ZGHA
+ZGHA-CSW|Changsha ACC West Sector - Guangzhou FIR - Changsha|ZGHA_W|ZGHA-CSW
 ZGNN|Nanning ACC - Guangzhou FIR - Nanning||ZGNN
-ZGZU|Guangzhou FIR - Guangzhou||ZGZU
+ZGNN-NNE|Nanning ACC East Sector - Guangzhou FIR - Nanning|ZGNN_E|ZGNN-NNE
+ZGNN-NNS|Nanning ACC South Sector - Guangzhou FIR - Nanning|ZGNN_S|ZGNN-NNS
+ZGNN-NNW|Nanning ACC West Sector - Guangzhou FIR - Nanning|ZGNN_W|ZGNN-NNW
 ZHCC|Zhengzhou ACC - Wuhan FIR - Zhengzhou||ZHCC
+ZHCC-ZZW|Zhengzhou ACC West Sector - Wuhan FIR - Zhengzhou|ZHCC_W|ZHCC-ZZW
 ZHHH|Wuhan ACC - Wuhan FIR - Wuhan||ZHHH
-ZHWH|Wuhan FIR - Wuhan||ZHWH
-ZJSA|Sanya FIR - Sanya||ZJSA
-ZJSY-L|Sanya ACC Land Sector - Sanya FIR - Sanya|ZJSY_L|ZJSY-L
-ZJSY-O|Sanya ACC Oceanic Sector - Sanya FIR - Sanya|ZJSY_O|ZJSY-O
+ZHHH-WHW|Wuhan ACC West Sector - Wuhan FIR - Wuhan|ZHHH_W|ZHHH-WHW
+ZJSY|Sanya ACC - Sanya FIR - Sanya||ZJSY
+ZJSY-SAL|Sanya ACC Land Sector - Sanya FIR - Sanya|ZJSY_L|ZJSY-SAL
+ZJSY-SAN|Sanya ACC North Sector - Sanya FIR - Sanya|ZJSY_N|ZJSY-SAN
+ZJSY-SAO|Sanya ACC Oceanic Sector - Sanya FIR - Sanya|ZJSY_O|ZJSY-SAO
 ZKKP|Pyongyang||ZKKP
-ZLHW|Lanzhou FIR - Lanzhou||ZLHW
 ZLLL|Lanzhou ACC - Lanzhou FIR - Lanzhou||ZLLL
+ZLLL-LZC|Lanzhou ACC Central Sector - Lanzhou FIR - Lanzhou|ZLLL_C|ZLLL-LZC
+ZLLL-LZN|Lanzhou ACC North Sector - Lanzhou FIR - Lanzhou|ZLLL_N|ZLLL-LZN
+ZLLL-LZN1|Lanzhou ACC North 1 Sector - Lanzhou FIR - Lanzhou|ZLLL_N1|ZLLL-LZN1
+ZLLL-LZS|Lanzhou ACC South Sector - Lanzhou FIR - Lanzhou|ZLLL_S|ZLLL-LZS
+ZLLL-LZS1|Lanzhou ACC South 1 Sector - Lanzhou FIR - Lanzhou|ZLLL_S1|ZLLL-LZS1
+ZLLL-LZS2|Lanzhou ACC South 2 Sector - Lanzhou FIR - Lanzhou|ZLLL_S2|ZLLL-LZS2
 ZLXY|Xi'an ACC - Lanzhou FIR - Xi'an||ZLXY
+ZLXY-XAS|Xi'an ACC South Sector - Lanzhou FIR - Xi'an|ZLXY_S|ZLXY-XAS
 ZMUB|Ulaanbaatar FIR - Ulaanbaatar||ZMUB
-ZMUB-A|Ulaanbaatar ACC Altai Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_A|ZMUB-A
-ZMUB-B|Ulaanbaatar ACC Bayan Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_B|ZMUB-B
-ZMUB-C|Ulaanbaatar ACC Central Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_C|ZMUB-C
-ZMUB-D|Ulaanbaatar ACC Dornod Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_D|ZMUB-D
-ZMUB-G|Ulaanbaatar ACC Gobi Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_G|ZMUB-G
-ZMUB-M|Ulaanbaatar ACC Muren Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_M|ZMUB-M
-ZPKM|Kunming FIR - Kunming||ZPKM
+ZMUB-ULA|Ulaanbaatar ACC Altai Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_A|ZMUB-ULA
+ZMUB-ULB|Ulaanbaatar ACC Bayan Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_B|ZMUB-ULB
+ZMUB-ULC|Ulaanbaatar ACC Central Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_C|ZMUB-ULC
+ZMUB-ULD|Ulaanbaatar ACC Dornod Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_D|ZMUB-ULD
+ZMUB-ULG|Ulaanbaatar ACC Gobi Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_G|ZMUB-ULG
+ZMUB-ULM|Ulaanbaatar ACC Muren Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_M|ZMUB-ULM
 ZPPP|Kunming ACC - Kunming FIR - Kunming||ZPPP
-ZSAM|Xiamen ACC - Shanghai FIR - Xiamen||ZSAM
-ZSCN|Nanchang ACC - Shanghai FIR - Nanchang||ZSCN
-ZSHA|Shanghai FIR - Shanghai FIR - Shanghai||ZSHA
-ZSJN|Jinan ACC - Shanghai FIR - Jinan||ZSJN
-ZSOF|Hefei ACC - Shanghai FIR - Hefei||ZSOF
-ZSQD|Qingdao ACC - Shanghai FIR - Qingdao||ZSQD
-ZSSS|Shanghai ACC - Shanghai FIR - Shanghai||ZSSS
-ZSSS-C|Shanghai ACC Central High Sector - Shanghai FIR - Shanghai|ZSSS_C|ZSSS-C
-ZSSS-N|Shanghai ACC North High Sector - Shanghai FIR - Shanghai|ZSSS_N|ZSSS-N
-ZSSS-S|Shanghai ACC South High Sector - Shanghai FIR - Shanghai|ZSSS_S|ZSSS-S
-ZSSS-W|Shanghai ACC West High Sector - Shanghai FIR - Shanghai|ZSSS_W|ZSSS-W
+ZPPP-KME|Kunming ACC East Sector - Kunming FIR - Kunming|ZPPP_E|ZPPP-KME
+ZPPP-KME1|Kunming ACC East 1 Sector - Kunming FIR - Kunming|ZPPP_E1|ZPPP-KME1
+ZPPP-KME2|Kunming ACC East 2 Sector - Kunming FIR - Kunming|ZPPP_E2|ZPPP-KME2
+ZPPP-KMW|Kunming ACC West Sector - Kunming FIR - Kunming|ZPPP_W|ZPPP-KMW
+ZPPP-KMW1|Kunming ACC West 1 Sector - Kunming FIR - Kunming|ZPPP_W1|ZPPP-KMW1
 ZUGY|Guiyang ACC - Kunming FIR - Guiyang||ZUGY
+ZUGY-GYE|Guiyang ACC East Sector - Kunming FIR - Guiyang|ZUGY_E|ZUGY-GYE
 ZULS|Lhasa ACC - Kunming FIR - Lhasa||ZULS
+ZULS-LSE|Lhasa ACC East Sector - Kunming FIR - Lhasa|ZULS_E|ZULS-LSE
 ZUUU|Chengdu ACC - Kunming FIR - Chengdu||ZUUU
-ZWUQ|Urumqi FIR - Urumqi||ZWUQ
-ZWWW-N|Urumqi ACC North Sector- Urumqi FIR - Urumqi|ZWWW_N|ZWWW-N
-ZWWW-S|Urumqi ACC South Sector- Urumqi FIR - Urumqi|ZWWW_S|ZWWW-S
+ZUUU-CDE|Chengdu ACC East Sector - Kunming FIR - Chengdu|ZUUU_E|ZUUU-CDE
+ZUUU-CDG|Chengdu ACC Guiyang Sector - Kunming FIR - Chengdu|ZUUU_G|ZUUU-CDG
+ZUUU-CDN|Chengdu ACC North Sector - Kunming FIR - Chengdu|ZUUU_N|ZUUU-CDN
+ZUUU-CDN1|Chengdu ACC North 1 Sector - Kunming FIR - Chengdu|ZUUU_N1|ZUUU-CDN1
+ZUUU-CDS|Chengdu ACC South Sector - Kunming FIR - Chengdu|ZUUU_S|ZUUU-CDS
+ZUUU-CDW|Chengdu ACC West Sector - Kunming FIR - Chengdu|ZUUU_W|ZUUU-CDW
+ZSAM|Xiamen ACC - Shanghai FIR - Xiamen||ZSAM
+ZSAM-XMS|Xiamen ACC South Sector - Shanghai FIR - Xiamen|ZSAM_S|ZSAM-XMS
+ZSCN|Nanchang ACC - Shanghai FIR - Nanchang||ZSCN
+ZSCN-NCE|Nanchang ACC East Sector - Shanghai FIR - Nanchang|ZSCN_E|ZSCN-NCE
+ZSJN|Jinan ACC - Shanghai FIR - Jinan||ZSJN
+ZSJN-JNE|Jinan ACC East Sector - Shanghai FIR - Jinan|ZSJN_E|ZSJN-JNE
+ZSOF|Hefei ACC - Shanghai FIR - Hefei||ZSOF
+ZSOF-HFN|Hefei ACC North Sector - Shanghai FIR - Hefei|ZSOF_N|ZSOF-HFN
+ZSQD|Qingdao ACC - Shanghai FIR - Qingdao||ZSQD
+ZSQD-QDH|Qingdao ACC High Sector - Shanghai FIR - Qingdao|ZSQD_H|ZSQD-QDH
+ZSSS|Shanghai ACC - Shanghai FIR - Shanghai||ZSSS
+ZSSS-SHC|Shanghai ACC Central Sector - Shanghai FIR - Shanghai|ZSSS_C|ZSSS-SHC
+ZSSS-SHC1|Shanghai ACC Central 1 Sector - Shanghai FIR - Shanghai|ZSSS_C1|ZSSS-SHC1
+ZSSS-SHE|Shanghai ACC East Sector - Shanghai FIR - Shanghai|ZSSS_E|ZSSS-SHE
+ZSSS-SHE1|Shanghai ACC East 1 Sector - Shanghai FIR - Shanghai|ZSSS_E1|ZSSS-SHE1
+ZSSS-SHS|Shanghai ACC South Sector - Shanghai FIR - Shanghai|ZSSS_S|ZSSS-SHS
+ZSSS-SHS1|Shanghai ACC South 1 Sector - Shanghai FIR - Shanghai|ZSSS_S1|ZSSS-SHS1
+ZSSS-SHS2|Shanghai ACC South 2 Sector - Shanghai FIR - Shanghai|ZSSS_S2|ZSSS-SHS2
+ZSSS-SHW|Shanghai ACC West Sector - Shanghai FIR - Shanghai|ZSSS_W|ZSSS-SHW
+ZSSS-SHW1|Shanghai ACC West 1 Sector - Shanghai FIR - Shanghai|ZSSS_W1|ZSSS-SHW1
+ZSSS-SHW2|Shanghai ACC West 2 Sector - Shanghai FIR - Shanghai|ZSSS_W2|ZSSS-SHW2
+ZWWW|Urumqi ACC - Urumqi FIR - Urumqi||ZWWW
+ZWWW-WUE|Urumqi ACC East Sector - Urumqi FIR - Urumqi|ZWWW_E|ZWWW-WUE
+ZWWW-WUS|Urumqi ACC South Sector - Urumqi FIR - Urumqi|ZWWW_S|ZWWW-WUS
+ZWWW-WUS1|Urumqi ACC South 1 Sector - Urumqi FIR - Urumqi|ZWWW_S1|ZWWW-WUS1
+ZWWW-WUW|Urumqi ACC West Sector - Urumqi FIR - Urumqi|ZWWW_W|ZWWW-WUW
+ZWWW-WUW1|Urumqi ACC West 1 Sector - Urumqi FIR - Urumqi|ZWWW_W1|ZWWW-WUW1
 ZYHB|Harbin ACC - Shenyang FIR - Harbin||ZYHB
-ZYSH|Shenyang FIR - Shenyang||ZYSH
+ZYHB-HBE|Harbin ACC East Sector - Shenyang FIR - Harbin|ZYHB_E|ZYHB-HBE
+ZYHB-HBE1|Harbin ACC East 1 Sector - Shenyang FIR - Harbin|ZYHB_E1|ZYHB-HBE1
+ZYHB-HBE2|Harbin ACC East 2 Sector - Shenyang FIR - Harbin|ZYHB_E2|ZYHB-HBE2
+ZYHB-HBW|Harbin ACC West Sector - Shenyang FIR - Harbin|ZYHB_W|ZYHB-HBW
 ZYTL|Dalian ACC - Shenyang FIR - Dalian||ZYTL
+ZYTL-DLE|Dalian ACC East Sector - Shenyang FIR - Dalian|ZYTL_E|ZYTL-DLE
+ZYTL-DLN|Dalian ACC North Sector - Shenyang FIR - Dalian|ZYTL_N|ZYTL-DLN
+ZYTL-DLS|Dalian ACC South Sector - Shenyang FIR - Dalian|ZYTL_S|ZYTL-DLS
+ZYTL-DLW|Dalian ACC West Sector - Shenyang FIR - Dalian|ZYTL_W|ZYTL-DLW
 ZYTX|Shenyang ACC - Shenyang FIR - Shenyang||ZYTX
+ZYTX-SYN|Shenyang ACC North Sector - Shenyang FIR - Shenyang|ZYTX_N|ZYTX-SYN
+ZYTX-SYN1|Shenyang ACC North 1 Sector - Shenyang FIR - Shenyang|ZYTX_N1|ZYTX-SYN1
+ZYTX-SYS|Shenyang ACC South Sector - Shenyang FIR - Shenyang|ZYTX_S|ZYTX-SYS
+ZYTX-SYW|Shenyang ACC West Sector - Shenyang FIR - Shenyang|ZYTX_W|ZYTX-SYW
 
 [UIRs]
 AFRC|Africa Central Control|FLFI,FNAN,FSSS,FWLL,FZZA,HKNA,HTDC,HUEC
@@ -19716,8 +19820,10 @@ AFRS|Africa South Control|FACA,FAJA,FBGR,FIMM,FMMM,FQBE,FVHF,FYWF
 AFRW|Africa West Control|DGAC,DGAO,DIII,DNKK,FCCC,GLRB,GOOO,GOOC,GVSC
 ANT|Antilles Center|MDCS,MTEG
 ASEA|South East Asia Control|VHHK,WSJC,WMFC,WBFC,WIIF,WAAF,RPHI,VVHM,VDPF,VTBB,VVHN,VLVT,VYYF
-ASEA_N|South East Asia Control|VHHK,RPHI,VVHM,VTBB,VVHN,VLVT,VDPF
-ASEA_S|South East Asia Control|WSJC,WMFC,WBFC,WIIF,WAAF
+ASEA_E|South East Asia Control|RPHI,VHHK
+ASEA_N|South East Asia Control|VYYF,VTBB,VLVT,VDPF,VVHM,VVHN
+ASEA_S|South East Asia Control|WAAF,WBFC
+ASEA_W|South East Asia Control|WMFC,WIIF,WSJC
 ASIA|West Asia Control|VABF,VIDF,VECF,VOMF,VEGF,OPKR,OPLR,OAKX,VCCF,VRMF,VGFR,VNSM
 BALT|Baltic Control|EYVL,EVRR,EETT
 BICC|Iceland Radio|BIRD-E,BIRD-N,BIRD-S,BIRD-W
@@ -19740,7 +19846,6 @@ GULF_W|Gulf Control|HECC,OEJD,OJAC,OLBB,OSTT,OYSC
 GULF_WM|Gulf Control|
 LFUP|France Control|LFMM,LFFF,LFEE,LFBB,LFRR
 LIUP|Italy Radar|LIMM,LIBB,LIRR,LIPP
-PRC|Beijing Control|ZBPE,ZGZU,ZJSA,ZLHW,ZPKM,ZSHA,ZWUQ,ZYSH
 RU-CEN|Asia-Center|UATT,UACN,UAAA,UTAK,UTAA,UTAT,UTAV,UZSD,UZTR,UAII,UCFO,UTDD,UCFM
 RU-ERC|Eastern Russia Control|UEEE,UHHH,UHMM
 RU-ESC|Siberia Control|UNKL,UNNT,UIII

@@ -19018,8 +19018,6 @@ OAKX|Kabul||OAKX
 OBBB|Bahrain||OBBB
 OBBB-C|Bahrain Central|OBBB_CL|OBBB-C
 OBBB-C|Bahrain Central|OBBB_CH|OBBB-C
-OBBB-E|Bahrain East (FL245+)|OBBB_E|OBBB-E
-OBBB-E|Bahrain East (FL245+)|OBBB_2|OBBB-E
 OBBB-N|Bahrain North|OBBB_N|OBBB-N
 OBBB-N|Bahrain North|OBBB_3|OBBB-N
 OBBB-S|Bahrain South|OBBB_E|OBBB-S
@@ -19064,9 +19062,9 @@ ORBB-N|Baghdad (North) - Baghdad|ORBB_NU|ORBB-N
 ORBB-S|Baghdad (South) - Baghdad|ORBB_S|ORBB-S
 ORBB-S|Baghdad (South) - Baghdad|ORBB_SU|ORBB-S
 OSTT|Damascus|OSDI|OSTT
-OTDF|Doha||OTDF
-OTDF-N|Doha (North SFC-FL245)|OTDF_N|OTDF-N
-OTDF-S|Doha (South SFC-UNL)|OTDF_S|OTDF-S
+OTDF|Doha|OTDF|OTDF
+OTDF-N|Doha (North FL285+)|OTDF_N2|OTDF-N
+OTDF-S|Doha (South)|OTDF_S|OTDF-S
 OYSC|Sanaa||OYSC
 PAZA|Anchorage||PAZA
 PAZA-A|Anchorage Oceanic - Arctic|ZAN_64|PAZA-A

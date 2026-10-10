@@ -19741,7 +19741,7 @@ ZLLL-LZS1|Lanzhou ACC South 1 Sector - Lanzhou FIR - Lanzhou|ZLLL_S1|ZLLL-LZS1
 ZLLL-LZS2|Lanzhou ACC South 2 Sector - Lanzhou FIR - Lanzhou|ZLLL_S2|ZLLL-LZS2
 ZLXY|Xi'an ACC - Lanzhou FIR - Xi'an||ZLXY
 ZLXY-XAS|Xi'an ACC South Sector - Lanzhou FIR - Xi'an|ZLXY_S|ZLXY-XAS
-ZMUB|Ulaanbaatar FIR - Ulaanbaatar||ZMUB
+ZMUB|Ulaanbaatar ACC - ZMUB FIR - Ulaanbaatar||ZMUB
 ZMUB-ULA|Ulaanbaatar ACC Altai Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_A|ZMUB-ULA
 ZMUB-ULB|Ulaanbaatar ACC Bayan Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_B|ZMUB-ULB
 ZMUB-ULC|Ulaanbaatar ACC Central Sector - Ulaanbaatar FIR - Ulaanbaatar|ZMUB_C|ZMUB-ULC
@@ -19754,17 +19754,6 @@ ZPPP-KME1|Kunming ACC East 1 Sector - Kunming FIR - Kunming|ZPPP_E1|ZPPP-KME1
 ZPPP-KME2|Kunming ACC East 2 Sector - Kunming FIR - Kunming|ZPPP_E2|ZPPP-KME2
 ZPPP-KMW|Kunming ACC West Sector - Kunming FIR - Kunming|ZPPP_W|ZPPP-KMW
 ZPPP-KMW1|Kunming ACC West 1 Sector - Kunming FIR - Kunming|ZPPP_W1|ZPPP-KMW1
-ZUGY|Guiyang ACC - Kunming FIR - Guiyang||ZUGY
-ZUGY-GYE|Guiyang ACC East Sector - Kunming FIR - Guiyang|ZUGY_E|ZUGY-GYE
-ZULS|Lhasa ACC - Kunming FIR - Lhasa||ZULS
-ZULS-LSE|Lhasa ACC East Sector - Kunming FIR - Lhasa|ZULS_E|ZULS-LSE
-ZUUU|Chengdu ACC - Kunming FIR - Chengdu||ZUUU
-ZUUU-CDE|Chengdu ACC East Sector - Kunming FIR - Chengdu|ZUUU_E|ZUUU-CDE
-ZUUU-CDG|Chengdu ACC Guiyang Sector - Kunming FIR - Chengdu|ZUUU_G|ZUUU-CDG
-ZUUU-CDN|Chengdu ACC North Sector - Kunming FIR - Chengdu|ZUUU_N|ZUUU-CDN
-ZUUU-CDN1|Chengdu ACC North 1 Sector - Kunming FIR - Chengdu|ZUUU_N1|ZUUU-CDN1
-ZUUU-CDS|Chengdu ACC South Sector - Kunming FIR - Chengdu|ZUUU_S|ZUUU-CDS
-ZUUU-CDW|Chengdu ACC West Sector - Kunming FIR - Chengdu|ZUUU_W|ZUUU-CDW
 ZSAM|Xiamen ACC - Shanghai FIR - Xiamen||ZSAM
 ZSAM-XMS|Xiamen ACC South Sector - Shanghai FIR - Xiamen|ZSAM_S|ZSAM-XMS
 ZSCN|Nanchang ACC - Shanghai FIR - Nanchang||ZSCN
@@ -19786,6 +19775,17 @@ ZSSS-SHS2|Shanghai ACC South 2 Sector - Shanghai FIR - Shanghai|ZSSS_S2|ZSSS-SHS
 ZSSS-SHW|Shanghai ACC West Sector - Shanghai FIR - Shanghai|ZSSS_W|ZSSS-SHW
 ZSSS-SHW1|Shanghai ACC West 1 Sector - Shanghai FIR - Shanghai|ZSSS_W1|ZSSS-SHW1
 ZSSS-SHW2|Shanghai ACC West 2 Sector - Shanghai FIR - Shanghai|ZSSS_W2|ZSSS-SHW2
+ZUGY|Guiyang ACC - Kunming FIR - Guiyang||ZUGY
+ZUGY-GYE|Guiyang ACC East Sector - Kunming FIR - Guiyang|ZUGY_E|ZUGY-GYE
+ZULS|Lhasa ACC - Kunming FIR - Lhasa||ZULS
+ZULS-LSE|Lhasa ACC East Sector - Kunming FIR - Lhasa|ZULS_E|ZULS-LSE
+ZUUU|Chengdu ACC - Kunming FIR - Chengdu||ZUUU
+ZUUU-CDE|Chengdu ACC East Sector - Kunming FIR - Chengdu|ZUUU_E|ZUUU-CDE
+ZUUU-CDG|Chengdu ACC Guiyang Sector - Kunming FIR - Chengdu|ZUUU_G|ZUUU-CDG
+ZUUU-CDN|Chengdu ACC North Sector - Kunming FIR - Chengdu|ZUUU_N|ZUUU-CDN
+ZUUU-CDN1|Chengdu ACC North 1 Sector - Kunming FIR - Chengdu|ZUUU_N1|ZUUU-CDN1
+ZUUU-CDS|Chengdu ACC South Sector - Kunming FIR - Chengdu|ZUUU_S|ZUUU-CDS
+ZUUU-CDW|Chengdu ACC West Sector - Kunming FIR - Chengdu|ZUUU_W|ZUUU-CDW
 ZWWW|Urumqi ACC - Urumqi FIR - Urumqi||ZWWW
 ZWWW-WUE|Urumqi ACC East Sector - Urumqi FIR - Urumqi|ZWWW_E|ZWWW-WUE
 ZWWW-WUS|Urumqi ACC South Sector - Urumqi FIR - Urumqi|ZWWW_S|ZWWW-WUS

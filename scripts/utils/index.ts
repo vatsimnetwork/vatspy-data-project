@@ -69,7 +69,10 @@ export function validateAlphabetPosition(key: string, value: string, throwOnErro
         previousName = value;
     }
 
-    if (value.localeCompare(previousName) < 0) {
+    if (value.localeCompare(previousName, undefined, {
+        numeric: true,
+        sensitivity: 'base',
+    }) < 0) {
         if (throwOnError)
             throw new Error(`Value ${previousName} in ${key} is in incorrect alphabetic order`)
         else return false

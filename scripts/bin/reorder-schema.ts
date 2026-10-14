@@ -45,7 +45,10 @@ for (let i = 0; i < boundariesFile.length; i++) {
         for (let j = 0; j < boundariesFile.length; j++) {
             if(indexes[j + 1] === false) continue
 
-            if (typeof indexes[j + 1] === 'undefined' || (indexes[j + 1] as string).localeCompare(json.properties!.id) > 0) {
+            if (typeof indexes[j + 1] === 'undefined' || (indexes[j + 1] as string).localeCompare(json.properties!.id, undefined, {
+                numeric: true,
+                sensitivity: 'base',
+            }) > 0) {
                 targetIndex = j + 1;
                 break;
             }

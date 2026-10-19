@@ -19218,6 +19218,8 @@ RPHI-SE|Manila Southeast|MNL_SE|RPHI-SE
 RPHI-SW|Manila Southwest|MNL_SW|RPHI-SW
 RPHI-W|Manila West|MNL_W|RPHI-W
 SACF|Cordoba||SACF
+SACF-N|Cordoba (North)|SACF_N|SACF-N
+SACF-S|Cordoba (South)|SACF_S|SACF-S
 SACO|Cordoba TMA - Cordoba||SACO
 SAEF|Ezeiza||SAEF
 SAEF-N|Ezeiza ACC (North) - Ezeiza|SAEF_N|SAEF-N
@@ -19228,6 +19230,8 @@ SARE|Resistencia TMA - Resistencia||SARE
 SARR|Resistencia||SARR
 SAVC|Comodoro Rivadavia TMA - Comodoro Rivadavia||SAVC
 SAVF|Comodoro Rivadavia||SAVF
+SAVF-N|Comodoro Rivadavia (North)|SAVF_N|SAVF-N
+SAVF-S|Comodoro Rivadavia (South)|SAVF_S|SAVF-S
 SBAO|Atlantico (Completo) - Atlantico||SBAO
 SBAO-N|Atlantico (Supercombinado Norte) - Atlantico|SBAO_N|SBAO-N
 SBAO-S|Atlantico (Supercombinado Sul) - Atlantico|SBAO_S|SBAO-S

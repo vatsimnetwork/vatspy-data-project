@@ -19213,21 +19213,22 @@ RKRR|Incheon ACC - Incheon||RKRR
 RKRR-N|Incheon ACC (North) - Incheon|RKRR_N|RKRR-N
 RKRR-S|Incheon ACC (South) - Incheon|RKRR_S|RKRR-S
 RPHI|Manila|MNL|RPHI
-RPHI-2|Manila South Combined|MNL_2|RPHI-2
-RPHI-C|Manila Central Combined|MNL_C|RPHI-C
-RPHI-CE|Manila Central East|MNL_CE|RPHI-CE
-RPHI-CN|Manila Central North|MNL_CN|RPHI-CN
-RPHI-CS|Manila Central South|MNL_CS|RPHI-CS
-RPHI-CW|Manila Central West|MNL_CW|RPHI-CW
-RPHI-N|Manila North Combined|MNL_N|RPHI-N
-RPHI-N1|Manila Central North Combined|MNL_N1|RPHI-N1
-RPHI-NE|Manila Oceanic|MNL_NE|RPHI-NE
-RPHI-NW|Manila Northwest|MNL_NW|RPHI-NW
-RPHI-S|Manila South Combined|MNL_S|RPHI-S
-RPHI-S1|Manila Central South Combined|MNL_S1|RPHI-S1
-RPHI-SE|Manila Southeast|MNL_SE|RPHI-SE
-RPHI-SW|Manila Southwest|MNL_SW|RPHI-SW
-RPHI-W|Manila West|MNL_W|RPHI-W
+RPHI-BB2|Manila ACC (South East Combined)|MNL_BB2|RPHI-BB2
+RPHI-BBN|Manila ACC (North Combined)|MNL_BBN|RPHI-BBN
+RPHI-BBS|Manila ACC (South Combined)|MNL_BBS|RPHI-BBS
+RPHI-C|Manila ACC (Central)|MNL_C|RPHI-C
+RPHI-CE|Manila ACC (Central East)|MNL_CE|RPHI-CE
+RPHI-CN|Manila ACC (Central North)|MNL_CN|RPHI-CN
+RPHI-CNC|Manila ACC (Central North Combined)|MNL_CNC|RPHI-CNC
+RPHI-CS|Manila ACC (Central South)|MNL_CS|RPHI-CS
+RPHI-CSC|Manila ACC (Central South Combined)|MNL_CSC|RPHI-CSC
+RPHI-CW|Manila ACC (Central West)|MNL_CW|RPHI-CW
+RPHI-NE|Manila ACC (Northeast)|MNL_NE|RPHI-NE
+RPHI-NW|Manila ACC (North West)|MNL_NW|RPHI-NW
+RPHI-S|Manila ACC (South)|MNL_S|RPHI-S
+RPHI-SE|Manila ACC (South East)|MNL_SE|RPHI-SE
+RPHI-SW|Manila ACC (South West)|MNL_SW|RPHI-SW
+RPHI-W|Manila ACC (West)|MNL_W|RPHI-W
 SACF|Cordoba||SACF
 SACF-N|Cordoba (North)|SACF_N|SACF-N
 SACF-S|Cordoba (South)|SACF_S|SACF-S

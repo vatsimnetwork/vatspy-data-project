@@ -19743,9 +19743,9 @@ ZHCC-ZZW|Zhengzhou ACC West Sector - Wuhan FIR - Zhengzhou|ZHCC_W|ZHCC-ZZW
 ZHHH|Wuhan ACC - Wuhan FIR - Wuhan||ZHHH
 ZHHH-WHW|Wuhan ACC West Sector - Wuhan FIR - Wuhan|ZHHH_W|ZHHH-WHW
 ZJSY|Sanya ACC - Sanya FIR - Sanya||ZJSY
-ZJSY-SAL|Sanya ACC Land Sector - Sanya FIR - Sanya|ZJSY_L|ZJSY-SAL
 ZJSY-SAN|Sanya ACC North Sector - Sanya FIR - Sanya|ZJSY_N|ZJSY-SAN
-ZJSY-SAO|Sanya ACC Oceanic Sector - Sanya FIR - Sanya|ZJSY_O|ZJSY-SAO
+ZJSY-SAN|Sanya ACC North 1 Sector - Sanya FIR - Sanya|ZJSY_N1|ZJSY-SAN1
+ZJSY-SAS|Sanya ACC South Sector - Sanya FIR - Sanya|ZJSY_S|ZJSY-SAS
 ZKKP|Pyongyang||ZKKP
 ZLLL|Lanzhou ACC - Lanzhou FIR - Lanzhou||ZLLL
 ZLLL-LZC|Lanzhou ACC Central Sector - Lanzhou FIR - Lanzhou|ZLLL_C|ZLLL-LZC
@@ -19795,10 +19795,10 @@ ZUGY-GYE|Guiyang ACC East Sector - Kunming FIR - Guiyang|ZUGY_E|ZUGY-GYE
 ZULS|Lhasa ACC - Kunming FIR - Lhasa||ZULS
 ZULS-LSE|Lhasa ACC East Sector - Kunming FIR - Lhasa|ZULS_E|ZULS-LSE
 ZUUU|Chengdu ACC - Kunming FIR - Chengdu||ZUUU
+ZUUU-CDC|Chengdu ACC Central Sector - Kunming FIR - Chengdu|ZUUU_C|ZUUU-CDC
 ZUUU-CDE|Chengdu ACC East Sector - Kunming FIR - Chengdu|ZUUU_E|ZUUU-CDE
-ZUUU-CDG|Chengdu ACC Guiyang Sector - Kunming FIR - Chengdu|ZUUU_G|ZUUU-CDG
-ZUUU-CDN|Chengdu ACC North Sector - Kunming FIR - Chengdu|ZUUU_N|ZUUU-CDN
 ZUUU-CDN1|Chengdu ACC North 1 Sector - Kunming FIR - Chengdu|ZUUU_N1|ZUUU-CDN1
+ZUUU-CDN|Chengdu ACC North Sector - Kunming FIR - Chengdu|ZUUU_N|ZUUU-CDN
 ZUUU-CDS|Chengdu ACC South Sector - Kunming FIR - Chengdu|ZUUU_S|ZUUU-CDS
 ZUUU-CDW|Chengdu ACC West Sector - Kunming FIR - Chengdu|ZUUU_W|ZUUU-CDW
 ZWWW|Urumqi ACC - Urumqi FIR - Urumqi||ZWWW

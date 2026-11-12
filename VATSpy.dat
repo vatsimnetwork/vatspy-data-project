@@ -19231,15 +19231,11 @@ RPHI-W|Manila West|MNL_W|RPHI-W
 SACF|Cordoba||SACF
 SACF-N|Cordoba (North)|SACF_N|SACF-N
 SACF-S|Cordoba (South)|SACF_S|SACF-S
-SACO|Cordoba TMA - Cordoba||SACO
 SAEF|Ezeiza||SAEF
 SAEF-N|Ezeiza ACC (North) - Ezeiza|SAEF_N|SAEF-N
 SAEF-S|Ezeiza ACC (South) - Ezeiza|SAEF_S|SAEF-S
-SAME|Mendoza TMA - Mendoza||SAME
 SAMF|Mendoza||SAMF
-SARE|Resistencia TMA - Resistencia||SARE
 SARR|Resistencia||SARR
-SAVC|Comodoro Rivadavia TMA - Comodoro Rivadavia||SAVC
 SAVF|Comodoro Rivadavia||SAVF
 SAVF-N|Comodoro Rivadavia (North)|SAVF_N|SAVF-N
 SAVF-S|Comodoro Rivadavia (South)|SAVF_S|SAVF-S
@@ -19869,9 +19865,10 @@ RU-SC|Caucasus-Radar|URRV,UGGG,UDDD,UBBA
 RU-WRC|Western Russia Control|UMMV,UUWV,UWWW
 RU-WSC|Western Siberia Control|USTV,USSV
 SAM-E|South America Control - East|SBCW,SBAZ,SBRE,SBBS
-SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
-SAM-S|South America Control South|SUEO,SGFA,SAEF,SARR,SACF,SAMF,SAVF
-SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
+SAM_N|South America Control North|SEFG,SKED,SKEC,SVZM,SYGC,SMPM,SOOO
+SAM_C|South America Control Central|SGFA,SLLF,SPIM
+SAM_S|South America Control South|SUEO,SAEF,SARR,SACF,SAMF,SAVF,SCEZ,SCTZ,SCCZ,SCFZ
+
 
 [IDL]
 90.0|-180.0
